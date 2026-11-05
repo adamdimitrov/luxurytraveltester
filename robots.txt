@@ -1,0 +1,6 @@
+# robots.txt for luxurytraveltester.com
+User-agent: *
+Allow: /
+
+# Canonical Sitemaps
+Sitemap: https://luxurytraveltester.com/sitemap.xml
