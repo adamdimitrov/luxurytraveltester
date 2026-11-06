@@ -519,21 +519,6 @@ h2[id], h3[id] {
   padding-left: 12px !important;
 }
 
-/* Pros & Cons 50/50 balance */
-.pro-con-box-wrapper .grid-15,
-.pro-con-box-wrapper .grid-28 {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  gap: 20px !important;
-  box-sizing: border-box !important;
-}
-@media (max-width: 767px) {
-  .pro-con-box-wrapper .grid-15,
-  .pro-con-box-wrapper .grid-28 {
-    grid-template-columns: 1fr !important;
-  }
-}
-
 /* ==========================================================================
    REVIEW HERO CARD & RATINGS BADGES
    ========================================================================== */
@@ -622,70 +607,309 @@ h2[id], h3[id] {
 }
 
 /* ==========================================================================
-   PROS & CONS 50/50 CLEAN ARCHITECTURE
+   LUXURY TRAVEL TESTER — BPA 50/50 LUXURY EDITORIAL PROS & CONS ARCHITECTURE
    ========================================================================== */
-.pro-con-box-wrapper {
-  margin: 24px 0 !important;
-  border-radius: 16px !important;
+.pro-con-box-wrapper,
+.pro-con-box-wrapper-2,
+.pro-con-box-wrapper-3,
+.pro-con-box-wrapper-4 {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 20px 0 24px 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 14px !important;
+  box-shadow: none !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.05) !important;
-  border: 1px solid #e2e8f0 !important;
-  background: #ffffff !important;
+  display: block !important;
+  box-sizing: border-box !important;
 }
+
+.pro-con-box-wrapper .w-layout-grid,
 .pro-con-box-wrapper .grid-15,
-.pro-con-box-wrapper .grid-28 {
+.pro-con-box-wrapper .grid-28,
+.pro-con-box-wrapper-2 .w-layout-grid,
+.pro-con-box-wrapper-2 .grid-28,
+.pro-con-box-wrapper-3 .w-layout-grid,
+.pro-con-box-wrapper-3 .grid-28,
+.pro-con-box-wrapper-4 .w-layout-grid,
+.pro-con-box-wrapper-4 .grid-28 {
   display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  gap: 0 !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+  grid-template-areas: none !important;
+  gap: 16px !important;
+  align-items: stretch !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  outline: none !important;
+  box-sizing: border-box !important;
 }
-@media (max-width: 767px) {
+
+@media (max-width: 640px) {
+  .pro-con-box-wrapper .w-layout-grid,
   .pro-con-box-wrapper .grid-15,
-  .pro-con-box-wrapper .grid-28 {
+  .pro-con-box-wrapper .grid-28,
+  .pro-con-box-wrapper-2 .w-layout-grid,
+  .pro-con-box-wrapper-2 .grid-28,
+  .pro-con-box-wrapper-3 .w-layout-grid,
+  .pro-con-box-wrapper-3 .grid-28,
+  .pro-con-box-wrapper-4 .w-layout-grid,
+  .pro-con-box-wrapper-4 .grid-28 {
     grid-template-columns: 1fr !important;
+    gap: 16px !important;
   }
 }
-.pro-con-box-pro-cell {
-  background-color: #f0fdf4 !important;
-  border-top: 4px solid #16a34a !important;
-  border-right: 1px solid #e2e8f0 !important;
-  border-bottom: none !important;
-  border-left: none !important;
-  padding: 22px 24px !important;
-  box-sizing: border-box !important;
-}
-.pro-con-box-con-cell {
-  background-color: #fef2f2 !important;
-  border-top: 4px solid #dc2626 !important;
-  border-right: none !important;
-  border-bottom: none !important;
-  border-left: none !important;
-  padding: 22px 24px !important;
-  box-sizing: border-box !important;
-}
-.pro-con-box-pro-cell h3,
-.pro-con-box-con-cell h3 {
-  font-size: 18px !important;
-  font-weight: 800 !important;
-  margin: 0 0 14px 0 !important;
-}
-.pro-con-box-pro-cell h3 {
-  color: #15803d !important;
-}
-.pro-con-box-con-cell h3 {
-  color: #b91c1c !important;
-}
-.pro-con-box-pro-cell ul,
-.pro-con-box-con-cell ul {
-  padding-left: 20px !important;
+
+.pro-con-box-pro-cell,
+.pro-con-box-pro-cell-2,
+.pro-con-box-pro-cell-3,
+.pro-con-box-pro-cell-4,
+.pro-con-box-con-cell,
+.pro-con-box-con-cell-2,
+.pro-con-box-con-cell-3,
+.pro-con-box-con-cell-4 {
+  border-radius: 12px !important;
+  padding: 18px 20px !important;
+  box-shadow: 0 10px 28px -10px rgba(15, 23, 42, 0.06), 0 2px 6px rgba(15, 23, 42, 0.02) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  align-items: stretch !important;
+  position: relative !important;
+  overflow: hidden !important;
+  height: 100% !important;
+  width: 100% !important;
   margin: 0 !important;
+  outline: none !important;
+  box-sizing: border-box !important;
 }
+
+.pro-con-box-pro-cell,
+.pro-con-box-pro-cell-2,
+.pro-con-box-pro-cell-3,
+.pro-con-box-pro-cell-4 {
+  background: #f0fdf4 !important;
+  border: 1px solid #bbf7d0 !important;
+  border-top: 4px solid #16a34a !important;
+}
+
+.pro-con-box-con-cell,
+.pro-con-box-con-cell-2,
+.pro-con-box-con-cell-3,
+.pro-con-box-con-cell-4 {
+  background: #fff1f2 !important;
+  border: 1px solid #fecdd3 !important;
+  border-top: 4px solid #e11d48 !important;
+}
+
+.pro-con-box-pro-cell-rich-text-block,
+.pro-con-box-con-cell-rich-text-block,
+.pro-con-box-pro-cell .w-richtext,
+.pro-con-box-pro-cell-2 .w-richtext,
+.pro-con-box-pro-cell-3 .w-richtext,
+.pro-con-box-pro-cell-4 .w-richtext,
+.pro-con-box-con-cell .w-richtext,
+.pro-con-box-con-cell-2 .w-richtext,
+.pro-con-box-con-cell-3 .w-richtext,
+.pro-con-box-con-cell-4 .w-richtext {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.pro-con-box-pro-cell .w-richtext::before,
+.pro-con-box-pro-cell .w-richtext::after,
+.pro-con-box-pro-cell-3 .w-richtext::before,
+.pro-con-box-pro-cell-3 .w-richtext::after,
+.pro-con-box-con-cell .w-richtext::before,
+.pro-con-box-con-cell .w-richtext::after,
+.pro-con-box-con-cell-3 .w-richtext::before,
+.pro-con-box-con-cell-3 .w-richtext::after {
+  display: none !important;
+}
+
+/* Header Styling inside Pros & Cons */
+.pro-con-box-pro-cell h3,
+.pro-con-box-pro-cell-2 h3,
+.pro-con-box-pro-cell-3 h3,
+.pro-con-box-pro-cell-4 h3,
+.pro-con-box-con-cell h3,
+.pro-con-box-con-cell-2 h3,
+.pro-con-box-con-cell-3 h3,
+.pro-con-box-con-cell-4 h3 {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-size: 15px !important;
+  font-weight: 800 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.1em !important;
+  margin: 0 0 10px 0 !important;
+  padding: 0 0 14px 0 !important;
+  border-bottom: 1px solid #f1f5f9 !important;
+  line-height: 1.2 !important;
+}
+
+.pro-con-box-pro-cell h3,
+.pro-con-box-pro-cell-2 h3,
+.pro-con-box-pro-cell-3 h3,
+.pro-con-box-pro-cell-4 h3,
+.pro-con-box-pro-cell h3 strong,
+.pro-con-box-pro-cell-2 h3 strong,
+.pro-con-box-pro-cell-3 h3 strong,
+.pro-con-box-pro-cell-4 h3 strong {
+  color: #14532d !important;
+  font-weight: 800 !important;
+}
+
+.pro-con-box-con-cell h3,
+.pro-con-box-con-cell-2 h3,
+.pro-con-box-con-cell-3 h3,
+.pro-con-box-con-cell-4 h3,
+.pro-con-box-con-cell h3 strong,
+.pro-con-box-con-cell-2 h3 strong,
+.pro-con-box-con-cell-3 h3 strong,
+.pro-con-box-con-cell-4 h3 strong {
+  color: #881337 !important;
+  font-weight: 800 !important;
+}
+
+.pro-con-box-pro-cell h3::before,
+.pro-con-box-pro-cell-2 h3::before,
+.pro-con-box-pro-cell-3 h3::before,
+.pro-con-box-pro-cell-4 h3::before {
+  content: "✓" !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50% !important;
+  background: #22c55e !important;
+  color: #ffffff !important;
+  font-size: 12px !important;
+  font-weight: 900 !important;
+  flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(34, 197, 94, 0.3) !important;
+}
+
+.pro-con-box-con-cell h3::before,
+.pro-con-box-con-cell-2 h3::before,
+.pro-con-box-con-cell-3 h3::before,
+.pro-con-box-con-cell-4 h3::before {
+  content: "✕" !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50% !important;
+  background: #f43f5e !important;
+  color: #ffffff !important;
+  font-size: 11px !important;
+  font-weight: 900 !important;
+  flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(244, 63, 94, 0.3) !important;
+}
+
+/* List Reset & Item Styling */
+.pro-con-box-pro-cell ul,
+.pro-con-box-pro-cell-2 ul,
+.pro-con-box-pro-cell-3 ul,
+.pro-con-box-pro-cell-4 ul,
+.pro-con-box-con-cell ul,
+.pro-con-box-con-cell-2 ul,
+.pro-con-box-con-cell-3 ul,
+.pro-con-box-con-cell-4 ul {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 12px !important;
+}
+
 .pro-con-box-pro-cell li,
-.pro-con-box-con-cell li {
-  font-size: 14px !important;
-  line-height: 1.6em !important;
+.pro-con-box-pro-cell-2 li,
+.pro-con-box-pro-cell-3 li,
+.pro-con-box-pro-cell-4 li,
+.pro-con-box-con-cell li,
+.pro-con-box-con-cell-2 li,
+.pro-con-box-con-cell-3 li,
+.pro-con-box-con-cell-4 li {
+  position: relative !important;
+  padding-left: 28px !important;
+  margin: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-size: 14.5px !important;
+  line-height: 1.55 !important;
   color: #334155 !important;
-  margin-bottom: 8px !important;
+  list-style-type: none !important;
 }
+
+.pro-con-box-pro-cell li strong,
+.pro-con-box-pro-cell-2 li strong,
+.pro-con-box-pro-cell-3 li strong,
+.pro-con-box-pro-cell-4 li strong,
+.pro-con-box-con-cell li strong,
+.pro-con-box-con-cell-2 li strong,
+.pro-con-box-con-cell-3 li strong,
+.pro-con-box-con-cell-4 li strong {
+  color: #0f172a !important;
+  font-weight: 700 !important;
+}
+
+.pro-con-box-pro-cell li::before,
+.pro-con-box-pro-cell-2 li::before,
+.pro-con-box-pro-cell-3 li::before,
+.pro-con-box-pro-cell-4 li::before {
+  content: "✓" !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #dcfce7 !important;
+  color: #15803d !important;
+  font-size: 11px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+}
+
+.pro-con-box-con-cell li::before,
+.pro-con-box-con-cell-2 li::before,
+.pro-con-box-con-cell-3 li::before,
+.pro-con-box-con-cell-4 li::before {
+  content: "✕" !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #ffe4e6 !important;
+  color: #be123c !important;
+  font-size: 10px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+}
+
 
 /* ==========================================================================
    HOTEL CTA WIDGET BOX (grid-26)
@@ -1355,7 +1579,7 @@ h2[id], h3[id] {
 </div><div class="icon-8 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
 <path d="M11.9999 15.968L16.2469 18.345L15.2979 13.572L18.8709 10.267L14.0379 9.694L11.9999 5.275V15.968ZM11.9999 18.26L4.94691 22.208L6.52191 14.28L0.586914 8.792L8.61391 7.84L11.9999 0.5L15.3859 7.84L23.4129 8.792L17.4779 14.28L19.0529 22.208L11.9999 18.26V18.26Z" fill="currentColor"></path>
 </svg>
-</div></div><div class="price-2"><a class="reviews-count-link" href="https://tp.media/r?marker=404154.article-palm-hotels-reviews-atlantis-the-palm&amp;trs=404826&amp;p=8626&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-984964%2Fatlantis-the-palm-dubai%2F&amp;campaign_id=121" rel="nofollow" target="_blank">+600 reviews</a></div><a class="reviews-logo-link" href="https://tp.media/r?marker=404154.article-palm-hotels-reviews-atlantis-the-palm&amp;trs=404826&amp;p=8626&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-984964%2Fatlantis-the-palm-dubai%2F&amp;campaign_id=121" rel="nofollow" style="order: -1; display: inline-flex; align-items: center;" target="_blank"><img alt="" class="reviews-icon" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4aae4d338c789e8b1_tripdotcom-logo.avif"/></a><div class="price-2-copy"><span class="text-span-5">4.6</span></div></div></div></div><div class="pro-con-box-wrapper"><div class="w-layout-grid grid-15"><div class="pro-con-box-pro-cell" data-wf-pbl="layout-grid-1x2-vertical" id="w-node-ff8826cc-ff95-d588-20fd-07d8263912a3-f62d7cbd"><div class="pro-con-box-pro-cell-rich-text-block w-richtext"><h3><strong>Pros:</strong></h3><p><strong>✔️ Best All-Around </strong>— This 5-star hotel has everything for a complete Palm hotel experience.</p><p><strong>✔️ Best Value for Families </strong>— This hotel outperforms all other hotels in terms of what you pay vs. what you get if you have kiddos.</p><p><strong>✔️ Excellent Rooms </strong>— The standard Palm facing rooms are spacious, extravagant, well-equipped, and luxurious. Let alone the higher-tier rooms.</p><p><strong>✔️ Waterpark Entry Included </strong>— Enjoy free access to Aquaventure World, featuring exciting water slides, tunnels, and falls, along with a private beach.</p><p><strong>✔️ Royal Treatment</strong> — From the moment you set foot in the Palm Atlantis, every hotel staff member strives to make your stay as pleasant as possible. You'll truly feel like a cherished guest. They go above and beyond.</p><p><strong>✔️ Free Buffet</strong> — Enjoy a diverse selection of expertly prepared cuisines for breakfast, lunch, or dinner, including Indian, Arabic, Mexican, British, Japanese, Lebanese, seafood, and steaks.</p><p><strong>✔️ Michelin Star Restaurants</strong> — You can access Michelin-star restaurants on-site, such as Nobu, Hakkasan, FZN, or Studio Frantzén (for an additional charge).</p><p><strong>✔️ Family Friendly </strong>— An insane variety of entertainment options are available for kids and teenagers, including the Lost Chambers Aquarium, Aquaventure World, the Dubai Balloon, arcade rooms, bowling, game rooms, and the Explorer's Club, science-focused youth programs, and more.</p><p><strong>✔️ Parent Friendly</strong> —  Parents can enjoy some well-earned child-free relaxation, knowing their children are safe with first-aid and CPR-trained guardians and having the time of their lives in Atlantis' babysitting, childcare facilities, and youth programs.</p><p><strong>✔️ Instagram Worthy </strong>— If you want to show off on Instagram, this place has plenty of great high-status shots.<strong>‍</strong><br/></p></div></div><div class="pro-con-box-con-cell" data-wf-pbl="layout-grid-1x2-vertical" id="w-node-ff8826cc-ff95-d588-20fd-07d8263912c3-f62d7cbd"><div class="pro-con-box-con-cell-rich-text-block w-richtext"><h3><strong>Cons:</strong><strong>‍</strong></h3><p><strong>❌ Doors Aren't Soundproof </strong>— Noise from the hallway, including slamming doors, conversations, and children's cries, can be heard inside the room.</p><p><strong>❌ Unstable Wi-Fi </strong>—<strong>  </strong>My calls on instant messaging apps were frequently cut short due to connection issues. Laptop work was also frustrating, as pages loaded slowly or not at all.</p></div></div></div></div><div class="w-layout-grid grid-26"><img alt="" class="image-50" id="w-node-b97b3876-f1a2-ae36-2b34-d82911f8e560-11f8e55f" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6814c7f67a4051f5954a8fc4_5-star-dubai-palm-hotel-widget-logo-atlantis-palm.webp"/><div class="div-block-41"><div class="div-block-42 _5-gap"><div class="div-block-44"><div class="text-block-39"><strong>🏆 Best Overall 5-Star Palm Hotel (Atlantis The Palm)</strong></div></div><div class="reviews no-bg"><div class="price-2-copy-3">4.7</div><div class="star-ratings-3"><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
+</div></div><div class="price-2"><a class="reviews-count-link" href="https://tp.media/r?marker=404154.article-palm-hotels-reviews-atlantis-the-palm&amp;trs=404826&amp;p=8626&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-984964%2Fatlantis-the-palm-dubai%2F&amp;campaign_id=121" rel="nofollow" target="_blank">+600 reviews</a></div><a class="reviews-logo-link" href="https://tp.media/r?marker=404154.article-palm-hotels-reviews-atlantis-the-palm&amp;trs=404826&amp;p=8626&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-984964%2Fatlantis-the-palm-dubai%2F&amp;campaign_id=121" rel="nofollow" style="order: -1; display: inline-flex; align-items: center;" target="_blank"><img alt="" class="reviews-icon" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4aae4d338c789e8b1_tripdotcom-logo.avif"/></a><div class="price-2-copy"><span class="text-span-5">4.6</span></div></div></div></div><div class="pro-con-box-wrapper"><div class="w-layout-grid grid-15"><div class="pro-con-box-pro-cell" data-wf-pbl="layout-grid-1x2-vertical"><div class="pro-con-box-pro-cell-rich-text-block w-richtext"><h3><strong>Pros:</strong></h3><ul role="list"><li><strong>Best All-Around</strong> — This 5-star hotel has everything for a complete Palm hotel experience.</li><li><strong>Best Value for Families</strong> — This hotel outperforms all other hotels in terms of what you pay vs. what you get if you have kiddos.</li><li><strong>Excellent Rooms</strong> — The standard Palm facing rooms are spacious, extravagant, well-equipped, and luxurious. Let alone the higher-tier rooms.</li><li><strong>Waterpark Entry Included</strong> — Enjoy free access to Aquaventure World, featuring exciting water slides, tunnels, and falls, along with a private beach.</li><li><strong>Royal Treatment</strong> — From the moment you set foot in the Palm Atlantis, every hotel staff member strives to make your stay as pleasant as possible. You'll truly feel like a cherished guest. They go above and beyond.</li><li><strong>Free Buffet</strong> — Enjoy a diverse selection of expertly prepared cuisines for breakfast, lunch, or dinner, including Indian, Arabic, Mexican, British, Japanese, Lebanese, seafood, and steaks.</li><li><strong>Michelin Star Restaurants</strong> — You can access Michelin-star restaurants on-site, such as Nobu, Hakkasan, FZN, or Studio Frantzén (for an additional charge).</li><li><strong>Family Friendly</strong> — An insane variety of entertainment options are available for kids and teenagers, including the Lost Chambers Aquarium, Aquaventure World, the Dubai Balloon, arcade rooms, bowling, game rooms, and the Explorer's Club, science-focused youth programs, and more.</li><li><strong>Parent Friendly</strong> — Parents can enjoy some well-earned child-free relaxation, knowing their children are safe with first-aid and CPR-trained guardians and having the time of their lives in Atlantis' babysitting, childcare facilities, and youth programs.</li><li><strong>Instagram Worthy</strong> — If you want to show off on Instagram, this place has plenty of great high-status shots.</li></ul></div></div><div class="pro-con-box-con-cell" data-wf-pbl="layout-grid-1x2-vertical"><div class="pro-con-box-con-cell-rich-text-block w-richtext"><h3><strong>Cons:</strong></h3><ul role="list"><li><strong>Doors Aren't Soundproof</strong> — Noise from the hallway, including slamming doors, conversations, and children's cries, can be heard inside the room.</li><li><strong>Unstable Wi-Fi</strong> — My calls on instant messaging apps were frequently cut short due to connection issues. Laptop work was also frustrating, as pages loaded slowly or not at all.</li></ul></div></div></div></div><div class="w-layout-grid grid-26"><img alt="" class="image-50" id="w-node-b97b3876-f1a2-ae36-2b34-d82911f8e560-11f8e55f" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6814c7f67a4051f5954a8fc4_5-star-dubai-palm-hotel-widget-logo-atlantis-palm.webp"/><div class="div-block-41"><div class="div-block-42 _5-gap"><div class="div-block-44"><div class="text-block-39"><strong>🏆 Best Overall 5-Star Palm Hotel (Atlantis The Palm)</strong></div></div><div class="reviews no-bg"><div class="price-2-copy-3">4.7</div><div class="star-ratings-3"><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
 <path d="M11.9999 18.26L4.94691 22.208L6.52191 14.28L0.586914 8.792L8.61391 7.84L11.9999 0.5L15.3859 7.84L23.4129 8.792L17.4779 14.28L19.0529 22.208L11.9999 18.26Z" fill="currentColor"></path>
 </svg>
 </div><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">

@@ -258,54 +258,235 @@ extra_fixes_css = '''
   padding-left: 12px !important;
 }
 
-/* Fix 3: Balanced 50/50 Pros & Cons Columns */
-.pro-con-box-wrapper-3 {
-  margin: 18px 0 22px 0 !important;
-  border-radius: 12px !important;
+/* Fix 3: Balanced 50/50 Pros & Cons Columns (BPA Architecture) */
+.pro-con-box-wrapper,
+.pro-con-box-wrapper-2,
+.pro-con-box-wrapper-3,
+.pro-con-box-wrapper-4 {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 20px 0 24px 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 14px !important;
+  box-shadow: none !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03) !important;
-  border: 1px solid #e2e8f0 !important;
+  display: block !important;
+  box-sizing: border-box !important;
 }
-.pro-con-box-wrapper-3 .grid-28 {
+.pro-con-box-wrapper .w-layout-grid,
+.pro-con-box-wrapper .grid-15,
+.pro-con-box-wrapper .grid-28,
+.pro-con-box-wrapper-2 .w-layout-grid,
+.pro-con-box-wrapper-2 .grid-28,
+.pro-con-box-wrapper-3 .w-layout-grid,
+.pro-con-box-wrapper-3 .grid-28,
+.pro-con-box-wrapper-4 .w-layout-grid,
+.pro-con-box-wrapper-4 .grid-28 {
   display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  gap: 0 !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+  grid-template-areas: none !important;
+  gap: 16px !important;
+  align-items: stretch !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  outline: none !important;
+  box-sizing: border-box !important;
 }
-@media (max-width: 767px) {
-  .pro-con-box-wrapper-3 .grid-28 {
+@media (max-width: 640px) {
+  .pro-con-box-wrapper .w-layout-grid,
+  .pro-con-box-wrapper .grid-15,
+  .pro-con-box-wrapper .grid-28,
+  .pro-con-box-wrapper-2 .w-layout-grid,
+  .pro-con-box-wrapper-2 .grid-28,
+  .pro-con-box-wrapper-3 .w-layout-grid,
+  .pro-con-box-wrapper-3 .grid-28,
+  .pro-con-box-wrapper-4 .w-layout-grid,
+  .pro-con-box-wrapper-4 .grid-28 {
     grid-template-columns: 1fr !important;
+    gap: 16px !important;
   }
 }
-.pro-con-box-pro-cell-3 {
-  background-color: #f0fdf4 !important;
-  border-top: 4px solid #22c55e !important;
-  border-right: 1px solid #e2e8f0 !important;
-  padding: 16px 18px !important;
+.pro-con-box-pro-cell,
+.pro-con-box-pro-cell-2,
+.pro-con-box-pro-cell-3,
+.pro-con-box-pro-cell-4,
+.pro-con-box-con-cell,
+.pro-con-box-con-cell-2,
+.pro-con-box-con-cell-3,
+.pro-con-box-con-cell-4 {
+  border-radius: 12px !important;
+  padding: 18px 20px !important;
+  box-shadow: 0 10px 28px -10px rgba(15, 23, 42, 0.06), 0 2px 6px rgba(15, 23, 42, 0.02) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  align-items: stretch !important;
+  position: relative !important;
+  overflow: hidden !important;
+  height: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  outline: none !important;
   box-sizing: border-box !important;
-  flex: 1 1 50% !important;
-  width: auto !important;
 }
-.pro-con-box-con-cell-3 {
-  background-color: #fef2f2 !important;
-  border-top: 4px solid #ef4444 !important;
-  padding: 16px 18px !important;
-  box-sizing: border-box !important;
-  flex: 1 1 50% !important;
-  width: auto !important;
+.pro-con-box-pro-cell,
+.pro-con-box-pro-cell-2,
+.pro-con-box-pro-cell-3,
+.pro-con-box-pro-cell-4 {
+  background: #f0fdf4 !important;
+  border: 1px solid #bbf7d0 !important;
+  border-top: 4px solid #16a34a !important;
 }
+.pro-con-box-con-cell,
+.pro-con-box-con-cell-2,
+.pro-con-box-con-cell-3,
+.pro-con-box-con-cell-4 {
+  background: #fff1f2 !important;
+  border: 1px solid #fecdd3 !important;
+  border-top: 4px solid #e11d48 !important;
+}
+.pro-con-box-pro-cell-rich-text-block,
+.pro-con-box-con-cell-rich-text-block,
+.pro-con-box-pro-cell .w-richtext,
+.pro-con-box-pro-cell-3 .w-richtext,
+.pro-con-box-con-cell .w-richtext,
+.pro-con-box-con-cell-3 .w-richtext {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+.pro-con-box-pro-cell h3,
 .pro-con-box-pro-cell-3 h3,
+.pro-con-box-con-cell h3,
 .pro-con-box-con-cell-3 h3 {
-  margin-top: 0 !important;
-  margin-bottom: 10px !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
   font-size: 15px !important;
   font-weight: 800 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.1em !important;
+  margin: 0 0 10px 0 !important;
+  padding: 0 0 14px 0 !important;
+  border-bottom: 1px solid #f1f5f9 !important;
+  line-height: 1.2 !important;
 }
-.pro-con-box-pro-cell-3 p,
-.pro-con-box-con-cell-3 p {
-  font-size: 13px !important;
-  line-height: 1.6 !important;
+.pro-con-box-pro-cell h3,
+.pro-con-box-pro-cell-3 h3,
+.pro-con-box-pro-cell h3 strong,
+.pro-con-box-pro-cell-3 h3 strong {
+  color: #14532d !important;
+}
+.pro-con-box-con-cell h3,
+.pro-con-box-con-cell-3 h3,
+.pro-con-box-con-cell h3 strong,
+.pro-con-box-con-cell-3 h3 strong {
+  color: #881337 !important;
+}
+.pro-con-box-pro-cell h3::before,
+.pro-con-box-pro-cell-3 h3::before {
+  content: "✓" !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50% !important;
+  background: #22c55e !important;
+  color: #ffffff !important;
+  font-size: 12px !important;
+  font-weight: 900 !important;
+  flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(34, 197, 94, 0.3) !important;
+}
+.pro-con-box-con-cell h3::before,
+.pro-con-box-con-cell-3 h3::before {
+  content: "✕" !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50% !important;
+  background: #f43f5e !important;
+  color: #ffffff !important;
+  font-size: 11px !important;
+  font-weight: 900 !important;
+  flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(244, 63, 94, 0.3) !important;
+}
+.pro-con-box-pro-cell ul,
+.pro-con-box-pro-cell-3 ul,
+.pro-con-box-con-cell ul,
+.pro-con-box-con-cell-3 ul {
+  list-style: none !important;
   margin: 0 !important;
-  color: #1e293b !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 12px !important;
+}
+.pro-con-box-pro-cell li,
+.pro-con-box-pro-cell-3 li,
+.pro-con-box-con-cell li,
+.pro-con-box-con-cell-3 li {
+  position: relative !important;
+  padding-left: 28px !important;
+  margin: 0 !important;
+  font-size: 14.5px !important;
+  line-height: 1.55 !important;
+  color: #334155 !important;
+  list-style-type: none !important;
+}
+.pro-con-box-pro-cell li strong,
+.pro-con-box-pro-cell-3 li strong,
+.pro-con-box-con-cell li strong,
+.pro-con-box-con-cell-3 li strong {
+  color: #0f172a !important;
+  font-weight: 700 !important;
+}
+.pro-con-box-pro-cell li::before,
+.pro-con-box-pro-cell-3 li::before {
+  content: "✓" !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #dcfce7 !important;
+  color: #15803d !important;
+  font-size: 11px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+}
+.pro-con-box-con-cell li::before,
+.pro-con-box-con-cell-3 li::before {
+  content: "✕" !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #ffe4e6 !important;
+  color: #be123c !important;
+  font-size: 10px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
 }
 
 /* Fix 4: Quick Facts & Logistics Box */
@@ -505,29 +686,29 @@ details_cards_html.append('''<details class="bpa-details-card" id="1-flynyon" op
 </div>
 </div>
 
-<div class="pro-con-box-wrapper-3">
-<div class="w-layout-grid grid-28">
-<div class="pro-con-box-pro-cell-3">
+<div class="pro-con-box-wrapper">
+<div class="w-layout-grid grid-15">
+<div class="pro-con-box-pro-cell" data-wf-pbl="layout-grid-1x2-vertical">
 <div class="pro-con-box-pro-cell-rich-text-block w-richtext">
 <h3><strong>Pros:</strong></h3>
+<ul role="list">
+<li><strong>The Ultimate "Shoe Selfie"</strong> — The only open-door experience where you can safely dangle your legs hundreds of meters above the city for iconic social media shots.</li>
+<li><strong>Unmatched Night Views</strong> — Delivers a vastly richer and more spectacular experience seeing New York City completely lit up at night compared to daytime flights.</li>
+<li><strong>Elite Safety Measures</strong> — Professional safety harnesses with quick-release buttons and tethers for all phones and cameras so nothing can fall.</li>
+<li><strong>Full Manhattan Coverage (with Upgrade)</strong> — Extended flight crosses Statue of Liberty, Financial District, Central Park, Midtown, East River, and Brooklyn Bridge.</li>
+<li><strong>Outstanding Customer Care</strong> — Highly attentive, warm, and professional ground crew with rapid dispatch communication.</li>
+</ul>
 </div>
-<p>
-✔️ <strong>The Ultimate "Shoe Selfie"</strong> — The only open-door experience where you can safely dangle your legs hundreds of meters above the city for iconic social media shots.<br/>
-✔️ <strong>Unmatched Night Views</strong> — Delivers a vastly richer and more spectacular experience seeing New York City completely lit up at night compared to daytime flights.<br/>
-✔️ <strong>Elite Safety Measures</strong> — Professional safety harnesses with quick-release buttons and tethers for all phones and cameras so nothing can fall.<br/>
-✔️ <strong>Full Manhattan Coverage (with Upgrade)</strong> — Extended flight crosses Statue of Liberty, Financial District, Central Park, Midtown, East River, and Brooklyn Bridge.<br/>
-✔️ <strong>Outstanding Customer Care</strong> — Highly attentive, warm, and professional ground crew with rapid dispatch communication.
-</p>
 </div>
-<div class="pro-con-box-con-cell-3">
+<div class="pro-con-box-con-cell" data-wf-pbl="layout-grid-1x2-vertical">
 <div class="pro-con-box-con-cell-rich-text-block w-richtext">
 <h3><strong>Cons:</strong></h3>
+<ul role="list">
+<li><strong>Weird Online Overcharging</strong> — Save hundreds of dollars by booking the basic 16-minute flight online, then upgrading to 30 minutes in person at the desk for ~$105 to bypass steep $600–$700 online pricing.</li>
+<li><strong>Located in New Jersey</strong> — Terminal requires an Uber ride or a train-to-Uber transfer from Manhattan.</li>
+<li><strong>The Freight Train Trap</strong> — One approach route is frequently blocked by a slow-moving freight train; allow extra travel buffer time.</li>
+</ul>
 </div>
-<p>
-❌ <strong>Weird Online Overcharging</strong> — Save hundreds of dollars by booking the basic 16-minute flight online, then upgrading to 30 minutes in person at the desk for ~$105 to bypass steep $600–$700 online pricing.<br/>
-❌ <strong>Located in New Jersey</strong> — Terminal requires an Uber ride or a train-to-Uber transfer from Manhattan.<br/>
-❌ <strong>The Freight Train Trap</strong> — One approach route is frequently blocked by a slow-moving freight train; allow extra travel buffer time.
-</p>
 </div>
 </div>
 </div>

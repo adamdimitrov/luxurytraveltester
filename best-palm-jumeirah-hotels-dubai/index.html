@@ -1710,196 +1710,205 @@
   vertical-align: middle !important;
 }
 /* ==========================================================================
-   LUXURY TRAVEL TESTER — EDITORIAL PROS & CONS ARCHITECTURE (50/50 LUXURY GRID)
+   LUXURY TRAVEL TESTER — BPA 50/50 LUXURY EDITORIAL PROS & CONS ARCHITECTURE
    ========================================================================== */
 .pro-con-box-wrapper,
 .pro-con-box-wrapper-2,
 .pro-con-box-wrapper-3,
-.pro-con-box-wrapper-4,
-[class*="pro-con-box-wrapper"] {
-  margin: 22px 0 26px 0 !important;
-  border-radius: 14px !important;
-  overflow: hidden !important;
-  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.05) !important;
-  border: 1px solid #e2e8f0 !important;
-  background: #ffffff !important;
-  padding: 0 !important;
-  max-width: 100% !important;
+.pro-con-box-wrapper-4 {
   width: 100% !important;
-  box-sizing: border-box !important;
+  max-width: 100% !important;
+  margin: 20px 0 24px 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 14px !important;
+  box-shadow: none !important;
+  overflow: hidden !important;
   display: block !important;
+  box-sizing: border-box !important;
 }
 
+.pro-con-box-wrapper .w-layout-grid,
 .pro-con-box-wrapper .grid-15,
 .pro-con-box-wrapper .grid-28,
+.pro-con-box-wrapper-2 .w-layout-grid,
 .pro-con-box-wrapper-2 .grid-28,
-.pro-con-box-wrapper-3 .grid-28,
-.pro-con-box-wrapper-4 .grid-28,
-.pro-con-box-wrapper .w-layout-grid,
 .pro-con-box-wrapper-3 .w-layout-grid,
-[class*="pro-con-box-wrapper"] .w-layout-grid {
+.pro-con-box-wrapper-3 .grid-28,
+.pro-con-box-wrapper-4 .w-layout-grid,
+.pro-con-box-wrapper-4 .grid-28 {
   display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
   grid-template-areas: none !important;
-  gap: 0 !important;
+  gap: 16px !important;
+  align-items: stretch !important;
+  width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
   border: none !important;
+  outline: none !important;
   box-sizing: border-box !important;
-  width: 100% !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 640px) {
+  .pro-con-box-wrapper .w-layout-grid,
   .pro-con-box-wrapper .grid-15,
   .pro-con-box-wrapper .grid-28,
+  .pro-con-box-wrapper-2 .w-layout-grid,
   .pro-con-box-wrapper-2 .grid-28,
-  .pro-con-box-wrapper-3 .grid-28,
-  .pro-con-box-wrapper-4 .grid-28,
-  .pro-con-box-wrapper .w-layout-grid,
   .pro-con-box-wrapper-3 .w-layout-grid,
-  [class*="pro-con-box-wrapper"] .w-layout-grid {
+  .pro-con-box-wrapper-3 .grid-28,
+  .pro-con-box-wrapper-4 .w-layout-grid,
+  .pro-con-box-wrapper-4 .grid-28 {
     grid-template-columns: 1fr !important;
-    grid-template-areas: none !important;
+    gap: 16px !important;
   }
 }
 
-/* --- Pro Column --- */
 .pro-con-box-pro-cell,
 .pro-con-box-pro-cell-2,
 .pro-con-box-pro-cell-3,
 .pro-con-box-pro-cell-4,
-[class*="pro-con-box-pro-cell"] {
-  background-color: #f0fdf4 !important;
-  border-top: 4px solid #22c55e !important;
-  border-right: 1px solid #e2e8f0 !important;
-  border-bottom: none !important;
-  border-left: none !important;
-  border-radius: 0 !important;
-  outline: none !important;
-  box-shadow: none !important;
-  padding: 22px 24px !important;
-  box-sizing: border-box !important;
-  display: flex !important;
-  flex-direction: column !important;
-  justify-content: flex-start !important;
-  align-items: stretch !important;
-  width: 100% !important;
-  margin: 0 !important;
-}
-
-/* --- Con Column --- */
 .pro-con-box-con-cell,
 .pro-con-box-con-cell-2,
 .pro-con-box-con-cell-3,
-.pro-con-box-con-cell-4,
-[class*="pro-con-box-con-cell"] {
-  background-color: #fff1f2 !important;
-  border-top: 4px solid #f43f5e !important;
-  border-right: none !important;
-  border-bottom: none !important;
-  border-left: none !important;
-  border-radius: 0 !important;
-  outline: none !important;
-  box-shadow: none !important;
-  padding: 22px 24px !important;
-  box-sizing: border-box !important;
+.pro-con-box-con-cell-4 {
+  border-radius: 12px !important;
+  padding: 18px 20px !important;
+  box-shadow: 0 10px 28px -10px rgba(15, 23, 42, 0.06), 0 2px 6px rgba(15, 23, 42, 0.02) !important;
   display: flex !important;
   flex-direction: column !important;
   justify-content: flex-start !important;
   align-items: stretch !important;
+  position: relative !important;
+  overflow: hidden !important;
+  height: 100% !important;
   width: 100% !important;
   margin: 0 !important;
+  outline: none !important;
+  box-sizing: border-box !important;
 }
 
-@media (max-width: 767px) {
-  .pro-con-box-pro-cell,
-  .pro-con-box-pro-cell-2,
-  .pro-con-box-pro-cell-3,
-  .pro-con-box-pro-cell-4,
-  [class*="pro-con-box-pro-cell"] {
-    border-right: none !important;
-    border-bottom: 1px solid #e2e8f0 !important;
-    padding: 18px 20px !important;
-  }
-  .pro-con-box-con-cell,
-  .pro-con-box-con-cell-2,
-  .pro-con-box-con-cell-3,
-  .pro-con-box-con-cell-4,
-  [class*="pro-con-box-con-cell"] {
-    border-top: none !important;
-    padding: 18px 20px !important;
-  }
+.pro-con-box-pro-cell,
+.pro-con-box-pro-cell-2,
+.pro-con-box-pro-cell-3,
+.pro-con-box-pro-cell-4 {
+  background: #f0fdf4 !important;
+  border: 1px solid #bbf7d0 !important;
+  border-top: 4px solid #16a34a !important;
 }
 
-/* Headings */
+.pro-con-box-con-cell,
+.pro-con-box-con-cell-2,
+.pro-con-box-con-cell-3,
+.pro-con-box-con-cell-4 {
+  background: #fff1f2 !important;
+  border: 1px solid #fecdd3 !important;
+  border-top: 4px solid #e11d48 !important;
+}
+
+.pro-con-box-pro-cell-rich-text-block,
+.pro-con-box-con-cell-rich-text-block,
+.pro-con-box-pro-cell .w-richtext,
+.pro-con-box-pro-cell-2 .w-richtext,
+.pro-con-box-pro-cell-3 .w-richtext,
+.pro-con-box-pro-cell-4 .w-richtext,
+.pro-con-box-con-cell .w-richtext,
+.pro-con-box-con-cell-2 .w-richtext,
+.pro-con-box-con-cell-3 .w-richtext,
+.pro-con-box-con-cell-4 .w-richtext {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.pro-con-box-pro-cell .w-richtext::before,
+.pro-con-box-pro-cell .w-richtext::after,
+.pro-con-box-pro-cell-3 .w-richtext::before,
+.pro-con-box-pro-cell-3 .w-richtext::after,
+.pro-con-box-con-cell .w-richtext::before,
+.pro-con-box-con-cell .w-richtext::after,
+.pro-con-box-con-cell-3 .w-richtext::before,
+.pro-con-box-con-cell-3 .w-richtext::after {
+  display: none !important;
+}
+
+/* Header Styling inside Pros & Cons */
 .pro-con-box-pro-cell h3,
+.pro-con-box-pro-cell-2 h3,
 .pro-con-box-pro-cell-3 h3,
-.pro-con-box-pro-cell .w-richtext h3,
-.pro-con-box-pro-cell-3 .w-richtext h3,
-[class*="pro-con-box-pro-cell"] h3,
-[class*="pro-con-box-pro-cell"] .w-richtext h3 {
-  margin-top: 0 !important;
-  margin-bottom: 14px !important;
+.pro-con-box-pro-cell-4 h3,
+.pro-con-box-con-cell h3,
+.pro-con-box-con-cell-2 h3,
+.pro-con-box-con-cell-3 h3,
+.pro-con-box-con-cell-4 h3 {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
   font-size: 15px !important;
   font-weight: 800 !important;
   text-transform: uppercase !important;
-  letter-spacing: 0.05em !important;
-  color: #15803d !important;
-  display: flex !important;
-  align-items: center !important;
-  gap: 8px !important;
-  line-height: 1.3 !important;
+  letter-spacing: 0.1em !important;
+  margin: 0 0 10px 0 !important;
+  padding: 0 0 14px 0 !important;
+  border-bottom: 1px solid #f1f5f9 !important;
+  line-height: 1.2 !important;
 }
+
+.pro-con-box-pro-cell h3,
+.pro-con-box-pro-cell-2 h3,
+.pro-con-box-pro-cell-3 h3,
+.pro-con-box-pro-cell-4 h3,
 .pro-con-box-pro-cell h3 strong,
+.pro-con-box-pro-cell-2 h3 strong,
 .pro-con-box-pro-cell-3 h3 strong,
-[class*="pro-con-box-pro-cell"] h3 strong,
-[class*="pro-con-box-pro-cell"] .w-richtext h3 strong {
-  color: #15803d !important;
-}
-.pro-con-box-pro-cell h3::before,
-.pro-con-box-pro-cell-3 h3::before,
-[class*="pro-con-box-pro-cell"] h3::before {
-  content: "✓" !important;
-  display: inline-flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  width: 22px !important;
-  height: 22px !important;
-  border-radius: 50% !important;
-  background: rgba(34, 197, 94, 0.18) !important;
-  color: #16a34a !important;
-  font-size: 13px !important;
-  font-weight: 900 !important;
-  flex-shrink: 0 !important;
+.pro-con-box-pro-cell-4 h3 strong {
+  color: #14532d !important;
+  font-weight: 800 !important;
 }
 
 .pro-con-box-con-cell h3,
+.pro-con-box-con-cell-2 h3,
 .pro-con-box-con-cell-3 h3,
-.pro-con-box-con-cell .w-richtext h3,
-.pro-con-box-con-cell-3 .w-richtext h3,
-[class*="pro-con-box-con-cell"] h3,
-[class*="pro-con-box-con-cell"] .w-richtext h3 {
-  margin-top: 0 !important;
-  margin-bottom: 14px !important;
-  font-size: 15px !important;
-  font-weight: 800 !important;
-  text-transform: uppercase !important;
-  letter-spacing: 0.05em !important;
-  color: #be123c !important;
-  display: flex !important;
-  align-items: center !important;
-  gap: 8px !important;
-  line-height: 1.3 !important;
-}
+.pro-con-box-con-cell-4 h3,
 .pro-con-box-con-cell h3 strong,
+.pro-con-box-con-cell-2 h3 strong,
 .pro-con-box-con-cell-3 h3 strong,
-[class*="pro-con-box-con-cell"] h3 strong,
-[class*="pro-con-box-con-cell"] .w-richtext h3 strong {
-  color: #be123c !important;
+.pro-con-box-con-cell-4 h3 strong {
+  color: #881337 !important;
+  font-weight: 800 !important;
 }
+
+.pro-con-box-pro-cell h3::before,
+.pro-con-box-pro-cell-2 h3::before,
+.pro-con-box-pro-cell-3 h3::before,
+.pro-con-box-pro-cell-4 h3::before {
+  content: "✓" !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50% !important;
+  background: #22c55e !important;
+  color: #ffffff !important;
+  font-size: 12px !important;
+  font-weight: 900 !important;
+  flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(34, 197, 94, 0.3) !important;
+}
+
 .pro-con-box-con-cell h3::before,
+.pro-con-box-con-cell-2 h3::before,
 .pro-con-box-con-cell-3 h3::before,
-[class*="pro-con-box-con-cell"] h3::before {
+.pro-con-box-con-cell-4 h3::before {
   content: "✕" !important;
   display: inline-flex !important;
   align-items: center !important;
@@ -1907,98 +1916,103 @@
   width: 22px !important;
   height: 22px !important;
   border-radius: 50% !important;
-  background: rgba(244, 63, 94, 0.18) !important;
-  color: #e11d48 !important;
-  font-size: 12px !important;
+  background: #f43f5e !important;
+  color: #ffffff !important;
+  font-size: 11px !important;
   font-weight: 900 !important;
   flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(244, 63, 94, 0.3) !important;
 }
 
-/* Lists and Items */
+/* List Reset & Item Styling */
 .pro-con-box-pro-cell ul,
+.pro-con-box-pro-cell-2 ul,
 .pro-con-box-pro-cell-3 ul,
+.pro-con-box-pro-cell-4 ul,
 .pro-con-box-con-cell ul,
+.pro-con-box-con-cell-2 ul,
 .pro-con-box-con-cell-3 ul,
-[class*="pro-con-box-pro-cell"] ul,
-[class*="pro-con-box-con-cell"] ul,
-[class*="pro-con-box-pro-cell"] .w-richtext ul,
-[class*="pro-con-box-con-cell"] .w-richtext ul {
+.pro-con-box-con-cell-4 ul {
   list-style: none !important;
-  padding: 0 !important;
   margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 12px !important;
 }
 
 .pro-con-box-pro-cell li,
+.pro-con-box-pro-cell-2 li,
 .pro-con-box-pro-cell-3 li,
-[class*="pro-con-box-pro-cell"] li,
-[class*="pro-con-box-pro-cell"] .w-richtext li {
+.pro-con-box-pro-cell-4 li,
+.pro-con-box-con-cell li,
+.pro-con-box-con-cell-2 li,
+.pro-con-box-con-cell-3 li,
+.pro-con-box-con-cell-4 li {
   position: relative !important;
-  padding-left: 22px !important;
-  margin-top: 0 !important;
-  margin-bottom: 10px !important;
-  font-size: 13.5px !important;
+  padding-left: 28px !important;
+  margin: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-size: 14.5px !important;
   line-height: 1.55 !important;
-  color: #1e293b !important;
-  list-style: none !important;
+  color: #334155 !important;
+  list-style-type: none !important;
 }
-.pro-con-box-pro-cell li:last-child,
-.pro-con-box-pro-cell-3 li:last-child {
-  margin-bottom: 0 !important;
+
+.pro-con-box-pro-cell li strong,
+.pro-con-box-pro-cell-2 li strong,
+.pro-con-box-pro-cell-3 li strong,
+.pro-con-box-pro-cell-4 li strong,
+.pro-con-box-con-cell li strong,
+.pro-con-box-con-cell-2 li strong,
+.pro-con-box-con-cell-3 li strong,
+.pro-con-box-con-cell-4 li strong {
+  color: #0f172a !important;
+  font-weight: 700 !important;
 }
+
 .pro-con-box-pro-cell li::before,
+.pro-con-box-pro-cell-2 li::before,
 .pro-con-box-pro-cell-3 li::before,
-[class*="pro-con-box-pro-cell"] li::before,
-[class*="pro-con-box-pro-cell"] .w-richtext li::before {
+.pro-con-box-pro-cell-4 li::before {
   content: "✓" !important;
   position: absolute !important;
   left: 0 !important;
-  top: 1px !important;
-  color: #16a34a !important;
-  font-weight: 800 !important;
-  font-size: 13px !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #dcfce7 !important;
+  color: #15803d !important;
+  font-size: 11px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
 }
 
-.pro-con-box-con-cell li,
-.pro-con-box-con-cell-3 li,
-[class*="pro-con-box-con-cell"] li,
-[class*="pro-con-box-con-cell"] .w-richtext li {
-  position: relative !important;
-  padding-left: 22px !important;
-  margin-top: 0 !important;
-  margin-bottom: 10px !important;
-  font-size: 13.5px !important;
-  line-height: 1.55 !important;
-  color: #1e293b !important;
-  list-style: none !important;
-}
-.pro-con-box-con-cell li:last-child,
-.pro-con-box-con-cell-3 li:last-child {
-  margin-bottom: 0 !important;
-}
 .pro-con-box-con-cell li::before,
+.pro-con-box-con-cell-2 li::before,
 .pro-con-box-con-cell-3 li::before,
-[class*="pro-con-box-con-cell"] li::before,
-[class*="pro-con-box-con-cell"] .w-richtext li::before {
+.pro-con-box-con-cell-4 li::before {
   content: "✕" !important;
   position: absolute !important;
   left: 0 !important;
-  top: 1px !important;
-  color: #e11d48 !important;
-  font-weight: 800 !important;
-  font-size: 12px !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #ffe4e6 !important;
+  color: #be123c !important;
+  font-size: 10px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
 }
 
-.pro-con-box-pro-cell p,
-.pro-con-box-pro-cell-3 p,
-.pro-con-box-con-cell p,
-.pro-con-box-con-cell-3 p,
-[class*="pro-con-box-pro-cell"] p,
-[class*="pro-con-box-con-cell"] p {
-  font-size: 13.5px !important;
-  line-height: 1.55 !important;
-  margin: 0 !important;
-  color: #1e293b !important;
-}
 .sticky-thumb-img {
   width: 44px !important;
   height: 44px !important;
@@ -2992,7 +3006,7 @@
 </div>
 </summary>
 <div class="bpa-details-body">
-<div class="pro-con-box-wrapper"><div class="w-layout-grid grid-15"><div class="pro-con-box-pro-cell" data-wf-pbl="layout-grid-1x2-vertical" id="w-node-ff8826cc-ff95-d588-20fd-07d8263912a3-57073be8"><div class="pro-con-box-pro-cell-rich-text-block w-richtext"><h3><strong>Pros:</strong></h3><ul role="list"><li><strong>Best All-Around Value</strong></li><li><strong>Complimentary Waterpark Access (Aquaventure)</strong></li><li><strong>Exceptional 5-Star Service</strong></li><li><strong>Unmatched Family/Kids Facilities</strong></li><li><strong>High-End Standard Rooms</strong></li><li><strong>Access to Michelin-Star Dining</strong></li><li><strong>Premium International Buffet</strong></li><li><strong>Parent-Friendly Childcare (Trained Staff)</strong></li><li><strong>Highly Instagrammable Location</strong><strong>‍</strong><br/></li></ul></div></div><div class="pro-con-box-con-cell" data-wf-pbl="layout-grid-1x2-vertical" id="w-node-ff8826cc-ff95-d588-20fd-07d8263912c3-57073be8"><div class="pro-con-box-con-cell-rich-text-block w-richtext"><h3><strong>Cons:</strong></h3><ul role="list"><li>‍<strong>Doors Aren't Soundproof</strong></li><li><strong>Unstable Wi-Fi </strong>‍</li></ul></div></div></div></div><div class="w-layout-grid grid-26"><img alt="" class="image-50" id="w-node-b97b3876-f1a2-ae36-2b34-d82911f8e560-11f8e55f" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6814c7f67a4051f5954a8fc4_5-star-dubai-palm-hotel-widget-logo-atlantis-palm.webp"/><div class="div-block-41"><div class="div-block-42 _5-gap"><div class="div-block-44"><div class="text-block-39"><strong>🏆 Best Overall 5-Star Palm Hotel (Atlantis The Palm)</strong></div></div><div class="reviews no-bg"><div class="price-2-copy-3">4.7</div><div class="star-ratings-3"><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
+<div class="pro-con-box-wrapper"><div class="w-layout-grid grid-15"><div class="pro-con-box-pro-cell" data-wf-pbl="layout-grid-1x2-vertical"><div class="pro-con-box-pro-cell-rich-text-block w-richtext"><h3><strong>Pros:</strong></h3><ul role="list"><li><strong>Best All-Around Value</strong> — Outperforms every other 5-star resort on the Palm in terms of what you pay versus what you get, especially for families.</li><li><strong>Complimentary Waterpark Access (Aquaventure)</strong> — Free unlimited entry to Aquaventure World with thrilling water slides, tunnels, river rapids, and a private beach.</li><li><strong>Exceptional 5-Star Service</strong> — From the moment you arrive, every hotel staff member goes above and beyond to make you feel like a cherished guest.</li><li><strong>Unmatched Family/Kids Facilities</strong> — Lost Chambers Aquarium, Aquaventure World, the Dubai Balloon, arcade rooms, bowling, Explorer's Club, and science-focused youth programs.</li><li><strong>High-End Standard Rooms</strong> — Standard Palm-facing rooms are spacious, extravagant, well-equipped, and luxurious even at the entry tier.</li><li><strong>Access to Michelin-Star Dining</strong> — On-site Michelin-starred restaurants including Nobu, Hakkasan, FZN, and Studio Frantzén.</li><li><strong>Premium International Buffet</strong> — Expertly prepared Indian, Arabic, Mexican, British, Japanese, Lebanese, seafood, and steak stations for breakfast, lunch, or dinner.</li><li><strong>Parent-Friendly Childcare (Trained Staff)</strong> — First-aid and CPR-trained guardians at Atlantis babysitting and childcare facilities let parents enjoy worry-free relaxation.</li><li><strong>Highly Instagrammable Location</strong> — Iconic architecture and beachfront vantage points with plenty of high-status photo spots.</li></ul></div></div><div class="pro-con-box-con-cell" data-wf-pbl="layout-grid-1x2-vertical"><div class="pro-con-box-con-cell-rich-text-block w-richtext"><h3><strong>Cons:</strong></h3><ul role="list"><li><strong>Doors Aren't Soundproof</strong> — Hallway noise, including slamming doors, conversations, and children's cries, can be heard inside the room.</li><li><strong>Unstable Wi-Fi</strong> — Calls on instant messaging apps were occasionally cut short and laptop browsing loaded slowly during peak hours.</li></ul></div></div></div></div><div class="w-layout-grid grid-26"><img alt="" class="image-50" id="w-node-b97b3876-f1a2-ae36-2b34-d82911f8e560-11f8e55f" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6814c7f67a4051f5954a8fc4_5-star-dubai-palm-hotel-widget-logo-atlantis-palm.webp"/><div class="div-block-41"><div class="div-block-42 _5-gap"><div class="div-block-44"><div class="text-block-39"><strong>🏆 Best Overall 5-Star Palm Hotel (Atlantis The Palm)</strong></div></div><div class="reviews no-bg"><div class="price-2-copy-3">4.7</div><div class="star-ratings-3"><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
 <path d="M11.9999 18.26L4.94691 22.208L6.52191 14.28L0.586914 8.792L8.61391 7.84L11.9999 0.5L15.3859 7.84L23.4129 8.792L17.4779 14.28L19.0529 22.208L11.9999 18.26Z" fill="currentColor"></path>
 </svg>
 </div><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
@@ -3028,7 +3042,7 @@
 </div>
 </summary>
 <div class="bpa-details-body">
-<div class="pro-con-box-wrapper"><div class="w-layout-grid grid-15"><div class="pro-con-box-pro-cell" data-wf-pbl="layout-grid-1x2-vertical" id="w-node-_497ad01e-2ac6-498b-99c4-f07446f6c2b5-57073be8"><div class="pro-con-box-pro-cell-rich-text-block w-richtext"><h3><strong>Pros:</strong></h3><ul role="list"><li><strong>Pinnacle of Ultra-Luxury</strong></li><li><strong>FREE Aquaventure Access</strong></li><li><strong>Unmatched Royal Service</strong></li><li><strong>Multiple Michelin-Star Dining</strong></li><li><strong>Ideal Adult/Couple Atmosphere</strong> </li><li><strong>Exclusive Aquatic Activities</strong> </li><li><strong>High-Quality Buffet Included</strong></li><li><strong>The Ultimate Instagram Spot</strong></li><li><strong>Free Access to Atlantis, The Palm</strong></li></ul></div></div><div class="pro-con-box-con-cell" data-wf-pbl="layout-grid-1x2-vertical" id="w-node-_497ad01e-2ac6-498b-99c4-f07446f6c2ea-57073be8"><div class="pro-con-box-con-cell-rich-text-block w-richtext"><h3><strong>Cons:</strong></h3><ul role="list"><li>‍<strong>Expensive</strong><strong>‍</strong></li><li><strong>Noise After Midnight</strong></li></ul></div></div></div></div><div class="w-layout-grid grid-26"><img alt="" class="image-50" id="w-node-b97b3876-f1a2-ae36-2b34-d82911f8e560-11f8e55f" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6814c7f5e50159061e6ec168_5-star-dubai-palm-hotel-widget-logo-atlantis-royal.webp"/><div class="div-block-41"><div class="div-block-42 _5-gap"><div class="div-block-44"><div class="text-block-39">🏆 Atlantis The Royal (Most Luxurious and High-End Palm Hotel)</div></div><div class="reviews no-bg"><div class="price-2-copy-3">4.7</div><div class="star-ratings-3"><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
+<div class="pro-con-box-wrapper"><div class="w-layout-grid grid-15"><div class="pro-con-box-pro-cell" data-wf-pbl="layout-grid-1x2-vertical"><div class="pro-con-box-pro-cell-rich-text-block w-richtext"><h3><strong>Pros:</strong></h3><ul role="list"><li><strong>Pinnacle of Ultra-Luxury</strong> — Built for the highest-status luxury Palm Jumeirah experience with dramatic architectural scale.</li><li><strong>FREE Aquaventure Access</strong> — Enjoy complimentary unlimited access to Aquaventure World waterpark, slides, tunnels, and private beach.</li><li><strong>Unmatched Royal Service</strong> — From the moment you step foot inside, every staff member strives to deliver genuine royal treatment.</li><li><strong>Multiple Michelin-Star Dining</strong> — Access top-tier restaurants on-site including Ling Ling, Nobu by the Beach, La Mar, Milos, Ariana's Persian Kitchen, and Dinner by Heston Blumenthal.</li><li><strong>Ideal Adult/Couple Atmosphere</strong> — Far less frequented by young families than Atlantis The Palm, with adult-oriented pools and lounges.</li><li><strong>Exclusive Aquatic Activities</strong> — Swim and meet with dolphins and sea lions, dive, surf, or unwind along the private beachfront.</li><li><strong>High-Quality Buffet Included</strong> — Diverse selection of expertly prepared Indian, Arabic, Mexican, British, Japanese, Lebanese, seafood, and steak dishes.</li><li><strong>The Ultimate Instagram Spot</strong> — If you want to show off on Instagram, Cloud 22 and the fire-and-water fountains are unmatched in Dubai.</li><li><strong>Free Access to Atlantis, The Palm</strong> — Visit the Lost Chambers Aquarium and attractions inside neighboring Atlantis, The Palm for free.</li></ul></div></div><div class="pro-con-box-con-cell" data-wf-pbl="layout-grid-1x2-vertical"><div class="pro-con-box-con-cell-rich-text-block w-richtext"><h3><strong>Cons:</strong></h3><ul role="list"><li><strong>Expensive</strong> — Standard rooms start from €1,000 a night in the off-season and can double or triple during peak season.</li><li><strong>Noise After Midnight</strong> — Occasional late-night maintenance work outside, though the balcony doors are effectively soundproofed.</li></ul></div></div></div></div><div class="w-layout-grid grid-26"><img alt="" class="image-50" id="w-node-b97b3876-f1a2-ae36-2b34-d82911f8e560-11f8e55f" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6814c7f5e50159061e6ec168_5-star-dubai-palm-hotel-widget-logo-atlantis-royal.webp"/><div class="div-block-41"><div class="div-block-42 _5-gap"><div class="div-block-44"><div class="text-block-39">🏆 Atlantis The Royal (Most Luxurious and High-End Palm Hotel)</div></div><div class="reviews no-bg"><div class="price-2-copy-3">4.7</div><div class="star-ratings-3"><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">
 <path d="M11.9999 18.26L4.94691 22.208L6.52191 14.28L0.586914 8.792L8.61391 7.84L11.9999 0.5L15.3859 7.84L23.4129 8.792L17.4779 14.28L19.0529 22.208L11.9999 18.26Z" fill="currentColor"></path>
 </svg>
 </div><div class="icon-19 w-embed"><svg fill="none" height="420" viewbox="0 0 24 24" width="420" xmlns="http://www.w3.org/2000/svg">

@@ -492,21 +492,6 @@ h2[id], h3[id] {
   padding-left: 12px !important;
 }
 
-/* Pros & Cons 50/50 balance */
-.pro-con-box-wrapper .grid-15,
-.pro-con-box-wrapper .grid-28 {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  gap: 20px !important;
-  box-sizing: border-box !important;
-}
-@media (max-width: 767px) {
-  .pro-con-box-wrapper .grid-15,
-  .pro-con-box-wrapper .grid-28 {
-    grid-template-columns: 1fr !important;
-  }
-}
-
 /* ==========================================================================
    REVIEW HERO CARD & RATINGS BADGES
    ========================================================================== */
@@ -595,70 +580,309 @@ h2[id], h3[id] {
 }
 
 /* ==========================================================================
-   PROS & CONS 50/50 CLEAN ARCHITECTURE
+   LUXURY TRAVEL TESTER — BPA 50/50 LUXURY EDITORIAL PROS & CONS ARCHITECTURE
    ========================================================================== */
-.pro-con-box-wrapper {
-  margin: 24px 0 !important;
-  border-radius: 16px !important;
+.pro-con-box-wrapper,
+.pro-con-box-wrapper-2,
+.pro-con-box-wrapper-3,
+.pro-con-box-wrapper-4 {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 20px 0 24px 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 14px !important;
+  box-shadow: none !important;
   overflow: hidden !important;
-  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.05) !important;
-  border: 1px solid #e2e8f0 !important;
-  background: #ffffff !important;
+  display: block !important;
+  box-sizing: border-box !important;
 }
+
+.pro-con-box-wrapper .w-layout-grid,
 .pro-con-box-wrapper .grid-15,
-.pro-con-box-wrapper .grid-28 {
+.pro-con-box-wrapper .grid-28,
+.pro-con-box-wrapper-2 .w-layout-grid,
+.pro-con-box-wrapper-2 .grid-28,
+.pro-con-box-wrapper-3 .w-layout-grid,
+.pro-con-box-wrapper-3 .grid-28,
+.pro-con-box-wrapper-4 .w-layout-grid,
+.pro-con-box-wrapper-4 .grid-28 {
   display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
-  gap: 0 !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+  grid-template-areas: none !important;
+  gap: 16px !important;
+  align-items: stretch !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  outline: none !important;
+  box-sizing: border-box !important;
 }
-@media (max-width: 767px) {
+
+@media (max-width: 640px) {
+  .pro-con-box-wrapper .w-layout-grid,
   .pro-con-box-wrapper .grid-15,
-  .pro-con-box-wrapper .grid-28 {
+  .pro-con-box-wrapper .grid-28,
+  .pro-con-box-wrapper-2 .w-layout-grid,
+  .pro-con-box-wrapper-2 .grid-28,
+  .pro-con-box-wrapper-3 .w-layout-grid,
+  .pro-con-box-wrapper-3 .grid-28,
+  .pro-con-box-wrapper-4 .w-layout-grid,
+  .pro-con-box-wrapper-4 .grid-28 {
     grid-template-columns: 1fr !important;
+    gap: 16px !important;
   }
 }
-.pro-con-box-pro-cell {
-  background-color: #f0fdf4 !important;
-  border-top: 4px solid #16a34a !important;
-  border-right: 1px solid #e2e8f0 !important;
-  border-bottom: none !important;
-  border-left: none !important;
-  padding: 22px 24px !important;
-  box-sizing: border-box !important;
-}
-.pro-con-box-con-cell {
-  background-color: #fef2f2 !important;
-  border-top: 4px solid #dc2626 !important;
-  border-right: none !important;
-  border-bottom: none !important;
-  border-left: none !important;
-  padding: 22px 24px !important;
-  box-sizing: border-box !important;
-}
-.pro-con-box-pro-cell h3,
-.pro-con-box-con-cell h3 {
-  font-size: 18px !important;
-  font-weight: 800 !important;
-  margin: 0 0 14px 0 !important;
-}
-.pro-con-box-pro-cell h3 {
-  color: #15803d !important;
-}
-.pro-con-box-con-cell h3 {
-  color: #b91c1c !important;
-}
-.pro-con-box-pro-cell ul,
-.pro-con-box-con-cell ul {
-  padding-left: 20px !important;
+
+.pro-con-box-pro-cell,
+.pro-con-box-pro-cell-2,
+.pro-con-box-pro-cell-3,
+.pro-con-box-pro-cell-4,
+.pro-con-box-con-cell,
+.pro-con-box-con-cell-2,
+.pro-con-box-con-cell-3,
+.pro-con-box-con-cell-4 {
+  border-radius: 12px !important;
+  padding: 18px 20px !important;
+  box-shadow: 0 10px 28px -10px rgba(15, 23, 42, 0.06), 0 2px 6px rgba(15, 23, 42, 0.02) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  align-items: stretch !important;
+  position: relative !important;
+  overflow: hidden !important;
+  height: 100% !important;
+  width: 100% !important;
   margin: 0 !important;
+  outline: none !important;
+  box-sizing: border-box !important;
 }
+
+.pro-con-box-pro-cell,
+.pro-con-box-pro-cell-2,
+.pro-con-box-pro-cell-3,
+.pro-con-box-pro-cell-4 {
+  background: #f0fdf4 !important;
+  border: 1px solid #bbf7d0 !important;
+  border-top: 4px solid #16a34a !important;
+}
+
+.pro-con-box-con-cell,
+.pro-con-box-con-cell-2,
+.pro-con-box-con-cell-3,
+.pro-con-box-con-cell-4 {
+  background: #fff1f2 !important;
+  border: 1px solid #fecdd3 !important;
+  border-top: 4px solid #e11d48 !important;
+}
+
+.pro-con-box-pro-cell-rich-text-block,
+.pro-con-box-con-cell-rich-text-block,
+.pro-con-box-pro-cell .w-richtext,
+.pro-con-box-pro-cell-2 .w-richtext,
+.pro-con-box-pro-cell-3 .w-richtext,
+.pro-con-box-pro-cell-4 .w-richtext,
+.pro-con-box-con-cell .w-richtext,
+.pro-con-box-con-cell-2 .w-richtext,
+.pro-con-box-con-cell-3 .w-richtext,
+.pro-con-box-con-cell-4 .w-richtext {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.pro-con-box-pro-cell .w-richtext::before,
+.pro-con-box-pro-cell .w-richtext::after,
+.pro-con-box-pro-cell-3 .w-richtext::before,
+.pro-con-box-pro-cell-3 .w-richtext::after,
+.pro-con-box-con-cell .w-richtext::before,
+.pro-con-box-con-cell .w-richtext::after,
+.pro-con-box-con-cell-3 .w-richtext::before,
+.pro-con-box-con-cell-3 .w-richtext::after {
+  display: none !important;
+}
+
+/* Header Styling inside Pros & Cons */
+.pro-con-box-pro-cell h3,
+.pro-con-box-pro-cell-2 h3,
+.pro-con-box-pro-cell-3 h3,
+.pro-con-box-pro-cell-4 h3,
+.pro-con-box-con-cell h3,
+.pro-con-box-con-cell-2 h3,
+.pro-con-box-con-cell-3 h3,
+.pro-con-box-con-cell-4 h3 {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-size: 15px !important;
+  font-weight: 800 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.1em !important;
+  margin: 0 0 10px 0 !important;
+  padding: 0 0 14px 0 !important;
+  border-bottom: 1px solid #f1f5f9 !important;
+  line-height: 1.2 !important;
+}
+
+.pro-con-box-pro-cell h3,
+.pro-con-box-pro-cell-2 h3,
+.pro-con-box-pro-cell-3 h3,
+.pro-con-box-pro-cell-4 h3,
+.pro-con-box-pro-cell h3 strong,
+.pro-con-box-pro-cell-2 h3 strong,
+.pro-con-box-pro-cell-3 h3 strong,
+.pro-con-box-pro-cell-4 h3 strong {
+  color: #14532d !important;
+  font-weight: 800 !important;
+}
+
+.pro-con-box-con-cell h3,
+.pro-con-box-con-cell-2 h3,
+.pro-con-box-con-cell-3 h3,
+.pro-con-box-con-cell-4 h3,
+.pro-con-box-con-cell h3 strong,
+.pro-con-box-con-cell-2 h3 strong,
+.pro-con-box-con-cell-3 h3 strong,
+.pro-con-box-con-cell-4 h3 strong {
+  color: #881337 !important;
+  font-weight: 800 !important;
+}
+
+.pro-con-box-pro-cell h3::before,
+.pro-con-box-pro-cell-2 h3::before,
+.pro-con-box-pro-cell-3 h3::before,
+.pro-con-box-pro-cell-4 h3::before {
+  content: "✓" !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50% !important;
+  background: #22c55e !important;
+  color: #ffffff !important;
+  font-size: 12px !important;
+  font-weight: 900 !important;
+  flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(34, 197, 94, 0.3) !important;
+}
+
+.pro-con-box-con-cell h3::before,
+.pro-con-box-con-cell-2 h3::before,
+.pro-con-box-con-cell-3 h3::before,
+.pro-con-box-con-cell-4 h3::before {
+  content: "✕" !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  border-radius: 50% !important;
+  background: #f43f5e !important;
+  color: #ffffff !important;
+  font-size: 11px !important;
+  font-weight: 900 !important;
+  flex-shrink: 0 !important;
+  box-shadow: 0 2px 6px rgba(244, 63, 94, 0.3) !important;
+}
+
+/* List Reset & Item Styling */
+.pro-con-box-pro-cell ul,
+.pro-con-box-pro-cell-2 ul,
+.pro-con-box-pro-cell-3 ul,
+.pro-con-box-pro-cell-4 ul,
+.pro-con-box-con-cell ul,
+.pro-con-box-con-cell-2 ul,
+.pro-con-box-con-cell-3 ul,
+.pro-con-box-con-cell-4 ul {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 12px !important;
+}
+
 .pro-con-box-pro-cell li,
-.pro-con-box-con-cell li {
-  font-size: 14px !important;
-  line-height: 1.6em !important;
+.pro-con-box-pro-cell-2 li,
+.pro-con-box-pro-cell-3 li,
+.pro-con-box-pro-cell-4 li,
+.pro-con-box-con-cell li,
+.pro-con-box-con-cell-2 li,
+.pro-con-box-con-cell-3 li,
+.pro-con-box-con-cell-4 li {
+  position: relative !important;
+  padding-left: 28px !important;
+  margin: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-size: 14.5px !important;
+  line-height: 1.55 !important;
   color: #334155 !important;
-  margin-bottom: 8px !important;
+  list-style-type: none !important;
 }
+
+.pro-con-box-pro-cell li strong,
+.pro-con-box-pro-cell-2 li strong,
+.pro-con-box-pro-cell-3 li strong,
+.pro-con-box-pro-cell-4 li strong,
+.pro-con-box-con-cell li strong,
+.pro-con-box-con-cell-2 li strong,
+.pro-con-box-con-cell-3 li strong,
+.pro-con-box-con-cell-4 li strong {
+  color: #0f172a !important;
+  font-weight: 700 !important;
+}
+
+.pro-con-box-pro-cell li::before,
+.pro-con-box-pro-cell-2 li::before,
+.pro-con-box-pro-cell-3 li::before,
+.pro-con-box-pro-cell-4 li::before {
+  content: "✓" !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #dcfce7 !important;
+  color: #15803d !important;
+  font-size: 11px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+}
+
+.pro-con-box-con-cell li::before,
+.pro-con-box-con-cell-2 li::before,
+.pro-con-box-con-cell-3 li::before,
+.pro-con-box-con-cell-4 li::before {
+  content: "✕" !important;
+  position: absolute !important;
+  left: 0 !important;
+  top: 2px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  background: #ffe4e6 !important;
+  color: #be123c !important;
+  font-size: 10px !important;
+  font-weight: 900 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+}
+
 
 /* ==========================================================================
    HOTEL CTA WIDGET BOX (grid-26)
