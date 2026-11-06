@@ -2,6 +2,48 @@
   "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/best-desert-safaris-dubai/decode-your-desert-safari-in-dubai",
+      "destination": "/best-desert-safaris-dubai#desert-safaris-explained",
+      "permanent": true
+    },
+    {
+      "source": "/best-desert-safaris-dubai/standard-features-across-personally-tested-safaris",
+      "destination": "/best-desert-safaris-dubai#standard-features-explained",
+      "permanent": true
+    },
+    {
+      "source": "/best-desert-safaris-dubai/how-evaluated-the-best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai#how-we-evaluated",
+      "permanent": true
+    },
+    {
+      "source": "/best-desert-safaris-dubai/how-is-the-10-best-desert-safaris-in-dubai-article-structured",
+      "destination": "/best-desert-safaris-dubai#how-article-structured",
+      "permanent": true
+    },
+    {
+      "source": "/:lang/best-desert-safaris-dubai/decode-your-desert-safari-in-dubai",
+      "destination": "/:lang/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang/best-desert-safaris-dubai/standard-features-across-personally-tested-safaris",
+      "destination": "/:lang/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang/best-desert-safaris-dubai/how-evaluated-the-best-desert-safaris-dubai",
+      "destination": "/:lang/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang/best-desert-safaris-dubai/how-is-the-10-best-desert-safaris-in-dubai-article-structured",
+      "destination": "/:lang/best-desert-safaris-dubai",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
