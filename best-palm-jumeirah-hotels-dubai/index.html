@@ -2240,231 +2240,245 @@
   }
 }
 
-/* HYBRID MOBILE STICKY BAR */
+/* ==========================================================================
+   HYBRID STICKY BAR & TOC BOTTOM SHEET (BPA DESKTOP & MOBILE SOLUTION)
+   ========================================================================== */
 .hybrid-sticky-bar {
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
-  width: 100%;
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border-top: 1px solid rgba(226, 232, 240, 0.9);
-  box-shadow: 0 -8px 24px rgba(15, 23, 42, 0.08);
-  z-index: 9999;
-  padding: 10px 14px calc(10px + env(safe-area-inset-bottom, 0px)) 14px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  box-sizing: border-box;
-  transform: translateY(110%);
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  z-index: 99990;
+  background: rgba(15, 23, 42, 0.96);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 10px 18px;
+  transform: translateY(115%);
   opacity: 0;
   pointer-events: none;
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  box-sizing: border-box;
 }
+
+.hybrid-sticky-bar.is-visible,
 .hybrid-sticky-bar.visible {
   transform: translateY(0);
   opacity: 1;
   pointer-events: auto;
 }
-.hybrid-toc-btn {
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  justify-content: center !important;
-  background: #f1f5f9 !important;
-  border: 1px solid #e2e8f0 !important;
-  border-radius: 12px !important;
-  width: 52px !important;
-  height: 48px !important;
-  flex-shrink: 0 !important;
-  cursor: pointer !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  box-sizing: border-box !important;
-  gap: 3px !important;
-  transition: all 0.2s !important;
-  font-family: inherit !important;
-}
-.hybrid-toc-btn svg {
-  width: 18px !important;
-  height: 14px !important;
-  stroke: #0f172a !important;
-  stroke-width: 2.2 !important;
-  stroke-linecap: round !important;
-  display: block !important;
-  margin: 0 auto !important;
-}
-.hybrid-toc-btn span {
-  font-size: 9.5px !important;
-  font-weight: 800 !important;
-  color: #334155 !important;
-  letter-spacing: 0.5px !important;
-  line-height: 1 !important;
-  display: block !important;
-  text-align: center !important;
-}
-.hybrid-toc-btn:active {
-  background: #e2e8f0 !important;
-  transform: scale(0.96) !important;
-}
-.hybrid-meta-wrap {
+
+.hybrid-bar-inner {
+  max-width: 1120px;
+  margin: 0 auto;
   display: flex;
   align-items: center;
-  gap: 8px;
-  flex: 1;
-  min-width: 0;
+  justify-content: space-between;
+  gap: 14px;
 }
-.hybrid-thumb {
-  width: 44px;
-  height: 44px;
-  border-radius: 8px;
-  object-fit: cover;
-  flex-shrink: 0;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+
+.hybrid-toc-btn {
+  display: inline-flex !important;
+  flex-direction: row !important;
+  width: auto !important;
+  height: auto !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 8px !important;
+  background: rgba(255, 255, 255, 0.1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.18) !important;
+  color: #f8fafc !important;
+  padding: 9px 14px !important;
+  border-radius: 10px !important;
+  font-size: 12.5px !important;
+  font-weight: 700 !important;
+  line-height: 1 !important;
+  cursor: pointer !important;
+  white-space: nowrap !important;
+  transition: background 0.15s ease !important;
 }
-.hybrid-info-col {
+
+.hybrid-toc-btn:hover {
+  background: rgba(255, 255, 255, 0.18) !important;
+}
+
+.hybrid-toc-btn svg {
+  display: block !important;
+  flex-shrink: 0 !important;
+  margin: 0 !important;
+  width: 16px !important;
+  height: 12px !important;
+  stroke: currentColor !important;
+  stroke-width: 2.2 !important;
+  stroke-linecap: round !important;
+}
+
+.hybrid-toc-btn span {
+  display: inline-block !important;
+  line-height: 1 !important;
+  font-size: 12.5px !important;
+  font-weight: 700 !important;
+  color: #f8fafc !important;
+  letter-spacing: normal !important;
+}
+
+.hybrid-active-info {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  gap: 10px;
   min-width: 0;
+  flex: 1;
+  color: #ffffff;
 }
-.hybrid-hotel-name {
-  font-size: 13px;
-  font-weight: 700;
+
+.hybrid-active-badge {
+  background: #c5a059;
   color: #0f172a;
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 3px 7px;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+
+.hybrid-active-title {
+  font-size: 13.5px;
+  font-weight: 700;
+  color: #ffffff;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  line-height: 1.2;
-}
-.hybrid-hotel-rate {
-  font-size: 11.5px;
-  font-weight: 700;
-  color: #d97706;
-  margin-top: 2px;
-}
-.hybrid-buy-btn {
-  background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
-  color: #ffffff !important;
-  font-size: 13px;
-  font-weight: 700;
-  padding: 12px 16px;
-  border-radius: 10px;
-  text-decoration: none;
-  white-space: nowrap;
-  flex-shrink: 0;
-  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.3);
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  transition: transform 0.15s ease;
-}
-.hybrid-buy-btn:active {
-  transform: scale(0.97);
 }
 
-/* Bottom Sheet Modal */
-.hybrid-sheet {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: #ffffff;
-  border-radius: 20px 20px 0 0;
-  box-shadow: 0 -12px 36px rgba(15, 23, 42, 0.2);
-  z-index: 10000;
-  padding: 20px 20px calc(24px + env(safe-area-inset-bottom, 0px)) 20px;
-  transform: translateY(100%);
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-  max-height: 75vh;
-  overflow-y: auto;
-  box-sizing: border-box;
+.hybrid-active-price {
+  font-size: 13px;
+  font-weight: 800;
+  color: #38bdf8;
+  white-space: nowrap;
 }
-.hybrid-sheet.open {
-  transform: translateY(0);
+
+.hybrid-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #0284c7;
+  color: #ffffff !important;
+  font-size: 13px;
+  font-weight: 800;
+  padding: 10px 18px;
+  border-radius: 9px;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: background 0.15s ease, transform 0.15s ease;
+  box-shadow: 0 3px 10px rgba(2, 132, 199, 0.35);
 }
-.hybrid-backdrop {
+
+.hybrid-cta-btn:hover {
+  background: #0369a1;
+  transform: translateY(-1px);
+}
+
+/* Hybrid TOC Bottom Sheet Modal */
+.hybrid-sheet-backdrop {
   position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(15, 23, 42, 0.5);
+  inset: 0;
+  background: rgba(15, 23, 42, 0.6);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
-  z-index: 9999;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.3s;
+  z-index: 99995;
+  display: none;
+  align-items: flex-end;
+  justify-content: center;
 }
-.hybrid-backdrop.open {
-  opacity: 1;
-  pointer-events: auto;
-}
-.hybrid-sheet-handle {
-  width: 38px;
-  height: 4px;
-  background: #cbd5e1;
-  border-radius: 2px;
-  margin: 0 auto 16px auto;
-}
-.hybrid-sheet-header {
+
+.hybrid-sheet-backdrop.is-open,
+.hybrid-sheet-backdrop.open {
   display: flex;
+}
+
+.hybrid-sheet {
+  background: #ffffff;
+  width: 100%;
+  max-width: 640px;
+  max-height: 80vh;
+  border-radius: 20px 20px 0 0;
+  padding: 22px 24px 30px;
+  overflow-y: auto;
+  box-shadow: 0 -12px 40px rgba(15, 23, 42, 0.25);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  box-sizing: border-box;
+}
+
+.hybrid-sheet-head {
+  display: flex;
+  align-items: center;
   justify-content: space-between;
-  align-items: center;
-  margin-bottom: 16px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid #f1f5f9;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #e2e8f0;
+  margin-bottom: 14px;
 }
+
 .hybrid-sheet-title {
-  font-size: 16px;
-  font-weight: 800;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 20px;
+  font-weight: 700;
   color: #0f172a;
-  display: flex;
-  align-items: center;
-  gap: 8px;
+  margin: 0;
 }
+
 .hybrid-sheet-close {
   background: #f1f5f9;
   border: none;
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  font-size: 16px;
   font-weight: 700;
-  color: #64748b;
-  font-size: 14px;
+  color: #334155;
+  cursor: pointer;
 }
-.hybrid-sheet-list {
+
+.hybrid-toc-list {
   display: flex;
   flex-direction: column;
+  gap: 8px;
 }
-.hybrid-sheet-item {
+
+.hybrid-toc-link {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  padding: 12px 0;
-  border-bottom: 1px solid #f1f5f9;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 11px 14px;
+  border-radius: 10px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  color: #0f172a !important;
+  text-decoration: none !important;
   font-size: 13.5px;
   font-weight: 600;
-  color: #334155;
-  text-decoration: none;
-  transition: color 0.15s ease;
+  transition: all 0.15s ease;
 }
-.hybrid-sheet-item:hover, .hybrid-sheet-item:active {
-  color: #d97706;
+
+.hybrid-toc-link:hover {
+  border-color: #c5a059;
+  background: #faf8f5;
 }
-.hybrid-sheet-item-rank {
-  font-size: 11px;
+
+.hybrid-toc-link span.toc-price {
+  font-size: 12px;
   font-weight: 800;
-  color: #d97706;
-  background: #fef3c7;
-  padding: 2px 7px;
-  border-radius: 6px;
+  color: #0284c7;
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .hybrid-active-badge { display: none; }
+  .hybrid-toc-btn span { display: none !important; }
+  .hybrid-toc-btn { padding: 9px 11px !important; }
 }
 </style>
 <div class="ltt-deck-container" id="dubai-hotels-deck">
@@ -3425,37 +3439,34 @@ tippy('.tippy', {          // Add the class tippy to your element
   "datePublished": "2025-05-05",
   "dateModified": "2025-11-28"
 }
-</script><aside aria-label="Quick Navigation and Reservation" class="hybrid-sticky-bar" id="sticky-bar">
-  <button class="hybrid-toc-btn" id="hybridTocBtn" aria-label="Open Table of Contents" type="button">
-    <svg viewBox="0 0 20 14" fill="none" stroke="currentColor">
-      <line x1="1" y1="2" x2="19" y2="2"></line>
-      <line x1="1" y1="7" x2="19" y2="7"></line>
-      <line x1="1" y1="12" x2="19" y2="12"></line>
-    </svg>
-    <span>TOC</span>
-  </button>
-  <div class="hybrid-meta-wrap">
-    <img alt="Hotel thumbnail" class="hybrid-thumb" id="sticky-thumb" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif"/>
-    <div class="hybrid-info-col">
-      <span class="hybrid-hotel-name" id="sticky-name">Atlantis, The Palm</span>
-      <span class="hybrid-hotel-rate" id="sticky-price">From €300/night</span>
+</script><aside aria-label="Quick Palm Jumeirah Hotel Navigation &amp; Booking" class="hybrid-sticky-bar" id="sticky-bar">
+  <div class="hybrid-bar-inner">
+    <button aria-label="Jump to Palm Jumeirah Hotel Review" class="hybrid-toc-btn" id="hybridTocBtn" type="button">
+      <svg fill="none" height="12" stroke="currentColor" stroke-linecap="round" stroke-width="2.2" viewBox="0 0 20 14" width="16">
+        <line x1="2" x2="18" y1="2" y2="2"></line>
+        <line x1="2" x2="18" y1="7" y2="7"></line>
+        <line x1="2" x2="18" y1="12" y2="12"></line>
+      </svg>
+      <span>All 10 Palm Hotels</span>
+    </button>
+    <div class="hybrid-active-info">
+      <span class="hybrid-active-badge" id="sticky-rank">#1 PICK</span>
+      <span class="hybrid-active-title" id="sticky-name">Atlantis, The Palm</span>
+      <span class="hybrid-active-price" id="sticky-price">From €300/night</span>
     </div>
+    <a class="hybrid-cta-btn" href="https://tp.media/r?marker=404154.article-palm-hotels-comparison-list-atlantis-the-palm&amp;trs=404826&amp;p=2076&amp;u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html%3Faid%3D356980%26label%3Dgog235jc-1FCAsoAkIRYXRsYW50aXMtdGhlLXBhbG1IA1gDaBeIAQGYAQO4ARfIAQzYAQHoAQH4AQKIAgGoAgO4ApLYtb8GwAIB0gIkYjhhZmU1NTgtZTY4NC00NTM0LWJlNmUtOWNlZjM1NTg4NjYz2AIF4AIB%26sid%3D84f22137cc883fcb7e361b66cc994627%26dest_id%3D-782831%26dest_type%3Dcity%26dist%3D0%26group_adults%3D2%26group_children%3D0%26hapos%3D1%26hpos%3D1%26no_rooms%3D1%26req_adults%3D2%26req_children%3D0%26room1%3DA%252CA%26sb_price_type%3Dtotal%26sr_order%3Dpopularity%26srepoch%3D1743612963%26srpvid%3D551f770ad25d07b9%26type%3Dtotal%26ucfs%3D1%26&amp;campaign_id=84" id="sticky-cta-btn" rel="noopener nofollow sponsored" target="_blank">Check Rates →</a>
   </div>
-  <a class="hybrid-buy-btn" href="#" id="sticky-cta-btn" rel="noopener nofollow sponsored" target="_blank">Book Now →</a>
 </aside>
 
 <!-- Bottom Sheet TOC Modal -->
-<div class="hybrid-backdrop" id="hybridBackdrop"></div>
-<div class="hybrid-sheet" id="hybridSheet">
-  <div class="hybrid-sheet-handle"></div>
-  <div class="hybrid-sheet-header">
-    <div class="hybrid-sheet-title">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#d97706" stroke-width="2.5"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
-      Table of Contents
+<div class="hybrid-sheet-backdrop" id="hybridBackdrop">
+  <div aria-label="Jump to Any Tested Palm Jumeirah Hotel" aria-modal="true" class="hybrid-sheet" id="hybridSheet" role="dialog">
+    <div class="hybrid-sheet-head">
+      <h3 class="hybrid-sheet-title">Jump to Tested Palm Jumeirah Hotel</h3>
+      <button aria-label="Close" class="hybrid-sheet-close" id="hybridCloseBtn" type="button">✕</button>
     </div>
-    <button class="hybrid-sheet-close" id="hybridCloseBtn" type="button">✕</button>
+    <div class="hybrid-toc-list" id="hybridSheetList"></div>
   </div>
-  <div class="hybrid-sheet-list" id="hybridSheetList"></div>
 </div>
 <script>
 (function() {
@@ -3504,18 +3515,23 @@ tippy('.tippy', {          // Add the class tippy to your element
       var id = sub ? sub.getAttribute('href').replace('#', '') : '';
       var kicker = card.querySelector('.bpa-kicker');
       var head = card.querySelector('.bpa-title');
+      var btn = card.querySelector('.bpa-btn');
       var tag = card.querySelector('.bpa-rank-tag');
       var p = card.querySelector('.bpa-price');
       var psub = card.querySelector('.bpa-psub');
       var kp = kicker ? kicker.textContent.split('•') : [];
+      var rawTag = tag ? tag.textContent.trim() : '';
+      var cleanLabel = rawTag.replace(/^[^\w#]+/, '').replace(/^#\d+\s*/, '').trim();
       return {
         id: id,
         r: String(i + 1),
-        tag: tag ? tag.textContent.trim() : '',
-        name: kp[0] ? kp[0].trim() : '',
+        badge: '#' + (i + 1) + ' PICK',
+        tag: rawTag,
+        label: cleanLabel,
+        name: head ? head.textContent.trim() : (kp[0] ? kp[0].trim() : ''),
         p: p ? p.textContent.trim() : '',
         d: (kp[1] ? kp[1].trim() : '') + (psub ? ' • ' + psub.textContent.trim() : ''),
-        l: head ? head.href : '',
+        l: btn ? btn.href : (head ? head.href : ''),
         t: (i + 1) + '. ' + (head ? head.textContent.trim() : '')
       };
     });
@@ -3528,32 +3544,18 @@ tippy('.tippy', {          // Add the class tippy to your element
     });
   };
 
-  // 5. Sync Sidebar Table of Contents
-  
-  // Sync Bottom Sheet TOC
+  // 5. Sync Bottom Sheet TOC
   function syncHybridSheetTOC(hotels) {
     var list = document.getElementById('hybridSheetList');
     if (!list) return;
     list.innerHTML = '';
-    
-    // Quick Jumps
-    var overviewLink = document.createElement('a');
-    overviewLink.className = 'hybrid-sheet-item';
-    overviewLink.href = '#dubai-hotels-deck';
-    overviewLink.innerHTML = '<span>🏆 Top 10 Comparison Table</span>';
-    list.appendChild(overviewLink);
-
-    var breakdownLink = document.createElement('a');
-    breakdownLink.className = 'hybrid-sheet-item';
-    breakdownLink.href = '#breakdown-header';
-    breakdownLink.innerHTML = '<span>🏨 Detailed Reviews Breakdown</span>';
-    list.appendChild(breakdownLink);
 
     hotels.forEach(function(h) {
       var a = document.createElement('a');
-      a.className = 'hybrid-sheet-item';
+      a.className = 'hybrid-toc-link';
       a.href = '#' + h.id;
-      a.innerHTML = '<span>' + h.name + '</span><span class="hybrid-sheet-item-rank">#' + h.r + '</span>';
+      var suffix = h.label ? ' (' + h.label + ')' : '';
+      a.innerHTML = '<span><strong>#' + h.r + '</strong> · ' + h.name + suffix + '</span><span class="toc-price">' + h.p + '</span>';
       list.appendChild(a);
     });
 
@@ -3566,20 +3568,18 @@ tippy('.tippy', {          // Add the class tippy to your element
   }
 
   function openHybridSheet() {
-    var sheet = document.getElementById('hybridSheet');
     var backdrop = document.getElementById('hybridBackdrop');
-    if (sheet) sheet.classList.add('open');
-    if (backdrop) backdrop.classList.add('open');
+    if (backdrop) backdrop.classList.add('is-open');
     document.body.style.overflow = 'hidden';
   }
 
   function closeHybridSheet() {
-    var sheet = document.getElementById('hybridSheet');
     var backdrop = document.getElementById('hybridBackdrop');
-    if (sheet) sheet.classList.remove('open');
-    if (backdrop) backdrop.classList.remove('open');
+    if (backdrop) backdrop.classList.remove('is-open');
     document.body.style.overflow = '';
   }
+  window.openHybridSheet = openHybridSheet;
+  window.closeHybridSheet = closeHybridSheet;
 
   function initHybridSheet() {
     var btn = document.getElementById('hybridTocBtn');
@@ -3587,7 +3587,9 @@ tippy('.tippy', {          // Add the class tippy to your element
     var backdrop = document.getElementById('hybridBackdrop');
     if (btn) btn.addEventListener('click', openHybridSheet);
     if (closeBtn) closeBtn.addEventListener('click', closeHybridSheet);
-    if (backdrop) backdrop.addEventListener('click', closeHybridSheet);
+    if (backdrop) backdrop.addEventListener('click', function(e) {
+      if (e.target === backdrop) closeHybridSheet();
+    });
   }
 
   function syncSidebarTOC() {
@@ -3644,15 +3646,14 @@ tippy('.tippy', {          // Add the class tippy to your element
     var reviews = document.querySelectorAll('.bpa-details-card');
     if (!cards.length) return;
     var hotels = getHotels();
-    var vCenter = window.innerHeight / 2;
-    var firstTop = cards[0].getBoundingClientRect().top;
+    var vCenter = window.innerHeight * 0.45;
     var lastRev = reviews.length ? reviews[reviews.length - 1] : cards[cards.length - 1];
     var lastBottom = lastRev.getBoundingClientRect().bottom;
 
     var hasPassedHero = (window.scrollY > 350);
     var isPastReviews = (lastBottom < 100);
     if (!hasPassedHero || isPastReviews) {
-      bar.classList.remove('visible');
+      bar.classList.remove('visible', 'is-visible');
       return;
     }
 
@@ -3681,21 +3682,15 @@ tippy('.tippy', {          // Add the class tippy to your element
 
     var active = hotels[activeIdx];
     if (active) {
-      var card = cards[activeIdx];
-      var imgEl = card ? card.querySelector('.bpa-slider img') : null;
-      var thumbEl = document.getElementById('sticky-thumb');
-      if (thumbEl && imgEl) thumbEl.src = imgEl.src;
       var rankEl = document.getElementById('sticky-rank');
-      if (rankEl) rankEl.textContent = active.tag;
+      if (rankEl) rankEl.textContent = active.badge;
       var nameEl = document.getElementById('sticky-name');
       if (nameEl) nameEl.textContent = active.name;
       var priceEl = document.getElementById('sticky-price');
       if (priceEl) priceEl.textContent = active.p;
-      var descEl = document.getElementById('sticky-desc');
-      if (descEl) descEl.textContent = active.d;
       var ctaEl = document.getElementById('sticky-cta-btn');
       if (ctaEl) ctaEl.href = active.l;
-      bar.classList.add('visible');
+      bar.classList.add('visible', 'is-visible');
     }
   }
 
