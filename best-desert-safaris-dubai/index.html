@@ -694,39 +694,42 @@
 
 /* Header Box */
 .ltt-header-box {
-  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-  border-radius: 18px;
-  padding: 30px 34px;
-  margin-bottom: 24px;
-  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.25);
-  color: #fff;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 20px;
+  padding: 32px 36px 28px 36px;
+  margin: 32px 0 24px 0;
+  box-shadow: 0 2px 6px -1px rgba(15, 23, 42, 0.04), 0 1px 3px rgba(15, 23, 42, 0.02);
+  box-sizing: border-box;
+  color: #0f172a;
 }
-.ltt-kicker-tag {
-  display: inline-block;
-  background: rgba(245, 158, 11, 0.18);
-  color: #fbbf24;
-  border: 1px solid rgba(245, 158, 11, 0.35);
-  font-size: 11px;
+.ltt-kicker-tag,
+.ltt-section-eyebrow {
+  display: block;
+  background: transparent;
+  border: none;
+  padding: 0;
+  font-size: 11.5px;
   font-weight: 800;
+  letter-spacing: 1.5px;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  padding: 4px 12px;
-  border-radius: 999px;
-  margin-bottom: 12px;
+  color: #d97706;
+  margin-bottom: 8px;
 }
 .ltt-header-title {
-  font-size: 28px;
-  font-weight: 900;
+  font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif !important;
+  font-size: clamp(24px, 3.2vw, 36px) !important;
+  font-weight: 700 !important;
   letter-spacing: -0.02em;
-  margin: 0 0 8px 0;
-  color: #ffffff;
-  line-height: 1.25;
+  line-height: 1.2 !important;
+  margin: 0 0 10px 0 !important;
+  color: #0f172a !important;
 }
 .ltt-header-desc {
-  font-size: 14px;
-  color: #cbd5e1;
+  font-size: 15px;
+  color: #475569;
   margin: 0 0 20px 0;
-  max-width: 820px;
+  max-width: 800px;
   line-height: 1.5;
 }
 .ltt-filter-tabs {
@@ -734,29 +737,30 @@
   flex-wrap: wrap;
   gap: 8px;
   padding-top: 18px;
-  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  border-top: 1px solid #f1f5f9;
 }
 .ltt-tab-btn {
-  background: rgba(255, 255, 255, 0.08);
-  color: #e2e8f0;
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   padding: 8px 16px;
-  border-radius: 10px;
-  font-size: 12px;
-  font-weight: 700;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
   cursor: pointer;
   transition: all 0.15s ease;
   user-select: none;
 }
 .ltt-tab-btn:hover {
-  background: rgba(255, 255, 255, 0.16);
-  color: #ffffff;
+  background: #f1f5f9;
+  color: #0f172a;
 }
 .ltt-tab-btn.active {
-  background: #f59e0b;
-  color: #0f172a;
-  border-color: #f59e0b;
-  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.35);
+  background: #0f172a;
+  color: #ffffff;
+  border-color: #0f172a;
+  box-shadow: none;
 }
 
 /* ==========================================================================
