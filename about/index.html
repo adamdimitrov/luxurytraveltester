@@ -723,28 +723,39 @@ body {
    ABOUT EDITORIAL HEADER (CLEAN & ELEGANT)
    ========================================= */
 .ltt-about-header {
-  background: #ffffff;
-  padding: 84px 20px 68px;
-  text-align: center;
-  border-bottom: 1px solid var(--ltt-slate-200);
+  background: #ffffff !important;
+  padding: 84px 20px 68px !important;
+  text-align: center !important;
+  border-bottom: 1px solid var(--ltt-slate-200) !important;
+}
+
+.ltt-about-header .ltt-container {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  text-align: center !important;
 }
 
 .ltt-about-main-title {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-size: 46px;
-  font-weight: 800;
-  color: var(--ltt-slate-900);
-  line-height: 1.2;
-  letter-spacing: -0.02em;
-  margin: 0 0 20px 0;
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-size: 46px !important;
+  font-weight: 800 !important;
+  color: var(--ltt-slate-900) !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02em !important;
+  margin: 0 auto 20px auto !important;
+  max-width: 960px !important;
+  text-align: center !important;
+  width: 100% !important;
 }
 
 .ltt-about-intro-lead {
-  font-size: 17.5px;
-  line-height: 1.7;
-  color: var(--ltt-slate-600);
-  max-width: 780px;
-  margin: 0 auto;
+  font-size: 17.5px !important;
+  line-height: 1.7 !important;
+  color: var(--ltt-slate-600) !important;
+  max-width: 780px !important;
+  margin: 0 auto !important;
+  text-align: center !important;
 }
 
 /* =========================================
@@ -1167,9 +1178,9 @@ body {
 }
 
 @media (max-width: 768px) {
-  .ltt-about-header { padding: 56px 16px 44px; }
-  .ltt-about-main-title { font-size: 32px; }
-  .ltt-about-intro-lead { font-size: 16px; }
+  .ltt-about-header { padding: 56px 16px 44px !important; }
+  .ltt-about-main-title { font-size: 32px !important; text-align: center !important; }
+  .ltt-about-intro-lead { font-size: 16px !important; text-align: center !important; }
   .ltt-section { padding: 60px 16px; }
   .ltt-section-title { font-size: 28px; }
   .ltt-manifesto-quote-banner { flex-direction: column; text-align: center; padding: 32px 20px; gap: 16px; }
