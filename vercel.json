@@ -24,23 +24,2103 @@
       "permanent": true
     },
     {
-      "source": "/:lang/best-desert-safaris-dubai/decode-your-desert-safari-in-dubai",
-      "destination": "/:lang/best-desert-safaris-dubai",
+      "source": "/ar",
+      "destination": "/",
       "permanent": true
     },
     {
-      "source": "/:lang/best-desert-safaris-dubai/standard-features-across-personally-tested-safaris",
-      "destination": "/:lang/best-desert-safaris-dubai",
+      "source": "/ar/اتصال",
+      "destination": "/contact",
       "permanent": true
     },
     {
-      "source": "/:lang/best-desert-safaris-dubai/how-evaluated-the-best-desert-safaris-dubai",
-      "destination": "/:lang/best-desert-safaris-dubai",
+      "source": "/ar/عن",
+      "destination": "/about",
       "permanent": true
     },
     {
-      "source": "/:lang/best-desert-safaris-dubai/how-is-the-10-best-desert-safaris-in-dubai-article-structured",
-      "destination": "/:lang/best-desert-safaris-dubai",
+      "source": "/ar/أفضل-رحلات-السفاري-الصحراوية-في-دبي",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ar/أفضل-جولات-طائرات-الهليكوبتر-في-نيويورك",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ar/afdal-fanadiq-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ar/afdal-fanadiq-palm-jumeirah-dubai/muraajaa-atlantis-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ar/afdal-fanadiq-palm-jumeirah-dubai/muraajaa-rixos-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ar/afdal-fanadiq-palm-jumeirah-dubai/muraajaa-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ar/afdal-fanadiq-palm-jumeirah-dubai/muraajaa-atlantis-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ar/afdal-fanadiq-palm-jumeirah-dubai/muraajaa-anantara-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ar/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ar/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/cs",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlepší-hotely-palm-jumeirah-v-dubaji/recenze-rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlepší-hotely-palm-jumeirah-v-dubaji/recenze-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlepší-hotely-palm-jumeirah-v-dubaji/recenze-atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlepší-hotely-palm-jumeirah-v-dubaji/recenze-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/kontakt",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/cs/o",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlepší-vrtulní-zájezdy-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/cs/recenze-nejlepších-hotelů-v-palm-jumeirah-v-dubaji/atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlepší-hotely-palm-jumeirah-dubaj",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/cs/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/cs/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/cs/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/da",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-ørken-safari-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/da/kontakte",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-helikopterture-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/da/om",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-palm-jumeirah-hoteller-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-palm-jumeirah-hoteller-dubai/rixos-the-palm-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-palm-jumeirah-hoteller-dubai/anmeldelse-af-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-palm-jumeirah-hoteller-dubai/anantara-the-palm-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-palm-jumeirah-hoteller-dubai/atlantis-the-royal-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-palm-jumeirah-hoteller-dubai/atlantis-the-palm-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-ørkensafari-dubai/dubai-ørkensafari-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-ørkensafari-dubai/hvordan-de-bedste-ørkensafari-dubai-vurderedes",
+      "destination": "/best-desert-safaris-dubai/how-evaluated-the-best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/da/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/de",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/de/contact",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/de/kontakt",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-helicopter-tours-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/de/about",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/de/um",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-palm-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-wustensafaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-wustensafaris-dubai/standardmerkmale-aller-personlich-getesteten-wustensafaris",
+      "destination": "/best-desert-safaris-dubai/standard-features-across-personally-tested-safaris",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-wustensafaris-dubai/entschlüsseln-sie-ihre-wüstensafari-in-dubai",
+      "destination": "/best-desert-safaris-dubai/decode-your-desert-safari-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-wustensafaris-dubai/reiseroute-von-der-stadt-nach-deware-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-wustensafaris-dubai/dubai-wustensafaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-wustensafaris-dubai/wie-der-artikel-ueber-die-10-besten-wuestensafaris-in-dubai-aufgebaut-ist",
+      "destination": "/best-desert-safaris-dubai/how-is-the-10-best-desert-safaris-in-dubai-article-structured",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-hotels-auf-der-palm-jumeirah",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-hotels-auf-der-palm-jumeirah/atlantis-the-palm-dubai-hotelbewertung",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-hotels-auf-der-palm-jumeirah/anantara-the-palm-dubai-hotelbewertung",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-hotels-auf-der-palm-jumeirah/rixos-the-palm-dubai-hotelbewertung",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-hotels-auf-der-palm-jumeirah/atlantis-the-royal-dubai-hotelbewertung",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-hotels-auf-der-palm-jumeirah/five-palm-jumeirah-dubai-hotelbewertung",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/de/best-desert-safaris-dubai/wie-die-besten-wustensafaris-in-dubai-bewertet-wurden",
+      "destination": "/best-desert-safaris-dubai/how-evaluated-the-best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/el",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/el/τα-καλύτερα-ξενοδοχεία-στο-παλμ-τζουμέιρα-του-ντουμπάι",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/el/τα-καλύτερα-ξενοδοχεία-στο-παλμ-τζουμέιρα-του-ντουμπάι/κριτική-για-το-ατλαντίς-στο-παλμ-ντουμπάι",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/τα-καλύτερα-ξενοδοχεία-palm-jumeirah-στο-ντουμπάι/κριτική-για-το-atlantis-the-royal-στο-ντουμπάι",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/επαφή",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/el/καλύτερα-ξενοδοχεία-palm-jumeirah-ντουμπάι/κριτική-anantara-the-palm-ντουμπάι",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/καλύτερα-ξενοδοχεία-palm-jumeirah-ντουμπάι/κριτική-rixos-the-palm-ντουμπάι",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/καλύτερα-ξενοδοχεία-palm-jumeirah-ντουμπάι/κριτική-five-palm-jumeirah-ντουμπάι",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/οι-καλύτερες-περιηγήσεις-με-ελικόπτερο-στη-νέα-υόρκη",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/el/για",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/el/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/el/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/el/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/es",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/es/acerca-de",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/es/contact",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-hoteles-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-hoteles-palm-jumeirah-dubai/atlantis-the-royal-dubai-resena",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-hoteles-palm-jumeirah-dubai/anantara-the-palm-dubai-resena",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-hoteles-palm-jumeirah-dubai/five-palm-jumeirah-dubai-resena",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-hoteles-palm-jumeirah-dubai/atlantis-the-palm-dubai-resena",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-hoteles-palm-jumeirah-dubai/rixos-the-palm-dubai-resena",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-helicopter-tours-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/es/contacto",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/es/about",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/es/los-mejores-safaris-por-el-desierto-de-dubái",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-palm-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-tours-en-helicóptero-en-nueva-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/es/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/fa",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/fa/نقد-و-بررسی-بهترین-هتلهای-پالم-جمیرا-دبی/آتلانتیس-رویال-دبی",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/بهترین-تورهای-هلیکوپتر-در-نیویورک",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/fa/بهترین-هتلهای-پالم-جمیرا-دبی",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fa/بهترین-هتلهای-پالم-جمیرا-دبی/نقد-و-بررسی-هتل-آتلانتیس-پالم-دبی",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/بهترین-هتلهای-پالم-جمیرا-دبی/نقد-و-بررسی-هتل-فایو-پالم-جمیرا-دبی",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/بهترین-هتلهای-پالم-جمیرا-دبی/نقد-و-بررسی-هتل-آنانتارا-پالم-دبی",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/بهترین-هتلهای-پالم-جمیرا-دبی/نقد-و-بررسی-هتل-ریکسوس-پالم-دبی",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/تماس",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/fa/درباره",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/fa/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fa/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fa/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/fr",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-hotels-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-hotels-palm-jumeirah-dubai/atlantis-the-royal-dubai-avis",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-hotels-palm-jumeirah-dubai/rixos-the-palm-dubai-avis",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-hotels-palm-jumeirah-dubai/atlantis-the-palm-dubai-avis",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-hotels-palm-jumeirah-dubai/five-palm-jumeirah-dubai-avis",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-hotels-palm-jumeirah-dubai/anantara-the-palm-dubai-avis",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/contact",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-helicopter-tours-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-safaris-dans-le-désert-de-dubaï",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fr/à-propos",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/fr/about",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-palm-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleures-excursions-en-hélicoptère-à-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fr/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/he",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/he/מגע",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/he/ביקורת-על-מלונות-פאלם-ג39ומיירה-הטובים-ביותר-בדובאי/אטלנטיס-דה-רויאל-דובאי",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/ביקורת-על-מלונות-פאלם-ג39ומיירה-הטובים-ביותר-בדובאי/ריקסוס-דה-פאלם-דובאי",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/ביקורת-על-מלונות-פאלם-ג39ומיירה-הטובים-ביותר-בדובאי/אטלנטיס-דה-פאלם-דובאי",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/טיולי-המסוקים-הטובים-ביותר-בניו-יורק",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/he/אודות",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/he/המלונות-הטובים-ביותר-בפאלם-ג39ומיירה-בדובאי",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/he/המלונות-הטובים-ביותר-בפאלם-ג39ומיירה-בדובאי/ביקורת-על-חמשת-פאלם-ג39ומיירה-בדובאי",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/המלונות-הטובים-ביותר-בפאלם-ג39ומיירה-בדובאי/ביקורת-על-אננטרה-פאלם-דובאי",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/he/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/he/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/hi",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hi/दबई-म-सबस-अचछ-पम-जमरह-हटल",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hi/सरवशरषठ-पम-जमरह-हटल-दबई/अनतर-द-पम-दबई-समकष",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/सपरक",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/hi/दबई-क-सबस-अचछ-रगसतन-सफर",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hi/नययरक-म-सरवशरषठ-हलकपटर-टर",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/hi/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/क-बर-म",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/hi/दबई-क-सरवशरषठ-पम-जमरह-हटल/अटलटस-द-रयल-दबई-क-समकष",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/दबई-क-सरवशरषठ-पम-जमरह-हटल/अटलटस-द-पम-दबई-क-समकष",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/दबई-क-सरवशरषठ-पम-जमरह-हटल/पच-पम-जमरह-दबई-क-समकष",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hi/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/hr",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hr/kontakt",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/hr/oko",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/hr/najbolji-hoteli-u-palm-jumeirahu-u-dubaiju",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hr/najbolji-helikopterski-izleti-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/hr/najbolji-hoteli-palm-jumeirah-u-dubaiju/recenzija-atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hr/najbolji-hoteli-palm-jumeirah-u-dubaiju/recenzija-rixosa-the-palm-dubaija",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hr/najbolji-hoteli-palm-jumeirah-u-dubaiju/recenzija-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hr/najbolji-hoteli-palm-jumeirah-u-dubaiju/recenzija-atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hr/najbolji-hoteli-palm-jumeirah-u-dubaiju/recenzija-five-palm-jumeirah-u-dubaiju",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hr/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hr/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hr/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/hu",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hu/érintkezés",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-helikopter-túrák-new-yorkban",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-szállodak-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-szállodak-dubai/atlantis-the-royal-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-szállodak-dubai/anantara-the-palm-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-szállodak-dubai/atlantis-the-palm-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-szállodak-dubai/five-palm-jumeirah-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-szállodak-dubai/rixos-the-palm-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/körülbelül",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/hu/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hu/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hu/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/id",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/id/hotel-palm-jumeirah-terbaik-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/id/hotel-palm-jumeirah-terbaik-dubai/ulasan-atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/id/hotel-palm-jumeirah-terbaik-dubai/ulasan-atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/id/tur-helikopter-terbaik-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/id/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/id/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/id/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/id/tentang",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/id/kontak",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/id/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/id/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/id/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/it",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/it/di",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/it/contatto",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/it/migliori-tour-in-elicottero-a-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/it/i-migliori-safari-nel-deserto-di-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/it/migliori-hotel-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/it/migliori-hotel-palm-jumeirah-dubai/atlantis-the-royal-dubai-recensione",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/it/migliori-hotel-palm-jumeirah-dubai/atlantis-the-palm-dubai-recensione",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/it/migliori-hotel-palm-jumeirah-dubai/five-palm-jumeirah-dubai-recensione",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/it/migliori-hotel-palm-jumeirah-dubai/rixos-the-palm-dubai-recensione",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/it/migliori-hotel-palm-jumeirah-dubai/anantara-the-palm-dubai-recensione",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/it/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/it/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/ja",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ja/接触",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ニューヨーク最高のヘリコプターツアー",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ドバイのベストパームジュメイラホテル",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ドバイのベストパームジュメイラホテル/アトランティスザパームドバイのレビュー",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ドバイのベストパームジュメイラホテル/ファイブパームジュメイラドバイのレビュー",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ドバイのベストパームジュメイラホテル/アナンタラザパームドバイのレビュー",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ドバイのベストパームジュメイラホテル/リクソスザパームドバイのレビュー",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ドバイのベストパームジュメイラホテル/アトランティスザロイヤルドバイのレビュー",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/について",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ja/ドバイの最高の砂漠サファリ",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ja/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ja/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/ko",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ko/연락하다",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ko/에-대한",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ko/뉴욕-최고의-헬리콥터-투어",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ko/베스트-팜-주메이라-호텔-두바이",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ko/베스트-팜-주메이라-호텔-두바이/아틀란티스-더-팜-두바이-리뷰",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/베스트-팜-주메이라-호텔-두바이/아난타라-더-팜-두바이-리뷰",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/베스트-팜-주메이라-호텔-두바이/파이브-팜-주메이라-두바이-리뷰",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/베스트-팜-주메이라-호텔-두바이/아틀란티스-더-로열-두바이-리뷰",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/베스트-팜-주메이라-호텔-두바이/릭소스-더-팜-두바이-리뷰",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ko/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ko/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/nl",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/nl/contact",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/nl/beste-palm-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/nl/beste-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-recensie",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/nl/beste-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-recensie",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/nl/beste-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-recensie",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/nl/beste-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-recensie",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/nl/beste-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-recensie",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/nl/over",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/nl/beste-helikopter-rondvluchten-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/nl/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/nl/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/nl/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/no",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/no/beste-palm-jumeirah-hoteller-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/no/beste-palm-jumeirah-hoteller-dubai/anmeldelse-av-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/no/beste-palm-jumeirah-hoteller-dubai/rixos-the-palm-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/no/beste-palm-jumeirah-hoteller-dubai/anantara-the-palm-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/no/beste-palm-jumeirah-hoteller-dubai/atlantis-the-royal-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/no/beste-palm-jumeirah-hoteller-dubai/atlantis-the-palm-dubai-anmeldelse",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/no/kontakt",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/no/om",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/no/beste-helikopterturer-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/no/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/no/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/no/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/pl",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-hotele-w-palm-jumeirah-dubai/recenzje-pięciu-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-hotele-w-palm-jumeirah-dubai/atlantis-the-royal-dubai-recenzje",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-hotele-w-palm-jumeirah-dubai/recenzje-rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-hotele-w-palm-jumeirah-dubai/atlantis-the-palm-dubai-recenzje",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-hotele-w-palm-jumeirah-dubai/recenzja-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pl/kontakt",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-hotele-w-palm-jumeirah-dubaju",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pl/o",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-wycieczki-helikopterem-nowy-jork",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-safari-pustynne-dubaj",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pl/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pl/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/pt",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-safáris-no-deserto-em-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pt/sobre",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hotéis-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hotéis-palm-jumeirah-dubai/avaliação-rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hotéis-palm-jumeirah-dubai/avaliação-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hotéis-palm-jumeirah-dubai/avaliação-do-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hotéis-em-palm-jumeirah-dubai/avaliação-do-atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hotéis-em-palm-jumeirah-dubai/avaliação-do-atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/contato",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-passeios-de-helicóptero-nova-iorque",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/pt/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pt/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/ru",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ru/о",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ru/contact",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-helicopter-tours-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшие-отели-палм-джумейра-в-дубае",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшие-отели-палм-джумейра-в-дубае/анантара-Палм-Дубай-обзор",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшие-отели-палм-джумейра-в-дубае/атлантис-роял-дубай-обзор",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшие-отели-палм-джумейра-в-дубае/риксос-пальм-дубай-отзыв",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшие-отели-палм-джумейра-в-дубае/пять-пальм-джумейра-дубай-отзыв",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшие-отели-палм-джумейра-в-дубае/атлантис-пальм-дубай-отзыв",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/about",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-palm-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/контакт",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшие-вертолетные-туры-в-нью-йорке",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ru/лучшее-сафари-по-пустыне-дубай",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ru/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/sr",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sr/најбоље-хеликоптерске-туре-њујорк",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/sr/о",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/sr/најбољи-хотели-на-палм-џумеири-у-дубаију",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sr/најбољи-хотели-на-палм-џумеири-у-дубаију/рецензија-рикоса-палм-дубаи",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/најбољи-хотели-на-палм-џумеири-у-дубаију/рецензија-атлантис-ројал-дубаија",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/најбољи-хотели-у-палм-џумеири-у-дубаију/рецензија-five-palm-џумеире-у-дубаију",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/најбољи-хотели-у-палм-џумеири-у-дубаију/рецензија-атлантис-палм-дубаија",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/контакт",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/sr/најбољи-хотели-на-палму-џумеири-у-дубаију/рецензија-анантара-палм-дубаију",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sr/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sr/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/sv",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sv/bästa-palm-jumeirah-hotell-dubai/recension-av-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/bästa-palm-jumeirah-hotell-dubai/atlantis-the-royal-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/bästa-palm-jumeirah-hotell-dubai/atlantis-the-palm-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/bästa-palm-jumeirah-hotell-dubai/rixos-the-palm-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/bästa-palm-jumeirah-hotell-dubai/anantara-the-palm-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/om",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/sv/bästa-palm-jumeirah-hotellen-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sv/bästa-helikopterturer-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/sv/kontakta",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/sv/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sv/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sv/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/th",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/th/โรงแรมปาลมจไมราหทดทสดในดไบ/รววโรงแรมแอตแลนตส-เดอะ-รอยล-ดไบ",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/โรงแรม-ปาลม-จไมราห-ดไบทดทสด/รวว-ไฟวปาลม-จไมราห-ดไบ",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/โรงแรมเบสต-ปาลม-จไมราห-ดไบ",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/th/ตดตอ",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/th/โรงแรม-ปาลม-จไมราห-ดไบ/รววแอตแลนตส-เดอะ-ปาลม-ดไบ",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/โรงแรม-ปาลม-จไมราห-ดไบ/รวว-รซอส-เดอะ-ปาลม-ดไบ",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/โรงแรม-ปาลม-จไมราห-ดไบ/รววอนนตรา-เดอะ-ปาลม-ดไบ",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/เกยวกบ",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/th/ทวรเฮลคอปเตอรทดทสดในนวยอรก",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/th/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/th/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/th/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/tr",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tr/hakkında",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-helikopter-turları-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/tr/temas-etmek",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-palm-jumeirah-otelleri-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-palm-jumeirah-otelleri-dubai/atlantis-the-palm-dubai-incelemesi",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-palm-jumeirah-otelleri-dubai/beş-palm-jumeirah-dubai-incelemesi",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-palm-jumeirah-otelleri-dubai/atlantis-the-royal-dubai-incelemesi",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-palm-jumeirah-otelleri-dubai/anantara-the-palm-dubai-incelemesi",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-palm-jumeirah-otelleri-dubai/rixos-the-palm-dubai-incelemesi",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/tr/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/tr/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/tr/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/uk",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/uk/найкращі-готелі-на-палм-джумейрі-в-дубаї/відгук-про-five-palm-джумейру-в-дубаї",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/найкращі-готелі-на-пальмі-джумейрі-в-дубаї/відгук-про-атлантіс-the-palm-дубай",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/найкращі-готелі-на-пальмі-джумейрі-в-дубаї/відгук-про-rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/найкращі-готелі-на-пальмі-джумейрі-в-дубаї/огляд-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/найкращі-готелі-на-палм-джумейрі-дубай",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/uk/найкращі-вертолітні-тури-нью-йорк",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/uk/огляд-найкращих-готелів-palm-jumeirah-у-дубаї/atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/про",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/uk/контакт",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/uk/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/uk/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/uk/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/ur",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ur/بہترین-ہیلی-کاپٹر-ٹور-نیویارک",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ur/کے-بارے-میں",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-pam-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-pam-jumeirah-hotels-dubai/anantara-the-pam-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-palm-jumeirah-hotels-dubai/atlantis-the-pam-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ur/رابطہ",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ur/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/vi",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/vi/đánh-giá-khách-sạn-tốt-nhất-tại-palm-jumeirah-dubai/atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/đánh-giá-khách-sạn-tốt-nhất-tại-palm-jumeirah-dubai/atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/đánh-giá-khách-sạn-tốt-nhất-tại-palm-jumeirah-dubai/anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/đánh-giá-khách-sạn-tốt-nhất-tại-palm-jumeirah-dubai/rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/khách-sạn-tốt-nhất-ở-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/vi/các-tour-du-lịch-trực-thăng-tốt-nhất-ở-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/vi/về",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/vi/khách-sạn-tốt-nhất-tại-palm-jumeirah-dubai/đánh-giá-khách-sạn-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/vi/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/vi/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/vi/liên-hệ",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/zh",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/zh/纽约最佳直升机之旅",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/zh/迪拜最佳沙漠之旅",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/zh/迪拜棕榈岛最佳酒店",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/zh/迪拜棕榈岛最佳酒店/迪拜棕榈岛安纳塔拉酒店点评",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/迪拜棕榈岛最佳酒店/迪拜棕榈岛瑞克索斯酒店点评",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/迪拜棕榈岛最佳酒店/亚特兰蒂斯棕榈岛酒店点评",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/迪拜棕榈岛最佳酒店/迪拜皇家亚特兰蒂斯酒店点评",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/接触",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/zh/迪拜最佳棕榈岛酒店/迪拜五棕榈岛酒店点评",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/关于",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/zh/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "destination": "/best-desert-safaris-dubai/itinerary-from-the-city-to-the-desert-in-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/zh/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
       "permanent": true
     }
   ],
