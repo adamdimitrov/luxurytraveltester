@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Mobile Card & Hybrid Sticky Bar Test Environment — Luxury Travel Tester</title>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --gold-primary: #d97706;
+    --gold-hover: #b45309;
+    --gold-light: #fef3c7;
+    --gold-border: rgba(217, 119, 6, 0.25);
+    --slate-900: #0f172a;
+    --slate-800: #1e293b;
+    --slate-700: #334155;
+    --slate-600: #475569;
+    --slate-500: #64748b;
+    --slate-100: #f1f5f9;
+    --slate-50: #f8fafc;
+    --border-color: #e2e8f0;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #f1f5f9;
+    color: var(--slate-800);
+    padding-bottom: 120px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Environment Header */
+  .env-header {
+    background: #0f172a;
+    color: #fff;
+    padding: 16px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+  .env-header h1 {
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #f8fafc;
+  }
+  .env-header .env-badge {
+    background: var(--gold-primary);
+    color: #fff;
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-weight: 800;
+  }
+  .env-tabs {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .env-tab-btn {
+    flex: 1;
+    background: rgba(255,255,255,0.1);
+    color: #cbd5e1;
+    border: 1px solid rgba(255,255,255,0.15);
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.2s;
+  }
+  .env-tab-btn.active {
+    background: var(--gold-primary);
+    color: #fff;
+    border-color: var(--gold-primary);
+  }
+
+  .container {
+    max-width: 440px;
+    margin: 20px auto;
+    padding: 0 16px;
+  }
+
+  .section-label {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--slate-500);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  /* ==========================================================================
+     CURRENT / BEFORE DESIGN (For comparison)
+     ========================================================================== */
+  .card-before {
+    background: #fff;
+    border-radius: 16px;
+    border: 1px solid #e2e8f0;
+    overflow: hidden;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+  }
+  .media-before {
+    position: relative;
+    height: 240px;
+    background: #000;
+  }
+  .media-before img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .tag-before {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: #f59e0b;
+    color: #fff;
+    font-weight: 800;
+    font-size: 11px;
+    padding: 5px 12px;
+    border-radius: 999px;
+  }
+  .content-before {
+    padding: 18px 16px;
+  }
+  .title-before {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 6px;
+  }
+  .stars-before {
+    color: #f59e0b;
+    font-size: 14px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+  }
+  .chips-row-before {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .chip-before {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 4px 8px;
+    border-radius: 6px;
+  }
+  .specs-before {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 14px;
+  }
+  .spec-item-before {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    color: #475569;
+  }
+  .bestfor-before {
+    background: #fffbeb;
+    border-left: 3px solid #f59e0b;
+    padding: 10px;
+    font-size: 12px;
+    color: #78350f;
+    border-radius: 4px;
+    margin-bottom: 16px;
+  }
+  /* The ugly before bottom row */
+  .cta-cell-before {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 14px;
+    gap: 8px;
+  }
+  .price-col-before {
+    flex: 1;
+  }
+  .price-main-before {
+    font-size: 18px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.1;
+  }
+  .price-sub-before {
+    font-size: 10px;
+    color: #64748b;
+    margin-top: 3px;
+  }
+  .btn-before {
+    background: #d97706;
+    color: #fff;
+    padding: 12px 14px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.2;
+    text-decoration: none;
+    flex: 1.1;
+  }
+  .read-review-before {
+    font-size: 11px;
+    color: #2563eb;
+    text-decoration: underline;
+    text-align: right;
+    line-height: 1.2;
+    flex: 0.8;
+  }
+
+
+  /* ==========================================================================
+     PROPOSED / AFTER REDESIGN — ULTRA LUXURY EDITORIAL
+     ========================================================================== */
+  .card-after {
+    background: #ffffff;
+    border-radius: 20px;
+    border: 1px solid rgba(226, 232, 240, 0.9);
+    overflow: hidden;
+    margin-bottom: 30px;
+    box-shadow: 0 10px 30px -8px rgba(15, 23, 42, 0.08), 0 2px 6px -1px rgba(15, 23, 42, 0.03);
+    position: relative;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .card-after::before {
+    content: "";
+    display: block;
+    height: 4px;
+    width: 100%;
+    background: linear-gradient(90deg, #d97706, #fbbf24 50%, #d97706);
+  }
+  .media-after {
+    position: relative;
+    height: 240px;
+    background: #0f172a;
+    overflow: hidden;
+  }
+  .media-after img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .badge-after {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    color: #fbbf24;
+    font-weight: 800;
+    font-size: 11px;
+    letter-spacing: 0.3px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(251, 191, 36, 0.3);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  }
+  .pill-count-after {
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    background: rgba(15, 23, 42, 0.75);
+    backdrop-filter: blur(6px);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 6px;
+  }
+
+  .content-after {
+    padding: 20px 18px 22px 18px;
+  }
+  .kicker-after {
+    font-size: 10.5px;
+    font-weight: 800;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--gold-primary);
+    margin-bottom: 6px;
+  }
+  .title-after {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+  .social-proof-after {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .rating-pill-after {
+    background: #fef3c7;
+    color: #92400e;
+    font-weight: 800;
+    font-size: 12px;
+    padding: 3px 8px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .reviews-total-after {
+    font-size: 12.5px;
+    color: var(--slate-500);
+    font-weight: 500;
+  }
+  .tested-chip-after {
+    font-size: 11px;
+    font-weight: 700;
+    color: #059669;
+    background: #ecfdf5;
+    border: 1px solid #a7f3d0;
+    padding: 2px 7px;
+    border-radius: 6px;
+  }
+
+  /* Verified Channel Micro-Pills */
+  .channels-strip-after {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 12px;
+    background: #f8fafc;
+    border-radius: 10px;
+    border: 1px solid #f1f5f9;
+    margin-bottom: 16px;
+  }
+  .channel-col-after {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    flex: 1;
+  }
+  .channel-col-after img {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+  }
+  .channel-col-after strong {
+    color: #0f172a;
+    font-weight: 700;
+  }
+  .channel-col-after span {
+    color: var(--slate-500);
+    font-size: 11px;
+  }
+  .channel-divider-after {
+    width: 1px;
+    height: 18px;
+    background: #e2e8f0;
+  }
+
+  /* Feature Grid */
+  .features-grid-after {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  .feature-pill-after {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    padding: 8px 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--slate-700);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  /* Editorial Best-For Quote */
+  .bestfor-after {
+    background: rgba(245, 158, 11, 0.05);
+    border: 1px solid rgba(245, 158, 11, 0.2);
+    border-left: 4px solid #d97706;
+    border-radius: 0 10px 10px 0;
+    padding: 12px 14px;
+    margin-bottom: 20px;
+  }
+  .bestfor-label-after {
+    font-size: 10.5px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #b45309;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .bestfor-text-after {
+    font-size: 12.5px;
+    color: #78350f;
+    line-height: 1.45;
+  }
+
+  /* REDESIGNED LUXURY PRICING & ACTION SECTION */
+  .pricing-action-box {
+    background: #f8fafc;
+    border-radius: 14px;
+    padding: 16px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .pricing-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .price-tag-wrap {
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+  }
+  .price-currency {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--slate-600);
+  }
+  .price-amount {
+    font-size: 26px;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.5px;
+  }
+  .price-unit {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--slate-500);
+  }
+  .price-range-badge {
+    font-size: 11px;
+    font-weight: 600;
+    color: #059669;
+    background: #ecfdf5;
+    border: 1px solid #a7f3d0;
+    padding: 3px 8px;
+    border-radius: 6px;
+  }
+  .price-sub-note {
+    font-size: 11px;
+    color: var(--slate-500);
+    margin-top: -6px;
+  }
+
+  /* High-Conversion Primary Button */
+  .btn-primary-luxury {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 14px 20px;
+    background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    text-decoration: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(217, 119, 6, 0.35);
+    transition: all 0.2s ease;
+    border: none;
+  }
+  .btn-primary-luxury:hover {
+    box-shadow: 0 6px 20px rgba(217, 119, 6, 0.45);
+    transform: translateY(-1px);
+  }
+  .btn-secondary-luxury {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    color: var(--slate-600);
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 4px 0;
+    transition: color 0.2s;
+  }
+  .btn-secondary-luxury:hover {
+    color: var(--gold-primary);
+  }
+
+
+  /* ==========================================================================
+     HYBRID MOBILE STICKY BAR (Floating TOC + Buy CTA)
+     ========================================================================== */
+  .hybrid-sticky-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-top: 1px solid rgba(226, 232, 240, 0.9);
+    box-shadow: 0 -8px 24px rgba(15, 23, 42, 0.08);
+    z-index: 9999;
+    padding: 10px 14px calc(10px + env(safe-area-inset-bottom, 0px)) 14px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    box-sizing: border-box;
+    transform: translateY(0);
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  /* Left TOC Action Button */
+  .hybrid-toc-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    width: 52px;
+    height: 48px;
+    flex-shrink: 0;
+    color: #334155;
+    font-size: 9.5px;
+    font-weight: 700;
+    gap: 3px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .hybrid-toc-btn svg {
+    width: 16px;
+    height: 16px;
+    stroke-width: 2.2;
+    color: #0f172a;
+  }
+  .hybrid-toc-btn:active {
+    background: #e2e8f0;
+    transform: scale(0.96);
+  }
+
+  /* Center Hotel Meta */
+  .hybrid-meta-wrap {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex: 1;
+    min-width: 0;
+  }
+  .hybrid-thumb {
+    width: 44px;
+    height: 44px;
+    border-radius: 8px;
+    object-fit: cover;
+    flex-shrink: 0;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+  }
+  .hybrid-info-col {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .hybrid-hotel-name {
+    font-size: 13px;
+    font-weight: 700;
+    color: #0f172a;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.2;
+  }
+  .hybrid-hotel-rate {
+    font-size: 11.5px;
+    font-weight: 700;
+    color: var(--gold-primary);
+    margin-top: 2px;
+  }
+
+  /* Right Primary CTA Button */
+  .hybrid-buy-btn {
+    background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 12px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    white-space: nowrap;
+    flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(217, 119, 6, 0.3);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .hybrid-buy-btn:active {
+    transform: scale(0.97);
+  }
+
+  /* Mock Bottom Sheet Modal */
+  .mock-bottom-sheet {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -12px 36px rgba(15, 23, 42, 0.2);
+    z-index: 10000;
+    padding: 20px 20px 30px 20px;
+    transform: translateY(100%);
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+  .mock-bottom-sheet.open {
+    transform: translateY(0);
+  }
+  .mock-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(15, 23, 42, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: 9999;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+  }
+  .mock-backdrop.open {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .sheet-handle {
+    width: 38px;
+    height: 4px;
+    background: #cbd5e1;
+    border-radius: 2px;
+    margin: 0 auto 16px auto;
+  }
+  .sheet-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  .sheet-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #0f172a;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .sheet-close-btn {
+    background: #f1f5f9;
+    border: none;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    color: #64748b;
+  }
+  .sheet-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid #f1f5f9;
+    font-size: 13.5px;
+    font-weight: 600;
+    color: #334155;
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+
+<header class="env-header">
+  <h1><span>⚡ Design Lab:</span> Luxury Mobile Redesign <span class="env-badge">TEST ENV</span></h1>
+  <div class="env-tabs">
+    <button class="env-tab-btn" onclick="showTab('before')">1. Old Design (Current)</button>
+    <button class="env-tab-btn active" onclick="showTab('after')">2. Luxury Redesign (After)</button>
+  </div>
+</header>
+
+<div class="container">
+
+  <!-- ==================== TAB 1: BEFORE ==================== -->
+  <div id="tab-before" style="display: none;">
+    <div class="section-label">🔴 Current Mobile Card (Crowded Layout)</div>
+    <div class="card-before">
+      <div class="media-before">
+        <span class="tag-before">🏆 #1 Best All-Around</span>
+        <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif" alt="Atlantis The Palm">
+      </div>
+      <div class="content-before">
+        <div class="title-before">Atlantis, The Palm</div>
+        <div class="stars-before">
+          <span>★★★★★</span>
+          <strong>4.7 / 5.0</strong>
+          <span style="color:#64748b;">(132,180+ Reviews)</span>
+        </div>
+        <div class="chips-row-before">
+          <div class="chip-before"><img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif" style="width:14px;height:14px;"><strong>4.6</strong> (19.6k+)</div>
+          <div class="chip-before"><img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67d02edca7795b0f57073fd6_tripadvisor-icon.avif" style="width:14px;height:14px;"><strong>4.7</strong> (9.7k+)</div>
+          <div class="chip-before"><img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4688dbf65f4077122_google-logo.avif" style="width:14px;height:14px;"><strong>4.7</strong> (99.0k+)</div>
+        </div>
+        <div class="specs-before">
+          <div class="spec-item-before">🌊 Free Aquaventure Waterpark</div>
+          <div class="spec-item-before">🦈 Lost Chambers Aquarium</div>
+          <div class="spec-item-before">🍽️ 15+ World-Class Restaurants</div>
+        </div>
+        <div class="bestfor-before">
+          🎯 <strong>Best For:</strong> Families & all-round travelers wanting free unlimited Aquaventure Waterpark access and 15+ dining options.
+        </div>
+        <!-- CROWDED BOTTOM ROW -->
+        <div class="cta-cell-before">
+          <div class="price-col-before">
+            <div class="price-main-before">From €300/night</div>
+            <div class="price-sub-before">Off-peak €300–€500 • Peak €500–€1000</div>
+          </div>
+          <a href="#" class="btn-before">Book on Booking.com →</a>
+          <a href="#" class="read-review-before">Read<br>Review ↓</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- ==================== TAB 2: PROPOSED AFTER ==================== -->
+  <div id="tab-after">
+    <div class="section-label">✨ Luxury Editorial Redesign (Spacious & Clean)</div>
+
+    <div class="card-after">
+      <div class="media-after">
+        <span class="badge-after">🏆 #1 BEST ALL-AROUND</span>
+        <span class="pill-count-after">📸 1 / 10</span>
+        <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif" alt="Atlantis The Palm">
+      </div>
+
+      <div class="content-after">
+        <div class="kicker-after">ATLANTIS, THE PALM • CRESCENT ROAD</div>
+        <h2 class="title-after">Atlantis, The Palm</h2>
+
+        <!-- Social Proof Bar -->
+        <div class="social-proof-after">
+          <div class="rating-pill-after">★ 4.7 / 5.0</div>
+          <span class="reviews-total-after">132,180+ verified reviews</span>
+          <span class="tested-chip-after">✓ Field-Tested</span>
+        </div>
+
+        <!-- Clean Channel Micro-Strip -->
+        <div class="channels-strip-after">
+          <div class="channel-col-after">
+            <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif" alt="Booking">
+            <strong>4.6</strong>
+            <span>(19k)</span>
+          </div>
+          <div class="channel-divider-after"></div>
+          <div class="channel-col-after">
+            <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67d02edca7795b0f57073fd6_tripadvisor-icon.avif" alt="TripAdvisor">
+            <strong>4.7</strong>
+            <span>(10k)</span>
+          </div>
+          <div class="channel-divider-after"></div>
+          <div class="channel-col-after">
+            <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4688dbf65f4077122_google-logo.avif" alt="Google">
+            <strong>4.7</strong>
+            <span>(99k)</span>
+          </div>
+        </div>
+
+        <!-- 2x2 Feature Highlights -->
+        <div class="features-grid-after">
+          <div class="feature-pill-after">🌊 Free Waterpark</div>
+          <div class="feature-pill-after">🦈 Giant Aquarium</div>
+          <div class="feature-pill-after">🍽️ 15+ Restaurants</div>
+          <div class="feature-pill-after">🏖️ Private Beach</div>
+        </div>
+
+        <!-- Editorial Best For -->
+        <div class="bestfor-after">
+          <div class="bestfor-label-after">🎯 EDITORIAL VERDICT</div>
+          <div class="bestfor-text-after">
+            Best for families and luxury travelers wanting free unlimited Aquaventure Waterpark access, massive aquarium, and celebrity chef dining.
+          </div>
+        </div>
+
+        <!-- REDESIGNED PRICING & ACTION BOX -->
+        <div class="pricing-action-box">
+          <div class="pricing-header-row">
+            <div class="price-tag-wrap">
+              <span class="price-currency">From €</span>
+              <span class="price-amount">300</span>
+              <span class="price-unit">/ night</span>
+            </div>
+            <span class="price-range-badge">Free Cancellation</span>
+          </div>
+          <div class="price-sub-note">Off-peak €300–€500 • Peak season €500–€1,000</div>
+
+          <!-- Full Width High-End Button -->
+          <a href="#" class="btn-primary-luxury">
+            <span>Check Availability on Booking.com</span>
+            <span>→</span>
+          </a>
+
+          <!-- Subtle Review Sublink -->
+          <a href="#" class="btn-secondary-luxury">
+            <span>Read In-Depth Chapter Review</span>
+            <span>↓</span>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ==========================================================================
+     HYBRID MOBILE STICKY BAR: FLOATING TOC + BUY BUTTON
+     ========================================================================== -->
+<aside class="hybrid-sticky-bar" id="hybridStickyBar">
+  <!-- 1. TOC Quick Action Button -->
+  <button class="hybrid-toc-btn" id="mockTocTrigger" onclick="toggleSheet(true)" aria-label="Open Table of Contents">
+    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h7"></path>
+    </svg>
+    <span>TOC</span>
+  </button>
+
+  <!-- 2. Hotel Thumbnail & Dynamic Pricing -->
+  <div class="hybrid-meta-wrap">
+    <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif" alt="Atlantis" class="hybrid-thumb">
+    <div class="hybrid-info-col">
+      <span class="hybrid-hotel-name">Atlantis, The Palm</span>
+      <span class="hybrid-hotel-rate">From €300 / nt</span>
+    </div>
+  </div>
+
+  <!-- 3. Primary Booking CTA Pill -->
+  <a href="#" class="hybrid-buy-btn">
+    <span>Book Now</span>
+    <span>→</span>
+  </a>
+</aside>
+
+<!-- Mock Bottom Sheet Drawer -->
+<div class="mock-backdrop" id="mockBackdrop" onclick="toggleSheet(false)"></div>
+<div class="mock-bottom-sheet" id="mockSheet">
+  <div class="sheet-handle"></div>
+  <div class="sheet-header">
+    <div class="sheet-title">📑 Table of Contents</div>
+    <button class="sheet-close-btn" onclick="toggleSheet(false)">✕</button>
+  </div>
+  <a href="#" class="sheet-item" onclick="toggleSheet(false)"><span>1. Atlantis The Palm (Top Pick)</span><span>→</span></a>
+  <a href="#" class="sheet-item" onclick="toggleSheet(false)"><span>2. Atlantis The Royal</span><span>→</span></a>
+  <a href="#" class="sheet-item" onclick="toggleSheet(false)"><span>3. Anantara The Palm</span><span>→</span></a>
+  <a href="#" class="sheet-item" onclick="toggleSheet(false)"><span>4. FIVE Palm Jumeirah</span><span>→</span></a>
+  <a href="#" class="sheet-item" onclick="toggleSheet(false)"><span>5. Rixos The Palm</span><span>→</span></a>
+  <a href="#" class="sheet-item" onclick="toggleSheet(false)"><span>6. Detailed Breakdown (10 Hotels)</span><span>→</span></a>
+  <a href="#" class="sheet-item" onclick="toggleSheet(false)"><span>7. Palm Jumeirah FAQ & Tips</span><span>→</span></a>
+</div>
+
+<script>
+  function showTab(tab) {
+    document.querySelectorAll('.env-tab-btn').forEach(b => b.classList.remove('active'));
+    if (tab === 'before') {
+      document.getElementById('tab-before').style.display = 'block';
+      document.getElementById('tab-after').style.display = 'none';
+      event.target.classList.add('active');
+    } else {
+      document.getElementById('tab-before').style.display = 'none';
+      document.getElementById('tab-after').style.display = 'block';
+      event.target.classList.add('active');
+    }
+  }
+
+  function toggleSheet(open) {
+    document.getElementById('mockSheet').classList.toggle('open', open);
+    document.getElementById('mockBackdrop').classList.toggle('open', open);
+  }
+</script>
+
+</body>
+</html>
