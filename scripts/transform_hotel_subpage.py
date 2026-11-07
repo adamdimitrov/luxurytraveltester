@@ -453,6 +453,11 @@ def transform_hotel_page(file_path):
    OPTION C BENTO COLLAPSIBLE LITTLE BOXES ARCHITECTURE
    ========================================================================== */
 details.ltt-bento-group {
+  width: 100% !important;
+  max-width: 100% !important;
+  align-self: stretch !important;
+  box-sizing: border-box !important;
+  display: block !important;
   background: #ffffff !important;
   border: 1px solid #cbd5e1 !important;
   border-radius: 14px !important;
@@ -461,7 +466,20 @@ details.ltt-bento-group {
   overflow: hidden !important;
 }
 
+.cf-faq-container,
+.cf-faqs-container {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: stretch !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
 details.ltt-bento-group > summary.ltt-bento-group-head {
+  width: 100% !important;
+  box-sizing: border-box !important;
+  border-radius: 13px !important;
   list-style: none !important;
   cursor: pointer !important;
   display: flex !important;
@@ -481,6 +499,7 @@ details.ltt-bento-group > summary.ltt-bento-group-head::-webkit-details-marker {
 
 details.ltt-bento-group[open] > summary.ltt-bento-group-head {
   border-bottom-color: #e2e8f0 !important;
+  border-radius: 13px 13px 0 0 !important;
 }
 
 details.ltt-bento-group > summary.ltt-bento-group-head:hover {
