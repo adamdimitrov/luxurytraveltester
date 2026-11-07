@@ -24,6 +24,91 @@
       "permanent": true
     },
     {
+      "source": "/helicopter-tours",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/helicopter-tours-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/best-helicopter-tours",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/helicopter-tours",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/helicopter-tours/:match*",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/helicopter-tours-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/best-helicopter-tours",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/best-desert-safaris",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/best-desert-safaris",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/palm-jumeirah-hotels",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/palm-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/best-palm-jumeirah-hotels",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/palm-jumeirah-hotels",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/palm-jumeirah-hotels-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/best-palm-jumeirah-hotels",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
       "source": "/ar",
       "destination": "/",
       "permanent": true
