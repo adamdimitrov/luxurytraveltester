@@ -1,4 +1,5 @@
-<!DOCTYPE html><!-- Last Published: Sun Nov 01 2026 00:09:22 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="linguana.luxurytraveltester.com" data-wf-page="67d02edca7795b0f57073be7" data-wf-site="67d02edca7795b0f57073b59" lang="en"><head><meta charset="utf-8"/><link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/><title>About</title><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." name="description"/><meta content="About" property="og:title"/><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." property="og:description"/><meta content="About" name="twitter:title"/><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." name="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="google-site-verification=jPygzQl3dLYHsZI7XMPOqvcxGUVZtEr6WiuGN_O2xjo" name="google-site-verification"/><style id="ltt-nav-styles">/* ==========================================================================
+<!DOCTYPE html>
+<!-- Last Published: Sun Nov 01 2026 00:09:22 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="linguana.luxurytraveltester.com" data-wf-page="67d02edca7795b0f57073be7" data-wf-site="67d02edca7795b0f57073b59" lang="en"><head><meta charset="utf-8"/><link crossorigin="anonymous" href="https://cdn.prod.website-files.com" rel="preconnect"/><title>About</title><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." name="description"/><meta content="About" property="og:title"/><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." property="og:description"/><meta content="About" name="twitter:title"/><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." name="twitter:description"/><meta content="website" property="og:type"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="google-site-verification=jPygzQl3dLYHsZI7XMPOqvcxGUVZtEr6WiuGN_O2xjo" name="google-site-verification"/><style id="ltt-nav-styles">/* ==========================================================================
    LUXURY TRAVEL TESTER — MODERN VANILLA NAVIGATION SYSTEM
    Zero-dependency, semantic, responsive, WCAG-compliant (Desktop & Mobile)
    ========================================================================== */
@@ -23,8 +24,8 @@
   height: 100%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 20px;
+  justify-content: flex-start;
+  gap: 36px;
   box-sizing: border-box;
 }
 .ltt-brand {
@@ -49,10 +50,22 @@
   justify-content: center;
   width: 32px;
   height: 32px;
-  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
-  border: 1px solid #f59e0b;
+  background: linear-gradient(135deg, #fdfaf2 0%, #faecd0 100%);
+  border: 1px solid #dfa732;
   border-radius: 8px;
-  color: #b45309;
+  color: #785208;
+}
+.ltt-brand-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  outline: none;
 }
 .ltt-nav-links {
   display: flex;
@@ -83,6 +96,13 @@
   color: #0f172a;
   background: #f1f5f9;
   outline: none;
+}
+.ltt-nav-link.active,
+.ltt-nav-link[aria-current="page"] {
+  color: #0f172a !important;
+  background: #f1f5f9 !important;
+  font-weight: 700 !important;
+  box-shadow: inset 0 -2px 0 #0f172a !important;
 }
 .ltt-nav-dropdown {
   position: relative;
@@ -182,25 +202,27 @@
   padding-left: 14px;
 }
 .ltt-nav-right {
+  margin-left: auto;
   display: flex;
   align-items: center;
   gap: 12px;
 }
 .ltt-cta-pill {
-  background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+  background: linear-gradient(135deg, #dfa732 0%, #b88214 100%);
   color: #ffffff !important;
   font-size: 13px;
   font-weight: 700;
   padding: 8px 18px;
   border-radius: 9999px;
   text-decoration: none;
-  box-shadow: 0 2px 8px rgba(217, 119, 6, 0.28);
+  box-shadow: 0 2px 8px rgba(223, 167, 50, 0.35);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
   white-space: nowrap;
 }
 .ltt-cta-pill:hover {
+  background: linear-gradient(135deg, #ca9325 0%, #9f6e0d 100%);
   transform: translateY(-1px);
-  box-shadow: 0 4px 14px rgba(217, 119, 6, 0.4);
+  box-shadow: 0 4px 14px rgba(223, 167, 50, 0.48);
 }
 
 /* Mobile Toggle Hamburger Button */
@@ -249,6 +271,9 @@
 @media (max-width: 991px) {
   .ltt-nav-links {
     display: none !important;
+  }
+  .ltt-nav-right {
+    display: flex !important;
   }
   .ltt-hamburger {
     display: flex !important;
@@ -314,15 +339,22 @@
   .ltt-mobile-link:active {
     background: #f1f5f9;
   }
+  .ltt-mobile-link.active,
+  .ltt-mobile-link[aria-current="page"] {
+    background: #f1f5f9 !important;
+    border-color: #cbd5e1 !important;
+    border-left: 3px solid #0f172a !important;
+    font-weight: 700 !important;
+  }
   .ltt-mobile-link.ltt-highlight {
-    background: #fffbeb;
-    border-color: #fde68a;
-    color: #92400e;
+    background: #fdfaf2;
+    border-color: #f2e0b6;
+    color: #785208;
   }
   .ltt-mobile-tag {
     font-size: 10px;
     font-weight: 800;
-    background: #d97706;
+    background: #dfa732;
     color: #ffffff;
     padding: 2px 7px;
     border-radius: 9999px;
@@ -359,26 +391,65 @@
   .ltt-mobile-cta {
     display: block;
     text-align: center;
-    background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+    background: linear-gradient(135deg, #dfa732 0%, #b88214 100%);
     color: #ffffff !important;
     font-size: 14px;
     font-weight: 700;
     padding: 14px 20px;
     border-radius: 12px;
     text-decoration: none;
-    box-shadow: 0 4px 14px rgba(217, 119, 6, 0.35);
+    box-shadow: 0 4px 14px rgba(223, 167, 50, 0.38);
+  }
+}
+
+
+.ltt-brand:hover,
+.ltt-brand:hover .ltt-brand-text {
+  color: #0f172a !important;
+  opacity: 0.82 !important;
+}
+.ltt-brand-logo {
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.ltt-brand:hover .ltt-brand-logo {
+  transform: scale(1.04);
+}
+
+
+.ltt-nav-trust-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 6px 13px;
+  border-radius: 9999px;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04);
+  white-space: nowrap;
+}
+.ltt-trust-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  display: inline-block;
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
+}
+@media (max-width: 991px) {
+  .ltt-nav-trust-chip {
+    display: none !important;
   }
 }
 </style>
 <link href="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/69931a5c8204b2c3033cf7e0_cb8709e9-d73e-4f2d-8075-a73335a75564%20(2)%20(1).png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/69931a963c784a86a937148d_cb8709e9-d73e-4f2d-8075-a73335a75564%20(2)%20(2).png" rel="apple-touch-icon"/><link href="https://luxurytraveltester.com/about" rel="canonical"/><script>(function(w,i,g){w[g]=w[g]||[];if(typeof w[g].push=='function')w[g].push.apply(w[g],Array.isArray(i)?i:[i]);})(window,['G-4XYHG46VLR'],'google_tags_first_party');</script><script async="" src="/avljl2rk9q5pNjdkMDJlZGNhNzc5NWIwZjU3MDczYjU5/km3l9fdb8hgOWArDdfiXKrdWiwM"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('set', 'developer_id.dZGVlNj', true);gtag('set', 'developer_id.dYWYxNW', true);gtag('js', new Date());gtag('config', 'G-4XYHG46VLR');</script><!-- GetYourGuide Analytics -->
-
-<script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="YS414AJ"></script>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1463230641544606"
-     crossorigin="anonymous"></script>
-
+<script async="" data-gyg-partner-id="YS414AJ" defer="" src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"></script>
+<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1463230641544606"></script>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4XYHG46VLR"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-4XYHG46VLR"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -386,8 +457,7 @@
 
   gtag('config', 'G-4XYHG46VLR');
 </script>
-
-<script data-noptimize="1" data-cfasync="false" data-wpfc-render="false">
+<script data-cfasync="false" data-noptimize="1" data-wpfc-render="false">
   (function () {
       var script = document.createElement("script");
       script.async = 1;
@@ -395,8 +465,7 @@
       document.head.appendChild(script);
   })();
 </script>
-
-<script data-noptimize="1" data-cfasync="false" data-wpfc-render="false">
+<script data-cfasync="false" data-noptimize="1" data-wpfc-render="false">
   (function () {
       var script = document.createElement("script");
       script.async = 1;
@@ -405,125 +474,132 @@
   })();
 </script>
 </head><body><header class="ltt-navbar" role="banner">
-  <div class="ltt-nav-inner">
-    <a class="ltt-brand" href="/" aria-label="Luxury Travel Tester Homepage">
-      <span class="ltt-brand-emblem">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="10"></circle>
-          <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
-        </svg>
-      </span>
-      <span class="ltt-brand-text">LUXURY TRAVEL TESTER</span>
-    </a>
-
-    <nav class="ltt-nav-links" aria-label="Primary Navigation">
-      <div class="ltt-nav-dropdown" id="lttExploreDropdown">
-        <button class="ltt-nav-link ltt-dropdown-btn" aria-expanded="false" aria-haspopup="true" type="button">
-          <span>Explore</span>
-          <svg class="ltt-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-            <polyline points="6 9 12 15 18 9"></polyline>
-          </svg>
-        </button>
-        <div class="ltt-mega-menu" role="menu">
-          <div class="ltt-mega-col">
-            <div class="ltt-mega-head">POPULAR GUIDES</div>
-            <a class="ltt-mega-item" href="/best-desert-safaris-dubai">
-              <span class="ltt-mega-icon">🏜️</span>
-              <div>
-                <strong>Top 10 Dubai Desert Safaris</strong>
-                <p>Personally field-tested operators &amp; camps</p>
-              </div>
-            </a>
-            <a class="ltt-mega-item" href="/best-palm-jumeirah-hotels-dubai">
-              <span class="ltt-mega-icon">🏨</span>
-              <div>
-                <strong>Top 10 Dubai Palm Hotels</strong>
-                <p>Luxury resort stays &amp; private beaches</p>
-              </div>
-            </a>
-            <a class="ltt-mega-item" href="/best-helicopter-tours-new-york">
-              <span class="ltt-mega-icon">🚁</span>
-              <div>
-                <strong>NYC Helicopter Tours</strong>
-                <p>Doors-off shoe selfie &amp; skyline routes</p>
-              </div>
-            </a>
-          </div>
-          <div class="ltt-mega-col">
-            <div class="ltt-mega-head">HOTEL REVIEWS</div>
-            <a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">Atlantis The Palm, Dubai</a>
-            <a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">Atlantis The Royal, Dubai</a>
-            <a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">Anantara The Palm, Dubai</a>
-            <a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review">FIVE Palm Jumeirah, Dubai</a>
-            <a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review">Rixos The Palm, Dubai</a>
-          </div>
-        </div>
-      </div>
-
-      <a class="ltt-nav-link" href="/about" style="color: #0f172a; font-weight: 700;">About</a>
-      <a class="ltt-nav-link" href="/contact">Contact</a>
-    </nav>
-
-    <div class="ltt-nav-right">
-      <a class="ltt-cta-pill" href="/best-desert-safaris-dubai">Top Safaris →</a>
-      <button class="ltt-hamburger" id="lttNavToggle" aria-label="Toggle navigation menu" aria-expanded="false" type="button">
-        <span class="ltt-hamburger-bar"></span>
-        <span class="ltt-hamburger-bar"></span>
-        <span class="ltt-hamburger-bar"></span>
-      </button>
-    </div>
-  </div>
-
-  <div class="ltt-mobile-drawer" id="lttMobileDrawer" aria-hidden="true">
-    <div class="ltt-drawer-content">
-      <div class="ltt-mobile-section">
-        <div class="ltt-mobile-label">POPULAR GUIDES</div>
-        <a class="ltt-mobile-link" href="/best-desert-safaris-dubai">
-          <span>🏜️ Dubai Desert Safaris (Top 10)</span>
-          <span class="ltt-mobile-tag">Tested</span>
-        </a>
-        <a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai">
-          <span>🏨 Dubai Palm Hotels (Top 10)</span>
-        </a>
-        <a class="ltt-mobile-link" href="/best-helicopter-tours-new-york">
-          <span>🚁 NYC Helicopter Tours</span>
-        </a>
-      </div>
-
-      <div class="ltt-mobile-section">
-        <div class="ltt-mobile-label">FEATURED RESORT REVIEWS</div>
-        <div class="ltt-mobile-subgrid">
-          <a class="ltt-mobile-sublink" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">Atlantis The Palm</a>
-          <a class="ltt-mobile-sublink" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">Atlantis The Royal</a>
-          <a class="ltt-mobile-sublink" href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">Anantara The Palm</a>
-          <a class="ltt-mobile-sublink" href="/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review">FIVE Palm Jumeirah</a>
-          <a class="ltt-mobile-sublink" href="/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review">Rixos The Palm</a>
-        </div>
-      </div>
-
-      <div class="ltt-mobile-section ltt-mobile-footer-links">
-        <a class="ltt-mobile-link" href="/about">About</a>
-        <a class="ltt-mobile-link" href="/contact">Contact</a>
-      </div>
-
-      <div class="ltt-mobile-cta-wrap">
-        <a class="ltt-mobile-cta" href="/best-desert-safaris-dubai">Explore Top 10 Safaris →</a>
-      </div>
-    </div>
-  </div>
+<div class="ltt-nav-inner">
+<a aria-label="Luxury Travel Tester Homepage" class="ltt-brand" href="/">
+<span class="ltt-brand-emblem">
+<svg fill="none" height="20" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="20">
+<circle cx="12" cy="12" r="10"></circle>
+<polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+</svg>
+</span>
+<span class="ltt-brand-text">LUXURY TRAVEL TESTER</span>
+</a>
+<nav aria-label="Primary Navigation" class="ltt-nav-links">
+<div class="ltt-nav-dropdown" id="lttDestinationsDropdown">
+<button aria-expanded="false" aria-haspopup="true" class="ltt-nav-link ltt-dropdown-btn" type="button">
+<span>Destinations</span>
+<svg class="ltt-chevron" fill="none" height="12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="12">
+<polyline points="6 9 12 15 18 9"></polyline>
+</svg>
+</button>
+<div class="ltt-mega-menu" role="menu">
+<div class="ltt-mega-col">
+<div class="ltt-mega-head">DUBAI &amp; UAE</div>
+<a class="ltt-mega-item" href="/best-desert-safaris-dubai">
+<span class="ltt-mega-icon">🏜️</span>
+<div>
+<strong>Dubai Desert Safaris</strong>
+<p>10 tested camps, dune bashing &amp; VIP suites</p>
+</div>
+</a>
+<a class="ltt-mega-item" href="/best-palm-jumeirah-hotels-dubai">
+<span class="ltt-mega-icon">🏨</span>
+<div>
+<strong>Dubai Palm Hotels</strong>
+<p>10 luxury resorts &amp; private beach reviews</p>
+</div>
+</a>
+</div>
+<div class="ltt-mega-col">
+<div class="ltt-mega-head">UNITED STATES &amp; REVIEWS</div>
+<a class="ltt-mega-item" href="/best-helicopter-tours-new-york">
+<span class="ltt-mega-icon">🚁</span>
+<div>
+<strong>NYC Helicopter Tours</strong>
+<p>Doors-off shoe selfie &amp; skyline routes</p>
+</div>
+</a>
+<div style="margin-top: 10px; padding-top: 8px; border-top: 1px solid #f1f5f9;">
+<a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">Atlantis The Royal Review</a>
+<a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">Atlantis The Palm Review</a>
+<a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">Anantara The Palm Review</a>
+</div>
+</div>
+</div>
+</div>
+<a class="ltt-nav-link" href="/best-desert-safaris-dubai">Desert Safaris</a>
+<a class="ltt-nav-link" href="/best-palm-jumeirah-hotels-dubai">Palm Hotels</a>
+<a class="ltt-nav-link" href="/best-helicopter-tours-new-york">NYC Helicopters</a>
+<a aria-current="page" class="ltt-nav-link active" href="/about">About</a>
+<a class="ltt-nav-link" href="/contact">Contact</a>
+</nav>
+<div class="ltt-nav-right">
+<button aria-controls="lttMobileDrawer" aria-expanded="false" aria-label="Toggle Menu" class="ltt-hamburger" id="lttNavToggle" type="button">
+<span class="ltt-hamburger-bar"></span>
+<span class="ltt-hamburger-bar"></span>
+<span class="ltt-hamburger-bar"></span>
+</button>
+</div>
+</div>
+<div aria-hidden="true" class="ltt-mobile-drawer" id="lttMobileDrawer">
+<div class="ltt-drawer-content">
+<div class="ltt-mobile-section">
+<div class="ltt-mobile-label">Destinations &amp; Guides</div>
+<a class="ltt-mobile-link" href="/best-desert-safaris-dubai">
+<span>🏜️ Dubai Desert Safaris</span>
+<span style="font-size:10px; font-weight:800; background:#d97706; color:#fff; padding:2px 7px; border-radius:9999px;">TOP PICK</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai">
+<span>🏨 Dubai Palm Hotels</span>
+</a>
+<a class="ltt-mobile-link" href="/best-helicopter-tours-new-york">
+<span>🚁 NYC Helicopter Tours</span>
+</a>
+</div>
+<div class="ltt-mobile-section">
+<div class="ltt-mobile-label">Featured Hotel Reviews</div>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">
+<span>👑 Atlantis The Royal</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">
+<span>🌊 Atlantis The Palm</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">
+<span>🌿 Anantara The Palm</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review">
+<span>🍸 FIVE Palm Jumeirah</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review">
+<span>🏖️ Rixos The Palm</span>
+</a>
+</div>
+<div class="ltt-mobile-section">
+<div class="ltt-mobile-label">Editorial</div>
+<a class="ltt-mobile-link" href="/about">
+<span>📖 About &amp; Testing Standards</span>
+</a>
+<a class="ltt-mobile-link" href="/contact">
+<span>✉️ Contact Editorial Desk</span>
+</a>
+</div>
+</div>
+</div>
 </header>
+
 <script id="ltt-nav-script">/* ==========================================================================
-   LUXURY TRAVEL TESTER — MODERN VANILLA NAVIGATION CONTROLLER
+   LUXURY EDITORIAL SYSTEM — MODERN VANILLA NAVIGATION CONTROLLER
    Zero-dependency, semantic, responsive, WCAG-compliant (Desktop & Mobile)
    ========================================================================== */
 (function() {
   function initNav() {
     var toggle = document.getElementById('lttNavToggle');
     var drawer = document.getElementById('lttMobileDrawer');
-    var dropdown = document.getElementById('lttExploreDropdown');
+    var dropdown = document.getElementById('lttDestinationsDropdown') || document.getElementById('lttExploreDropdown');
     var dropBtn = dropdown ? dropdown.querySelector('.ltt-dropdown-btn') : null;
 
-    if (toggle && drawer) {
+    if (toggle && drawer && !toggle._bound) {
+      toggle._bound = true;
       toggle.addEventListener('click', function(e) {
         e.stopPropagation();
         var isOpen = drawer.classList.contains('is-open');
@@ -550,32 +626,48 @@
       });
     }
 
-    if (dropBtn && dropdown) {
-      dropBtn.addEventListener('click', function(e) {
-        e.stopPropagation();
-        var open = dropdown.classList.toggle('is-open');
-        dropBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
-      });
-    }
+    if (dropdown && !dropdown._bound) {
+      dropdown._bound = true;
+      var closeTimeout = null;
 
-    document.addEventListener('click', function(e) {
-      if (drawer && drawer.classList.contains('is-open') && !drawer.contains(e.target) && (!toggle || !toggle.contains(e.target))) {
-        drawer.classList.remove('is-open');
-        if (toggle) {
-          toggle.classList.remove('is-active');
-          toggle.setAttribute('aria-expanded', 'false');
+      function openMenu() {
+        if (closeTimeout) {
+          clearTimeout(closeTimeout);
+          closeTimeout = null;
         }
-        drawer.setAttribute('aria-hidden', 'true');
+        dropdown.classList.add('is-open');
+        if (dropBtn) dropBtn.setAttribute('aria-expanded', 'true');
       }
-      if (dropdown && dropdown.classList.contains('is-open') && !dropdown.contains(e.target)) {
-        dropdown.classList.remove('is-open');
-        if (dropBtn) dropBtn.setAttribute('aria-expanded', 'false');
-      }
-    });
 
-    document.addEventListener('keydown', function(e) {
-      if (e.key === 'Escape') {
-        if (drawer && drawer.classList.contains('is-open')) {
+      function closeMenuWithGrace(delay) {
+        if (closeTimeout) clearTimeout(closeTimeout);
+        closeTimeout = setTimeout(function() {
+          dropdown.classList.remove('is-open');
+          if (dropBtn) dropBtn.setAttribute('aria-expanded', 'false');
+        }, delay !== undefined ? delay : 350);
+      }
+
+      dropdown.addEventListener('mouseenter', openMenu);
+      dropdown.addEventListener('mouseleave', function() {
+        closeMenuWithGrace(350);
+      });
+
+      if (dropBtn) {
+        dropBtn.addEventListener('click', function(e) {
+          e.stopPropagation();
+          if (dropdown.classList.contains('is-open')) {
+            closeMenuWithGrace(0);
+          } else {
+            openMenu();
+          }
+        });
+      }
+
+      document.addEventListener('click', function(e) {
+        if (dropdown.classList.contains('is-open') && !dropdown.contains(e.target)) {
+          closeMenuWithGrace(0);
+        }
+        if (drawer && drawer.classList.contains('is-open') && !drawer.contains(e.target) && (!toggle || !toggle.contains(e.target))) {
           drawer.classList.remove('is-open');
           if (toggle) {
             toggle.classList.remove('is-active');
@@ -583,12 +675,25 @@
           }
           drawer.setAttribute('aria-hidden', 'true');
         }
-        if (dropdown && dropdown.classList.contains('is-open')) {
-          dropdown.classList.remove('is-open');
-          if (dropBtn) dropBtn.setAttribute('aria-expanded', 'false');
+      });
+
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+          if (drawer && drawer.classList.contains('is-open')) {
+            drawer.classList.remove('is-open');
+            if (toggle) {
+              toggle.classList.remove('is-active');
+              toggle.setAttribute('aria-expanded', 'false');
+            }
+            drawer.setAttribute('aria-hidden', 'true');
+          }
+          if (dropdown && dropdown.classList.contains('is-open')) {
+            dropdown.classList.remove('is-open');
+            if (dropBtn) dropBtn.setAttribute('aria-expanded', 'false');
+          }
         }
-      }
-    });
+      });
+    }
   }
 
   if (document.readyState === 'loading') {
@@ -596,8 +701,8 @@
   } else {
     initNav();
   }
-})();
-</script>
+  window.addEventListener('load', initNav);
+})();</script>
 <!-- ==========================================================================
      LUXURY TRAVEL TESTER — LUXURY EDITORIAL ABOUT & METHODOLOGY
      ========================================================================== -->
@@ -1164,286 +1269,263 @@ body {
   .ltt-footer-bottom { flex-direction: column !important; text-align: center !important; }
 }
 </style>
-
 <!-- MAIN ABOUT PAGE CONTENT -->
 <main id="main-content">
-
-  <!-- ABOUT EDITORIAL HEADER -->
-  <section class="ltt-about-header">
-    <div class="ltt-container">
-      <div class="ltt-section-eyebrow">ABOUT LUXURY TRAVEL TESTER</div>
-      <h1 class="ltt-about-main-title">
-        Independent Hospitality Testing.<br>
-        <span class="ltt-gold-gradient">Zero Sponsored Sugarcoating.</span>
-      </h1>
-      <p class="ltt-about-intro-lead">
+<!-- ABOUT EDITORIAL HEADER -->
+<section class="ltt-about-header">
+<div class="ltt-container">
+<div class="ltt-section-eyebrow">ABOUT LUXURY TRAVEL TESTER</div>
+<h1 class="ltt-about-main-title">
+        Independent Hospitality Testing.<br/>
+<span class="ltt-gold-gradient">Zero Sponsored Sugarcoating.</span>
+</h1>
+<p class="ltt-about-intro-lead">
         We founded Luxury Travel Tester to replace influencer PR with verified, boots-on-the-ground consumer truth. When you invest in a luxury vacation, there are no return policies. We pay our own way, test properties anonymously, and report what promotional brochures hide.
       </p>
-    </div>
-  </section>
-
-  <!-- SECTION 1: THE ORIGIN MANIFESTO -->
-  <section class="ltt-section">
-    <div class="ltt-container">
-      <div class="ltt-section-header">
-        <div class="ltt-section-eyebrow">THE HIGH-STAKES TRAVEL REALITY</div>
-        <h2 class="ltt-section-title">Vacations Don't Have A Return Policy</h2>
-        <p class="ltt-section-subtitle">Why traditional travel advice fails discerning guests when real money and precious holiday time are at stake.</p>
-      </div>
-
-      <div class="ltt-manifesto-grid">
-        <!-- Pillar A -->
-        <div class="ltt-manifesto-card">
-          <div class="ltt-manifesto-icon-wrap">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
-              <line x1="12" y1="9" x2="12" y2="13"></line>
-              <line x1="12" y1="17" x2="12.01" y2="17"></line>
-            </svg>
-          </div>
-          <h3>The Missing Safety Net</h3>
-          <p>
+</div>
+</section>
+<!-- SECTION 1: THE ORIGIN MANIFESTO -->
+<section class="ltt-section">
+<div class="ltt-container">
+<div class="ltt-section-header">
+<div class="ltt-section-eyebrow">THE HIGH-STAKES TRAVEL REALITY</div>
+<h2 class="ltt-section-title">Vacations Don't Have A Return Policy</h2>
+<p class="ltt-section-subtitle">Why traditional travel advice fails discerning guests when real money and precious holiday time are at stake.</p>
+</div>
+<div class="ltt-manifesto-grid">
+<!-- Pillar A -->
+<div class="ltt-manifesto-card">
+<div class="ltt-manifesto-icon-wrap">
+<svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" viewbox="0 0 24 24" width="24">
+<path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+<line x1="12" x2="12" y1="9" y2="13"></line>
+<line x1="12" x2="12.01" y1="17" y2="17"></line>
+</svg>
+</div>
+<h3>The Missing Safety Net</h3>
+<p>
             When a flawed product arrives from an online shop, you send it back for a refund. But when you spend €1,500/night on a Palm Jumeirah suite and spend every morning fighting over pool sunbeds or listening to nightclub thumps through adjoining drywall, there are no refunds. You cannot buy back your vacation time.
           </p>
-        </div>
-
-        <!-- Pillar B -->
-        <div class="ltt-manifesto-card">
-          <div class="ltt-manifesto-icon-wrap">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-              <circle cx="12" cy="12" r="10"></circle>
-              <line x1="4.93" y1="4.93" x2="19.07" y2="19.07"></line>
-            </svg>
-          </div>
-          <h3>The Influencer Compromise</h3>
-          <p>
+</div>
+<!-- Pillar B -->
+<div class="ltt-manifesto-card">
+<div class="ltt-manifesto-icon-wrap">
+<svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" viewbox="0 0 24 24" width="24">
+<circle cx="12" cy="12" r="10"></circle>
+<line x1="4.93" x2="19.07" y1="4.93" y2="19.07"></line>
+</svg>
+</div>
+<h3>The Influencer Compromise</h3>
+<p>
             Travel creators rarely tell the truth because their business model depends on free stays. If they criticize a 40-minute check-in queue or lukewarm dining, luxury hotel PR agencies drop them from the invite list. The result? Endless drone footage and glowing adjectives that hide operational flaws.
           </p>
-        </div>
-
-        <!-- Pillar C -->
-        <div class="ltt-manifesto-card">
-          <div class="ltt-manifesto-icon-wrap">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-              <polyline points="14 2 14 8 20 8"></polyline>
-              <line x1="16" y1="13" x2="8" y2="13"></line>
-              <line x1="16" y1="17" x2="8" y2="17"></line>
-              <polyline points="10 9 9 8 9"></polyline>
-            </svg>
-          </div>
-          <h3>The Algorithmic Content Farm</h3>
-          <p>
+</div>
+<!-- Pillar C -->
+<div class="ltt-manifesto-card">
+<div class="ltt-manifesto-icon-wrap">
+<svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" viewbox="0 0 24 24" width="24">
+<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+<polyline points="14 2 14 8 20 8"></polyline>
+<line x1="16" x2="8" y1="13" y2="13"></line>
+<line x1="16" x2="8" y1="17" y2="17"></line>
+<polyline points="10 9 9 8 9"></polyline>
+</svg>
+</div>
+<h3>The Algorithmic Content Farm</h3>
+<p>
             Google results are overwhelmed by mass-produced affiliate roundups written by freelance copywriters who have never set foot in the United Arab Emirates or boarded a private flight. We reject recycled PR kits. Every single recommendation we publish is backed by boots on the ground.
           </p>
-        </div>
-      </div>
-
-      <!-- Quotation Banner -->
-      <div class="ltt-manifesto-quote-banner">
-        <div class="ltt-quote-symbol">“</div>
-        <div class="ltt-quote-content">
-          <p>
+</div>
+</div>
+<!-- Quotation Banner -->
+<div class="ltt-manifesto-quote-banner">
+<div class="ltt-quote-symbol">“</div>
+<div class="ltt-quote-content">
+<p>
             We don't accept press trips, we don't ask for media discounts, and we don't notify management before we arrive. What we experience is exactly what you will experience as a paying guest.
           </p>
-          <div class="ltt-quote-author">The Luxury Travel Tester Editorial Charter</div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- SECTION 2: FOUNDER DOSSIERS -->
-  <section class="ltt-section ltt-founders-section">
-    <div class="ltt-container">
-      <div class="ltt-section-header">
-        <div class="ltt-section-eyebrow">EDITORIAL LEADERSHIP</div>
-        <h2 class="ltt-section-title">Meet The Inspectors Behind The Platform</h2>
-        <p class="ltt-section-subtitle">We combine first-person field testing with institutional finance and consumer product discipline to cut through marketing illusions.</p>
-      </div>
-
-      <div class="ltt-founders-stack">
-        <!-- Founder 1: Adam Dimitrov -->
-        <div class="ltt-founder-card">
-          <div class="ltt-founder-visual">
-            <div class="ltt-founder-avatar-wrap">
-              <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67d02edca7795b0f57073f59_Adam-dimitrov-portrait-500x500.webp" alt="Adam Dimitrov - Founder &amp; Lead Field Inspector" class="ltt-founder-avatar" loading="eager">
-            </div>
-            <h3 class="ltt-founder-name">Adam Dimitrov</h3>
-            <div class="ltt-founder-role">Founder &amp; Lead Field Inspector</div>
-            <div class="ltt-founder-badges">
-              <span class="ltt-badge-pill">Undercover Operations</span>
-              <span class="ltt-badge-pill">Dubai • Europe • NYC</span>
-              <span class="ltt-badge-pill">Acoustic &amp; Service Audits</span>
-            </div>
-          </div>
-          <div class="ltt-founder-content">
-            <p class="ltt-founder-lead">
+<div class="ltt-quote-author">The Luxury Travel Tester Editorial Charter</div>
+</div>
+</div>
+</div>
+</section>
+<!-- SECTION 2: FOUNDER DOSSIERS -->
+<section class="ltt-section ltt-founders-section">
+<div class="ltt-container">
+<div class="ltt-section-header">
+<div class="ltt-section-eyebrow">EDITORIAL LEADERSHIP</div>
+<h2 class="ltt-section-title">Meet The Inspectors Behind The Platform</h2>
+<p class="ltt-section-subtitle">We combine first-person field testing with institutional finance and consumer product discipline to cut through marketing illusions.</p>
+</div>
+<div class="ltt-founders-stack">
+<!-- Founder 1: Adam Dimitrov -->
+<div class="ltt-founder-card">
+<div class="ltt-founder-visual">
+<div class="ltt-founder-avatar-wrap">
+<img alt="Adam Dimitrov - Founder &amp; Lead Field Inspector" class="ltt-founder-avatar" loading="eager" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67d02edca7795b0f57073f59_Adam-dimitrov-portrait-500x500.webp"/>
+</div>
+<h3 class="ltt-founder-name">Adam Dimitrov</h3>
+<div class="ltt-founder-role">Founder &amp; Lead Field Inspector</div>
+<div class="ltt-founder-badges">
+<span class="ltt-badge-pill">Undercover Operations</span>
+<span class="ltt-badge-pill">Dubai • Europe • NYC</span>
+<span class="ltt-badge-pill">Acoustic &amp; Service Audits</span>
+</div>
+</div>
+<div class="ltt-founder-content">
+<p class="ltt-founder-lead">
               "I started Luxury Travel Tester because I was sick of landing at expensive resorts only to discover that the reality bore zero resemblance to the influencer videos that sold me the trip."
             </p>
-            <p class="ltt-founder-body">
+<p class="ltt-founder-body">
               Having generated over €130,000+ in verified direct tourism distribution in demanding European travel markets, Adam understands both sides of the hospitality industry: the commercial operations behind the counter, and the vulnerability of the guest in front of it.
             </p>
-            <p class="ltt-founder-body">
+<p class="ltt-founder-body">
               Adam personally conducts our undercover property and excursion audits. He checks into resorts under his own name with personal credit cards, times breakfast line throughput at 9:30 AM peak rush, monitors corridor soundproofing with decibel meters, and stress-tests hotel staff responsiveness.
             </p>
-            <div class="ltt-founder-pullquote">
+<div class="ltt-founder-pullquote">
               "This isn't Amazon—there are no returns on ruined holidays. That is why I treat every audit like my own money is on the line, because yours is."
             </div>
-          </div>
-        </div>
-
-        <!-- Founder 2: Balázs -->
-        <div class="ltt-founder-card">
-          <div class="ltt-founder-visual">
-            <div class="ltt-founder-avatar-wrap">
-              <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d971c8c3b88b0913c81534_597EA26F-23C0-4226-B3C6-A4119915E076_1_105_c-3_result.webp" alt="Balazs - Co-Founder &amp; Experiences Director" class="ltt-founder-avatar" loading="eager">
-            </div>
-            <h3 class="ltt-founder-name">Balázs</h3>
-            <div class="ltt-founder-role">Co-Founder &amp; Experiences Director</div>
-            <div class="ltt-founder-badges">
-              <span class="ltt-badge-pill">15+ Yrs Enterprise Rigor</span>
-              <span class="ltt-badge-pill">Morgan Stanley • Apple</span>
-              <span class="ltt-badge-pill">Quantitative Vetting</span>
-            </div>
-          </div>
-          <div class="ltt-founder-content">
-            <p class="ltt-founder-lead">
+</div>
+</div>
+<!-- Founder 2: Balázs -->
+<div class="ltt-founder-card">
+<div class="ltt-founder-visual">
+<div class="ltt-founder-avatar-wrap">
+<img alt="Balazs - Co-Founder &amp; Experiences Director" class="ltt-founder-avatar" loading="eager" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d971c8c3b88b0913c81534_597EA26F-23C0-4226-B3C6-A4119915E076_1_105_c-3_result.webp"/>
+</div>
+<h3 class="ltt-founder-name">Balázs</h3>
+<div class="ltt-founder-role">Co-Founder &amp; Experiences Director</div>
+<div class="ltt-founder-badges">
+<span class="ltt-badge-pill">15+ Yrs Enterprise Rigor</span>
+<span class="ltt-badge-pill">Morgan Stanley • Apple</span>
+<span class="ltt-badge-pill">Quantitative Vetting</span>
+</div>
+</div>
+<div class="ltt-founder-content">
+<p class="ltt-founder-lead">
               "In the luxury excursion space, an astronomical price tag is often a financial sleight of hand. High marketing budgets mask low-quality supplier operations."
             </p>
-            <p class="ltt-founder-body">
+<p class="ltt-founder-body">
               Balázs spent over 15 years operating within premier global corporate environments—mastering financial analysis and unit economics at <strong>Morgan Stanley</strong>, brand marketing and consumer experience standards at <strong>Apple</strong>, and complex digital architecture at <strong>Innoveo</strong>.
             </p>
-            <p class="ltt-founder-body">
+<p class="ltt-founder-body">
               At Luxury Travel Tester, Balázs applies that exact financial modeling and supply chain auditing to luxury travel. When an operator charges €600 for a VIP desert safari or €400 for a doors-off helicopter tour, he dissects what the consumer is genuinely paying for: guide expertise, vehicle safety ratings, camp exclusivity, and food provenance.
             </p>
-            <div class="ltt-founder-pullquote">
+<div class="ltt-founder-pullquote">
               "The analytical tools I used to audit financial risk in investment banking and product quality at Apple are the exact tools we use to protect our readers' travel capital."
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- SECTION 3: THE FIVE NON-NEGOTIABLES (ETHICS CHARTER) -->
-  <section class="ltt-section ltt-ethics-section">
-    <div class="ltt-container">
-      <div class="ltt-section-header">
-        <div class="ltt-section-eyebrow" style="background: rgba(217, 119, 6, 0.2); color: #fbbf24;">EDITORIAL INDEPENDENCE</div>
-        <h2 class="ltt-section-title">Our Five Non-Negotiable Ethics</h2>
-        <p class="ltt-section-subtitle">How we protect editorial integrity and maintain total commercial independence.</p>
-      </div>
-
-      <div class="ltt-ethics-grid">
-        <!-- Ethic 1 -->
-        <div class="ltt-ethic-card">
-          <span class="ltt-ethic-num">Rule 01</span>
-          <h3 class="ltt-ethic-title">Zero Comped Stays or Freebies</h3>
-          <p class="ltt-ethic-desc">
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- SECTION 3: THE FIVE NON-NEGOTIABLES (ETHICS CHARTER) -->
+<section class="ltt-section ltt-ethics-section">
+<div class="ltt-container">
+<div class="ltt-section-header">
+<div class="ltt-section-eyebrow" style="background: rgba(217, 119, 6, 0.2); color: #fbbf24;">EDITORIAL INDEPENDENCE</div>
+<h2 class="ltt-section-title">Our Five Non-Negotiable Ethics</h2>
+<p class="ltt-section-subtitle">How we protect editorial integrity and maintain total commercial independence.</p>
+</div>
+<div class="ltt-ethics-grid">
+<!-- Ethic 1 -->
+<div class="ltt-ethic-card">
+<span class="ltt-ethic-num">Rule 01</span>
+<h3 class="ltt-ethic-title">Zero Comped Stays or Freebies</h3>
+<p class="ltt-ethic-desc">
             We never accept complimentary hotel suites, free flights, VIP tasting menus, or sponsored junkets. When someone pays for your room, they own your opinion. We pay 100% out-of-pocket.
           </p>
-        </div>
-
-        <!-- Ethic 2 -->
-        <div class="ltt-ethic-card">
-          <span class="ltt-ethic-num">Rule 02</span>
-          <h3 class="ltt-ethic-title">The Flaw-First Rule</h3>
-          <p class="ltt-ethic-desc">
+</div>
+<!-- Ethic 2 -->
+<div class="ltt-ethic-card">
+<span class="ltt-ethic-num">Rule 02</span>
+<h3 class="ltt-ethic-title">The Flaw-First Rule</h3>
+<p class="ltt-ethic-desc">
             Every review must highlight real-world drawbacks and clearly state who should NOT book. If an article doesn't articulate the downsides, it is an ad, not journalism.
           </p>
-        </div>
-
-        <!-- Ethic 3 -->
-        <div class="ltt-ethic-card">
-          <span class="ltt-ethic-num">Rule 03</span>
-          <h3 class="ltt-ethic-title">Rankings Cannot Be Bought</h3>
-          <p class="ltt-ethic-desc">
+</div>
+<!-- Ethic 3 -->
+<div class="ltt-ethic-card">
+<span class="ltt-ethic-num">Rule 03</span>
+<h3 class="ltt-ethic-title">Rankings Cannot Be Bought</h3>
+<p class="ltt-ethic-desc">
             No hotel group, tour provider, or tourism board can pay to alter their score, demand early review drafts, or purchase higher placement on our rankings. Our verdict is final.
           </p>
-        </div>
-      </div>
-
-      <div class="ltt-ethics-grid-bottom">
-        <!-- Ethic 4 -->
-        <div class="ltt-ethic-card">
-          <span class="ltt-ethic-num">Rule 04</span>
-          <h3 class="ltt-ethic-title">Transparent Affiliate Monetization</h3>
-          <p class="ltt-ethic-desc">
+</div>
+</div>
+<div class="ltt-ethics-grid-bottom">
+<!-- Ethic 4 -->
+<div class="ltt-ethic-card">
+<span class="ltt-ethic-num">Rule 04</span>
+<h3 class="ltt-ethic-title">Transparent Affiliate Monetization</h3>
+<p class="ltt-ethic-desc">
             We earn standard referral commissions when readers book via our verified links at zero additional cost to them. This affiliate revenue funds our self-pay room testing budget and keeps Luxury Travel Tester independent from external investors and sponsors.
           </p>
-        </div>
-
-        <!-- Ethic 5 -->
-        <div class="ltt-ethic-card">
-          <span class="ltt-ethic-num">Rule 05</span>
-          <h3 class="ltt-ethic-title">Dynamic Re-Evaluations &amp; Downgrades</h3>
-          <p class="ltt-ethic-desc">
+</div>
+<!-- Ethic 5 -->
+<div class="ltt-ethic-card">
+<span class="ltt-ethic-num">Rule 05</span>
+<h3 class="ltt-ethic-title">Dynamic Re-Evaluations &amp; Downgrades</h3>
+<p class="ltt-ethic-desc">
             Hospitality standards are never static. When a previously recommended resort changes management, cuts staffing, or defers maintenance, we update our audit score and downgrade its placement immediately based on verified reader feedback.
           </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
+</div>
+</div>
+</div>
+</section>
 </main>
-
 <!-- LUXURY FOOTER -->
 <footer class="ltt-footer" role="contentinfo">
-  <div class="ltt-footer-grid">
-    <div class="ltt-footer-col">
-      <a href="/" class="ltt-footer-brand">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="10"></circle>
-          <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
-        </svg>
+<div class="ltt-footer-grid">
+<div class="ltt-footer-col">
+<a class="ltt-footer-brand" href="/">
+<svg fill="none" height="22" stroke="#fbbf24" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="22">
+<circle cx="12" cy="12" r="10"></circle>
+<polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+</svg>
         LUXURY TRAVEL TESTER
       </a>
-      <p class="ltt-footer-desc">
+<p class="ltt-footer-desc">
         Independent, field-tested guides and unfiltered reviews for 5-star hotels and luxury travel experiences worldwide.
       </p>
-    </div>
-
-    <div class="ltt-footer-col">
-      <h4>Curated Guides</h4>
-      <ul class="ltt-footer-links">
-        <li><a href="/best-palm-jumeirah-hotels-dubai">Palm Jumeirah Hotels</a></li>
-        <li><a href="/best-desert-safaris-dubai">Dubai Desert Safaris</a></li>
-        <li><a href="/best-helicopter-tours-new-york">NYC Helicopter Tours</a></li>
-      </ul>
-    </div>
-
-    <div class="ltt-footer-col">
-      <h4>Hotel Audits</h4>
-      <ul class="ltt-footer-links">
-        <li><a href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">Atlantis The Palm</a></li>
-        <li><a href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">Atlantis The Royal</a></li>
-        <li><a href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">Anantara The Palm</a></li>
-        <li><a href="/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review">FIVE Palm Jumeirah</a></li>
-        <li><a href="/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review">Rixos The Palm</a></li>
-      </ul>
-    </div>
-
-    <div class="ltt-footer-col">
-      <h4>Editorial</h4>
-      <ul class="ltt-footer-links">
-        <li><a href="/about">About Us &amp; Standards</a></li>
-        <li><a href="/contact">Contact Editorial Desk</a></li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="ltt-footer-bottom">
-    <div>
+</div>
+<div class="ltt-footer-col">
+<h4>Curated Guides</h4>
+<ul class="ltt-footer-links">
+<li><a href="/best-palm-jumeirah-hotels-dubai">Palm Jumeirah Hotels</a></li>
+<li><a href="/best-desert-safaris-dubai">Dubai Desert Safaris</a></li>
+<li><a href="/best-helicopter-tours-new-york">NYC Helicopter Tours</a></li>
+</ul>
+</div>
+<div class="ltt-footer-col">
+<h4>Hotel Audits</h4>
+<ul class="ltt-footer-links">
+<li><a href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">Atlantis The Palm</a></li>
+<li><a href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">Atlantis The Royal</a></li>
+<li><a href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">Anantara The Palm</a></li>
+<li><a href="/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review">FIVE Palm Jumeirah</a></li>
+<li><a href="/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review">Rixos The Palm</a></li>
+</ul>
+</div>
+<div class="ltt-footer-col">
+<h4>Editorial</h4>
+<ul class="ltt-footer-links">
+<li><a href="/about">About Us &amp; Standards</a></li>
+<li><a href="/contact">Contact Editorial Desk</a></li>
+</ul>
+</div>
+</div>
+<div class="ltt-footer-bottom">
+<div>
       © 2026 LuxuryTravelTester.com. All rights reserved. Independent &amp; unsponsored.
     </div>
-    <div class="ltt-footer-legal-links">
-      <a href="/about">Editorial Policy</a>
-      <a href="/contact">Partner Inquiries</a>
-    </div>
-  </div>
+<div class="ltt-footer-legal-links">
+<a href="/about">Editorial Policy</a>
+<a href="/contact">Partner Inquiries</a>
+</div>
+</div>
 </footer>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8KZMGH"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-W8KZMGH" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 </body></html>
