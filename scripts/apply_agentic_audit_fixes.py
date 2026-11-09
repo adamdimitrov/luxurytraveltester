@@ -37,7 +37,7 @@ org_schema = {
       "@id": "https://luxurytraveltester.com/#organization",
       "name": "Luxury Travel Tester",
       "url": "https://luxurytraveltester.com",
-      "logo": "https://luxurytraveltester.com/assets/apple-touch-icon.png",
+      "logo": "https://luxurytraveltester.com/assets/icons/icon-512.png",
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "editorial and partnerships",

@@ -5,7 +5,7 @@ config = {
     "name": "LUXURY TRAVEL TESTER",
     "code": "ltt",
     "domain": "https://www.luxurytraveltester.com",
-    "logo_url": "https://www.luxurytraveltester.com/favicon.png",
+    "logo_url": "https://luxurytraveltester.com/assets/icons/icon-512.png",
     "footer_tagline": "LuxuryTravelTester.com is your independent, field-tested guide to choosing the world's most iconic travel experiences and luxury hotels.",
     "copyright": "© 2026 LuxuryTravelTester.com. All rights reserved.",
     "nav_links": [

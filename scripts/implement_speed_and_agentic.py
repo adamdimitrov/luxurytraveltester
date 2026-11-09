@@ -427,7 +427,7 @@ def create_well_known_manifests():
             "type": "openapi",
             "url": "https://luxurytraveltester.com/llms.txt"
         },
-        "logo_url": "https://luxurytraveltester.com/assets/apple-touch-icon.png",
+        "logo_url": "https://luxurytraveltester.com/assets/icons/icon-512.png",
         "contact_email": "contact@luxurytraveltester.com",
         "legal_info_url": "https://luxurytraveltester.com/about"
     }
