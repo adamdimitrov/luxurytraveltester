@@ -20,7 +20,7 @@ def build_sitemap():
         if any(p.startswith('.') for p in root.split(os.sep)):
             continue
         for f in files:
-            if f.endswith('.html') and f != 'sitemap.html':
+            if f.endswith('.html') and f != 'sitemap.html' and not f.startswith('test-'):
                 fpath = os.path.join(root, f)
                 with open(fpath, 'r', encoding='utf-8', errors='ignore') as fp:
                     soup = BeautifulSoup(fp, 'html.parser')
@@ -60,6 +60,8 @@ def build_sitemap():
         if len(parts) == 1 or (len(parts) == 2 and len(parts[0]) == 2):
             if any(p in last_seg for p in ['desert', 'safari', 'helicopter', 'hotel', 'palm']) or 'wüstensafari' in last_seg or 'szafari' in last_seg:
                 return '0.9', 'weekly'
+            if any(u in last_seg for u in ['privacy', 'terms', 'adatvedelem']):
+                return '0.3', 'yearly'
             if any(u in last_seg for u in ['about', 'contact', 'kontakt', 'o', 'hakkında']):
                 return '0.5', 'monthly'
             return '0.8', 'weekly'

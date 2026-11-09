@@ -1,0 +1,6 @@
+# Internal files that must not be publicly served
+GEMINI.md
+*.py
+scripts/
+test-*.html
+.DS_Store
