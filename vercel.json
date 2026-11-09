@@ -2346,6 +2346,10 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Link",
+          "value": "</.well-known/ard.json>; rel=\"ard\""
         }
       ]
     }

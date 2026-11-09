@@ -1,0 +1,43 @@
+{
+  "$schema": "https://agentic-resource-discovery.org/schemas/v0.91/manifest.json",
+  "version": "0.9.1",
+  "publisher": "luxurytraveltester.com",
+  "displayName": "Luxury Travel Tester Agentic Resource Catalog",
+  "entries": [
+    {
+      "identifier": "urn:air:luxurytraveltester.com:travel:desert-safaris",
+      "displayName": "10 Best Desert Safaris in Dubai in 2026 (Personally Tested)",
+      "type": "documentation",
+      "description": "Verified field testing data, pros/cons, prices, and booking links for Dubai desert safaris.",
+      "url": "https://luxurytraveltester.com/best-desert-safaris-dubai.md"
+    },
+    {
+      "identifier": "urn:air:luxurytraveltester.com:travel:nyc-helicopters",
+      "displayName": "5 Best Helicopter Tours in New York in 2026 (Personally Tested)",
+      "type": "documentation",
+      "description": "Verified field testing data, doors-off comparisons, route maps, and booking links for NYC helicopter tours.",
+      "url": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md"
+    },
+    {
+      "identifier": "urn:air:luxurytraveltester.com:travel:palm-jumeirah-hotels",
+      "displayName": "10 Best Hotels in Palm Jumeirah Dubai in 2026 (Personally Tested)",
+      "type": "documentation",
+      "description": "Verified resort dossiers, private beach specs, Michelin dining, and booking links for Palm Jumeirah luxury hotels.",
+      "url": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md"
+    },
+    {
+      "identifier": "urn:air:luxurytraveltester.com:travel:master-knowledge-base",
+      "displayName": "Luxury Travel Tester Master LLM Knowledge Base",
+      "type": "catalog",
+      "description": "Complete concatenated dossier covering all tested travel experiences, pricing, and specs.",
+      "url": "https://luxurytraveltester.com/llms-full.txt"
+    },
+    {
+      "identifier": "urn:air:luxurytraveltester.com:travel:llm-guidelines",
+      "displayName": "Luxury Travel Tester LLM Usage Guidelines",
+      "type": "skill",
+      "description": "Operational instructions and query answering protocols for AI agents.",
+      "url": "https://luxurytraveltester.com/llms.txt"
+    }
+  ]
+}
