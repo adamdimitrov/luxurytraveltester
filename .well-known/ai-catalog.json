@@ -1,29 +1,30 @@
 {
-  "$schema": "https://is-agentic.com/schemas/ai-catalog.json",
-  "title": "Luxury Travel Tester AI Catalog",
-  "description": "Autonomous Agent and AI Search discovery endpoint for Luxury Travel Tester verified travel reviews.",
-  "homepage": "https://luxurytraveltester.com",
-  "llms_txt": "https://luxurytraveltester.com/llms.txt",
-  "llms_full_txt": "https://luxurytraveltester.com/llms-full.txt",
-  "sitemap": "https://luxurytraveltester.com/sitemap.xml",
-  "endpoints": [
+  "specVersion": "1.0",
+  "entries": [
     {
-      "name": "Dubai Desert Safaris",
-      "url": "https://luxurytraveltester.com/best-desert-safaris-dubai",
-      "markdown": "https://luxurytraveltester.com/best-desert-safaris-dubai.md",
-      "category": "Travel Guide / Reviews"
+      "identifier": "urn:air:luxurytraveltester.com:travel:safaris",
+      "type": "text/markdown",
+      "url": "https://luxurytraveltester.com/best-desert-safaris-dubai.md"
     },
     {
-      "name": "New York City Helicopter Tours",
-      "url": "https://luxurytraveltester.com/best-helicopter-tours-new-york",
-      "markdown": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md",
-      "category": "Travel Guide / Reviews"
+      "identifier": "urn:air:luxurytraveltester.com:travel:helicopters",
+      "type": "text/markdown",
+      "url": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md"
     },
     {
-      "name": "Palm Jumeirah Luxury Hotels Dubai",
-      "url": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai",
-      "markdown": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md",
-      "category": "Hotel Reviews"
+      "identifier": "urn:air:luxurytraveltester.com:travel:hotels",
+      "type": "text/markdown",
+      "url": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md"
+    },
+    {
+      "identifier": "urn:air:luxurytraveltester.com:travel:knowledge-base",
+      "type": "text/markdown",
+      "url": "https://luxurytraveltester.com/llms-full.txt"
+    },
+    {
+      "identifier": "urn:air:luxurytraveltester.com:travel:guidelines",
+      "type": "text/plain",
+      "url": "https://luxurytraveltester.com/llms.txt"
     }
   ]
 }
