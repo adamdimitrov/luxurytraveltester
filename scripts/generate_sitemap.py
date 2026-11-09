@@ -112,6 +112,44 @@ def build_sitemap():
 User-agent: *
 Allow: /
 
+# Dedicated AI Agent & Autonomous Search Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Machine-Readable LLM Standards
+# llms.txt: https://luxurytraveltester.com/llms.txt
+# llms-full.txt: https://luxurytraveltester.com/llms-full.txt
+
 # Canonical Sitemaps
 Sitemap: https://luxurytraveltester.com/sitemap.xml
 '''
