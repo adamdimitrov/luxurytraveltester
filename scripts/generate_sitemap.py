@@ -150,8 +150,8 @@ Allow: /
 # llms.txt: https://luxurytraveltester.com/llms.txt
 # llms-full.txt: https://luxurytraveltester.com/llms-full.txt
 
-# Agentic Resource Discovery
-Agentmap: https://luxurytraveltester.com/.well-known/ard.json
+# Agentic Resource Discovery (discovered via /.well-known/ard.json & Link headers)
+# ard.json: https://luxurytraveltester.com/.well-known/ard.json
 
 # Canonical Sitemaps
 Sitemap: https://luxurytraveltester.com/sitemap.xml
