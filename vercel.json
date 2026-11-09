@@ -4,6 +4,12 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "www.luxurytraveltester.com" }],
+      "destination": "https://luxurytraveltester.com/$1",
+      "permanent": true
+    },
+    {
       "source": "/best-desert-safaris-dubai",
       "has": [
         {
