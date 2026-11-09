@@ -4,6 +4,54 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/best-desert-safaris-dubai",
+      "has": [
+        {
+          "type": "header",
+          "key": "accept",
+          "value": ".*text/markdown.*"
+        }
+      ],
+      "destination": "/best-desert-safaris-dubai.md",
+      "permanent": false
+    },
+    {
+      "source": "/best-helicopter-tours-new-york",
+      "has": [
+        {
+          "type": "header",
+          "key": "accept",
+          "value": ".*text/markdown.*"
+        }
+      ],
+      "destination": "/best-helicopter-tours-new-york.md",
+      "permanent": false
+    },
+    {
+      "source": "/best-palm-jumeirah-hotels-dubai",
+      "has": [
+        {
+          "type": "header",
+          "key": "accept",
+          "value": ".*text/markdown.*"
+        }
+      ],
+      "destination": "/best-palm-jumeirah-hotels-dubai.md",
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "header",
+          "key": "accept",
+          "value": ".*text/markdown.*"
+        }
+      ],
+      "destination": "/index.md",
+      "permanent": false
+    },
+    {
       "source": "/best-desert-safaris-dubai/decode-your-desert-safari-in-dubai",
       "destination": "/best-desert-safaris-dubai#desert-safaris-explained",
       "permanent": true
