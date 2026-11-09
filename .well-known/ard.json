@@ -1,30 +1,72 @@
 {
   "specVersion": "1.0",
+  "host": {
+    "displayName": "Luxury Travel Tester",
+    "identifier": "luxurytraveltester.com"
+  },
   "entries": [
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:safaris",
+      "displayName": "Dubai Desert Safari Field Reviews & Comparison",
       "type": "text/markdown",
-      "url": "https://luxurytraveltester.com/best-desert-safaris-dubai.md"
+      "url": "https://luxurytraveltester.com/best-desert-safaris-dubai.md",
+      "description": "Comprehensive comparative benchmarks, pricing, and authentic field ratings of luxury desert safaris in Dubai.",
+      "representativeQueries": [
+        "best desert safari in Dubai",
+        "luxury desert safari Dubai reviews",
+        "Platinum Heritage vs Nara Desert Escape"
+      ],
+      "tags": ["travel", "dubai", "desert-safari", "luxury"]
     },
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:helicopters",
+      "displayName": "New York City Helicopter Tours Comparison & Buyer's Guide",
       "type": "text/markdown",
-      "url": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md"
+      "url": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md",
+      "description": "Critical comparison of NYC helicopter flight operators, routes, doors-off options, and hidden heliport fees.",
+      "representativeQueries": [
+        "best helicopter tour nyc",
+        "doors off helicopter new york",
+        "helicopter tour over manhattan"
+      ],
+      "tags": ["travel", "new-york", "helicopter-tour", "manhattan"]
     },
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:hotels",
+      "displayName": "Palm Jumeirah Luxury Hotels & Resorts Critical Guide",
       "type": "text/markdown",
-      "url": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md"
+      "url": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md",
+      "description": "Independent rankings and luxury property inspections across the Crescent and Trunk of Palm Jumeirah, Dubai.",
+      "representativeQueries": [
+        "best hotels palm jumeirah",
+        "luxury resorts dubai palm",
+        "Atlantis The Royal vs One&Only The Palm"
+      ],
+      "tags": ["travel", "dubai", "palm-jumeirah", "hotels", "luxury"]
     },
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:knowledge-base",
+      "displayName": "Luxury Travel Tester Master Knowledge Base",
       "type": "text/markdown",
-      "url": "https://luxurytraveltester.com/llms-full.txt"
+      "url": "https://luxurytraveltester.com/llms-full.txt",
+      "description": "Complete LLM-optimized knowledge corpus containing full editorial evaluations, methodology, and price benchmarks.",
+      "representativeQueries": [
+        "luxury travel tester reviews",
+        "independent luxury travel benchmarks"
+      ],
+      "tags": ["travel", "knowledge-base", "llms-txt"]
     },
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:guidelines",
+      "displayName": "Luxury Travel Tester Agent Index & Sitemap",
       "type": "text/plain",
-      "url": "https://luxurytraveltester.com/llms.txt"
+      "url": "https://luxurytraveltester.com/llms.txt",
+      "description": "Concise llms.txt index linking to all machine-readable guides and structured resources.",
+      "representativeQueries": [
+        "luxury travel tester index",
+        "luxury travel llms.txt"
+      ],
+      "tags": ["travel", "directory", "llms-txt"]
     }
   ]
 }
