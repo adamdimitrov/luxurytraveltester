@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "luxury_travel_tester",
+  "name_for_human": "Luxury Travel Tester",
+  "description_for_model": "Access verified, personally tested reviews and ratings for Dubai desert safaris, New York City helicopter tours, and Palm Jumeirah luxury hotels. Includes direct booking links, pricing, pros and cons, and hands-on testing verdicts.",
+  "description_for_human": "Personally tested luxury travel reviews, hotel guides, helicopter tours, and desert safaris.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://luxurytraveltester.com/llms.txt"
+  },
+  "logo_url": "https://luxurytraveltester.com/assets/apple-touch-icon.png",
+  "contact_email": "contact@luxurytraveltester.com",
+  "legal_info_url": "https://luxurytraveltester.com/about"
+}

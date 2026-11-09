@@ -1,0 +1,29 @@
+{
+  "$schema": "https://is-agentic.com/schemas/ai-catalog.json",
+  "title": "Luxury Travel Tester AI Catalog",
+  "description": "Autonomous Agent and AI Search discovery endpoint for Luxury Travel Tester verified travel reviews.",
+  "homepage": "https://luxurytraveltester.com",
+  "llms_txt": "https://luxurytraveltester.com/llms.txt",
+  "llms_full_txt": "https://luxurytraveltester.com/llms-full.txt",
+  "sitemap": "https://luxurytraveltester.com/sitemap.xml",
+  "endpoints": [
+    {
+      "name": "Dubai Desert Safaris",
+      "url": "https://luxurytraveltester.com/best-desert-safaris-dubai",
+      "markdown": "https://luxurytraveltester.com/best-desert-safaris-dubai.md",
+      "category": "Travel Guide / Reviews"
+    },
+    {
+      "name": "New York City Helicopter Tours",
+      "url": "https://luxurytraveltester.com/best-helicopter-tours-new-york",
+      "markdown": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md",
+      "category": "Travel Guide / Reviews"
+    },
+    {
+      "name": "Palm Jumeirah Luxury Hotels Dubai",
+      "url": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai",
+      "markdown": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md",
+      "category": "Hotel Reviews"
+    }
+  ]
+}

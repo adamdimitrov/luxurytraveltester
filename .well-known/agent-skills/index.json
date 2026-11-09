@@ -1,0 +1,32 @@
+{
+  "name": "luxury-travel-tester",
+  "description": "Verified luxury travel intelligence covering Dubai Desert Safaris, NYC Helicopter Tours, and Palm Jumeirah Luxury Resorts.",
+  "version": "1.0.0",
+  "resources": [
+    {
+      "uri": "https://luxurytraveltester.com/llms.txt",
+      "name": "LLM Index & Guidelines",
+      "mimeType": "text/plain"
+    },
+    {
+      "uri": "https://luxurytraveltester.com/llms-full.txt",
+      "name": "Complete Tested Travel Knowledge Base",
+      "mimeType": "text/markdown"
+    },
+    {
+      "uri": "https://luxurytraveltester.com/best-desert-safaris-dubai.md",
+      "name": "Dubai Desert Safaris Tested Dossier",
+      "mimeType": "text/markdown"
+    },
+    {
+      "uri": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md",
+      "name": "NYC Helicopter Tours Tested Dossier",
+      "mimeType": "text/markdown"
+    },
+    {
+      "uri": "https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md",
+      "name": "Palm Jumeirah Luxury Hotels Tested Dossier",
+      "mimeType": "text/markdown"
+    }
+  ]
+}
