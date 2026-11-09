@@ -5,8 +5,10 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        var go=function(){if(c._lttClarity)return;c._lttClarity=1;t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);};
+        ['scroll','touchstart','mousemove','click','keydown'].forEach(function(e){c.addEventListener(e,go,{once:true,passive:true});});
+        c.addEventListener('load',function(){setTimeout(go,7000);});
     })(window, document, "clarity", "script", "zap33r5t80");
 </script>
 <link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" onload="this.onload=null;this.rel='stylesheet'"/><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"/></noscript><meta charset="utf-8"/><title>About</title><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." name="description"/><meta content="About" property="og:title"/><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." property="og:description"/><meta content="About" name="twitter:title"/><meta content="The LuxuryTravelTester.com was created by Adam Dimitrov. Read more about his story." name="twitter:description"/><meta content="website" property="og:type"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="google-site-verification=jPygzQl3dLYHsZI7XMPOqvcxGUVZtEr6WiuGN_O2xjo" name="google-site-verification"/><style id="ltt-nav-styles">/* ==========================================================================
@@ -461,7 +463,7 @@
 </style>
 <link href="https://luxurytraveltester.com/about" rel="canonical"/><!-- GetYourGuide Analytics -->
 <!-- Google tag (gtag.js) -->
-<meta content="content" name="is-agentic-site-type"/><link href="/about.md" rel="alternate" type="text/markdown"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-4XYHG46VLR"></script><script>
+<meta content="content" name="is-agentic-site-type"/><link href="/about.md" rel="alternate" type="text/markdown"/><script>(function(w,d){var go=function(){if(w._lttGtag)return;w._lttGtag=1;var s=d.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=G-4XYHG46VLR";d.head.appendChild(s);};["scroll","touchstart","mousemove","click","keydown"].forEach(function(e){w.addEventListener(e,go,{once:true,passive:true});});w.addEventListener("load",function(){setTimeout(go,7000);});})(window,document);</script><script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
