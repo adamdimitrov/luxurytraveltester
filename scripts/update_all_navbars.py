@@ -32,11 +32,13 @@ nav_script_content = """/* =====================================================
           toggle.classList.remove('is-active');
           toggle.setAttribute('aria-expanded', 'false');
           drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
         } else {
           drawer.classList.add('is-open');
           toggle.classList.add('is-active');
           toggle.setAttribute('aria-expanded', 'true');
           drawer.setAttribute('aria-hidden', 'false');
+          drawer.removeAttribute('inert');
         }
       });
 
@@ -46,6 +48,7 @@ nav_script_content = """/* =====================================================
           toggle.classList.remove('is-active');
           toggle.setAttribute('aria-expanded', 'false');
           drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
         });
       });
     }
@@ -98,6 +101,7 @@ nav_script_content = """/* =====================================================
             toggle.setAttribute('aria-expanded', 'false');
           }
           drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
         }
       });
 
@@ -110,6 +114,7 @@ nav_script_content = """/* =====================================================
               toggle.setAttribute('aria-expanded', 'false');
             }
             drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
           }
           if (dropdown && dropdown.classList.contains('is-open')) {
             dropdown.classList.remove('is-open');
@@ -214,7 +219,7 @@ def build_navbar_html(current_page_slug):
       </button>
     </div>
   </div>
-  <div class="ltt-mobile-drawer" id="lttMobileDrawer" aria-hidden="true">
+  <div aria-hidden="true" inert class="ltt-mobile-drawer" id="lttMobileDrawer">
     <div class="ltt-drawer-content">
       <div class="ltt-mobile-section">
         <div class="ltt-mobile-label">Destinations &amp; Guides</div>

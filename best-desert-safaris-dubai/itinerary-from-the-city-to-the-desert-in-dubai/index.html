@@ -284,6 +284,8 @@
   }
   .ltt-mobile-drawer {
     display: block;
+    visibility: hidden;
+    pointer-events: none;
     position: absolute;
     top: 68px;
     left: 0;
@@ -294,11 +296,13 @@
     max-height: 0;
     opacity: 0;
     overflow: hidden;
-    transition: max-height 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease;
+    transition: max-height 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease, visibility 0.35s ease;
     box-sizing: border-box;
     z-index: 9999;
   }
   .ltt-mobile-drawer.is-open {
+    visibility: visible;
+    pointer-events: auto;
     max-height: calc(100vh - 68px);
     opacity: 1;
     overflow-y: auto;
@@ -546,7 +550,7 @@ a.main-buy-button.w-button:hover {
 </button>
 </div>
 </div>
-<div aria-hidden="true" class="ltt-mobile-drawer" id="lttMobileDrawer">
+<div aria-hidden="true" inert class="ltt-mobile-drawer" id="lttMobileDrawer">
 <div class="ltt-drawer-content">
 <div class="ltt-mobile-section">
 <div class="ltt-mobile-label">Destinations &amp; Guides</div>
@@ -612,11 +616,13 @@ a.main-buy-button.w-button:hover {
           toggle.classList.remove('is-active');
           toggle.setAttribute('aria-expanded', 'false');
           drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
         } else {
           drawer.classList.add('is-open');
           toggle.classList.add('is-active');
           toggle.setAttribute('aria-expanded', 'true');
           drawer.setAttribute('aria-hidden', 'false');
+          drawer.removeAttribute('inert');
         }
       });
 
@@ -626,6 +632,7 @@ a.main-buy-button.w-button:hover {
           toggle.classList.remove('is-active');
           toggle.setAttribute('aria-expanded', 'false');
           drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
         });
       });
     }
@@ -678,6 +685,7 @@ a.main-buy-button.w-button:hover {
             toggle.setAttribute('aria-expanded', 'false');
           }
           drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
         }
       });
 
@@ -690,6 +698,7 @@ a.main-buy-button.w-button:hover {
               toggle.setAttribute('aria-expanded', 'false');
             }
             drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
           }
           if (dropdown && dropdown.classList.contains('is-open')) {
             dropdown.classList.remove('is-open');
