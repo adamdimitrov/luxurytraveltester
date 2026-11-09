@@ -36,24 +36,24 @@ NYC_HELICOPTER_DATA = [
         "link": "https://www.flynyon.com/",
         "maps_link": "https://maps.app.goo.gl/M7HgoZAbejMyQS2G9",
         "images": [
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47d3559ce91814c1df86f5_best-helicopter-tours-nyc-flynyon-4.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b211878b3a96768334_best-helicopter-tours-nyc-flynyon-17.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b210a69bc70a9e3411_best-helicopter-tours-nyc-flynyon-11.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b4bf6f86ab17454b8d_best-helicopter-tours-nyc-flynyon-19.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b5dcf4456feae7623e_best-helicopter-tours-nyc-flynyon-3.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b2e28f970c7412e70a_best-helicopter-tours-nyc-flynyon-20.JPG.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b50943913cb88f4f15_best-helicopter-tours-nyc-flynyon-2.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b46620ac3fe0404510_best-helicopter-tours-nyc-flynyon-1.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b311f008c657a3bf3b_best-helicopter-tours-nyc-flynyon-7.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b3e1d5c0fa7380cb30_best-helicopter-tours-nyc-flynyon-9.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b210fffa63fd5c45a8_best-helicopter-tours-nyc-flynyon-8.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b361a3bd3efb23ed61_best-helicopter-tours-nyc-flynyon-10.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b48f0b68f713944d36_best-helicopter-tours-nyc-flynyon-12.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b3299abbd41fe277b8_best-helicopter-tours-nyc-flynyon-15.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b3f05dcdce2b1827b2_best-helicopter-tours-nyc-flynyon-13.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b356b7deb3a7017eac_best-helicopter-tours-nyc-flynyon-16.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a3e93b3a38fb94347f05413_best-helicopter-tours-nyc-flynyon-14.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4d3fc57f5b3867f83d5252_flynyon.avif"
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47d3559ce91814c1df86f5_best-helicopter-tours-nyc-flynyon-4.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b211878b3a96768334_best-helicopter-tours-nyc-flynyon-17.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b210a69bc70a9e3411_best-helicopter-tours-nyc-flynyon-11.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b4bf6f86ab17454b8d_best-helicopter-tours-nyc-flynyon-19.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b5dcf4456feae7623e_best-helicopter-tours-nyc-flynyon-3.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b2e28f970c7412e70a_best-helicopter-tours-nyc-flynyon-20.JPG.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b50943913cb88f4f15_best-helicopter-tours-nyc-flynyon-2.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b46620ac3fe0404510_best-helicopter-tours-nyc-flynyon-1.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b311f008c657a3bf3b_best-helicopter-tours-nyc-flynyon-7.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b3e1d5c0fa7380cb30_best-helicopter-tours-nyc-flynyon-9.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b210fffa63fd5c45a8_best-helicopter-tours-nyc-flynyon-8.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b361a3bd3efb23ed61_best-helicopter-tours-nyc-flynyon-10.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b48f0b68f713944d36_best-helicopter-tours-nyc-flynyon-12.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b3299abbd41fe277b8_best-helicopter-tours-nyc-flynyon-15.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b3f05dcdce2b1827b2_best-helicopter-tours-nyc-flynyon-13.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b356b7deb3a7017eac_best-helicopter-tours-nyc-flynyon-16.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a3e93b3a38fb94347f05413_best-helicopter-tours-nyc-flynyon-14.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4d3fc57f5b3867f83d5252_flynyon.avif"
         ]
     },
     {
@@ -81,18 +81,18 @@ NYC_HELICOPTER_DATA = [
         "link": "https://www.getyourguide.com/new-york-city-l59/nyc-manhattan-sightseeing-helicopter-tour-t19901/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-comparison-list-heliny&mkt_cmp=true",
         "maps_link": "https://maps.app.goo.gl/VHqxx4N9k6GJw3rGA",
         "images": [
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf594f0a6341fe351db_best-helicopter-tours-nyc-heliny-1.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf70dd18fd3b6f5cc27_best-helicopter-tours-nyc-heliny-15.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf78ebd68066b64c4a1_best-helicopter-tours-nyc-heliny-18.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf56b566d4ac49f5e05_best-helicopter-tours-nyc-heliny-17.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf7e7a9ec87627f2a43_best-helicopter-tours-nyc-heliny-2.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf71bd96559fa923d8f_best-helicopter-tours-nyc-heliny-14.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf5e65c811a8d65cb83_best-helicopter-tours-nyc-heliny-13.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf82994b45745fc6026_best-helicopter-tours-nyc-heliny-4.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf77f4dc7d7180b895c_best-helicopter-tours-nyc-heliny-7.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf7b93c1b54617a3f13_best-helicopter-tours-nyc-heliny-11.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47daf5c9ff2d5bf8d7508d_best-helicopter-tours-nyc-heliny-12.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47dd8fbfa2dfc7559687ec_best-helicopter-tours-nyc-heliny-5_result.avif"
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf594f0a6341fe351db_best-helicopter-tours-nyc-heliny-1.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf70dd18fd3b6f5cc27_best-helicopter-tours-nyc-heliny-15.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf78ebd68066b64c4a1_best-helicopter-tours-nyc-heliny-18.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf56b566d4ac49f5e05_best-helicopter-tours-nyc-heliny-17.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf7e7a9ec87627f2a43_best-helicopter-tours-nyc-heliny-2.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf71bd96559fa923d8f_best-helicopter-tours-nyc-heliny-14.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf5e65c811a8d65cb83_best-helicopter-tours-nyc-heliny-13.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf82994b45745fc6026_best-helicopter-tours-nyc-heliny-4.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf77f4dc7d7180b895c_best-helicopter-tours-nyc-heliny-7.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf7b93c1b54617a3f13_best-helicopter-tours-nyc-heliny-11.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47daf5c9ff2d5bf8d7508d_best-helicopter-tours-nyc-heliny-12.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a47dd8fbfa2dfc7559687ec_best-helicopter-tours-nyc-heliny-5_result.avif"
         ]
     },
     {
@@ -120,14 +120,14 @@ NYC_HELICOPTER_DATA = [
         "link": "https://www.getyourguide.com/new-york-city-l59/nyc-helicopter-tour-of-the-big-apple-all-inclusive-t456488/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-comparison-list-charm-aviation&mkt_cmp=true",
         "maps_link": "https://maps.app.goo.gl/ihKsQZb5G4UXTgr4A",
         "images": [
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159ed30e0dd535134b67_best-helicopter-tours-nyc-charm-aviation-4.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159e2f2b3aa805a18fd0_best-helicopter-tours-nyc-charm-aviation-1.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159e215abbb8f21d7487_best-helicopter-tours-nyc-charm-aviation-3.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159eb550267ae3150903_best-helicopter-tours-nyc-charm-aviation-5.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159e041c2a759ca559ff_best-helicopter-tours-nyc-charm-aviation-8.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159e75e49a6ca9881c84_best-helicopter-tours-nyc-charm-aviation-7.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159de6393d203487a9b3_best-helicopter-tours-nyc-charm-aviation-6.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49159cf200933aba6c0701_best-helicopter-tours-nyc-charm-aviation-2.avif"
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159ed30e0dd535134b67_best-helicopter-tours-nyc-charm-aviation-4.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159e2f2b3aa805a18fd0_best-helicopter-tours-nyc-charm-aviation-1.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159e215abbb8f21d7487_best-helicopter-tours-nyc-charm-aviation-3.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159eb550267ae3150903_best-helicopter-tours-nyc-charm-aviation-5.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159e041c2a759ca559ff_best-helicopter-tours-nyc-charm-aviation-8.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159e75e49a6ca9881c84_best-helicopter-tours-nyc-charm-aviation-7.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159de6393d203487a9b3_best-helicopter-tours-nyc-charm-aviation-6.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49159cf200933aba6c0701_best-helicopter-tours-nyc-charm-aviation-2.avif"
         ]
     },
     {
@@ -155,15 +155,15 @@ NYC_HELICOPTER_DATA = [
         "link": "https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-comparison-list-zip-aviation&mkt_cmp=true",
         "maps_link": "https://maps.app.goo.gl/LPbifuYEZNGB8vTg8",
         "images": [
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4916664ece1b870de05d64_best-helicopter-tours-nyc-zip-aviation-6.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4916667d3b027f52b893b6_best-helicopter-tours-nyc-zip-aviation-13.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a491665bef554b822b82057_best-helicopter-tours-nyc-zip-aviation-12.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a491666de2bced790ce3faf_best-helicopter-tours-nyc-zip-aviation-9.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a491665d0e0f799d7955f37_best-helicopter-tours-nyc-zip-aviation-8.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49166603ad4172d1a3b009_best-helicopter-tours-nyc-zip-aviation-10.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a491666a4873ec6180f8a63_best-helicopter-tours-nyc-zip-aviation-11.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a49166670325ae14a945479_best-helicopter-tours-nyc-zip-aviation-7.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4916668a1508d3eae97f40_best-helicopter-tours-nyc-zip-aviation-5.avif"
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4916664ece1b870de05d64_best-helicopter-tours-nyc-zip-aviation-6.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4916667d3b027f52b893b6_best-helicopter-tours-nyc-zip-aviation-13.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a491665bef554b822b82057_best-helicopter-tours-nyc-zip-aviation-12.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a491666de2bced790ce3faf_best-helicopter-tours-nyc-zip-aviation-9.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a491665d0e0f799d7955f37_best-helicopter-tours-nyc-zip-aviation-8.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49166603ad4172d1a3b009_best-helicopter-tours-nyc-zip-aviation-10.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a491666a4873ec6180f8a63_best-helicopter-tours-nyc-zip-aviation-11.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a49166670325ae14a945479_best-helicopter-tours-nyc-zip-aviation-7.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4916668a1508d3eae97f40_best-helicopter-tours-nyc-zip-aviation-5.avif"
         ]
     },
     {
@@ -191,15 +191,15 @@ NYC_HELICOPTER_DATA = [
         "link": "https://www.getyourguide.com/new-york-city-l59/couple-s-private-helicopter-tour-over-new-york-t63337/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-comparison-list-wings-air&mkt_cmp=true",
         "maps_link": "https://maps.app.goo.gl/jagGWLf6gwQpDPxJ6",
         "images": [
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b50a823a381952a36e_best-helicopter-tours-nyc-wings-air-3.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b388f8dc3c9b651118_best-helicopter-tours-nyc-wings-air-5.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b54480068d7c8c5528_best-helicopter-tours-nyc-wings-air-2.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b487e679d5400c6ac7_best-helicopter-tours-nyc-wings-air-8.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b5da8eb02bf62f9187_best-helicopter-tours-nyc-wings-air-6.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b50a823a381952a387_best-helicopter-tours-nyc-wings-air-4.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b567feb6e78cfda437_best-helicopter-tours-nyc-wings-air-9.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b570325ae14a94e501_best-helicopter-tours-nyc-wings-air-7.avif",
-            "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a4919b53052977cb135f301_best-helicopter-tours-nyc-wings-air-1.avif"
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b50a823a381952a36e_best-helicopter-tours-nyc-wings-air-3.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b388f8dc3c9b651118_best-helicopter-tours-nyc-wings-air-5.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b54480068d7c8c5528_best-helicopter-tours-nyc-wings-air-2.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b487e679d5400c6ac7_best-helicopter-tours-nyc-wings-air-8.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b5da8eb02bf62f9187_best-helicopter-tours-nyc-wings-air-6.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b50a823a381952a387_best-helicopter-tours-nyc-wings-air-4.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b567feb6e78cfda437_best-helicopter-tours-nyc-wings-air-9.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b570325ae14a94e501_best-helicopter-tours-nyc-wings-air-7.avif",
+            "/assets/cdn/67d02edca7795b0f57073b59/6a4919b53052977cb135f301_best-helicopter-tours-nyc-wings-air-1.avif"
         ]
     }
 ]
@@ -520,16 +520,16 @@ extra_fixes_css = '''
 
 /* Fix 5: Channel Icon definitions */
 .bpa-ic-google {
-  background-image: url("https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4688dbf65f4077122_google-logo.avif");
+  background-image: url("/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4688dbf65f4077122_google-logo.avif");
 }
 .bpa-ic-ta {
-  background-image: url("https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png");
+  background-image: url("/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png");
 }
 .bpa-ic-gyg {
-  background-image: url("https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png");
+  background-image: url("/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png");
 }
 .bpa-ic-viator {
-  background-image: url("https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png");
+  background-image: url("/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png");
 }
 
 /* Fix 6: Details summary toggle chevron */
@@ -655,13 +655,13 @@ details_cards_html.append('''<details class="bpa-details-card" id="1-flynyon" op
 <div class="bpa-summary-reviews">
 <div class="div-block-53">
 <a class="bpa-rev-badge" href="https://maps.app.goo.gl/M7HgoZAbejMyQS2G9" onclick="event.stopPropagation()" rel="noopener nofollow" target="_blank">
-<img alt="Google" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67ebc6e4688dbf65f4077122_google-logo.avif"/>
+<img alt="Google" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4688dbf65f4077122_google-logo.avif"/>
 <span class="bpa-rev-score">4.4</span>
 <span class="bpa-rev-stars">★★★★½</span>
 <span class="bpa-rev-count">+11,000 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://maps.app.goo.gl/M7HgoZAbejMyQS2G9" onclick="event.stopPropagation()" rel="noopener nofollow" target="_blank">
-<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
+<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
 <span class="bpa-rev-score">4.5</span>
 <span class="bpa-rev-stars">★★★★½</span>
 <span class="bpa-rev-count">+2,000 reviews</span>
@@ -772,19 +772,19 @@ details_cards_html.append('''<details class="bpa-details-card" id="2-heliny" ope
 <div class="bpa-summary-reviews">
 <div class="div-block-53">
 <a class="bpa-rev-badge" href="https://www.getyourguide.com/new-york-city-l59/nyc-manhattan-sightseeing-helicopter-tour-t19901/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-h3-reviews-heliny&mkt_cmp=true" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
+<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
 <span class="bpa-rev-score">4.8</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+7,180 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://viator.tpm.lv/F6amfNG8" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
+<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
 <span class="bpa-rev-score">4.8</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+1,310 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://tripadvisor.tpm.lv/I3j3kV7W" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
+<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
 <span class="bpa-rev-score">4.8</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+750 reviews</span>
@@ -855,19 +855,19 @@ details_cards_html.append('''<details class="bpa-details-card" id="3-charm-aviat
 <div class="bpa-summary-reviews">
 <div class="div-block-53">
 <a class="bpa-rev-badge" href="https://www.getyourguide.com/new-york-city-l59/nyc-helicopter-tour-of-the-big-apple-all-inclusive-t456488/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-h3-reviews-charm-aviation&mkt_cmp=true" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
+<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
 <span class="bpa-rev-score">4.8</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+2,180 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://viator.tpm.lv/4aX2WYra" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
+<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
 <span class="bpa-rev-score">4.5</span>
 <span class="bpa-rev-stars">★★★★½</span>
 <span class="bpa-rev-count">+1,870 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://tripadvisor.tpm.lv/LItHJmxS" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
+<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
 <span class="bpa-rev-score">4.3</span>
 <span class="bpa-rev-stars">★★★★☆</span>
 <span class="bpa-rev-count">+350 reviews</span>
@@ -923,19 +923,19 @@ details_cards_html.append('''<details class="bpa-details-card" id="4-zip-aviatio
 <div class="bpa-summary-reviews">
 <div class="div-block-53">
 <a class="bpa-rev-badge" href="https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-h3-reviews-zip-aviation&mkt_cmp=true" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
+<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
 <span class="bpa-rev-score">4.7</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+7,300 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://viator.tpm.lv/rHrTkVDe" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
+<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
 <span class="bpa-rev-score">4.4</span>
 <span class="bpa-rev-stars">★★★★½</span>
 <span class="bpa-rev-count">+1,460 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://tripadvisor.tpm.lv/YJgZ8JXL" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
+<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
 <span class="bpa-rev-score">4.5</span>
 <span class="bpa-rev-stars">★★★★½</span>
 <span class="bpa-rev-count">+190 reviews</span>
@@ -991,19 +991,19 @@ details_cards_html.append('''<details class="bpa-details-card" id="5-wings-air" 
 <div class="bpa-summary-reviews">
 <div class="div-block-53">
 <a class="bpa-rev-badge" href="https://www.getyourguide.com/new-york-city-l59/couple-s-private-helicopter-tour-over-new-york-t63337/?partner_id=YS414AJ&utm_medium=online_publisher&cmp=article-helicopter-tours-nyc-h3-reviews-wings-air&mkt_cmp=true" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
+<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3745_getyourguide-icon.png"/>
 <span class="bpa-rev-score">4.8</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+300 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://viator.tpm.lv/fbeTlJnZ" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
+<img alt="Viator" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3747_viator-icon.png"/>
 <span class="bpa-rev-score">4.8</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+50 reviews</span>
 </a>
 <a class="bpa-rev-badge" href="https://tripadvisor.tpm.lv/YH24HK2Q" onclick="event.stopPropagation()" rel="noopener nofollow sponsored" target="_blank">
-<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="https://cdn.prod.website-files.com/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
+<img alt="TripAdvisor" class="bpa-rev-icon" loading="lazy" src="/assets/cdn/60e43c7d6d05b671dff0dc1a/65350288cf6e222fd93f3743_tripadvisor-icon.png"/>
 <span class="bpa-rev-score">4.7</span>
 <span class="bpa-rev-stars">★★★★★</span>
 <span class="bpa-rev-count">+40 reviews</span>
@@ -1069,7 +1069,7 @@ blog_section_markup = f'''<div class="blog-section">
 sticky_bar_markup = '''<aside aria-label="Current Tour Quick Reservation" class="sticky-mobile-bar" id="sticky-bar">
 <div class="sticky-inner">
 <div class="sticky-boat-info">
-<img alt="NYC Helicopter" class="sticky-thumb-img" id="sticky-thumb" src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47d3559ce91814c1df86f5_best-helicopter-tours-nyc-flynyon-4.avif"/>
+<img alt="NYC Helicopter" class="sticky-thumb-img" id="sticky-thumb" src="/assets/cdn/67d02edca7795b0f57073b59/6a47d3559ce91814c1df86f5_best-helicopter-tours-nyc-flynyon-4.avif"/>
 <div class="sticky-text">
 <div class="sticky-title-row">
 <span class="sticky-rank-badge" id="sticky-rank">🏆 #1 Best Overall</span>

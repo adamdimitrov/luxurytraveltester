@@ -23,8 +23,8 @@ head = soup.head
 
 # og:image
 if not head.find('meta', property='og:image'):
-    m_og_img = soup.new_tag('meta', property='og:image', content='https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68175d418e783498a077f773_Best-Dubai-Hotels-hero.avif')
-    m_tw_img = soup.new_tag('meta', attrs={'name': 'twitter:image', 'content': 'https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68175d418e783498a077f773_Best-Dubai-Hotels-hero.avif'})
+    m_og_img = soup.new_tag('meta', property='og:image', content='/assets/cdn/67d02edca7795b0f57073b59/68175d418e783498a077f773_Best-Dubai-Hotels-hero.avif')
+    m_tw_img = soup.new_tag('meta', attrs={'name': 'twitter:image', 'content': '/assets/cdn/67d02edca7795b0f57073b59/68175d418e783498a077f773_Best-Dubai-Hotels-hero.avif'})
     head.append(m_og_img)
     head.append(m_tw_img)
 

@@ -54,7 +54,7 @@ config = {
     "author_name": "Adam Dimitrov",
     "author_url": "/about",
     "author_title": "Founder & Lead Field Inspector",
-    "author_avatar": "https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67d02edca7795b0f57073f59_Adam-dimitrov-portrait-500x500.webp",
+    "author_avatar": "/assets/cdn/67d02edca7795b0f57073b59/67d02edca7795b0f57073f59_Adam-dimitrov-portrait-500x500.webp",
     "author_subline": "5 Flagship Resorts Personally Tested • 150+ Original Photos • 100% Anonymous & Self-Funded",
     "last_updated": "today",
     "paragraphs": [

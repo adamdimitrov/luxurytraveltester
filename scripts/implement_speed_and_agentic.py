@@ -21,10 +21,10 @@ GA_SNIPPET = """<!-- Google tag (gtag.js) -->
 </script>"""
 
 LCP_PRELOADS = {
-    'best-desert-safaris-dubai': '<link rel="preload" as="image" href="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result.webp" imagesrcset="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-500.webp 500w, https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-800.webp 800w, https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result.webp 1024w" imagesizes="(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw" fetchpriority="high"/>',
-    'best-helicopter-tours-new-york': '<link rel="preload" as="image" href="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/6a47d3559ce91814c1df86f5_best-helicopter-tours-nyc-flynyon-4.avif" fetchpriority="high"/>',
-    'best-palm-jumeirah-hotels-dubai': '<link rel="preload" as="image" href="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif" imagesrcset="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm-p-500.avif 500w, https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif 800w" imagesizes="(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px" fetchpriority="high"/>',
-    'index': '<link rel="preload" as="image" href="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/68175d418e783498a077f773_Best-Dubai-Hotels-hero.avif" fetchpriority="high"/>'
+    'best-desert-safaris-dubai': '<link rel="preload" as="image" href="/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result.webp" imagesrcset="/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result.webp 1024w" imagesizes="(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw" fetchpriority="high"/>',
+    'best-helicopter-tours-new-york': '<link rel="preload" as="image" href="/assets/cdn/67d02edca7795b0f57073b59/6a47d3559ce91814c1df86f5_best-helicopter-tours-nyc-flynyon-4.avif" fetchpriority="high"/>',
+    'best-palm-jumeirah-hotels-dubai': '<link rel="preload" as="image" href="/assets/cdn/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif" imagesrcset="/assets/cdn/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif 800w" imagesizes="(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px" fetchpriority="high"/>',
+    'index': '<link rel="preload" as="image" href="/assets/cdn/67d02edca7795b0f57073b59/68175d418e783498a077f773_Best-Dubai-Hotels-hero.avif" fetchpriority="high"/>'
 }
 
 def clean_html_file(fpath):
@@ -158,8 +158,6 @@ def clean_html_file(fpath):
         
     p1 = soup.new_tag('link', rel='preconnect', href='https://fonts.googleapis.com')
     p2 = soup.new_tag('link', rel='preconnect', href='https://fonts.gstatic.com', crossorigin='')
-    p3 = soup.new_tag('link', rel='preconnect', href='https://cdn.prod.website-files.com', crossorigin='')
-    head.insert(0, p3)
     head.insert(0, p2)
     head.insert(0, p1)
 

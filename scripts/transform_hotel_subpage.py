@@ -99,7 +99,7 @@ def transform_hotel_page(file_path):
     <div class="ltt-trust-bar">
       <div class="ltt-author-cluster">
         <div class="ltt-author-avatar-wrap">
-          <img src="https://cdn.prod.website-files.com/67d02edca7795b0f57073b59/67d02edca7795b0f57073f57_Adam-dimitrov-portrait-75x75.webp" alt="Adam Dimitrov" class="ltt-author-avatar">
+          <img src="/assets/cdn/67d02edca7795b0f57073b59/67d02edca7795b0f57073f57_Adam-dimitrov-portrait-75x75.webp" alt="Adam Dimitrov" class="ltt-author-avatar">
         </div>
         <div class="ltt-author-meta">
           <span class="ltt-author-line"><a href="/about">Adam Dimitrov</a></span>
