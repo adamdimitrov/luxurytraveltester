@@ -4,8 +4,823 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/ar/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ar/%D8%B9%D9%86",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ar/%D8%A3%D9%81%D8%B6%D9%84-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D8%A8%D9%8A",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ar/%D8%A3%D9%81%D8%B6%D9%84-%D8%AC%D9%88%D9%84%D8%A7%D8%AA-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%84%D9%8A%D9%83%D9%88%D8%A8%D8%AA%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlep%C5%A1%C3%AD-hotely-palm-jumeirah-v-dubaji/recenze-rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlep%C5%A1%C3%AD-hotely-palm-jumeirah-v-dubaji/recenze-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlep%C5%A1%C3%AD-hotely-palm-jumeirah-v-dubaji/recenze-atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlep%C5%A1%C3%AD-hotely-palm-jumeirah-v-dubaji/recenze-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlep%C5%A1%C3%AD-vrtuln%C3%AD-z%C3%A1jezdy-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/cs/recenze-nejlep%C5%A1%C3%ADch-hotel%C5%AF-v-palm-jumeirah-v-dubaji/atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/cs/nejlep%C5%A1%C3%AD-hotely-palm-jumeirah-dubaj",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-%C3%B8rken-safari-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-%C3%B8rkensafari-dubai/dubai-%C3%B8rkensafari-faq",
+      "destination": "/best-desert-safaris-dubai/dubai-desert-safaris-faq",
+      "permanent": true
+    },
+    {
+      "source": "/da/bedste-%C3%B8rkensafari-dubai/hvordan-de-bedste-%C3%B8rkensafari-dubai-vurderedes",
+      "destination": "/best-desert-safaris-dubai#how-we-evaluated",
+      "permanent": true
+    },
+    {
+      "source": "/de/die-besten-wustensafaris-dubai/entschl%C3%BCsseln-sie-ihre-w%C3%BCstensafari-in-dubai",
+      "destination": "/best-desert-safaris-dubai#desert-safaris-explained",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CF%84%CE%B1-%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B1-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-%CF%83%CF%84%CE%BF-%CF%80%CE%B1%CE%BB%CE%BC-%CF%84%CE%B6%CE%BF%CF%85%CE%BC%CE%AD%CE%B9%CF%81%CE%B1-%CF%84%CE%BF%CF%85-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CF%84%CE%B1-%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B1-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-%CF%83%CF%84%CE%BF-%CF%80%CE%B1%CE%BB%CE%BC-%CF%84%CE%B6%CE%BF%CF%85%CE%BC%CE%AD%CE%B9%CF%81%CE%B1-%CF%84%CE%BF%CF%85-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9/%CE%BA%CF%81%CE%B9%CF%84%CE%B9%CE%BA%CE%AE-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%B1%CF%84%CE%BB%CE%B1%CE%BD%CF%84%CE%AF%CF%82-%CF%83%CF%84%CE%BF-%CF%80%CE%B1%CE%BB%CE%BC-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CF%84%CE%B1-%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B1-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-palm-jumeirah-%CF%83%CF%84%CE%BF-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9/%CE%BA%CF%81%CE%B9%CF%84%CE%B9%CE%BA%CE%AE-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-atlantis-the-royal-%CF%83%CF%84%CE%BF-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CE%B5%CF%80%CE%B1%CF%86%CE%AE",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B1-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-palm-jumeirah-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9/%CE%BA%CF%81%CE%B9%CF%84%CE%B9%CE%BA%CE%AE-anantara-the-palm-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B1-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-palm-jumeirah-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9/%CE%BA%CF%81%CE%B9%CF%84%CE%B9%CE%BA%CE%AE-rixos-the-palm-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B1-%CE%BE%CE%B5%CE%BD%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%B1-palm-jumeirah-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9/%CE%BA%CF%81%CE%B9%CF%84%CE%B9%CE%BA%CE%AE-five-palm-jumeirah-%CE%BD%CF%84%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CE%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CE%BF%CE%B9-%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B5%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%BC%CE%B5-%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C%CF%80%CF%84%CE%B5%CF%81%CE%BF-%CF%83%CF%84%CE%B7-%CE%BD%CE%AD%CE%B1-%CF%85%CF%8C%CF%81%CE%BA%CE%B7",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/el/%CE%B3%CE%B9%CE%B1",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/es/los-mejores-safaris-por-el-desierto-de-dub%C3%A1i",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/es/mejores-tours-en-helic%C3%B3ptero-en-nueva-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D9%86%D9%82%D8%AF-%D9%88-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%AA%D9%84%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D9%84%D9%85-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7-%D8%AF%D8%A8%DB%8C/%D8%A2%D8%AA%D9%84%D8%A7%D9%86%D8%AA%DB%8C%D8%B3-%D8%B1%D9%88%DB%8C%D8%A7%D9%84-%D8%AF%D8%A8%DB%8C",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%AA%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D9%87%D9%84%DB%8C%DA%A9%D9%88%D9%BE%D8%AA%D8%B1-%D8%AF%D8%B1-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%AA%D9%84%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D9%84%D9%85-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7-%D8%AF%D8%A8%DB%8C",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%AA%D9%84%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D9%84%D9%85-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7-%D8%AF%D8%A8%DB%8C/%D9%86%D9%82%D8%AF-%D9%88-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%87%D8%AA%D9%84-%D8%A2%D8%AA%D9%84%D8%A7%D9%86%D8%AA%DB%8C%D8%B3-%D9%BE%D8%A7%D9%84%D9%85-%D8%AF%D8%A8%DB%8C",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%AA%D9%84%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D9%84%D9%85-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7-%D8%AF%D8%A8%DB%8C/%D9%86%D9%82%D8%AF-%D9%88-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%87%D8%AA%D9%84-%D9%81%D8%A7%DB%8C%D9%88-%D9%BE%D8%A7%D9%84%D9%85-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7-%D8%AF%D8%A8%DB%8C",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%AA%D9%84%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D9%84%D9%85-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7-%D8%AF%D8%A8%DB%8C/%D9%86%D9%82%D8%AF-%D9%88-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%87%D8%AA%D9%84-%D8%A2%D9%86%D8%A7%D9%86%D8%AA%D8%A7%D8%B1%D8%A7-%D9%BE%D8%A7%D9%84%D9%85-%D8%AF%D8%A8%DB%8C",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%AA%D9%84%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%D9%84%D9%85-%D8%AC%D9%85%DB%8C%D8%B1%D8%A7-%D8%AF%D8%A8%DB%8C/%D9%86%D9%82%D8%AF-%D9%88-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%87%D8%AA%D9%84-%D8%B1%DB%8C%DA%A9%D8%B3%D9%88%D8%B3-%D9%BE%D8%A7%D9%84%D9%85-%D8%AF%D8%A8%DB%8C",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%AA%D9%85%D8%A7%D8%B3",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/fa/%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleurs-safaris-dans-le-d%C3%A9sert-de-duba%C3%AF",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/fr/%C3%A0-propos",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/fr/meilleures-excursions-en-h%C3%A9licopt%C3%A8re-%C3%A0-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%9E%D7%92%D7%A2",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA-%D7%A2%D7%9C-%D7%9E%D7%9C%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%90%D7%9C%D7%9D-%D7%9239%D7%95%D7%9E%D7%99%D7%99%D7%A8%D7%94-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%93%D7%95%D7%91%D7%90%D7%99/%D7%90%D7%98%D7%9C%D7%A0%D7%98%D7%99%D7%A1-%D7%93%D7%94-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%93%D7%95%D7%91%D7%90%D7%99",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA-%D7%A2%D7%9C-%D7%9E%D7%9C%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%90%D7%9C%D7%9D-%D7%9239%D7%95%D7%9E%D7%99%D7%99%D7%A8%D7%94-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%93%D7%95%D7%91%D7%90%D7%99/%D7%A8%D7%99%D7%A7%D7%A1%D7%95%D7%A1-%D7%93%D7%94-%D7%A4%D7%90%D7%9C%D7%9D-%D7%93%D7%95%D7%91%D7%90%D7%99",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA-%D7%A2%D7%9C-%D7%9E%D7%9C%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%90%D7%9C%D7%9D-%D7%9239%D7%95%D7%9E%D7%99%D7%99%D7%A8%D7%94-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%93%D7%95%D7%91%D7%90%D7%99/%D7%90%D7%98%D7%9C%D7%A0%D7%98%D7%99%D7%A1-%D7%93%D7%94-%D7%A4%D7%90%D7%9C%D7%9D-%D7%93%D7%95%D7%91%D7%90%D7%99",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%98%D7%99%D7%95%D7%9C%D7%99-%D7%94%D7%9E%D7%A1%D7%95%D7%A7%D7%99%D7%9D-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%A0%D7%99%D7%95-%D7%99%D7%95%D7%A8%D7%A7",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%90%D7%95%D7%93%D7%95%D7%AA",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%94%D7%9E%D7%9C%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%A4%D7%90%D7%9C%D7%9D-%D7%9239%D7%95%D7%9E%D7%99%D7%99%D7%A8%D7%94-%D7%91%D7%93%D7%95%D7%91%D7%90%D7%99",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%94%D7%9E%D7%9C%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%A4%D7%90%D7%9C%D7%9D-%D7%9239%D7%95%D7%9E%D7%99%D7%99%D7%A8%D7%94-%D7%91%D7%93%D7%95%D7%91%D7%90%D7%99/%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA-%D7%A2%D7%9C-%D7%97%D7%9E%D7%A9%D7%AA-%D7%A4%D7%90%D7%9C%D7%9D-%D7%9239%D7%95%D7%9E%D7%99%D7%99%D7%A8%D7%94-%D7%91%D7%93%D7%95%D7%91%D7%90%D7%99",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/he/%D7%94%D7%9E%D7%9C%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%A4%D7%90%D7%9C%D7%9D-%D7%9239%D7%95%D7%9E%D7%99%D7%99%D7%A8%D7%94-%D7%91%D7%93%D7%95%D7%91%D7%90%D7%99/%D7%91%D7%99%D7%A7%D7%95%D7%A8%D7%AA-%D7%A2%D7%9C-%D7%90%D7%A0%D7%A0%D7%98%D7%A8%D7%94-%D7%A4%D7%90%D7%9C%D7%9D-%D7%93%D7%95%D7%91%D7%90%D7%99",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%AE-%E0%A4%B8%E0%A4%AC%E0%A4%B8-%E0%A4%85%E0%A4%9A%E0%A4%9B-%E0%A4%AA%E0%A4%AE-%E0%A4%9C%E0%A4%AE%E0%A4%B0%E0%A4%B9-%E0%A4%B9%E0%A4%9F%E0%A4%B2",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%B8%E0%A4%B0%E0%A4%B5%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%A0-%E0%A4%AA%E0%A4%AE-%E0%A4%9C%E0%A4%AE%E0%A4%B0%E0%A4%B9-%E0%A4%B9%E0%A4%9F%E0%A4%B2-%E0%A4%A6%E0%A4%AC%E0%A4%88/%E0%A4%85%E0%A4%A8%E0%A4%A4%E0%A4%B0-%E0%A4%A6-%E0%A4%AA%E0%A4%AE-%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%B7",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%B8%E0%A4%AA%E0%A4%B0%E0%A4%95",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%95-%E0%A4%B8%E0%A4%AC%E0%A4%B8-%E0%A4%85%E0%A4%9A%E0%A4%9B-%E0%A4%B0%E0%A4%97%E0%A4%B8%E0%A4%A4%E0%A4%A8-%E0%A4%B8%E0%A4%AB%E0%A4%B0",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%A8%E0%A4%AF%E0%A4%AF%E0%A4%B0%E0%A4%95-%E0%A4%AE-%E0%A4%B8%E0%A4%B0%E0%A4%B5%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%A0-%E0%A4%B9%E0%A4%B2%E0%A4%95%E0%A4%AA%E0%A4%9F%E0%A4%B0-%E0%A4%9F%E0%A4%B0",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%95-%E0%A4%AC%E0%A4%B0-%E0%A4%AE",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%95-%E0%A4%B8%E0%A4%B0%E0%A4%B5%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%A0-%E0%A4%AA%E0%A4%AE-%E0%A4%9C%E0%A4%AE%E0%A4%B0%E0%A4%B9-%E0%A4%B9%E0%A4%9F%E0%A4%B2/%E0%A4%85%E0%A4%9F%E0%A4%B2%E0%A4%9F%E0%A4%B8-%E0%A4%A6-%E0%A4%B0%E0%A4%AF%E0%A4%B2-%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%95-%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%B7",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%95-%E0%A4%B8%E0%A4%B0%E0%A4%B5%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%A0-%E0%A4%AA%E0%A4%AE-%E0%A4%9C%E0%A4%AE%E0%A4%B0%E0%A4%B9-%E0%A4%B9%E0%A4%9F%E0%A4%B2/%E0%A4%85%E0%A4%9F%E0%A4%B2%E0%A4%9F%E0%A4%B8-%E0%A4%A6-%E0%A4%AA%E0%A4%AE-%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%95-%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%B7",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hi/%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%95-%E0%A4%B8%E0%A4%B0%E0%A4%B5%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%A0-%E0%A4%AA%E0%A4%AE-%E0%A4%9C%E0%A4%AE%E0%A4%B0%E0%A4%B9-%E0%A4%B9%E0%A4%9F%E0%A4%B2/%E0%A4%AA%E0%A4%9A-%E0%A4%AA%E0%A4%AE-%E0%A4%9C%E0%A4%AE%E0%A4%B0%E0%A4%B9-%E0%A4%A6%E0%A4%AC%E0%A4%88-%E0%A4%95-%E0%A4%B8%E0%A4%AE%E0%A4%95%E0%A4%B7",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/%C3%A9rintkez%C3%A9s",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-helikopter-t%C3%BAr%C3%A1k-new-yorkban",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-sz%C3%A1llodak-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-sz%C3%A1llodak-dubai/atlantis-the-royal-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-sz%C3%A1llodak-dubai/anantara-the-palm-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-sz%C3%A1llodak-dubai/atlantis-the-palm-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-sz%C3%A1llodak-dubai/five-palm-jumeirah-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/legjobb-5-csillagos-palm-jumeirah-sz%C3%A1llodak-dubai/rixos-the-palm-dubai-velemeny",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/hu/k%C3%B6r%C3%BClbel%C3%BCl",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E6%8E%A5%E8%A7%A6",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E6%9C%80%E9%AB%98%E3%81%AE%E3%83%98%E3%83%AA%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BC%E3%83%84%E3%82%A2%E3%83%BC",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%9B%E3%83%86%E3%83%AB",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%9B%E3%83%86%E3%83%AB/%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%82%B6%E3%83%91%E3%83%BC%E3%83%A0%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%9B%E3%83%86%E3%83%AB/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%9B%E3%83%86%E3%83%AB/%E3%82%A2%E3%83%8A%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%B6%E3%83%91%E3%83%BC%E3%83%A0%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%9B%E3%83%86%E3%83%AB/%E3%83%AA%E3%82%AF%E3%82%BD%E3%82%B9%E3%82%B6%E3%83%91%E3%83%BC%E3%83%A0%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A5%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%9B%E3%83%86%E3%83%AB/%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%82%B6%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ja/%E3%83%89%E3%83%90%E3%82%A4%E3%81%AE%E6%9C%80%E9%AB%98%E3%81%AE%E7%A0%82%E6%BC%A0%E3%82%B5%E3%83%95%E3%82%A1%E3%83%AA",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EC%97%B0%EB%9D%BD%ED%95%98%EB%8B%A4",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EC%97%90-%EB%8C%80%ED%95%9C",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EB%89%B4%EC%9A%95-%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%97%AC%EB%A6%AC%EC%BD%A5%ED%84%B0-%ED%88%AC%EC%96%B4",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EB%B2%A0%EC%8A%A4%ED%8A%B8-%ED%8C%9C-%EC%A3%BC%EB%A9%94%EC%9D%B4%EB%9D%BC-%ED%98%B8%ED%85%94-%EB%91%90%EB%B0%94%EC%9D%B4",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EB%B2%A0%EC%8A%A4%ED%8A%B8-%ED%8C%9C-%EC%A3%BC%EB%A9%94%EC%9D%B4%EB%9D%BC-%ED%98%B8%ED%85%94-%EB%91%90%EB%B0%94%EC%9D%B4/%EC%95%84%ED%8B%80%EB%9E%80%ED%8B%B0%EC%8A%A4-%EB%8D%94-%ED%8C%9C-%EB%91%90%EB%B0%94%EC%9D%B4-%EB%A6%AC%EB%B7%B0",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EB%B2%A0%EC%8A%A4%ED%8A%B8-%ED%8C%9C-%EC%A3%BC%EB%A9%94%EC%9D%B4%EB%9D%BC-%ED%98%B8%ED%85%94-%EB%91%90%EB%B0%94%EC%9D%B4/%EC%95%84%EB%82%9C%ED%83%80%EB%9D%BC-%EB%8D%94-%ED%8C%9C-%EB%91%90%EB%B0%94%EC%9D%B4-%EB%A6%AC%EB%B7%B0",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EB%B2%A0%EC%8A%A4%ED%8A%B8-%ED%8C%9C-%EC%A3%BC%EB%A9%94%EC%9D%B4%EB%9D%BC-%ED%98%B8%ED%85%94-%EB%91%90%EB%B0%94%EC%9D%B4/%ED%8C%8C%EC%9D%B4%EB%B8%8C-%ED%8C%9C-%EC%A3%BC%EB%A9%94%EC%9D%B4%EB%9D%BC-%EB%91%90%EB%B0%94%EC%9D%B4-%EB%A6%AC%EB%B7%B0",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EB%B2%A0%EC%8A%A4%ED%8A%B8-%ED%8C%9C-%EC%A3%BC%EB%A9%94%EC%9D%B4%EB%9D%BC-%ED%98%B8%ED%85%94-%EB%91%90%EB%B0%94%EC%9D%B4/%EC%95%84%ED%8B%80%EB%9E%80%ED%8B%B0%EC%8A%A4-%EB%8D%94-%EB%A1%9C%EC%97%B4-%EB%91%90%EB%B0%94%EC%9D%B4-%EB%A6%AC%EB%B7%B0",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ko/%EB%B2%A0%EC%8A%A4%ED%8A%B8-%ED%8C%9C-%EC%A3%BC%EB%A9%94%EC%9D%B4%EB%9D%BC-%ED%98%B8%ED%85%94-%EB%91%90%EB%B0%94%EC%9D%B4/%EB%A6%AD%EC%86%8C%EC%8A%A4-%EB%8D%94-%ED%8C%9C-%EB%91%90%EB%B0%94%EC%9D%B4-%EB%A6%AC%EB%B7%B0",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pl/najlepsze-hotele-w-palm-jumeirah-dubai/recenzje-pi%C4%99ciu-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-saf%C3%A1ris-no-deserto-em-dubai",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hot%C3%A9is-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hot%C3%A9is-palm-jumeirah-dubai/avalia%C3%A7%C3%A3o-rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hot%C3%A9is-palm-jumeirah-dubai/avalia%C3%A7%C3%A3o-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hot%C3%A9is-palm-jumeirah-dubai/avalia%C3%A7%C3%A3o-do-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hot%C3%A9is-em-palm-jumeirah-dubai/avalia%C3%A7%C3%A3o-do-atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-hot%C3%A9is-em-palm-jumeirah-dubai/avalia%C3%A7%C3%A3o-do-atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/pt/melhores-passeios-de-helic%C3%B3ptero-nova-iorque",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BE",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D0%B0-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D0%B5",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D0%B0-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D0%B5/%D0%B0%D0%BD%D0%B0%D0%BD%D1%82%D0%B0%D1%80%D0%B0-%D0%9F%D0%B0%D0%BB%D0%BC-%D0%94%D1%83%D0%B1%D0%B0%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D0%B0-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D0%B5/%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81-%D1%80%D0%BE%D1%8F%D0%BB-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D0%B0-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D0%B5/%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D1%81-%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9-%D0%BE%D1%82%D0%B7%D1%8B%D0%B2",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D0%B0-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D0%B5/%D0%BF%D1%8F%D1%82%D1%8C-%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D0%B0-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9-%D0%BE%D1%82%D0%B7%D1%8B%D0%B2",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D0%B0-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D0%B5/%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81-%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9-%D0%BE%D1%82%D0%B7%D1%8B%D0%B2",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-%D1%82%D1%83%D1%80%D1%8B-%D0%B2-%D0%BD%D1%8C%D1%8E-%D0%B9%D0%BE%D1%80%D0%BA%D0%B5",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5-%D1%81%D0%B0%D1%84%D0%B0%D1%80%D0%B8-%D0%BF%D0%BE-%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D0%B5-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B5-%D1%85%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B5-%D1%82%D1%83%D1%80%D0%B5-%D1%9A%D1%83%D1%98%D0%BE%D1%80%D0%BA",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BE",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B8-%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC-%D1%9F%D1%83%D0%BC%D0%B5%D0%B8%D1%80%D0%B8-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B8-%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC-%D1%9F%D1%83%D0%BC%D0%B5%D0%B8%D1%80%D0%B8-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83/%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%98%D0%B0-%D1%80%D0%B8%D0%BA%D0%BE%D1%81%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B8-%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC-%D1%9F%D1%83%D0%BC%D0%B5%D0%B8%D1%80%D0%B8-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83/%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%98%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81-%D1%80%D0%BE%D1%98%D0%B0%D0%BB-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D0%B0",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B8-%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D1%83-%D0%BF%D0%B0%D0%BB%D0%BC-%D1%9F%D1%83%D0%BC%D0%B5%D0%B8%D1%80%D0%B8-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83/%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%98%D0%B0-five-palm-%D1%9F%D1%83%D0%BC%D0%B5%D0%B8%D1%80%D0%B5-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B8-%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D1%83-%D0%BF%D0%B0%D0%BB%D0%BC-%D1%9F%D1%83%D0%BC%D0%B5%D0%B8%D1%80%D0%B8-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83/%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%98%D0%B0-%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%81-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D0%B0",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B8-%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC%D1%83-%D1%9F%D1%83%D0%BC%D0%B5%D0%B8%D1%80%D0%B8-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83/%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%98%D0%B0-%D0%B0%D0%BD%D0%B0%D0%BD%D1%82%D0%B0%D1%80%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D1%83%D0%B1%D0%B0%D0%B8%D1%98%D1%83",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/b%C3%A4sta-palm-jumeirah-hotell-dubai/recension-av-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/b%C3%A4sta-palm-jumeirah-hotell-dubai/atlantis-the-royal-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/b%C3%A4sta-palm-jumeirah-hotell-dubai/atlantis-the-palm-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/b%C3%A4sta-palm-jumeirah-hotell-dubai/rixos-the-palm-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/b%C3%A4sta-palm-jumeirah-hotell-dubai/anantara-the-palm-dubai-recension",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/sv/b%C3%A4sta-palm-jumeirah-hotellen-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/sv/b%C3%A4sta-helikopterturer-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%AB%E0%B8%97%E0%B8%94%E0%B8%97%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%94%E0%B9%84%E0%B8%9A/%E0%B8%A3%E0%B8%A7%E0%B8%A7%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%AD%E0%B8%95%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%95%E0%B8%AA-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%A5-%E0%B8%94%E0%B9%84%E0%B8%9A",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%AB-%E0%B8%94%E0%B9%84%E0%B8%9A%E0%B8%97%E0%B8%94%E0%B8%97%E0%B8%AA%E0%B8%94/%E0%B8%A3%E0%B8%A7%E0%B8%A7-%E0%B9%84%E0%B8%9F%E0%B8%A7%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%AB-%E0%B8%94%E0%B9%84%E0%B8%9A",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%9A%E0%B8%AA%E0%B8%95-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%AB-%E0%B8%94%E0%B9%84%E0%B8%9A",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B8%95%E0%B8%94%E0%B8%95%E0%B8%AD",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%AB-%E0%B8%94%E0%B9%84%E0%B8%9A/%E0%B8%A3%E0%B8%A7%E0%B8%A7%E0%B9%81%E0%B8%AD%E0%B8%95%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%95%E0%B8%AA-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%94%E0%B9%84%E0%B8%9A",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%AB-%E0%B8%94%E0%B9%84%E0%B8%9A/%E0%B8%A3%E0%B8%A7%E0%B8%A7-%E0%B8%A3%E0%B8%8B%E0%B8%AD%E0%B8%AA-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%94%E0%B9%84%E0%B8%9A",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%AB-%E0%B8%94%E0%B9%84%E0%B8%9A/%E0%B8%A3%E0%B8%A7%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%A1-%E0%B8%94%E0%B9%84%E0%B8%9A",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B9%80%E0%B8%81%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%9A",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/th/%E0%B8%97%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%AE%E0%B8%A5%E0%B8%84%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%97%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B8%81",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/tr/hakk%C4%B1nda",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-helikopter-turlar%C4%B1-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/tr/en-iyi-palm-jumeirah-otelleri-dubai/be%C5%9F-palm-jumeirah-dubai-incelemesi",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D1%96-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D1%97/%D0%B2%D1%96%D0%B4%D0%B3%D1%83%D0%BA-%D0%BF%D1%80%D0%BE-five-palm-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D1%83-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D1%97",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D1%96-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D1%96-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D1%97/%D0%B2%D1%96%D0%B4%D0%B3%D1%83%D0%BA-%D0%BF%D1%80%D0%BE-%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D1%96%D1%81-the-palm-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D1%96-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D1%96-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D1%97/%D0%B2%D1%96%D0%B4%D0%B3%D1%83%D0%BA-%D0%BF%D1%80%D0%BE-rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D1%96-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D1%96-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D1%97/%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96-%D0%BD%D0%B0-%D0%BF%D0%B0%D0%BB%D0%BC-%D0%B4%D0%B6%D1%83%D0%BC%D0%B5%D0%B9%D1%80%D1%96-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%96%D1%82%D0%BD%D1%96-%D1%82%D1%83%D1%80%D0%B8-%D0%BD%D1%8C%D1%8E-%D0%B9%D0%BE%D1%80%D0%BA",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D0%B8%D1%85-%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96%D0%B2-palm-jumeirah-%D1%83-%D0%B4%D1%83%D0%B1%D0%B0%D1%97/atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BF%D1%80%D0%BE",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/uk/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/ur/%D8%A8%DB%81%D8%AA%D8%B1%DB%8C%D9%86-%DB%81%DB%8C%D9%84%DB%8C-%DA%A9%D8%A7%D9%BE%D9%B9%D8%B1-%D9%B9%D9%88%D8%B1-%D9%86%DB%8C%D9%88%DB%8C%D8%A7%D8%B1%DA%A9",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/ur/%DA%A9%DB%92-%D8%A8%D8%A7%D8%B1%DB%92-%D9%85%DB%8C%DA%BA",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/ur/%D8%B1%D8%A7%D8%A8%D8%B7%DB%81",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/vi/%C4%91%C3%A1nh-gi%C3%A1-kh%C3%A1ch-s%E1%BA%A1n-t%E1%BB%91t-nh%E1%BA%A5t-t%E1%BA%A1i-palm-jumeirah-dubai/atlantis-the-royal-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/%C4%91%C3%A1nh-gi%C3%A1-kh%C3%A1ch-s%E1%BA%A1n-t%E1%BB%91t-nh%E1%BA%A5t-t%E1%BA%A1i-palm-jumeirah-dubai/atlantis-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/%C4%91%C3%A1nh-gi%C3%A1-kh%C3%A1ch-s%E1%BA%A1n-t%E1%BB%91t-nh%E1%BA%A5t-t%E1%BA%A1i-palm-jumeirah-dubai/anantara-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/%C4%91%C3%A1nh-gi%C3%A1-kh%C3%A1ch-s%E1%BA%A1n-t%E1%BB%91t-nh%E1%BA%A5t-t%E1%BA%A1i-palm-jumeirah-dubai/rixos-the-palm-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/kh%C3%A1ch-s%E1%BA%A1n-t%E1%BB%91t-nh%E1%BA%A5t-%E1%BB%9F-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/vi/c%C3%A1c-tour-du-l%E1%BB%8Bch-tr%E1%BB%B1c-th%C4%83ng-t%E1%BB%91t-nh%E1%BA%A5t-%E1%BB%9F-new-york",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/vi/v%E1%BB%81",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/vi/kh%C3%A1ch-s%E1%BA%A1n-t%E1%BB%91t-nh%E1%BA%A5t-t%E1%BA%A1i-palm-jumeirah-dubai/%C4%91%C3%A1nh-gi%C3%A1-kh%C3%A1ch-s%E1%BA%A1n-five-palm-jumeirah-dubai",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/vi/li%C3%AAn-h%E1%BB%87",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E7%BA%BD%E7%BA%A6%E6%9C%80%E4%BD%B3%E7%9B%B4%E5%8D%87%E6%9C%BA%E4%B9%8B%E6%97%85",
+      "destination": "/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E8%BF%AA%E6%8B%9C%E6%9C%80%E4%BD%B3%E6%B2%99%E6%BC%A0%E4%B9%8B%E6%97%85",
+      "destination": "/best-desert-safaris-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E8%BF%AA%E6%8B%9C%E6%A3%95%E6%A6%88%E5%B2%9B%E6%9C%80%E4%BD%B3%E9%85%92%E5%BA%97",
+      "destination": "/best-palm-jumeirah-hotels-dubai",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E8%BF%AA%E6%8B%9C%E6%A3%95%E6%A6%88%E5%B2%9B%E6%9C%80%E4%BD%B3%E9%85%92%E5%BA%97/%E8%BF%AA%E6%8B%9C%E6%A3%95%E6%A6%88%E5%B2%9B%E5%AE%89%E7%BA%B3%E5%A1%94%E6%8B%89%E9%85%92%E5%BA%97%E7%82%B9%E8%AF%84",
+      "destination": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E8%BF%AA%E6%8B%9C%E6%A3%95%E6%A6%88%E5%B2%9B%E6%9C%80%E4%BD%B3%E9%85%92%E5%BA%97/%E8%BF%AA%E6%8B%9C%E6%A3%95%E6%A6%88%E5%B2%9B%E7%91%9E%E5%85%8B%E7%B4%A2%E6%96%AF%E9%85%92%E5%BA%97%E7%82%B9%E8%AF%84",
+      "destination": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E8%BF%AA%E6%8B%9C%E6%A3%95%E6%A6%88%E5%B2%9B%E6%9C%80%E4%BD%B3%E9%85%92%E5%BA%97/%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E6%A3%95%E6%A6%88%E5%B2%9B%E9%85%92%E5%BA%97%E7%82%B9%E8%AF%84",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E8%BF%AA%E6%8B%9C%E6%A3%95%E6%A6%88%E5%B2%9B%E6%9C%80%E4%BD%B3%E9%85%92%E5%BA%97/%E8%BF%AA%E6%8B%9C%E7%9A%87%E5%AE%B6%E4%BA%9A%E7%89%B9%E5%85%B0%E8%92%82%E6%96%AF%E9%85%92%E5%BA%97%E7%82%B9%E8%AF%84",
+      "destination": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E6%8E%A5%E8%A7%A6",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E8%BF%AA%E6%8B%9C%E6%9C%80%E4%BD%B3%E6%A3%95%E6%A6%88%E5%B2%9B%E9%85%92%E5%BA%97/%E8%BF%AA%E6%8B%9C%E4%BA%94%E6%A3%95%E6%A6%88%E5%B2%9B%E9%85%92%E5%BA%97%E7%82%B9%E8%AF%84",
+      "destination": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+      "permanent": true
+    },
+    {
+      "source": "/zh/%E5%85%B3%E4%BA%8E",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "www.luxurytraveltester.com" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.luxurytraveltester.com"
+        }
+      ],
       "destination": "https://luxurytraveltester.com/$1",
       "permanent": true
     },
@@ -354,7 +1169,7 @@
     },
     {
       "source": "/da/bedste-ørkensafari-dubai/hvordan-de-bedste-ørkensafari-dubai-vurderedes",
-      "destination": "/best-desert-safaris-dubai/how-evaluated-the-best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai#how-we-evaluated",
       "permanent": true
     },
     {
@@ -429,12 +1244,12 @@
     },
     {
       "source": "/de/die-besten-wustensafaris-dubai/standardmerkmale-aller-personlich-getesteten-wustensafaris",
-      "destination": "/best-desert-safaris-dubai/standard-features-across-personally-tested-safaris",
+      "destination": "/best-desert-safaris-dubai#standard-features-explained",
       "permanent": true
     },
     {
       "source": "/de/die-besten-wustensafaris-dubai/entschlüsseln-sie-ihre-wüstensafari-in-dubai",
-      "destination": "/best-desert-safaris-dubai/decode-your-desert-safari-in-dubai",
+      "destination": "/best-desert-safaris-dubai#desert-safaris-explained",
       "permanent": true
     },
     {
@@ -449,7 +1264,7 @@
     },
     {
       "source": "/de/die-besten-wustensafaris-dubai/wie-der-artikel-ueber-die-10-besten-wuestensafaris-in-dubai-aufgebaut-ist",
-      "destination": "/best-desert-safaris-dubai/how-is-the-10-best-desert-safaris-in-dubai-article-structured",
+      "destination": "/best-desert-safaris-dubai#how-article-structured",
       "permanent": true
     },
     {
@@ -489,7 +1304,7 @@
     },
     {
       "source": "/de/best-desert-safaris-dubai/wie-die-besten-wustensafaris-in-dubai-bewertet-wurden",
-      "destination": "/best-desert-safaris-dubai/how-evaluated-the-best-desert-safaris-dubai",
+      "destination": "/best-desert-safaris-dubai#how-we-evaluated",
       "permanent": true
     },
     {
@@ -2356,6 +3171,42 @@
         {
           "key": "Link",
           "value": "</.well-known/ard.json>; rel=\"ard\""
+        }
+      ]
+    },
+    {
+      "source": "/test-card-redesign",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/test-card-redesign/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/test-desert-safaris-dubai",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
+      "source": "/test-desert-safaris-dubai/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
         }
       ]
     }
