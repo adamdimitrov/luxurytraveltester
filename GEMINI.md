@@ -27,10 +27,12 @@
 - **Detailed Reviews (Semantic HTML5 `<details open>`)**:
   - All 10 detailed breakdowns are wrapped in semantic `<details open class="bpa-details-card">` elements, open by default on static load for 100% crawlability.
   - **Zero Nested Dropdowns / No Load-More Cutoffs**: NEVER allow secondary nested dropdowns, artificial height clamps (e.g. `.load-more-div { height: 750px }`), or redundant `LOAD MORE →` buttons inside the review cards. When a review is open, all text, photos, and breakdown sections must flow completely and continuously without requiring a second click.
-- **Review Badge Formatting & Affiliate Links**:
-  - Do NOT print company names in text (e.g. `(GetYourGuide)`, `(TripAdvisor)`, `(Viator)`). The official platform icon conveys the brand cleanly while saving crucial horizontal space.
-  - Each review badge must be rendered as an individual, clickable `<a>` pill (`.bpa-rev-badge`) linked directly to the corresponding affiliate product URL (`target="_blank"`, `rel="noopener nofollow sponsored"`).
-  - Inside `<summary>`, badges MUST include `onclick="event.stopPropagation()"` to ensure clicking the review pill opens the affiliate partner without unintentionally toggling or collapsing the review card.
+- **Card Review Format (Rating Popover)**:
+  - Cards show one weighted rating (`details.bpa-lang.bpa-rate-more`): Σ(score×count)/Σcount, stars in `--r`, "N reviews · N sites".
+  - The popover lists one badge per verified site: the booking site as `.bpa-rev-badge.is-link` (affiliate link), every other site as `.bpa-rev-badge.is-static` (no link).
+  - Only show ratings that were checked on the live listing (or, for hotels, the hotel's own review subpage). Never use placeholder badges.
+- **Card Pills**: at most 4 pills per card plus the "Personally Tested" chip. Every pill must match the linked product's includes; times, languages and fees go in `details.bpa-lang` dropdowns with the source and check date in `.bpa-lang-note`.
+- **Detailed Reviews**: summary badges inside `<summary>` keep `onclick="event.stopPropagation()"` and link to the affiliate product.
 
 # Media & Image Slider Fidelity Directives (MANDATORY)
 
