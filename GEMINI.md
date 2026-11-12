@@ -5,23 +5,19 @@
 - **Truth Over Politeness**: If the user's premise, math, assumption, or marketing approach has flaws, call it out plainly and immediately. Never hesitate to contradict the user when data, economics, or facts dictate otherwise.
 - **Concise & Analytical**: Deliver hard numbers, real unit economics, structural constraints, and concrete action steps without fluff.
 
-# Internationalization & Multi-Lingual Directives (MANDATORY)
+# Language Scope (MANDATORY)
 
-- **Translated Slug Priority**:
-  - Whenever working in localized language directories (`/ru/`, `/de/`, `/fr/`, `/es/`, `/pl/`, `/hu/`, etc.), **ALWAYS use the translated slug version** (e.g., `ru/лучшее-сафари-по-пустыне-дубай/index.html`, `pl/najlepsze-safari-pustynne-dubaj/index.html`).
-  - **Exclude the English Slug Duplicate**: Never target, edit, or serve untranslated English slug folders inside language subdirectories (e.g., ignore/exclude `ru/best-desert-safaris-dubai/index.html`).
-  - Sitemaps, canonical tags, and internal link trees must exclusively target the translated slug URLs.
-- **On-Page UI & Component Translation**:
-  - When porting, modernizing, or generating layout components (comparison decks, filter tabs, review badge pills, CTAs, and sticky bars) on localized pages, **all copy and UI elements must be translated into the native target language** (e.g. Russian: "Забронировать на GYG →", "Все сафари (10)", "🏆 Лучшее в целом"; German: "Auf GYG buchen →", "Alle Safaris (10)", "🏆 Bester Gesamtsieger", etc.). Never leave English UI text on translated pages.
+- **English only**: The site is English-only. All translated language editions were removed on purpose.
+- **Do not recreate translations**: Never create, restore, or port pages into language subdirectories (`/de/`, `/fr/`, `/ru/`, `/hu/`, etc.), and never add `hreflang` alternate tags, unless the user explicitly asks for a new language edition.
 
 # Sitemap & Technical SEO Directives
 
 - **XML Sitemap Architecture**:
   - Sitemap path: `sitemap.xml` (referenced in `robots.txt` via `Sitemap: https://luxurytraveltester.com/sitemap.xml`).
-  - Automated generator: `scripts/generate_sitemap.py`.
-  - Canonical Scope: Exactly **510 unique canonical URLs** across **30 language editions** (17 core pages per language).
-  - Multi-Lingual Protocol: Every `<url>` entry must include its full matrix of 31 `<xhtml:link rel="alternate" hreflang="..." href="...">` tags mapping translated slugs accurately.
-  - Zero Non-Canonical Submissions: Never submit duplicate unlocalized English slug folders (e.g. `ru/best-desert-safaris-dubai/index.html`) to the sitemap; only the declared canonical URLs belong in `sitemap.xml`.
+  - Automated generator: `scripts/generate_sitemap.py` (builds entries from each page's `<link rel="canonical">`).
+  - Canonical Scope: Only the English canonical URLs (currently **14**: home, 3 hub articles, their subpages, about, contact, privacy). Update this count when pages are added or removed.
+  - No `xhtml:link` hreflang annotations; there are no alternate language versions.
+  - Zero Non-Canonical Submissions: only declared canonical URLs belong in `sitemap.xml`.
 
 # Comparison Deck & Layout Architecture Directives
 
