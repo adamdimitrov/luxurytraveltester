@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.adamdimitrov.ltt-travelpayouts-conversions</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/adamdimitrov/Development/luxurytraveltester/scripts/sync_travelpayouts_conversions.py</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>3600</integer>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/Users/adamdimitrov/Development/luxurytraveltester/sync_travelpayouts.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/adamdimitrov/Development/luxurytraveltester/sync_travelpayouts.error.log</string>
+</dict>
+</plist>
