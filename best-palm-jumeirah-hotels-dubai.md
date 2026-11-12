@@ -11,16 +11,16 @@ Palm Jumeirah is home to the world's most prestigious luxury resorts. We persona
 
 | Rank | Name | Details / Category | Verified Specs | Direct Booking |
 |---|---|---|---|---|
-| **#1** | **Atlantis, The Palm** | Atlantis, The Palm · ⏱️ 5★ Mega Resort ·📍 Crescent Road | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-atlantis-palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84) |
-| **#2** | **Atlantis The Royal** | Atlantis The Royal · ⏱️ 5★ Ultra-Luxury ·📍 Crescent Road | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-atlantis-royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84) |
-| **#3** | **Anantara The Palm Dubai Resort** | Anantara The Palm · ⏱️ 5★ Thai Resort ·📍 East Crescent | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84) |
-| **#4** | **FIVE Palm Jumeirah Hotel** | FIVE Palm Jumeirah · ⏱️ 5★ Party Resort ·📍 Palm West Beach | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84) |
-| **#5** | **Rixos The Palm Hotel & Suites** | Rixos The Palm · ⏱️ 5★ All-Inclusive ·📍 East Crescent | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84) |
-| **#6** | **One&Only The Palm Dubai** | One&Only The Palm · ⏱️ 5★ Boutique Luxury ·📍 West Crescent | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-one-only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84) |
-| **#7** | **Fairmont The Palm Hotel** | Fairmont The Palm · ⏱️ 5★ Family Beach ·📍 Palm Trunk | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84) |
-| **#8** | **The Retreat Palm Dubai, MGallery** | The Retreat Palm · ⏱️ 4★ Wellness Spa ·📍 East Crescent | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84) |
-| **#9** | **Waldorf Astoria Dubai Palm Jumeirah** | Waldorf Astoria · ⏱️ 5★ Classic Luxury ·📍 East Crescent | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84) |
-| **#10** | **Dukes The Palm, Royal Hideaway** | Dukes The Palm · ⏱️ 5★ British Luxury ·📍 Palm West Beach | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm-hub-md-dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84) |
+| **#1** | **Atlantis, The Palm** | Atlantis, The Palm · 5★ Mega Resort ·📍 Crescent Road | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_atlantis_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84) |
+| **#2** | **Atlantis The Royal** | Atlantis The Royal · 5★ Ultra-Luxury ·📍 Crescent Road | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_atlantis_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84) |
+| **#3** | **Anantara The Palm Dubai Resort** | Anantara The Palm · 5★ Thai Resort ·📍 East Crescent | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84) |
+| **#4** | **FIVE Palm Jumeirah Hotel** | FIVE Palm Jumeirah · 5★ Party Resort ·📍 Palm West Beach | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84) |
+| **#5** | **Rixos The Palm Hotel & Suites** | Rixos The Palm · 5★ All-Inclusive ·📍 East Crescent | Verified Field-Tested | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84) |
+| **#6** | **One&Only The Palm Dubai** | One&Only The Palm · 5★ Boutique Luxury ·📍 West Crescent | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_one_only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84) |
+| **#7** | **Fairmont The Palm Hotel** | Fairmont The Palm · 5★ Family Beach ·📍 Palm Trunk | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84) |
+| **#8** | **The Retreat Palm Dubai, MGallery** | The Retreat Palm · 4★ Wellness Spa ·📍 East Crescent | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84) |
+| **#9** | **Waldorf Astoria Dubai Palm Jumeirah** | Waldorf Astoria · 5★ Classic Luxury ·📍 East Crescent | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84) |
+| **#10** | **Dukes The Palm, Royal Hideaway** | Dukes The Palm · 5★ British Luxury ·📍 Palm West Beach | Researched (not yet stayed) | [Check Availability →](https://tp.media/r?marker=404154.palm_hub_md_dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84) |
 
 ---
 
@@ -28,9 +28,9 @@ Palm Jumeirah is home to the world's most prestigious luxury resorts. We persona
 
 ### #1. Atlantis, The Palm
 
-*Atlantis, The Palm • ⏱️ 5★ Mega Resort •📍 Crescent Road*
+*Atlantis, The Palm • 5★ Mega Resort •📍 Crescent Road*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-atlantis-palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-atlantis-palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_atlantis_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_atlantis_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Best All-Around Value— Outperforms every other 5-star resort on the Palm in terms of what you pay versus what you get, especially for families.**
@@ -64,9 +64,9 @@ Read my full, first-hand review of the Atlantis, The Palm here.
 
 ### #2. Atlantis The Royal
 
-*Atlantis The Royal • ⏱️ 5★ Ultra-Luxury •📍 Crescent Road*
+*Atlantis The Royal • 5★ Ultra-Luxury •📍 Crescent Road*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-atlantis-royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-atlantis-royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_atlantis_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_atlantis_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Pinnacle of Ultra-Luxury— Built for the highest-status luxury Palm Jumeirah experience with dramatic architectural scale.**
@@ -100,9 +100,9 @@ Read my full, first-hand review of the Atlantis, The Royal here.
 
 ### #3. Anantara The Palm Dubai Resort
 
-*Anantara The Palm • ⏱️ 5★ Thai Resort •📍 East Crescent*
+*Anantara The Palm • 5★ Thai Resort •📍 East Crescent*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Only resort in the UAE featuring authentic overwater Maldives-style villas**
@@ -129,9 +129,9 @@ Read my full, first-hand review of the Anantara, The Palm here.
 
 ### #4. FIVE Palm Jumeirah Hotel
 
-*FIVE Palm Jumeirah • ⏱️ 5★ Party Resort •📍 Palm West Beach*
+*FIVE Palm Jumeirah • 5★ Party Resort •📍 Palm West Beach*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ World-famous social pool scene with live international headliner DJs**
@@ -158,9 +158,9 @@ Read my full, first-hand review of the Five Palm Jumeirah here.
 
 ### #5. Rixos The Palm Hotel & Suites
 
-*Rixos The Palm • ⏱️ 5★ All-Inclusive •📍 East Crescent*
+*Rixos The Palm • 5★ All-Inclusive •📍 East Crescent*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Rare all-inclusive luxury package covering all restaurants, bars & premium spirits**
@@ -189,9 +189,9 @@ Read my full, first-hand review of the Five Palm Jumeirah here.
 
 ### #6. One&Only The Palm Dubai
 
-*One&Only The Palm • ⏱️ 5★ Boutique Luxury •📍 West Crescent*
+*One&Only The Palm • 5★ Boutique Luxury •📍 West Crescent*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-one-only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-one-only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_one_only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_one_only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Unmatched privacy with only 90 ultra-luxurious keys across low-rise mansions**
@@ -216,9 +216,9 @@ Best for: honeymooners, couples and anyone who wants a quiet, discreet luxury re
 
 ### #7. Fairmont The Palm Hotel
 
-*Fairmont The Palm • ⏱️ 5★ Family Beach •📍 Palm Trunk*
+*Fairmont The Palm • 5★ Family Beach •📍 Palm Trunk*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Prime trunk location— easiest access on/off the Palm without crescent traffic**
@@ -241,9 +241,9 @@ Fairmont suits multi-generational families, couples, and business-leisure guests
 
 ### #8. The Retreat Palm Dubai, MGallery
 
-*The Retreat Palm • ⏱️ 4★ Wellness Spa •📍 East Crescent*
+*The Retreat Palm • 4★ Wellness Spa •📍 East Crescent*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ First certified holistic wellness resort in the Middle East**
@@ -266,9 +266,9 @@ The Retreat is best for health-conscious guests, solo travelers, or wellness-foc
 
 ### #9. Waldorf Astoria Dubai Palm Jumeirah
 
-*Waldorf Astoria • ⏱️ 5★ Classic Luxury •📍 East Crescent*
+*Waldorf Astoria • 5★ Classic Luxury •📍 East Crescent*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Signature Waldorf Astoria Personal Concierge assigned to every guest**
@@ -291,9 +291,9 @@ This resort is best for couples, honeymooners, and high-end leisure travelers lo
 
 ### #10. Dukes The Palm, Royal Hideaway
 
-*Dukes The Palm • ⏱️ 5★ British Luxury •📍 Palm West Beach*
+*Dukes The Palm • 5★ British Luxury •📍 Palm West Beach*
 
-🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm-hub-md-dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm-hub-md-dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84)
+🔗 **Direct Booking Link**: [https://tp.media/r?marker=404154.palm_hub_md_dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84](https://tp.media/r?marker=404154.palm_hub_md_dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84)
 
 #### Verified Strengths (Pros)
 - **✓ Unbeatable entry-level 5-star price point directly on Palm West Beach**
