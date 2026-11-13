@@ -204,6 +204,36 @@ def article(p):
     </div>
   </article>
 </div>
+<aside aria-label="Quick Booking" class="hybrid-sticky-bar" id="sticky-bar">
+<div class="hybrid-bar-inner">
+<a class="hybrid-toc-btn" href="#compare" aria-label="Jump to the comparison">
+<svg fill="none" height="12" stroke="currentColor" stroke-linecap="round" stroke-width="2.2" viewBox="0 0 20 14" width="16"><line x1="2" x2="18" y1="2" y2="2"></line><line x1="2" x2="18" y1="7" y2="7"></line><line x1="2" x2="18" y1="12" y2="12"></line></svg>
+<span>{p['bar_toc']}</span>
+</a>
+<button aria-label="Jump to Top" class="hybrid-top-btn" onclick="window.scrollTo({{top:0,behavior:'smooth'}})" title="Jump to Top" type="button">
+<svg fill="none" height="13" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" width="13"><path d="M12 19V5M5 12l7-7 7 7"></path></svg>
+<span>Top</span>
+</button>
+<div class="hybrid-active-info">
+<span class="hybrid-active-badge">#1 PICK</span>
+<span class="hybrid-active-title">{p['bar_title']}</span>
+<span class="hybrid-active-price">{p['bar_price']}</span>
+<span class="hybrid-active-trust">{p['bar_trust']}</span>
+</div>
+<a class="hybrid-cta-btn" href="{esc(p['link']('sticky'))}" rel="noopener nofollow sponsored" target="_blank">{p['bar_cta']}</a>
+</div>
+</aside>
+<script id="ltt-verdict-bar">
+(function(){{
+  var bar=document.getElementById('sticky-bar'),fin=document.querySelector('.adv-final-box');
+  if(!bar)return;
+  function upd(){{
+    var show=window.scrollY>350&&(!fin||fin.getBoundingClientRect().top>window.innerHeight);
+    bar.classList.toggle('is-visible',show);bar.classList.toggle('visible',show);
+  }}
+  window.addEventListener('scroll',upd,{{passive:true}});window.addEventListener('resize',upd);upd();
+}})();
+</script>
 '''
 
 
@@ -281,6 +311,8 @@ def build(p):
     # nav/footer: the verdict page is not the hub, so drop the hub's "current" markers
     out = out.replace('aria-current="page" ', '').replace(' w--current', '')
     out = out.replace('class="ltt-mega-item active"', 'class="ltt-mega-item"').replace('class="ltt-nav-link active"', 'class="ltt-nav-link"')
+    out = out.replace(f'<a class="ltt-mega-item" href="/{p["slug"]}">', f'<a aria-current="page" class="ltt-mega-item active" href="/{p["slug"]}">')
+    out = out.replace(f'<a class="ltt-mobile-link" href="/{p["slug"]}">', f'<a aria-current="page" class="ltt-mobile-link active" href="/{p["slug"]}">')
     os.makedirs(os.path.join(ROOT, p['slug']), exist_ok=True)
     with open(os.path.join(ROOT, p['slug'], 'index.html'), 'w', encoding='utf-8') as f:
         f.write(out)
@@ -374,6 +406,7 @@ def heli():
         final='HeliNY from Pier 6 in Downtown Manhattan. If your budget allows, take the 17 to 20 minute route to see Midtown, not just the harbor.',
         secure='🔒 Instant mobile ticket • Free cancellation up to 24 hours • Secure checkout via GetYourGuide',
         callout='my one-pick verdict: the NYC helicopter tour most visitors should book',
+        bar_toc='5 NYC Helicopter Tours Compared', bar_title='HeliNY: Manhattan Sightseeing Helicopter Tour', bar_price='$272', bar_trust='🛡️ Free cancellation', bar_cta='Check Availability →',
     )
 
 
@@ -452,6 +485,7 @@ def desert():
         final="Excursion Point's red dunes safari with the BBQ dinner option. Hand over your phone before sandboarding, and do not wear your favourite shirt for the falcon photo.",
         secure='🔒 Instant mobile ticket • Free cancellation up to 24 hours • Secure checkout via GetYourGuide',
         callout='my one-pick verdict: the desert safari I would book first',
+        bar_toc='8 Desert Safaris Compared', bar_title='Excursion Point: Red Dunes Safari, Camel Ride &amp; BBQ Dinner', bar_price='€29', bar_trust='🛡️ Free cancellation', bar_cta='Check Availability →',
     )
 
 
@@ -537,6 +571,7 @@ def palm():
         final='Atlantis, The Palm in a Palm King room with the Palm view. Get to breakfast before 9 AM and to Aquaventure early.',
         secure='🔒 Secure booking via Booking.com',
         callout='my one-pick verdict: the Palm Jumeirah hotel I would book first',
+        bar_toc='5 Palm Hotels Compared', bar_title='Atlantis, The Palm: Aquaventure &amp; Aquarium Included', bar_price='€300/night', bar_trust='🌊 Waterpark included', bar_cta='Check Prices →',
     )
 
 
