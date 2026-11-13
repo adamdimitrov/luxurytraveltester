@@ -27,6 +27,9 @@ CDN = '/assets/cdn/67d02edca7795b0f57073b59/'
 DATE_ISO = '2026-11-12'
 DATE_TXT = 'Nov 12, 2026'
 AVATAR = CDN + '67d02edca7795b0f57073f57_Adam-dimitrov-portrait-75x75.webp'
+ADAM = dict(name='Adam Dimitrov', title='Founder &amp; Lead Field Inspector', avatar=AVATAR)
+BALAZS = dict(name='Balázs Sipos', title='Co-Founder &amp; Experiences Director',
+              avatar=CDN + '68a1c9ae7730d699412b0404_597EA26F-23C0-4226-B3C6-A4119915E076_1_105_c-2_result.webp')
 
 EXTRA_CSS = """
 .review-article{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:17px;line-height:1.7;color:#334155}
@@ -137,6 +140,7 @@ def article(p):
         for i, f in enumerate(p['features'], 1))
     cons = ''.join(f'<li><strong>{a}</strong> {b}</li>' for a, b in p['cons'])
     facts = ''.join(f'<div><span>{a}</span><strong>{b}</strong><em>{c}</em></div>' for a, b, c in p['facts'])
+    au = p.get('author', ADAM)
     return f'''
 <div class="adv-page-container">
   <article class="review-article">
@@ -149,9 +153,9 @@ def article(p):
     <h1 class="ltt-editorial-h1 adv-headline">{p['h1']} <span class="ltt-h1-muted">{p['h1_muted']}</span></h1>
     <div class="ltt-trust-bar">
       <div class="ltt-author-cluster">
-        <div class="ltt-author-avatar-wrap"><img alt="Adam Dimitrov" class="ltt-author-avatar" src="{AVATAR}" width="42" height="42"/></div>
+        <div class="ltt-author-avatar-wrap"><img alt="{au['name']}" class="ltt-author-avatar" src="{au['avatar']}" width="42" height="42"/></div>
         <div class="ltt-author-meta">
-          <div class="ltt-author-line">By <a href="/about">Adam Dimitrov</a>, Founder &amp; Lead Field Inspector</div>
+          <div class="ltt-author-line">By <a href="/about">{au['name']}</a>, {au['title']}</div>
           <div class="ltt-author-role">{p['role']}</div>
         </div>
       </div>
@@ -244,7 +248,7 @@ def schema(p):
         {'@type': 'Article', '@id': url + '#article', 'headline': strip(p['h1'] + ' ' + p['h1_muted']),
          'description': p['desc'], 'image': SITE + p['hero'], 'datePublished': DATE_ISO,
          'dateModified': DATE_ISO, 'mainEntityOfPage': url, 'inLanguage': 'en',
-         'author': {'@type': 'Person', 'name': 'Adam Dimitrov', 'url': SITE + '/about'},
+         'author': {'@type': 'Person', 'name': p.get('author', ADAM)['name'], 'url': SITE + '/about'},
          'publisher': {'@type': 'Organization', 'name': 'Luxury Travel Tester', 'url': SITE + '/'}},
         {'@type': 'BreadcrumbList', 'itemListElement': [
             {'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': SITE + '/'},
@@ -439,6 +443,7 @@ def desert():
         title='Best Desert Safari in Dubai (2026): I Tested 8, This One Won',
         desc="I tested 8 Dubai desert safaris in person. Excursion Point's red dunes safari won: dune bashing, sandboarding, a camel ride and a BBQ dinner with shows, from €29.",
         h1='I Tested 8 Desert Safaris in Dubai.', h1_muted="Here's the One Worth Your Money.",
+        author=BALAZS,
         role='8 Desert Safaris Tested in Person • Every Camp Photographed • 100% Self-Funded',
         hero=im('68bc785d7ec299de43630344_6870b32641b42598b411e2d9_5915AF38-AD32-4A54-9558-275305769954_1_105_c_result.webp'),
         hero_alt='The lounge area of the desert camp at sunset on the Excursion Point safari',
