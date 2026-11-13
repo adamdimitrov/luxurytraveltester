@@ -1,0 +1,42 @@
+{
+  "site": "https://luxurytraveltester.com",
+  "default_lang": "en",
+  "masters": {
+    "en": "best-desert-safaris-dubai/index.html"
+  },
+  "footer_starts": [
+    "<section class=\"footer-dark\"[^>]*>",
+    "<footer class=\"ltt-footer\"[^>]*>",
+    "<footer>"
+  ],
+  "footer_marker": "class=\"footer-section\"",
+  "footer_link_class": "footer-link-3",
+  "sync_blocks": [
+    {
+      "name": "nav-css",
+      "open": "<style id=\"ltt-nav-styles\">",
+      "insert": "head"
+    },
+    {
+      "name": "nav-js",
+      "open": "<script id=\"ltt-nav-script\">",
+      "insert": "after-header",
+      "skip_if": [
+        "getElementById\\(['\"]lttNavToggle['\"]\\)",
+        "/js/ltt-nav\\.js"
+      ]
+    },
+    {
+      "name": "footer-css",
+      "open": "<style id=\"ltt-footer-styles\">",
+      "insert": "head"
+    }
+  ],
+  "unlisted_ok": [
+    "404.html"
+  ],
+  "skip_dirs": [
+    "node_modules",
+    "assets"
+  ]
+}
