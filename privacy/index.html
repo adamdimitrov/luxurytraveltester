@@ -25,16 +25,764 @@
 <link href="/privacy.md" rel="alternate" type="text/markdown"/>
 <meta content="content" name="is-agentic-site-type"/>
 <style>
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #1e293b; background: #fff; }
-h1, h2, h3 { color: #0f172a; }
-a { color: #0284c7; text-decoration: none; }
-a:hover { text-decoration: underline; }
-nav { margin-bottom: 30px; font-size: 14px; }
-footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #e2e8f0; font-size: 14px; color: #64748b; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; margin: 0; color: #1e293b; background: #fff; }
+main#main { max-width: 800px; margin: 40px auto; padding: 0 20px; }
+main#main h1, main#main h2, main#main h3 { color: #0f172a; }
+main#main a { color: #0284c7; text-decoration: none; }
+main#main a:hover { text-decoration: underline; }
 </style>
-<link href="/.well-known/ard.json" rel="ard"/><link href="/.well-known/ai-catalog.json" rel="ai-catalog"/><link href="/favicon.ico" rel="icon" sizes="48x48"/><link href="/assets/icons/favicon.svg" rel="icon" type="image/svg+xml"/><link href="/assets/icons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/><link href="/assets/icons/apple-touch-icon.png" rel="apple-touch-icon"/><link href="/site.webmanifest" rel="manifest"/></head>
-<body><main id="main" role="main">
-<nav><a href="/">← Return to Homepage</a> | <a href="/about">About</a> | <a href="/contact">Contact</a></nav>
+<link href="/.well-known/ard.json" rel="ard"/><link href="/.well-known/ai-catalog.json" rel="ai-catalog"/><link href="/favicon.ico" rel="icon" sizes="48x48"/><link href="/assets/icons/favicon.svg" rel="icon" type="image/svg+xml"/><link href="/assets/icons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/><link href="/assets/icons/apple-touch-icon.png" rel="apple-touch-icon"/><link href="/site.webmanifest" rel="manifest"/><style id="ltt-nav-styles">/* ==========================================================================
+   LUXURY TRAVEL TESTER — MODERN VANILLA NAVIGATION SYSTEM
+   Zero-dependency, semantic, responsive, WCAG-compliant (Desktop & Mobile)
+   ========================================================================== */
+.ltt-navbar {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 68px;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-bottom: 1px solid #e2e8f0;
+  z-index: 9999;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+.ltt-nav-inner {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 36px;
+  box-sizing: border-box;
+}
+.ltt-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: #0f172a;
+  flex-shrink: 0;
+  font-weight: 800;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  transition: opacity 0.15s ease;
+}
+.ltt-brand:hover {
+  opacity: 0.85;
+}
+.ltt-brand-emblem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: linear-gradient(135deg, #fdfaf2 0%, #faecd0 100%);
+  border: 1px solid #dfa732;
+  border-radius: 8px;
+  color: #785208;
+}
+.ltt-brand-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+.ltt-nav-links {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.ltt-nav-link {
+  color: #334155;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: all 0.15s ease;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+.ltt-nav-link:hover,
+.ltt-nav-link:focus-visible {
+  color: #0f172a;
+  background: #f1f5f9;
+  outline: none;
+}
+.ltt-nav-link.active,
+.ltt-nav-link[aria-current="page"] {
+  color: #0f172a !important;
+  background: #f1f5f9 !important;
+  font-weight: 700 !important;
+  box-shadow: inset 0 -2px 0 #0f172a !important;
+}
+.ltt-nav-dropdown {
+  position: relative;
+}
+.ltt-chevron {
+  transition: transform 0.2s ease;
+  stroke: currentColor;
+}
+.ltt-nav-dropdown.is-open .ltt-chevron,
+.ltt-nav-dropdown:hover .ltt-chevron {
+  transform: rotate(180deg);
+}
+.ltt-mega-menu {
+  position: absolute;
+  top: calc(100% + 12px);
+  left: 0;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px -8px rgba(15, 23, 42, 0.14), 0 0 0 1px rgba(15, 23, 42, 0.04);
+  padding: 22px 24px;
+  display: flex;
+  gap: 32px;
+  min-width: 580px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(6px);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  pointer-events: none;
+  z-index: 10000;
+}
+.ltt-nav-dropdown:hover .ltt-mega-menu,
+.ltt-nav-dropdown.is-open .ltt-mega-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+.ltt-mega-col {
+  flex: 1;
+  min-width: 220px;
+}
+.ltt-mega-head {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: #94a3b8;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #f1f5f9;
+}
+.ltt-mega-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #0f172a;
+  transition: background 0.15s ease;
+  margin-bottom: 4px;
+}
+.ltt-mega-item:hover {
+  background: #f8fafc;
+}
+.ltt-mega-icon {
+  font-size: 18px;
+  line-height: 1;
+  padding-top: 2px;
+}
+.ltt-mega-item strong {
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  color: #0f172a;
+}
+.ltt-mega-item p {
+  margin: 2px 0 0 0;
+  font-size: 11px;
+  color: #64748b;
+  line-height: 1.3;
+}
+.ltt-mega-subitem {
+  display: block;
+  padding: 7px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #334155;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: all 0.15s ease;
+}
+.ltt-mega-subitem:hover {
+  color: #0f172a;
+  background: #f1f5f9;
+  padding-left: 14px;
+}
+.ltt-nav-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.ltt-cta-pill {
+  background: linear-gradient(135deg, #dfa732 0%, #b88214 100%);
+  color: #ffffff !important;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px 18px;
+  border-radius: 9999px;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(223, 167, 50, 0.35);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  white-space: nowrap;
+}
+.ltt-cta-pill:hover {
+  background: linear-gradient(135deg, #ca9325 0%, #9f6e0d 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(223, 167, 50, 0.48);
+}
+
+/* Mobile Toggle Hamburger Button */
+.ltt-hamburger {
+  display: none;
+  width: 42px;
+  height: 42px;
+  padding: 9px 8px;
+  background: transparent;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  cursor: pointer;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  transition: background 0.15s ease;
+  box-sizing: border-box;
+}
+.ltt-hamburger:hover {
+  background: #f8fafc;
+}
+.ltt-hamburger-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: #0f172a;
+  border-radius: 2px;
+  transition: transform 0.25s ease, opacity 0.2s ease;
+}
+.ltt-hamburger.is-active .ltt-hamburger-bar:nth-child(1) {
+  transform: translateY(7.5px) rotate(45deg);
+}
+.ltt-hamburger.is-active .ltt-hamburger-bar:nth-child(2) {
+  opacity: 0;
+  transform: scaleX(0);
+}
+.ltt-hamburger.is-active .ltt-hamburger-bar:nth-child(3) {
+  transform: translateY(-7.5px) rotate(-45deg);
+}
+
+/* Mobile Drawer */
+.ltt-mobile-drawer {
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .ltt-nav-links {
+    display: none !important;
+  }
+  .ltt-nav-right {
+    display: flex !important;
+  }
+  .ltt-hamburger {
+    display: flex !important;
+  }
+  .ltt-cta-pill {
+    display: none !important;
+  }
+  .ltt-mobile-drawer {
+    display: block;
+    visibility: hidden;
+    pointer-events: none;
+    position: absolute;
+    top: 68px;
+    left: 0;
+    width: 100%;
+    background: #ffffff;
+    border-bottom: 2px solid #e2e8f0;
+    box-shadow: 0 24px 48px rgba(15, 23, 42, 0.16);
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease, visibility 0.35s ease;
+    box-sizing: border-box;
+    z-index: 9999;
+  }
+  .ltt-mobile-drawer.is-open {
+    visibility: visible;
+    pointer-events: auto;
+    max-height: calc(100vh - 68px);
+    opacity: 1;
+    overflow-y: auto;
+  }
+  .ltt-drawer-content {
+    padding: 20px 20px 28px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .ltt-mobile-section {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .ltt-mobile-label {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    color: #94a3b8;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .ltt-mobile-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 14px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0f172a;
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+  .ltt-mobile-link:hover,
+  .ltt-mobile-link:active {
+    background: #f1f5f9;
+  }
+  .ltt-mobile-link.active,
+  .ltt-mobile-link[aria-current="page"] {
+    background: #f1f5f9 !important;
+    border-color: #cbd5e1 !important;
+    border-left: 3px solid #0f172a !important;
+    font-weight: 700 !important;
+  }
+  .ltt-mobile-link.ltt-highlight {
+    background: #fdfaf2;
+    border-color: #f2e0b6;
+    color: #785208;
+  }
+  .ltt-mobile-tag {
+    font-size: 10px;
+    font-weight: 800;
+    background: #dfa732;
+    color: #ffffff;
+    padding: 2px 7px;
+    border-radius: 9999px;
+    text-transform: uppercase;
+  }
+  .ltt-mobile-subgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+  .ltt-mobile-sublink {
+    display: block;
+    padding: 10px 12px;
+    background: #ffffff;
+    border: 1px solid #f1f5f9;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #334155;
+    text-decoration: none;
+  }
+  .ltt-mobile-sublink:hover {
+    background: #f8fafc;
+    color: #0f172a;
+  }
+  .ltt-mobile-footer-links {
+    flex-direction: row !important;
+    gap: 10px;
+  }
+  .ltt-mobile-footer-links .ltt-mobile-link {
+    flex: 1;
+    justify-content: center;
+  }
+  .ltt-mobile-cta {
+    display: block;
+    text-align: center;
+    background: linear-gradient(135deg, #dfa732 0%, #b88214 100%);
+    color: #ffffff !important;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 14px 20px;
+    border-radius: 12px;
+    text-decoration: none;
+    box-shadow: 0 4px 14px rgba(223, 167, 50, 0.38);
+  }
+}
+
+
+.ltt-brand:hover,
+.ltt-brand:hover .ltt-brand-text {
+  color: #0f172a !important;
+  opacity: 0.82 !important;
+}
+.ltt-brand-logo {
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.ltt-brand:hover .ltt-brand-logo {
+  transform: scale(1.04);
+}
+
+
+.ltt-nav-trust-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 6px 13px;
+  border-radius: 9999px;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04);
+  white-space: nowrap;
+}
+.ltt-trust-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  display: inline-block;
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
+}
+@media (max-width: 991px) {
+  .ltt-nav-trust-chip {
+    display: none !important;
+  }
+}
+</style>
+<style id="ltt-footer-styles">
+.footer-dark{background-color:#0000;border:1px #000;margin-top:auto;position:relative;top:40px}
+.logo-wrap{text-align:center;max-width:410px}
+.footer-section{background-color:#1f2937;padding:80px 3% 20px}
+.footer-grid-2{grid-row-gap:60px;grid-template-rows:auto;grid-template-columns:1fr 1fr}
+.footer-link-title{white-space:nowrap;margin-bottom:20px;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:16px;font-weight:500}
+.footer-paragraph{color:#fff;font-size:16px;font-weight:500;line-height:24px}
+.footer-links-grid{grid-column-gap:32px;grid-row-gap:32px;grid-template-rows:auto;grid-template-columns:1fr 1fr 1fr}
+.legal-text{color:#fff;text-align:center;justify-content:center;font-weight:500}
+.legal-wrapper{justify-content:center;align-items:center;display:flex}
+.container-21{max-width:1260px;margin-left:auto;margin-right:auto}
+.footer-link-3{color:#fffc;padding-top:10px;padding-bottom:10px;font-size:14px;font-weight:400;text-decoration:none;transition:color .2s;display:block}
+.footer-link-3:hover{color:#fff}
+.footer-link-3.w--current{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-weight:400}
+.footer-link-3.no-padding{margin-bottom:0}
+.footer-link-column{color:#fff}
+.grey-divider{background-color:#ffffff1a;height:1px;margin-top:40px;margin-bottom:24px}
+.footer-logo-paragraph{color:var(--white);letter-spacing:.5px;margin-top:0;margin-bottom:0;font-weight:700}
+.paragraph-17,.paragraph-18{text-decoration:none}
+.footer-logo-text-link{color:var(--white);text-decoration:none}
+.footer-logo-text-link:hover{color:var(--white)}
+@media screen and (max-width:991px){.footer-grid-2{grid-template-columns:1fr}}
+@media screen and (max-width:767px){.legal-text{font-size:14px}.footer-logo-paragraph{letter-spacing:1px}}
+@media screen and (max-width:479px){.footer-links-grid{text-align:center;grid-template-columns:1fr}.footer-logo-paragraph{letter-spacing:1px}}
+.footer-dark{--white:#fff}
+.footer-dark .w-layout-grid{grid-row-gap:16px;grid-column-gap:16px;grid-auto-columns:1fr;display:grid}
+</style>
+</head>
+<body>
+<header class="ltt-navbar" role="banner">
+<div class="ltt-nav-inner">
+<a aria-label="Luxury Travel Tester Homepage" class="ltt-brand" href="/">
+<span class="ltt-brand-emblem">
+<svg fill="none" height="20" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="20">
+<circle cx="12" cy="12" r="10"></circle>
+<polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"></polygon>
+</svg>
+</span>
+<span class="ltt-brand-text">LUXURY TRAVEL TESTER</span>
+</a>
+<nav aria-label="Primary Navigation" class="ltt-nav-links">
+<div class="ltt-nav-dropdown" id="lttDestinationsDropdown">
+<button aria-expanded="false" aria-haspopup="true" class="ltt-nav-link ltt-dropdown-btn" type="button">
+<span>Destinations</span>
+<svg class="ltt-chevron" fill="none" height="12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="12">
+<polyline points="6 9 12 15 18 9"></polyline>
+</svg>
+</button>
+<div class="ltt-mega-menu" role="menu">
+<div class="ltt-mega-col">
+<div class="ltt-mega-head">DUBAI &amp; UAE</div>
+<a class="ltt-mega-item" href="/best-desert-safaris-dubai">
+<span class="ltt-mega-icon">🏜️</span>
+<div>
+<strong>Dubai Desert Safaris</strong>
+<p>10 tested camps, dune bashing &amp; VIP suites</p>
+</div>
+</a>
+<a class="ltt-mega-item" href="/best-desert-safari-dubai">
+<span class="ltt-mega-icon">🏆</span>
+<div>
+<strong>Best Desert Safari: My Pick</strong>
+<p>The one I would book after testing 8</p>
+</div>
+</a>
+<a class="ltt-mega-item" href="/best-palm-jumeirah-hotels-dubai">
+<span class="ltt-mega-icon">🏨</span>
+<div>
+<strong>Dubai Palm Hotels</strong>
+<p>10 luxury resorts &amp; private beach reviews</p>
+</div>
+</a>
+<a class="ltt-mega-item" href="/best-palm-jumeirah-hotel-dubai">
+<span class="ltt-mega-icon">🏆</span>
+<div>
+<strong>Best Palm Hotel: My Pick</strong>
+<p>The one I would book after staying at 5</p>
+</div>
+</a>
+</div>
+<div class="ltt-mega-col">
+<div class="ltt-mega-head">UNITED STATES &amp; REVIEWS</div>
+<a class="ltt-mega-item" href="/best-helicopter-tours-new-york">
+<span class="ltt-mega-icon">🚁</span>
+<div>
+<strong>NYC Helicopter Tours</strong>
+<p>Doors-off shoe selfie &amp; skyline routes</p>
+</div>
+</a>
+<a class="ltt-mega-item" href="/best-helicopter-tour-new-york">
+<span class="ltt-mega-icon">🏆</span>
+<div>
+<strong>Best NYC Helicopter Tour: My Pick</strong>
+<p>The one I would book after flying the top 2</p>
+</div>
+</a>
+<div style="margin-top: 10px; padding-top: 8px; border-top: 1px solid #f1f5f9;">
+<a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">Atlantis The Royal Review</a>
+<a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">Atlantis The Palm Review</a>
+<a class="ltt-mega-subitem" href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">Anantara The Palm Review</a>
+</div>
+</div>
+</div>
+</div>
+<a class="ltt-nav-link" href="/best-desert-safaris-dubai">Desert Safaris</a>
+<a class="ltt-nav-link" href="/best-palm-jumeirah-hotels-dubai">Palm Hotels</a>
+<a class="ltt-nav-link" href="/best-helicopter-tours-new-york">NYC Helicopters</a>
+<a class="ltt-nav-link" href="/about">About</a>
+<a class="ltt-nav-link" href="/contact">Contact</a>
+</nav>
+<div class="ltt-nav-right">
+<button aria-label="Search" class="ltt-search-btn" data-ltt-search="" data-placeholder="Search safaris, hotels and tours" title="Search" type="button"><svg aria-hidden="true" fill="none" height="17" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" viewBox="0 0 24 24" width="17"><circle cx="11" cy="11" r="7"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line></svg></button>
+<button aria-controls="lttMobileDrawer" aria-expanded="false" aria-label="Toggle Menu" class="ltt-hamburger" id="lttNavToggle" type="button">
+<span class="ltt-hamburger-bar"></span>
+<span class="ltt-hamburger-bar"></span>
+<span class="ltt-hamburger-bar"></span>
+</button>
+</div>
+</div>
+<div aria-hidden="true" inert class="ltt-mobile-drawer" id="lttMobileDrawer">
+<div class="ltt-drawer-content">
+<div class="ltt-mobile-section">
+<div class="ltt-mobile-label">Destinations &amp; Guides</div>
+<a class="ltt-mobile-link" href="/best-desert-safaris-dubai">
+<span>🏜️ Dubai Desert Safaris</span>
+<span style="font-size:10px; font-weight:800; background:#d97706; color:#fff; padding:2px 7px; border-radius:9999px;">TOP PICK</span>
+</a>
+<a class="ltt-mobile-link" href="/best-desert-safari-dubai">
+<span>🏆 Best Desert Safari: My Pick</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai">
+<span>🏨 Dubai Palm Hotels</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotel-dubai">
+<span>🏆 Best Palm Jumeirah Hotel: My Pick</span>
+</a>
+<a class="ltt-mobile-link" href="/best-helicopter-tours-new-york">
+<span>🚁 NYC Helicopter Tours</span>
+</a>
+<a class="ltt-mobile-link" href="/best-helicopter-tour-new-york">
+<span>🏆 Best NYC Helicopter Tour: My Pick</span>
+</a>
+</div>
+<div class="ltt-mobile-section">
+<div class="ltt-mobile-label">Featured Hotel Reviews</div>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">
+<span>👑 Atlantis The Royal</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">
+<span>🌊 Atlantis The Palm</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review">
+<span>🌿 Anantara The Palm</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review">
+<span>🍸 FIVE Palm Jumeirah</span>
+</a>
+<a class="ltt-mobile-link" href="/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review">
+<span>🏖️ Rixos The Palm</span>
+</a>
+</div>
+<div class="ltt-mobile-section">
+<div class="ltt-mobile-label">Editorial</div>
+<a class="ltt-mobile-link" href="/about">
+<span>📖 About &amp; Testing Standards</span>
+</a>
+<a class="ltt-mobile-link" href="/contact">
+<span>✉️ Contact Editorial Desk</span>
+</a>
+</div>
+</div>
+</div>
+<style id="ltt-search-btn-styles">
+.ltt-search-btn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;padding:0;border-radius:9999px;border:1px solid #cbd5e1;background:#f8fafc;color:#0f172a;cursor:pointer;flex-shrink:0;transition:all .2s cubic-bezier(.16,1,.3,1)}
+.ltt-search-btn:hover,.ltt-search-btn:focus-visible{background:#fff;border-color:#dfa732;box-shadow:0 4px 12px rgba(223,167,50,.18);outline:none}
+.ltt-search-btn svg{color:#64748b}.ltt-search-btn:hover svg{color:#9f6e0d}
+@media (max-width:991px){.ltt-search-btn{width:42px;height:42px;border-radius:10px;border-color:#e2e8f0;background:transparent}}
+@media (max-width:420px){.ltt-search-btn{width:36px;height:36px}.ltt-nav-right{gap:8px!important}.ltt-brand{font-size:13px!important;letter-spacing:.02em!important;gap:8px!important}}
+</style>
+<script defer src="/js/site-search.js?v=20261113a"></script>
+</header>
+<script id="ltt-nav-script">/* ==========================================================================
+   LUXURY EDITORIAL SYSTEM — MODERN VANILLA NAVIGATION CONTROLLER
+   Zero-dependency, semantic, responsive, WCAG-compliant (Desktop & Mobile)
+   ========================================================================== */
+(function() {
+  function initNav() {
+    var toggle = document.getElementById('lttNavToggle');
+    var drawer = document.getElementById('lttMobileDrawer');
+    var dropdown = document.getElementById('lttDestinationsDropdown') || document.getElementById('lttExploreDropdown');
+    var dropBtn = dropdown ? dropdown.querySelector('.ltt-dropdown-btn') : null;
+
+    if (toggle && drawer && !toggle._bound) {
+      toggle._bound = true;
+      toggle.addEventListener('click', function(e) {
+        e.stopPropagation();
+        var isOpen = drawer.classList.contains('is-open');
+        if (isOpen) {
+          drawer.classList.remove('is-open');
+          toggle.classList.remove('is-active');
+          toggle.setAttribute('aria-expanded', 'false');
+          drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
+        } else {
+          drawer.classList.add('is-open');
+          toggle.classList.add('is-active');
+          toggle.setAttribute('aria-expanded', 'true');
+          drawer.setAttribute('aria-hidden', 'false');
+          drawer.removeAttribute('inert');
+        }
+      });
+
+      drawer.querySelectorAll('a').forEach(function(link) {
+        link.addEventListener('click', function() {
+          drawer.classList.remove('is-open');
+          toggle.classList.remove('is-active');
+          toggle.setAttribute('aria-expanded', 'false');
+          drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
+        });
+      });
+    }
+
+    if (dropdown && !dropdown._bound) {
+      dropdown._bound = true;
+      var closeTimeout = null;
+
+      function openMenu() {
+        if (closeTimeout) {
+          clearTimeout(closeTimeout);
+          closeTimeout = null;
+        }
+        dropdown.classList.add('is-open');
+        if (dropBtn) dropBtn.setAttribute('aria-expanded', 'true');
+      }
+
+      function closeMenuWithGrace(delay) {
+        if (closeTimeout) clearTimeout(closeTimeout);
+        closeTimeout = setTimeout(function() {
+          dropdown.classList.remove('is-open');
+          if (dropBtn) dropBtn.setAttribute('aria-expanded', 'false');
+        }, delay !== undefined ? delay : 350);
+      }
+
+      dropdown.addEventListener('mouseenter', openMenu);
+      dropdown.addEventListener('mouseleave', function() {
+        closeMenuWithGrace(350);
+      });
+
+      if (dropBtn) {
+        dropBtn.addEventListener('click', function(e) {
+          e.stopPropagation();
+          if (dropdown.classList.contains('is-open')) {
+            closeMenuWithGrace(0);
+          } else {
+            openMenu();
+          }
+        });
+      }
+
+      document.addEventListener('click', function(e) {
+        if (dropdown.classList.contains('is-open') && !dropdown.contains(e.target)) {
+          closeMenuWithGrace(0);
+        }
+        if (drawer && drawer.classList.contains('is-open') && !drawer.contains(e.target) && (!toggle || !toggle.contains(e.target))) {
+          drawer.classList.remove('is-open');
+          if (toggle) {
+            toggle.classList.remove('is-active');
+            toggle.setAttribute('aria-expanded', 'false');
+          }
+          drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
+        }
+      });
+
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+          if (drawer && drawer.classList.contains('is-open')) {
+            drawer.classList.remove('is-open');
+            if (toggle) {
+              toggle.classList.remove('is-active');
+              toggle.setAttribute('aria-expanded', 'false');
+            }
+            drawer.setAttribute('aria-hidden', 'true');
+          drawer.setAttribute('inert', '');
+          }
+          if (dropdown && dropdown.classList.contains('is-open')) {
+            dropdown.classList.remove('is-open');
+            if (dropBtn) dropBtn.setAttribute('aria-expanded', 'false');
+          }
+        }
+      });
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initNav);
+  } else {
+    initNav();
+  }
+  window.addEventListener('load', initNav);
+})();</script><main id="main" role="main">
 <h1>Privacy Policy</h1>
 <p><strong>Effective Date:</strong> November 8, 2026</p>
 <p>Luxury Travel Tester ("we", "our", or "us") is dedicated to protecting your personal information and respecting your privacy. This Privacy Policy details our practices concerning data collection, usage, and protection when you access our website (https://luxurytraveltester.com) and associated content.</p>
@@ -59,8 +807,43 @@ footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #e2e8f0; fon
 <p>Under GDPR and CCPA regulations, you have the right to request access to, correction of, or deletion of your personal data. <strong>We do not sell or monetize personal information</strong> to third parties.</p>
 <h2>5. Contact Information</h2>
 <p>For inquiries regarding this policy, contact our data protection officer at <a href="mailto:contact@luxurytraveltester.com">contact@luxurytraveltester.com</a>.</p>
-</main><footer>
-<p>© 2026 Luxury Travel Tester. All rights reserved. <a href="/">Homepage</a> | <a href="/privacy">Privacy Policy</a> | <a href="/about">About</a> | <a href="/contact">Contact</a></p>
-</footer>
+</main><section class="footer-dark">
+<div class="footer-section">
+<div class="container-21">
+<div class="w-layout-grid footer-grid-2">
+<div class="logo-wrap">
+<p class="footer-logo-paragraph paragraph-17 paragraph-18">
+<a class="footer-logo-text-link" href="/" style="display: inline-flex; align-items: center; gap: 10px;">
+<img alt="LUXURY TRAVEL TESTER Logo" height="28" src="/assets/icons/icon-192.png" style="border-radius: 50%; display: inline-block; flex-shrink: 0;" width="28"/>
+<span>LUXURY TRAVEL TESTER</span>
+</a>
+</p>
+<p class="footer-paragraph">LuxuryTravelTester.com is your independent, field-tested guide to choosing the world's most iconic travel experiences and luxury hotels.</p>
+</div>
+<div class="w-layout-grid footer-links-grid">
+<div class="footer-link-column">
+<div class="footer-link-title">Popular Flagship Guides</div>
+<a class="footer-link-3" href="/best-desert-safaris-dubai">10 Best Desert Safaris in Dubai</a>
+<a class="footer-link-3" href="/best-palm-jumeirah-hotels-dubai">Top 10 Dubai Palm Jumeirah Hotels</a>
+<a class="footer-link-3" href="/best-helicopter-tours-new-york">Best NYC Helicopter Tours</a>
+<a class="footer-link-3" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review">Atlantis The Royal Dubai Review</a>
+<a class="footer-link-3" href="/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review">Atlantis The Palm Dubai Review</a>
+</div>
+<div class="footer-link-column">
+<div class="footer-link-title">Company &amp; Trust</div>
+<a class="footer-link-3" href="/about">About &amp; Manifesto</a>
+<a class="footer-link-3" href="/about#ethics">Undercover Field Testing</a>
+<a class="footer-link-3" href="/contact">Contact</a>
+</div>
+</div>
+</div>
+<div class="grey-divider"></div>
+<div class="legal-wrapper">
+<div class="legal-text">© 2026 LuxuryTravelTester.com. All rights reserved.</div>
+<div class="legal-text" style="color: rgba(255,255,255,0.45); font-size: 13px;">Personally tested undercover • Independent editorial reviews</div>
+</div>
+</div>
+</div>
+</section>
 </body>
 </html>
