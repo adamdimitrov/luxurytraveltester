@@ -32,6 +32,7 @@
   - The popover lists one badge per verified site: the booking site as `.bpa-rev-badge.is-link` (affiliate link), every other site as `.bpa-rev-badge.is-static` (no link).
   - Only show ratings that were checked on the live listing (or, for hotels, the hotel's own review subpage). Never use placeholder badges.
 - **Card Pills**: at most 4 pills per card plus the "Personally Tested" chip. Every pill must match the linked product's includes; times, languages and fees go in `details.bpa-lang` dropdowns with the source and check date in `.bpa-lang-note`.
+- **No booking-platform narration**: page copy never narrates what a booking platform showed (no "On the GetYourGuide calendar for…", "GetYourGuide showed…", "as listed on GetYourGuide", "only N spots left", availability on a given date). Use a neutral note: "Checked on the booking calendar for <date>; times change by season." or "as listed on the booking page". Per-site rating badges stay.
 - **Detailed Reviews**: summary badges inside `<summary>` keep `onclick="event.stopPropagation()"` and link to the affiliate product.
 
 # Media & Image Slider Fidelity Directives (MANDATORY)
