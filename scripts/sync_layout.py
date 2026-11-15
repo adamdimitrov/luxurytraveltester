@@ -25,6 +25,8 @@ scripts/search_index.py) that the menu's search button (/js/site-search.js) uses
   * more than one menu or footer on a page
   * an .html file that is neither published (sitemap.xml) nor listed in
     "unlisted_ok", so stale copies cannot quietly stay live
+  * an affiliate / OTA link without rel="nofollow sponsored noopener"
+    (scripts/fix_affiliate_rel.py; without --check those links are fixed)
 """
 import argparse
 import fnmatch
@@ -36,6 +38,7 @@ import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import search_index  # noqa: E402
+import fix_affiliate_rel  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 with open(os.path.join(ROOT, "scripts", "layout_config.json"), encoding="utf-8") as _fh:
@@ -385,6 +388,14 @@ def main():
     for o in unlisted_files({f for _, f in pages}):
         problems.append(f"{o}: page that is not in sitemap.xml (add a redirect in vercel.json and delete it, "
                         f"add it to the sitemap, or list it under unlisted_ok in scripts/layout_config.json)")
+    for rel, _, missing in fix_affiliate_rel.run(write=not args.check):
+        if not missing:
+            continue
+        if args.check:
+            problems.append(f"{rel}: {missing} affiliate link(s) without rel=\"nofollow sponsored noopener\" "
+                            f"(fix with: python3 scripts/fix_affiliate_rel.py)")
+        else:
+            print(f"affiliate rel fixed: {rel} ({missing})")
     for p in problems:
         print("PROBLEM", p)
     for e in errors:
