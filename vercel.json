@@ -4,6 +4,21 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/best-helicopter-tours-new-york.md",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york.md",
+      "permanent": true
+    },
+    {
+      "source": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
+      "permanent": true
+    },
+    {
+      "source": "/best-helicopter-tour-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tour-new-york",
+      "permanent": true
+    },
+    {
       "source": "/ar/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84",
       "destination": "/contact",
       "permanent": true
@@ -20,7 +35,7 @@
     },
     {
       "source": "/ar/%D8%A3%D9%81%D8%B6%D9%84-%D8%AC%D9%88%D9%84%D8%A7%D8%AA-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%84%D9%8A%D9%83%D9%88%D8%A8%D8%AA%D8%B1-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -45,7 +60,7 @@
     },
     {
       "source": "/cs/nejlep%C5%A1%C3%AD-vrtuln%C3%AD-z%C3%A1jezdy-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -115,7 +130,7 @@
     },
     {
       "source": "/el/%CE%BF%CE%B9-%CE%BA%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B5%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CE%B7%CE%B3%CE%AE%CF%83%CE%B5%CE%B9%CF%82-%CE%BC%CE%B5-%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C%CF%80%CF%84%CE%B5%CF%81%CE%BF-%CF%83%CF%84%CE%B7-%CE%BD%CE%AD%CE%B1-%CF%85%CF%8C%CF%81%CE%BA%CE%B7",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -130,7 +145,7 @@
     },
     {
       "source": "/es/mejores-tours-en-helic%C3%B3ptero-en-nueva-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -140,7 +155,7 @@
     },
     {
       "source": "/fa/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%AA%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D9%87%D9%84%DB%8C%DA%A9%D9%88%D9%BE%D8%AA%D8%B1-%D8%AF%D8%B1-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -190,7 +205,7 @@
     },
     {
       "source": "/fr/meilleures-excursions-en-h%C3%A9licopt%C3%A8re-%C3%A0-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -215,7 +230,7 @@
     },
     {
       "source": "/he/%D7%98%D7%99%D7%95%D7%9C%D7%99-%D7%94%D7%9E%D7%A1%D7%95%D7%A7%D7%99%D7%9D-%D7%94%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%AA%D7%A8-%D7%91%D7%A0%D7%99%D7%95-%D7%99%D7%95%D7%A8%D7%A7",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -260,7 +275,7 @@
     },
     {
       "source": "/hi/%E0%A4%A8%E0%A4%AF%E0%A4%AF%E0%A4%B0%E0%A4%95-%E0%A4%AE-%E0%A4%B8%E0%A4%B0%E0%A4%B5%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%A0-%E0%A4%B9%E0%A4%B2%E0%A4%95%E0%A4%AA%E0%A4%9F%E0%A4%B0-%E0%A4%9F%E0%A4%B0",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -290,7 +305,7 @@
     },
     {
       "source": "/hu/legjobb-helikopter-t%C3%BAr%C3%A1k-new-yorkban",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -335,7 +350,7 @@
     },
     {
       "source": "/ja/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E6%9C%80%E9%AB%98%E3%81%AE%E3%83%98%E3%83%AA%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BC%E3%83%84%E3%82%A2%E3%83%BC",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -390,7 +405,7 @@
     },
     {
       "source": "/ko/%EB%89%B4%EC%9A%95-%EC%B5%9C%EA%B3%A0%EC%9D%98-%ED%97%AC%EB%A6%AC%EC%BD%A5%ED%84%B0-%ED%88%AC%EC%96%B4",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -465,7 +480,7 @@
     },
     {
       "source": "/pt/melhores-passeios-de-helic%C3%B3ptero-nova-iorque",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -510,7 +525,7 @@
     },
     {
       "source": "/ru/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-%D1%82%D1%83%D1%80%D1%8B-%D0%B2-%D0%BD%D1%8C%D1%8E-%D0%B9%D0%BE%D1%80%D0%BA%D0%B5",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -520,7 +535,7 @@
     },
     {
       "source": "/sr/%D0%BD%D0%B0%D1%98%D0%B1%D0%BE%D1%99%D0%B5-%D1%85%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B5-%D1%82%D1%83%D1%80%D0%B5-%D1%9A%D1%83%D1%98%D0%BE%D1%80%D0%BA",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -595,7 +610,7 @@
     },
     {
       "source": "/sv/b%C3%A4sta-helikopterturer-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -640,7 +655,7 @@
     },
     {
       "source": "/th/%E0%B8%97%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%AE%E0%B8%A5%E0%B8%84%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%97%E0%B8%94%E0%B8%97%E0%B8%AA%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B8%81",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -650,7 +665,7 @@
     },
     {
       "source": "/tr/en-iyi-helikopter-turlar%C4%B1-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -685,7 +700,7 @@
     },
     {
       "source": "/uk/%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%96%D1%82%D0%BD%D1%96-%D1%82%D1%83%D1%80%D0%B8-%D0%BD%D1%8C%D1%8E-%D0%B9%D0%BE%D1%80%D0%BA",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -705,7 +720,7 @@
     },
     {
       "source": "/ur/%D8%A8%DB%81%D8%AA%D8%B1%DB%8C%D9%86-%DB%81%DB%8C%D9%84%DB%8C-%DA%A9%D8%A7%D9%BE%D9%B9%D8%B1-%D9%B9%D9%88%D8%B1-%D9%86%DB%8C%D9%88%DB%8C%D8%A7%D8%B1%DA%A9",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -745,7 +760,7 @@
     },
     {
       "source": "/vi/c%C3%A1c-tour-du-l%E1%BB%8Bch-tr%E1%BB%B1c-th%C4%83ng-t%E1%BB%91t-nh%E1%BA%A5t-%E1%BB%9F-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -765,7 +780,7 @@
     },
     {
       "source": "/zh/%E7%BA%BD%E7%BA%A6%E6%9C%80%E4%BD%B3%E7%9B%B4%E5%8D%87%E6%9C%BA%E4%B9%8B%E6%97%85",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -845,7 +860,7 @@
           "value": ".*text/markdown.*"
         }
       ],
-      "destination": "/best-helicopter-tours-new-york.md",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york.md",
       "permanent": false
     },
     {
@@ -894,37 +909,37 @@
     },
     {
       "source": "/helicopter-tours",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
       "source": "/helicopter-tours-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
       "source": "/best-helicopter-tours",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
       "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/helicopter-tours",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
       "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/helicopter-tours/:match*",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
       "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/helicopter-tours-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
       "source": "/:lang(ar|cs|da|de|el|es|fa|fr|he|hi|hr|hu|id|it|ja|ko|nl|no|pl|pt|ru|sr|sv|th|tr|uk|ur|vi|zh)/best-helicopter-tours",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -999,7 +1014,7 @@
     },
     {
       "source": "/ar/أفضل-جولات-طائرات-الهليكوبتر-في-نيويورك",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1079,7 +1094,7 @@
     },
     {
       "source": "/cs/nejlepší-vrtulní-zájezdy-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1124,7 +1139,7 @@
     },
     {
       "source": "/da/bedste-helikopterture-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1194,7 +1209,7 @@
     },
     {
       "source": "/de/best-helicopter-tours-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1349,7 +1364,7 @@
     },
     {
       "source": "/el/οι-καλύτερες-περιηγήσεις-με-ελικόπτερο-στη-νέα-υόρκη",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1419,7 +1434,7 @@
     },
     {
       "source": "/es/best-helicopter-tours-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1469,7 +1484,7 @@
     },
     {
       "source": "/es/mejores-tours-en-helicóptero-en-nueva-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1499,7 +1514,7 @@
     },
     {
       "source": "/fa/بهترین-تورهای-هلیکوپتر-در-نیویورک",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1594,7 +1609,7 @@
     },
     {
       "source": "/fr/best-helicopter-tours-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1644,7 +1659,7 @@
     },
     {
       "source": "/fr/meilleures-excursions-en-hélicoptère-à-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1689,7 +1704,7 @@
     },
     {
       "source": "/he/טיולי-המסוקים-הטובים-ביותר-בניו-יורק",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1754,7 +1769,7 @@
     },
     {
       "source": "/hi/नययरक-म-सरवशरषठ-हलकपटर-टर",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1814,7 +1829,7 @@
     },
     {
       "source": "/hr/najbolji-helikopterski-izleti-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1869,7 +1884,7 @@
     },
     {
       "source": "/hu/legjobb-helikopter-túrák-new-yorkban",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -1944,7 +1959,7 @@
     },
     {
       "source": "/id/tur-helikopter-terbaik-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2004,7 +2019,7 @@
     },
     {
       "source": "/it/migliori-tour-in-elicottero-a-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2064,7 +2079,7 @@
     },
     {
       "source": "/ja/ニューヨーク最高のヘリコプターツアー",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2134,7 +2149,7 @@
     },
     {
       "source": "/ko/뉴욕-최고의-헬리콥터-투어",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2229,7 +2244,7 @@
     },
     {
       "source": "/nl/beste-helikopter-rondvluchten-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2294,7 +2309,7 @@
     },
     {
       "source": "/no/beste-helikopterturer-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2359,7 +2374,7 @@
     },
     {
       "source": "/pl/najlepsze-wycieczki-helikopterem-nowy-jork",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2429,7 +2444,7 @@
     },
     {
       "source": "/pt/melhores-passeios-de-helicóptero-nova-iorque",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2459,7 +2474,7 @@
     },
     {
       "source": "/ru/best-helicopter-tours-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2534,7 +2549,7 @@
     },
     {
       "source": "/ru/лучшие-вертолетные-туры-в-нью-йорке",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2564,7 +2579,7 @@
     },
     {
       "source": "/sr/најбоље-хеликоптерске-туре-њујорк",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2664,7 +2679,7 @@
     },
     {
       "source": "/sv/bästa-helikopterturer-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2734,7 +2749,7 @@
     },
     {
       "source": "/th/ทวรเฮลคอปเตอรทดทสดในนวยอรก",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2764,7 +2779,7 @@
     },
     {
       "source": "/tr/en-iyi-helikopter-turları-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2849,7 +2864,7 @@
     },
     {
       "source": "/uk/найкращі-вертолітні-тури-нью-йорк",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2889,7 +2904,7 @@
     },
     {
       "source": "/ur/بہترین-ہیلی-کاپٹر-ٹور-نیویارک",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -2979,7 +2994,7 @@
     },
     {
       "source": "/vi/các-tour-du-lịch-trực-thăng-tốt-nhất-ở-new-york",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -3019,7 +3034,7 @@
     },
     {
       "source": "/zh/纽约最佳直升机之旅",
-      "destination": "/best-helicopter-tours-new-york",
+      "destination": "https://www.adventuresinnewyork.com/best-helicopter-tours-new-york",
       "permanent": true
     },
     {
@@ -3222,17 +3237,6 @@
         }
       ],
       "destination": "/best-desert-safaris-dubai.md"
-    },
-    {
-      "source": "/best-helicopter-tours-new-york",
-      "has": [
-        {
-          "type": "header",
-          "key": "accept",
-          "value": ".*text/markdown.*"
-        }
-      ],
-      "destination": "/best-helicopter-tours-new-york.md"
     },
     {
       "source": "/best-palm-jumeirah-hotels-dubai",

@@ -13,12 +13,8 @@
 - **Scope**: 10 distinct routes and operators personally tested in the Lahbab Red Dunes, Al Marmoom, and Dubai Desert Conservation Reserve (DDCR).
 - **Flagship Winner**: Dubai Red Dunes Safari & Al Khayma Camp (OceanAir Travels / Excursion Point).
 
-### 2. [5 Best Helicopter Tours in New York](https://luxurytraveltester.com/best-helicopter-tours-new-york)
-- **Markdown Version**: [/best-helicopter-tours-new-york.md](https://luxurytraveltester.com/best-helicopter-tours-new-york.md)
-- **Scope**: Comprehensive comparison of open-door ("shoe selfie") vs closed-door scenic flights across Manhattan, Statue of Liberty, Brooklyn Bridge, and Central Park.
-- **Flagship Winner**: FlyNYON Open-Door Photography Flight (Kearny Heliport) & HeliNY Manhattan Classic (Pier 6 Downtown Heliport).
 
-### 3. [10 Best Hotels in Palm Jumeirah Dubai](https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai)
+### 2. [10 Best Hotels in Palm Jumeirah Dubai](https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai)
 - **Markdown Version**: [/best-palm-jumeirah-hotels-dubai.md](https://luxurytraveltester.com/best-palm-jumeirah-hotels-dubai.md)
 - **Scope**: 5 personally stayed luxury resorts plus 5 top-rated luxury contenders on Palm Jumeirah Crescent, West Beach, and the Trunk.
 - **Flagship Winner**: Atlantis The Royal & Atlantis, The Palm.
