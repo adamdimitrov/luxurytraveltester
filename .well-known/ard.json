@@ -16,20 +16,12 @@
         "luxury desert safari Dubai reviews",
         "Platinum Heritage vs Nara Desert Escape"
       ],
-      "tags": ["travel", "dubai", "desert-safari", "luxury"]
-    },
-    {
-      "identifier": "urn:air:luxurytraveltester.com:travel:helicopters",
-      "displayName": "New York City Helicopter Tours Comparison & Buyer's Guide",
-      "type": "text/markdown",
-      "url": "https://luxurytraveltester.com/best-helicopter-tours-new-york.md",
-      "description": "Critical comparison of NYC helicopter flight operators, routes, doors-off options, and hidden heliport fees.",
-      "representativeQueries": [
-        "best helicopter tour nyc",
-        "doors off helicopter new york",
-        "helicopter tour over manhattan"
-      ],
-      "tags": ["travel", "new-york", "helicopter-tour", "manhattan"]
+      "tags": [
+        "travel",
+        "dubai",
+        "desert-safari",
+        "luxury"
+      ]
     },
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:hotels",
@@ -42,7 +34,13 @@
         "luxury resorts dubai palm",
         "Atlantis The Royal vs One&Only The Palm"
       ],
-      "tags": ["travel", "dubai", "palm-jumeirah", "hotels", "luxury"]
+      "tags": [
+        "travel",
+        "dubai",
+        "palm-jumeirah",
+        "hotels",
+        "luxury"
+      ]
     },
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:knowledge-base",
@@ -54,7 +52,11 @@
         "luxury travel tester reviews",
         "independent luxury travel benchmarks"
       ],
-      "tags": ["travel", "knowledge-base", "llms-txt"]
+      "tags": [
+        "travel",
+        "knowledge-base",
+        "llms-txt"
+      ]
     },
     {
       "identifier": "urn:air:luxurytraveltester.com:travel:guidelines",
@@ -66,7 +68,11 @@
         "luxury travel tester index",
         "luxury travel llms.txt"
       ],
-      "tags": ["travel", "directory", "llms-txt"]
+      "tags": [
+        "travel",
+        "directory",
+        "llms-txt"
+      ]
     }
   ]
 }
