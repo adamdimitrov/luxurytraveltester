@@ -15,9 +15,14 @@ Global rule: work in a worktree branch, never the main checkout.
 - 5+ genuinely different bookable products on GetYourGuide/Tiqets (price, duration, what's included, pickup, private vs shared). If fewer, merge into a broader best-X page or stop.
 - Room on page 1 (look at the top results in the user's Chrome).
 
-## 2. Harvest (user's Chrome, GYG tab, same-origin fetch)
-In a getyourguide.com tab define a fetcher that reads each product page's JSON-LD (`Product` name, `aggregateRating`, `offers.lowPrice`) and the gallery (`"type":"activityImage"` ids, 64-hex). **Pace it: one request every ~9 s and back off 2 min on 429**; GYG's Cloudflare blocks bursts and we never try to bypass a challenge. Export via an injected `<article>` + `get_page_text` (javascript_tool output is cut at ~1 KB and blocks query strings).
-Record per product: name, rating, review count, from-price, duration, meeting point/pickup, included/excluded, languages, cancellation, 9-10 gallery ids.
+## 2. Harvest (user's Chrome, normal page loads)
+Scripted `fetch()` of GYG pages from a GYG tab gets 429 + a Cloudflare "Just a moment" challenge after ~20 requests; never try to get around it. What works (2026-11-16, 74 products in ~10 min):
+- Search: navigate the tab to `/s/?q=<query>`, read product cards from the DOM (`a[href*="-t"]` + card text gives id, rating, review count, from-price).
+- Products: keep a queue in `localStorage` (survives navigation); one step = read the current page, then `location.href` = next product; ~6 s per page.
+- From each product page's `outerHTML`: JSON-LD `Product` (name, `aggregateRating`, `offers.lowPrice`) and gallery ids = `tour_img` names preceded by `"type":"activityImage"`; ids are 13 to 64 hex chars (old tours use short ids), `.jpg/.jpeg/.png/.webp`. Fallback: any `tour_img` id not preceded by "review".
+- Listing text: `main.innerText` from "Free cancellation/Duration/Highlights" onwards. **"Includes" and "Not included" run together in the text**: never claim something is included unless it clearly sits on the included side.
+- Export: navigate the tab to a tiny local receiver `http://127.0.0.1:<port>/#<encodeURIComponent(json)>` that POSTs the hash to itself and writes `scripts/articles/harvest/<topic>.json` (gitignored). javascript_tool output is cut at ~1 KB and blocks query strings.
+- Photos: `https://cdn.getyourguide.com/image/fit=crop,width=1200,height=800/tour_img/<id>` downloads fine with curl (builder does this with `--photos`).
 Tiqets: if the same product is on Tiqets, look up its est. commission in the affiliate portal; Tiqets wins above 11%.
 
 ## 3. Spec
@@ -38,6 +43,7 @@ Fix any "shell words left" warning (leftover safari copy) in the spec or builder
 - `python3 scripts/generate_sitemap.py`; update the canonical count in GEMINI.md.
 
 ## 6. QC
+Run an independent reviewer (fresh agent, not the writer) per 5 pages: it re-checks every fact against the harvest file, removes anything resting on a single guest review, fixes included/excluded misreads, recomputes per-minute/per-hour numbers. In batch 1 the reviewers changed something on all 10 pages.
 `/qc-article` (automated `qc_article.py` + judgment checklist), ideally by a reviewer that did not write the spec. Fix until PASS. HOLD anything unresolved.
 
 ## 7. Ship
