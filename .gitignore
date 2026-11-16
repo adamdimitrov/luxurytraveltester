@@ -6,3 +6,4 @@ __pycache__/
 .env
 .env.*
 scripts/uploaded_travelpayouts_actions.json
+scripts/articles/harvest/
