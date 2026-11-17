@@ -1,0 +1,8 @@
+{
+  "_doc": "Inline runtime variants (md5 of the inline <script> body, stripped of surrounding newlines) that were diffed by hand against site-runtime.js and judged safe to replace. Prefix match on the first 6+ hex chars. Add an entry only with the diff summary.",
+  "accepted": {
+    "061efb06c0f572bbb82ade55ce887d49": "kit v0.2.0 runtime (adventuresinnewyork, 1 luxurytraveltester page): same code minus the swipe-load line in bpaCount",
+    "b046cd": "luxurytraveltester article runtime (Nov 2026): kit runtime with swipe-load in bpaCount, without the unused lttFilterHelicopters/lttFilterHotels aliases",
+    "05ba35": "luxurytraveltester test page: kit v0.2.0 runtime without the unused aliases"
+  }
+}
