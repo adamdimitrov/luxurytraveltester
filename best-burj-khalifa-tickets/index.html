@@ -6812,6 +6812,7 @@ window.LTT_PAGE_CONFIG = {"deckId": "dubai-safari-deck", "tocDeckLabel": "Top 8 
   };
 
   window.bpaCount = function(slider) {
+    loadSliderImages(slider);
     var media = slider.closest('.bpa-media');
     if (!media) return;
     var pill = media.querySelector('.bpa-pill');
