@@ -202,6 +202,12 @@ window.addEventListener('load', function() {
     if old_bpa_slide_1 in result_html:
         result_html = result_html.replace(old_bpa_slide_1, new_bpa_slide_1, 1)
 
+    # Swipe loading: bpaCount runs on every carousel scroll (onscroll), so load there too.
+    old_count = "  window.bpaCount = function(slider) {\n    var media"
+    new_count = "  window.bpaCount = function(slider) {\n    loadSliderImages(slider);\n    var media"
+    if "function loadSliderImages" in result_html and old_count in result_html:
+        result_html = result_html.replace(old_count, new_count, 1)
+
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(result_html)
 
