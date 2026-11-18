@@ -1,0 +1,2126 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif",
+  "Expedia": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4b1dcd58438a6ff63_expedia-logo.avif",
+  "Agoda": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4720064fabe375b60_agoda-logo.avif",
+  "Google": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4688dbf65f4077122_google-logo.avif",
+  "Trip.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4aae4d338c789e8b1_tripdotcom-logo.avif",
+  "Tripadvisor": "data:image/png;base64,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"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": ["families", "aqua", "kidsclub", "crescent", "tested"],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best All-Around",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["fetchpriority", "high"],
+      ["height", "500"],
+      ["loading", "eager"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm.avif 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6839de1aeab4b121a1c66802_IMG_1874.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6839de1aeab4b121a1c66802_IMG_1874-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6839de1aeab4b121a1c66802_IMG_1874.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6839db657624ed14a717b907_IMG_1814.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6839db657624ed14a717b907_IMG_1814-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6839db657624ed14a717b907_IMG_1814.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/688b5fba3db74958b61bea66_best-palm-hotels-dubai-atlantis-palm8.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/688b5fba3db74958b61bea66_best-palm-hotels-dubai-atlantis-palm8-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/688b5fba3db74958b61bea66_best-palm-hotels-dubai-atlantis-palm8.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6839ade52b0a09425b144743_best-palm-hotels-dubai-atlantis-the-palm-main-hall%20(7).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6839ade52b0a09425b144743_best-palm-hotels-dubai-atlantis-the-palm-main-hall%20(7)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6839ade52b0a09425b144743_best-palm-hotels-dubai-atlantis-the-palm-main-hall%20(7).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6839ddc652e38ea3363ff3f9_IMG_1859.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6839ddc652e38ea3363ff3f9_IMG_1859-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6839ddc652e38ea3363ff3f9_IMG_1859.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/682c7eff0229e52c41702a8a_IMG_1718.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/682c7eff0229e52c41702a8a_IMG_1718-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/682c7eff0229e52c41702a8a_IMG_1718.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/682db6ea3e5b974ad3bce559_IMG_1689.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/682db6ea3e5b974ad3bce559_IMG_1689-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/682db6ea3e5b974ad3bce559_IMG_1689.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68398aaa2d3ce3fc474ed302_IMG_1770.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68398aaa2d3ce3fc474ed302_IMG_1770-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68398aaa2d3ce3fc474ed302_IMG_1770.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis, The Palm"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/689005d293d0d395be15582f_best-palm-hotels-dubai-atlantis-palm21.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/689005d293d0d395be15582f_best-palm-hotels-dubai-atlantis-palm21-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/689005d293d0d395be15582f_best-palm-hotels-dubai-atlantis-palm21.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68d00c728bf6d88cc1f839c1_1.%20Atlantis%20The%20Palm-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6839de1aeab4b121a1c66802_IMG_1874-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6839db657624ed14a717b907_IMG_1814-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/688b5fba3db74958b61bea66_best-palm-hotels-dubai-atlantis-palm8-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6839ade52b0a09425b144743_best-palm-hotels-dubai-atlantis-the-palm-main-hall%20(7)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6839ddc652e38ea3363ff3f9_IMG_1859-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/682c7eff0229e52c41702a8a_IMG_1718-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/682db6ea3e5b974ad3bce559_IMG_1689-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68398aaa2d3ce3fc474ed302_IMG_1770-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689005d293d0d395be15582f_best-palm-hotels-dubai-atlantis-palm21-p-500.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Atlantis, The Palm",
+    "5★ Mega Resort",
+    {
+     "url": "https://maps.google.com/?q=Atlantis+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Crescent Road"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_atlantis_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Atlantis, The Palm"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.68",
+     "score": "4.7",
+     "meta": "121k+ reviews · 5 sites",
+     "heading": "Average of 5 booking sites, weighted by number of reviews",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(18.7k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_atlantis_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Expedia",
+       "score": "4.7",
+       "count": "(1.4k+)",
+       "url": "https://tp.media/r?campaign_id=594&marker=404154&p=8645&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.expedia.com%2FDubai-Hotels-Atlantis-The-Palm.h2235336.Hotel-Information",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "static",
+       "site": "Agoda",
+       "score": "4.4",
+       "count": "(1.7k+)"
+      },
+      {
+       "kind": "static",
+       "site": "Google",
+       "score": "4.7",
+       "count": "(99k+)"
+      },
+      {
+       "kind": "link",
+       "site": "Trip.com",
+       "score": "4.6",
+       "count": "(600+)",
+       "url": "https://tp.media/r?campaign_id=121&marker=404154&p=8980&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-984964%2Fatlantis-the-palm-dubai%2F",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I stayed here myself and paid for it.</strong> 5 nights in a Palm King Room, about €2,432 (9,659.79 AED).<span class=\"bpa-lang-note\">What I checked: rooms, both buffets, Aquaventure, pools, kids' clubs and Wi-Fi. <a href=\"/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review\">Full review →</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Aquaventure included",
+     "pop_html": "<strong>Free, unlimited entry to Aquaventure World and The Lost Chambers Aquarium</strong> for hotel guests. Expect lots of stairs and queues at the slides.<span class=\"bpa-lang-note\">From my 5-night stay.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧒",
+     "label": "Kids' club 0-12",
+     "pop_html": "<strong>Atlantis Explorers Club for ages 4 to 12</strong>, plus a supervised play area for ages 0 to 3, run by staff trained in paediatric first aid. The Family Pool has shallow areas and lifeguards."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast +€42",
+     "pop_html": "<strong>Breakfast costs €42 per person</strong> when it is not in your room rate. Guests rate it “Wonderful”.<span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for kids: Aquaventure waterpark and The Lost Chambers are included for hotel guests.",
+    "skip_html": "if you want quiet: it is the busiest resort on the Palm, and hallway noise comes through the doors."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is Aquaventure really free?",
+      "a": "Yes. Hotel guests get unlimited entry to Aquaventure World and The Lost Chambers Aquarium. I tried every slide: it is a blast, but expect stairs and queues."
+     },
+     {
+      "q": "Which room should I book?",
+      "a": "The Palm King Room I stayed in looks over the Palm and the Dubai skyline, a better view than the ocean side. Queen rooms have two queen beds and fit 2 adults and 2 children."
+     },
+     {
+      "q": "Do I need half board or all-inclusive?",
+      "a": "In my experience, no: breakfast (7:00 to 11:30) is so filling that I wasn't hungry until dinner. Arrive before 9:00 to skip the queue."
+     },
+     {
+      "q": "What were the downsides?",
+      "a": "Hallway noise comes through the room doors, and the Wi-Fi cut my calls and slowed laptop work."
+     },
+     {
+      "q": "Is there childcare?",
+      "a": "Yes. The Atlantis Explorers Club takes ages 4 to 12, with a supervised play area for ages 0 to 3, staffed by people trained in paediatric first aid."
+     }
+    ]
+   },
+   "price": {
+    "main": "€300",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€300"
+     },
+     {
+      "label": "Breakfast",
+      "small": "per person, if not in the rate",
+      "price": "€42"
+     },
+     {
+      "label": "My stay",
+      "small": "Palm King Room, 5 nights",
+      "price": "€2,432"
+     }
+    ],
+    "total": {
+     "label": "2 adults, cheapest room + breakfast, 1 night",
+     "price": "€384"
+    },
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_atlantis_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#1-atlantis-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": ["couples", "aqua", "crescent", "tested"],
+   "gallery": {
+    "rank": {
+     "text": "👑 #2 Ultra-Luxury &amp; Couples",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      ["alt", "Atlantis The Royal"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/689466dd0d525e1eb6e4c4a1_best-palm-hotels-dubai-atlantis-the-royal-15.avif"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/689466dd0d525e1eb6e4c4a1_best-palm-hotels-dubai-atlantis-the-royal-15-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/689466dd0d525e1eb6e4c4a1_best-palm-hotels-dubai-atlantis-the-royal-15.avif 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68d00c723b22d1f981e039f3_2.%20Atlantis%20The%20Royal.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68d00c723b22d1f981e039f3_2.%20Atlantis%20The%20Royal-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68d00c723b22d1f981e039f3_2.%20Atlantis%20The%20Royal.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6894602ff9d372c730c7032e_best-palm-hotels-dubai-atlantis-the-royal-1.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6894602ff9d372c730c7032e_best-palm-hotels-dubai-atlantis-the-royal-1-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6894602ff9d372c730c7032e_best-palm-hotels-dubai-atlantis-the-royal-1.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68900e49b4f740bb5a9dbc5e_IMG_2761.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68900e49b4f740bb5a9dbc5e_IMG_2761-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68900e49b4f740bb5a9dbc5e_IMG_2761.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6891b1edec2bbcfee65a41c4_IMG_2571.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6891b1edec2bbcfee65a41c4_IMG_2571-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6891b1edec2bbcfee65a41c4_IMG_2571.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6894656d821dd89d517baf7c_best-palm-hotels-dubai-atlantis-the-royal-33.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6894656d821dd89d517baf7c_best-palm-hotels-dubai-atlantis-the-royal-33-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6894656d821dd89d517baf7c_best-palm-hotels-dubai-atlantis-the-royal-33.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/689466673af77a3b434b6a50_best-palm-hotels-dubai-atlantis-the-royal-25.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/689466673af77a3b434b6a50_best-palm-hotels-dubai-atlantis-the-royal-25-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/689466673af77a3b434b6a50_best-palm-hotels-dubai-atlantis-the-royal-25.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/689464e0e695e42d76fad223_best-palm-hotels-dubai-atlantis-the-royal-75.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/689464e0e695e42d76fad223_best-palm-hotels-dubai-atlantis-the-royal-75-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/689464e0e695e42d76fad223_best-palm-hotels-dubai-atlantis-the-royal-75.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/689037caf058589e139e2893_IMG_2459.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/689037caf058589e139e2893_IMG_2459-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/689037caf058589e139e2893_IMG_2459.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Atlantis The Royal"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6890270565d6553560b74296_IMG_2420.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6890270565d6553560b74296_IMG_2420-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6890270565d6553560b74296_IMG_2420.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689466dd0d525e1eb6e4c4a1_best-palm-hotels-dubai-atlantis-the-royal-15-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68d00c723b22d1f981e039f3_2.%20Atlantis%20The%20Royal-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6894602ff9d372c730c7032e_best-palm-hotels-dubai-atlantis-the-royal-1-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68900e49b4f740bb5a9dbc5e_IMG_2761-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6891b1edec2bbcfee65a41c4_IMG_2571-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6894656d821dd89d517baf7c_best-palm-hotels-dubai-atlantis-the-royal-33-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689466673af77a3b434b6a50_best-palm-hotels-dubai-atlantis-the-royal-25-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689464e0e695e42d76fad223_best-palm-hotels-dubai-atlantis-the-royal-75-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689037caf058589e139e2893_IMG_2459-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6890270565d6553560b74296_IMG_2420-p-500.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Atlantis The Royal",
+    "5★ Ultra-Luxury",
+    {
+     "url": "https://maps.google.com/?q=Atlantis+The+Royal+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Crescent Road"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_atlantis_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Atlantis The Royal"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.66",
+     "score": "4.7",
+     "meta": "12k+ reviews · 5 sites",
+     "heading": "Average of 5 booking sites, weighted by number of reviews",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(5.6k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_atlantis_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Expedia",
+       "score": "4.7",
+       "count": "(370+)",
+       "url": "https://tp.media/r?campaign_id=594&marker=404154&p=8645&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.expedia.com%2FDubai-Hotels-Atlantis-The-Royal.h39014655.Hotel-Information",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Tripadvisor",
+       "score": "4.7",
+       "count": "(1.2k+)",
+       "url": "https://tp.media/r?campaign_id=149&marker=404154&p=4456&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=327188&u=https%3A%2F%2Fwww.tripadvisor.com%2FHotel_Review-g295424-d25249570-Reviews-Atlantis_The_Royal-Dubai_Emirate_of_Dubai.html",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "static",
+       "site": "Google",
+       "score": "4.7",
+       "count": "(5.3k+)"
+      },
+      {
+       "kind": "link",
+       "site": "Trip.com",
+       "score": "4.8",
+       "count": "(140+)",
+       "url": "https://tp.media/r?campaign_id=121&marker=404154&p=8980&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-58604500%2Fthe-royal-atlantis-resort-residences%2F",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I stayed here myself and paid for it.</strong> 1 night in a Palmscape King Room, upgraded for free to a Sky Terrace Suite, about €1,252 (5,242.19 AED).<span class=\"bpa-lang-note\">What I checked: the suite, Gastronomy buffet, restaurants, service and Wi-Fi. <a href=\"/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review\">Full review →</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Aquaventure included",
+     "pop_html": "<strong>Free, unlimited entry to Aquaventure World</strong>, and you can visit the attractions inside Atlantis The Palm, including The Lost Chambers Aquarium."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "17+ restaurants",
+     "pop_html": "<strong>17+ venues, including Dinner by Heston Blumenthal, Ariana's Persian Kitchen, La Mar, Estiatorio Milos and Nobu by the Beach.</strong> Ariana's served the best Persian food I've had."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Cloud 22 (suites)",
+     "pop_html": "<strong>Cloud 22 is for suite guests or by reservation only.</strong> There is no general rooftop pool."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "over #1 for a splurge: celebrity-chef restaurants, an adult crowd, and Aquaventure is still included.",
+    "skip_html": "if you want value: standard rooms start around €1,000 a night, roughly double Atlantis The Palm."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is Aquaventure included here too?",
+      "a": "Yes: unlimited access to Aquaventure World, and you can visit the attractions inside Atlantis The Palm, including The Lost Chambers Aquarium."
+     },
+     {
+      "q": "Can every guest use the Cloud 22 pool?",
+      "a": "No. Cloud 22 is for suite guests or by reservation only, and there is no general rooftop pool."
+     },
+     {
+      "q": "Is it good for kids?",
+      "a": "It works, but it is aimed at adults and couples: I saw far fewer children than at Atlantis The Palm, and the facilities are more adult-oriented."
+     },
+     {
+      "q": "Is the buffet different from Atlantis The Palm?",
+      "a": "No. Gastronomy serves the same food in a larger, more refined room. The difference is the 17+ restaurants, such as Dinner by Heston Blumenthal and Ariana's Persian Kitchen."
+     },
+     {
+      "q": "What did your stay cost?",
+      "a": "€1,252 (5,242.19 AED) for 1 night in a Palmscape King Room. I was upgraded for free to a Sky Terrace Suite with two balconies."
+     }
+    ]
+   },
+   "price": {
+    "main": "€1,000",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€1,000"
+     },
+     {
+      "label": "High season",
+      "small": "standard room, per night",
+      "price": "€2,000"
+     },
+     {
+      "label": "My stay",
+      "small": "Palmscape King Room, 1 night",
+      "price": "€1,252"
+     }
+    ],
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_atlantis_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#2-atlantis-the-royal",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": ["families", "couples", "quiet", "kidsclub", "crescent", "under250", "tested"],
+   "gallery": {
+    "rank": {
+     "text": "🌿 #3 Peaceful &amp; Wellness",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68d00c723ad453c89e94bd71_Ananatara%20Resort%20Dubai.avif"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68d00c723ad453c89e94bd71_Ananatara%20Resort%20Dubai-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68d00c723ad453c89e94bd71_Ananatara%20Resort%20Dubai.avif 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1e2cdfff9efe619730c51_palm-hotels-dubai-anantara%20(151).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1e2cdfff9efe619730c51_palm-hotels-dubai-anantara%20(151)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1e2cdfff9efe619730c51_palm-hotels-dubai-anantara%20(151).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6852e1a09cc817e56296d319_palm-hotels-dubai-anantara%20(51).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6852e1a09cc817e56296d319_palm-hotels-dubai-anantara%20(51)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6852e1a09cc817e56296d319_palm-hotels-dubai-anantara%20(51).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6852eea347f0a6f04aed6ee8_palm-hotels-dubai-anantara%20(144).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6852eea347f0a6f04aed6ee8_palm-hotels-dubai-anantara%20(144)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6852eea347f0a6f04aed6ee8_palm-hotels-dubai-anantara%20(144).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6852e1edac72dedab665044b_palm-hotels-dubai-anantara%20(66).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6852e1edac72dedab665044b_palm-hotels-dubai-anantara%20(66)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6852e1edac72dedab665044b_palm-hotels-dubai-anantara%20(66).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6852e10390f7761e2dd4f991_palm-hotels-dubai-anantara%20(27).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6852e10390f7761e2dd4f991_palm-hotels-dubai-anantara%20(27)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6852e10390f7761e2dd4f991_palm-hotels-dubai-anantara%20(27).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/689da07c5efee7bf2aef929e_palm-hotels-dubai-anantara%20(86).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/689da07c5efee7bf2aef929e_palm-hotels-dubai-anantara%20(86)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/689da07c5efee7bf2aef929e_palm-hotels-dubai-anantara%20(86).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6852e18bed7479bca8e1af58_palm-hotels-dubai-anantara%20(43).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6852e18bed7479bca8e1af58_palm-hotels-dubai-anantara%20(43)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6852e18bed7479bca8e1af58_palm-hotels-dubai-anantara%20(43).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/689ef25fa02514dac8923903_palm-hotels-dubai-anantara%20(137).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/689ef25fa02514dac8923903_palm-hotels-dubai-anantara%20(137)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/689ef25fa02514dac8923903_palm-hotels-dubai-anantara%20(137).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Anantara The Palm Dubai Resort"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6852f0d6261c0f64266c9165_palm-hotels-dubai-anantara%20(222).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6852f0d6261c0f64266c9165_palm-hotels-dubai-anantara%20(222)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6852f0d6261c0f64266c9165_palm-hotels-dubai-anantara%20(222).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68d00c723ad453c89e94bd71_Ananatara%20Resort%20Dubai-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1e2cdfff9efe619730c51_palm-hotels-dubai-anantara%20(151)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6852e1a09cc817e56296d319_palm-hotels-dubai-anantara%20(51)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6852eea347f0a6f04aed6ee8_palm-hotels-dubai-anantara%20(144)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6852e1edac72dedab665044b_palm-hotels-dubai-anantara%20(66)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6852e10390f7761e2dd4f991_palm-hotels-dubai-anantara%20(27)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689da07c5efee7bf2aef929e_palm-hotels-dubai-anantara%20(86)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6852e18bed7479bca8e1af58_palm-hotels-dubai-anantara%20(43)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689ef25fa02514dac8923903_palm-hotels-dubai-anantara%20(137)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6852f0d6261c0f64266c9165_palm-hotels-dubai-anantara%20(222)-p-500.webp"
+     }
+    ]
+   },
+   "kicker": [
+    "Anantara The Palm",
+    "5★ Thai Resort",
+    {
+     "url": "https://maps.google.com/?q=Anantara+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 East Crescent"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Anantara The Palm Dubai Resort"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "38k+ reviews · 6 sites",
+     "heading": "Average of 6 booking sites, weighted by number of reviews",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(2.9k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Expedia",
+       "score": "4.5",
+       "count": "(730+)",
+       "url": "https://tp.media/r?campaign_id=594&marker=404154&p=8645&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.expedia.com%2FDubai-Hotels-Anantara-The-Palm-Dubai-Resort.h6483363.Hotel-Information",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Tripadvisor",
+       "score": "4.6",
+       "count": "(13.3k+)",
+       "url": "https://tp.media/r?campaign_id=149&marker=404154&p=4456&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=327188&u=https%3A%2F%2Fwww.tripadvisor.com%2FHotel_Review-d1630522",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "static",
+       "site": "Agoda",
+       "score": "4.4",
+       "count": "(3.6k+)"
+      },
+      {
+       "kind": "static",
+       "site": "Google",
+       "score": "4.7",
+       "count": "(18k+)"
+      },
+      {
+       "kind": "link",
+       "site": "Trip.com",
+       "score": "4.6",
+       "count": "(90+)",
+       "url": "https://tp.media/r?campaign_id=121&marker=404154&p=8980&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-757079%2Fanantara-the-palm-dubai-resort%2F",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I stayed here myself and paid for it.</strong> 1 night in a Premier Lagoon View Room, half board, about €435 (1,818.17 AED).<span class=\"bpa-lang-note\">What I checked: the lagoon room, buffet, pools, beach, spa and service. <a href=\"/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review\">Full review →</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛖",
+     "label": "Overwater villas",
+     "pop_html": "<strong>The only overwater villas in Dubai</strong>, with a glass panel to the sea and an oversized soaking tub. Lagoon Access rooms open onto the lagoon pool from a private terrace."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Lagoon pools",
+     "pop_html": "<strong>Lagoon-style swimming areas, a central pool and a private beach.</strong> Kayaking and paddleboarding on site."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">When I stayed in April, check-in started at 16:00 and check-out was 11:00.</span><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast +€36",
+     "pop_html": "<strong>Breakfast costs €36 per person</strong> when it is not in your room rate. Guests rate it “Very good”.<span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a calm couples stay: lagoon pools and the only overwater villas in Dubai.",
+    "skip_html": "if you want Marina nightlife nearby: it sits at the far east end of the Crescent."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Which rooms open onto the lagoon?",
+      "a": "Lagoon Access rooms, which step into the lagoon pool from a private terrace. Lagoon View rooms, like the one I had, look over it from a balcony."
+     },
+     {
+      "q": "Are the overwater villas real?",
+      "a": "Yes. The One Bedroom Over Water Villas sit over the sea with a glass viewing panel and an oversized soaking tub, the only ones in Dubai."
+     },
+     {
+      "q": "How is the food?",
+      "a": "Good quality, mostly Arabic, Asian and Indian, but the buffet is less varied than at Atlantis. Breakfast runs 7:00 to 11:00 at Crescendo."
+     },
+     {
+      "q": "Is it far from the city?",
+      "a": "It sits on the East Crescent, about 25 to 30 minutes by road to Downtown Dubai."
+     },
+     {
+      "q": "What did your stay cost?",
+      "a": "€434.74 (1,818.17 AED) for 1 night in a Premier Lagoon View Room, the resort's cheapest, on half board."
+     }
+    ]
+   },
+   "price": {
+    "main": "€200",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€200"
+     },
+     {
+      "label": "Breakfast",
+      "small": "per person, if not in the rate",
+      "price": "€36"
+     },
+     {
+      "label": "My stay",
+      "small": "Premier Lagoon View, half board, 1 night",
+      "price": "€435"
+     }
+    ],
+    "total": {
+     "label": "2 adults, cheapest room + breakfast, 1 night",
+     "price": "€272"
+    },
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_anantara&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-dubai-the-palm-resort-amp-spa.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#3-anantara-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": ["party", "kidsclub", "westbeach", "tested"],
+   "gallery": {
+    "rank": {
+     "text": "🍸 #4 Parties &amp; Nightlife",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/689db9323a7628e6dc9eccee_palm-hotels-dubai-five-palm%20(93).webp"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/689db9323a7628e6dc9eccee_palm-hotels-dubai-five-palm%20(93)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/689db9323a7628e6dc9eccee_palm-hotels-dubai-five-palm%20(93).webp 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6853f1ce78ae0e3b1f660173_palm-hotels-dubai-five-palm%20(8).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6853f1ce78ae0e3b1f660173_palm-hotels-dubai-five-palm%20(8)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853f1ce78ae0e3b1f660173_palm-hotels-dubai-five-palm%20(8).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6853f57ccce8175a0ea26886_palm-hotels-dubai-five-palm%20(63).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6853f57ccce8175a0ea26886_palm-hotels-dubai-five-palm%20(63)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853f57ccce8175a0ea26886_palm-hotels-dubai-five-palm%20(63).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6853f4e178da16599d88eb2a_palm-hotels-dubai-five-palm%20(59).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6853f4e178da16599d88eb2a_palm-hotels-dubai-five-palm%20(59)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853f4e178da16599d88eb2a_palm-hotels-dubai-five-palm%20(59).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6853f37a6709cae4adf5b19e_palm-hotels-dubai-five-palm%20(31).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6853f37a6709cae4adf5b19e_palm-hotels-dubai-five-palm%20(31)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853f37a6709cae4adf5b19e_palm-hotels-dubai-five-palm%20(31).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6853f4f81ae085b6b40e2fe7_palm-hotels-dubai-five-palm%20(60).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6853f4f81ae085b6b40e2fe7_palm-hotels-dubai-five-palm%20(60)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853f4f81ae085b6b40e2fe7_palm-hotels-dubai-five-palm%20(60).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6853f88335e90e76a8fc36db_palm-hotels-dubai-five-palm%20(89).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6853f88335e90e76a8fc36db_palm-hotels-dubai-five-palm%20(89)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853f88335e90e76a8fc36db_palm-hotels-dubai-five-palm%20(89).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6853f5bf5001118df6842673_palm-hotels-dubai-five-palm%20(77).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6853f5bf5001118df6842673_palm-hotels-dubai-five-palm%20(77)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853f5bf5001118df6842673_palm-hotels-dubai-five-palm%20(77).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a2fd769101044f51fc11df_palm-hotels-dubai-five-palm%20(4).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a2fd769101044f51fc11df_palm-hotels-dubai-five-palm%20(4)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a2fd769101044f51fc11df_palm-hotels-dubai-five-palm%20(4).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "FIVE Palm Jumeirah Hotel"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a2fc4b36d34c60b9eff4c3_palm-hotels-dubai-five-palm%20(42).webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a2fc4b36d34c60b9eff4c3_palm-hotels-dubai-five-palm%20(42)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a2fc4b36d34c60b9eff4c3_palm-hotels-dubai-five-palm%20(42).webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/689db9323a7628e6dc9eccee_palm-hotels-dubai-five-palm%20(93)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6853f1ce78ae0e3b1f660173_palm-hotels-dubai-five-palm%20(8)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6853f57ccce8175a0ea26886_palm-hotels-dubai-five-palm%20(63)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6853f4e178da16599d88eb2a_palm-hotels-dubai-five-palm%20(59)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6853f37a6709cae4adf5b19e_palm-hotels-dubai-five-palm%20(31)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6853f4f81ae085b6b40e2fe7_palm-hotels-dubai-five-palm%20(60)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6853f88335e90e76a8fc36db_palm-hotels-dubai-five-palm%20(89)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6853f5bf5001118df6842673_palm-hotels-dubai-five-palm%20(77)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a2fd769101044f51fc11df_palm-hotels-dubai-five-palm%20(4)-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a2fc4b36d34c60b9eff4c3_palm-hotels-dubai-five-palm%20(42)-p-500.webp"
+     }
+    ]
+   },
+   "kicker": [
+    "FIVE Palm Jumeirah",
+    "5★ Party Resort",
+    {
+     "url": "https://maps.google.com/?q=FIVE+Palm+Jumeirah+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm West Beach"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "FIVE Palm Jumeirah Hotel"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.61",
+     "score": "4.6",
+     "meta": "54k+ reviews · 6 sites",
+     "heading": "Average of 6 booking sites, weighted by number of reviews",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(20k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Expedia",
+       "score": "4.1",
+       "count": "(1.1k+)",
+       "url": "https://tp.media/r?campaign_id=594&marker=404154&p=8645&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.expedia.com%2FDubai-Hotels-FIVE-Palm-Jumeirah-Dubai.h16216917.Hotel-Information",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Tripadvisor",
+       "score": "4.7",
+       "count": "(12.3k+)",
+       "url": "https://tp.media/r?campaign_id=149&marker=404154&p=4456&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=327188&u=https%3A%2F%2Fwww.tripadvisor.com%2FHotel_Review-g295424-d10263885-Reviews-Five_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "static",
+       "site": "Agoda",
+       "score": "4.0",
+       "count": "(200+)"
+      },
+      {
+       "kind": "static",
+       "site": "Google",
+       "score": "4.6",
+       "count": "(20.8k+)"
+      },
+      {
+       "kind": "link",
+       "site": "Trip.com",
+       "score": "4.5",
+       "count": "(80+)",
+       "url": "https://tp.media/r?campaign_id=121&marker=404154&p=8980&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-9130336%2Ffive-palm-jumeirah-dubai%2F",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I stayed here myself and paid for it.</strong> 1 night in a Superior Room, upgraded for free to a Luxe Sea View, about €239 (998.18 AED).<span class=\"bpa-lang-note\">What I checked: the room, breakfast, pools, beach club and service. <a href=\"/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review\">Full review →</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎧",
+     "label": "DJ pool & beach club",
+     "pop_html": "<strong>DJs at the pool and the beach club.</strong> Daytimes are relaxed; nights shift into party mode. Not designed for families or anyone who wants quiet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌃",
+     "label": "The Penthouse rooftop",
+     "pop_html": "<strong>The Penthouse, one of Dubai's top rooftop lounges</strong>, is in the hotel, with views over Dubai Marina."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast +€38",
+     "pop_html": "<strong>Breakfast costs €38 per person</strong> when it is not in your room rate. Guests rate it “Very good”.<span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a party: daily DJs at the pool and beach club, next to West Beach.",
+    "skip_html": "if you are travelling with young kids or want early nights."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is it noisy?",
+      "a": "Yes, by design: there are DJs at the pool and beach club, and nights shift into party mode. Daytimes are relaxed."
+     },
+     {
+      "q": "Can I bring kids?",
+      "a": "There is a Fiver Kids Club, but the hotel is not designed for families. I would pick Atlantis The Palm or Rixos with young kids."
+     },
+     {
+      "q": "Do rooms have a balcony?",
+      "a": "Mine (Luxe Sea View) did not, and it was compact. Book a room with a balcony if you want to sit outside in the cooler months."
+     },
+     {
+      "q": "How is the breakfast?",
+      "a": "Average variety and quality, nowhere near Atlantis, but the open-air section by the pool is a great place to eat it."
+     },
+     {
+      "q": "What did your stay cost?",
+      "a": "€238.67 (998.18 AED) for 1 night in a Superior Room. I was upgraded for free to a Luxe Sea View."
+     }
+    ]
+   },
+   "price": {
+    "main": "€260",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€260"
+     },
+     {
+      "label": "Breakfast",
+      "small": "per person, if not in the rate",
+      "price": "€38"
+     },
+     {
+      "label": "My stay",
+      "small": "Superior Room, 1 night",
+      "price": "€239"
+     }
+    ],
+    "total": {
+     "label": "2 adults, cheapest room + breakfast, 1 night",
+     "price": "€336"
+    },
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_five&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-palm-jumeirah-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#4-five-palm-jumeirah",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": ["families", "quiet", "allinc", "kidsclub", "crescent", "tested"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-accent\">🌊 #5 Quiet All-Inclusive Stays</span>\n<div aria-label=\"Photo gallery 5\" class=\"bpa-slider\" tabindex=\"0\"><img alt=\"Rixos The Palm Hotel &amp; Suites\" decoding=\"async\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw\" src=\"/assets/cdn/67d02edca7795b0f57073b59/6853e96cbe01ba3c855c9492_palm-hotels-dubai-rixos%20(223).webp\" srcset=\"/assets/cdn/67d02edca7795b0f57073b59/6853e96cbe01ba3c855c9492_palm-hotels-dubai-rixos%20(223)-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/6853e96cbe01ba3c855c9492_palm-hotels-dubai-rixos%20(223).webp 800w\" width=\"800\"/></div>\n</div></div>"
+   },
+   "kicker": [
+    "Rixos The Palm",
+    "5★ All-Inclusive",
+    {
+     "url": "https://maps.google.com/?q=Rixos+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 East Crescent"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Rixos The Palm Hotel &amp; Suites"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.77",
+     "score": "4.8",
+     "meta": "23k+ reviews · 6 sites",
+     "heading": "Average of 6 booking sites, weighted by number of reviews",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(620+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Expedia",
+       "score": "4.5",
+       "count": "(720+)",
+       "url": "https://tp.media/r?campaign_id=594&marker=404154&p=8645&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.expedia.com%2FDubai-Hotels-Rixos-The-Palm-Hotel-Suites.h4722933.Hotel-Information",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "link",
+       "site": "Tripadvisor",
+       "score": "4.8",
+       "count": "(10.3k+)",
+       "url": "https://tp.media/r?campaign_id=149&marker=404154&p=4456&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=327188&u=https%3A%2F%2Fwww.tripadvisor.com%2FHotel_Review-g295424-d2445260-Reviews-Rixos_The_Palm_Hotel_Suites-Dubai_Emirate_of_Dubai.html",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      },
+      {
+       "kind": "static",
+       "site": "Agoda",
+       "score": "4.5",
+       "count": "(980+)"
+      },
+      {
+       "kind": "static",
+       "site": "Google",
+       "score": "4.8",
+       "count": "(11k+)"
+      },
+      {
+       "kind": "link",
+       "site": "Trip.com",
+       "score": "4.4",
+       "count": "(60+)",
+       "url": "https://tp.media/r?campaign_id=121&marker=404154&p=8980&sub_id=best_palm_jumeirah_hotels_du_en_pop&trs=404826&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Fdubai-hotel-detail-756869%2Frixos-the-palm-hotel-and-suites%2F",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I stayed here myself and paid for it.</strong> 2 nights in a Premium Room, Garden View, breakfast only, about €1,949 (8,149.68 AED).<span class=\"bpa-lang-note\">What I checked: the room, buffet, pools, kids' club, spa and service. <a href=\"/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review\">Full review →</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥂",
+     "label": "All-inclusive rates",
+     "pop_html": "<strong>All-inclusive rates cover the resort's restaurants and bars.</strong> My rate had breakfast only, so check the board type before you book."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧒",
+     "label": "Rixy Kids Club",
+     "pop_html": "<strong>Rixy Kids Club, a children's pool, family suites</strong> and a separate, supervised play area with a mini merry-go-round."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">When I stayed, check-out was 11:00 and early check-in was not possible.</span><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Private beach, a large main pool and a children's pool.</strong> Spa with a Turkish hammam, saunas and a steam room."
+    }
+   ],
+   "best_for": {
+    "pick_html": "if you want all-inclusive with kids: all-inclusive rates cover meals and drinks, and the Rixy Kids Club runs daily.",
+    "skip_html": "if you want value or great food: I paid over €900 a night and found the buffet basic."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is everything included?",
+      "a": "Only on all-inclusive rates, which cover the restaurants and bars. My rate had breakfast only, so check the board type when you book."
+     },
+     {
+      "q": "Is it good for kids?",
+      "a": "Yes, it is built for families: the Rixy Kids Club, a children's pool, family suites and a separate, supervised play area."
+     },
+     {
+      "q": "Was it worth the money?",
+      "a": "Not for me: I paid €1,948.66 for 2 nights and got an average all-inclusive. The buffet leaned on Russian-style dishes and service was inconsistent. I would not return."
+     },
+     {
+      "q": "How far is it from the city?",
+      "a": "It sits at the tip of the East Crescent, about 35 minutes by car to Downtown Dubai."
+     },
+     {
+      "q": "Will I get a good view?",
+      "a": "The building is only five storeys tall, and palm trees partly blocked my garden-view balcony. Ask for an upper floor or a sea view."
+     }
+    ]
+   },
+   "price": {
+    "main": "€350",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€350"
+     },
+     {
+      "label": "My stay",
+      "small": "Premium Room, Garden View, 2 nights",
+      "price": "€1,949"
+     }
+    ],
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_rixos&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frixos-the-palm-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#5-rixos-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": ["couples", "quiet", "crescent"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-gold\">👑 #6 Ultra-Exclusive Boutique</span>\n<div aria-label=\"Photo gallery 6\" class=\"bpa-slider\" tabindex=\"0\"><img alt=\"One&amp;Only The Palm Dubai\" decoding=\"async\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw\" src=\"/assets/cdn/67d02edca7795b0f57073b59/6814c7e54bc85218c635841d_5-star-dubai-palm-hotel-logo-sofitel.webp\" width=\"800\"/></div>\n</div></div>"
+   },
+   "kicker": [
+    "One&amp;Only The Palm",
+    "5★ Boutique Luxury",
+    {
+     "url": "https://maps.google.com/?q=One+and+Only+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 West Crescent"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_one_only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "One&amp;Only The Palm Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "460+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(460+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_one_only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🤫",
+     "label": "About 90 rooms",
+     "pop_html": "<strong>Around 90 rooms, suites and villas</strong> in low-rise, Moorish-style mansions and gardens, so it never feels like a mega-resort. No waterpark, no party pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚤",
+     "label": "Boat to Royal Mirage",
+     "pop_html": "<strong>A complimentary boat shuttle</strong> connects guests with One&amp;Only Royal Mirage across the water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Guerlain Spa",
+     "pop_html": "<strong>The only Guerlain Spa in the UAE</strong>, with bespoke treatments and a garden courtyard."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for privacy: low-rise villas, a quiet beach, no crowds.",
+    "skip_html": "if your kids want a waterpark or lots of activities."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "How big is it?",
+      "a": "Around 90 rooms, suites and villas in low-rise mansions and gardens, so it never feels like a mega-resort."
+     },
+     {
+      "q": "Is it good for kids?",
+      "a": "Not if they want action: there is no waterpark and no party pool. Families who want kids' activities get more at Atlantis The Palm."
+     },
+     {
+      "q": "How do I get to One&amp;Only Royal Mirage?",
+      "a": "By the complimentary boat shuttle across the water."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "The lowest rate I found was €820 a night, but most dates cost more than €1,100."
+     },
+     {
+      "q": "Have you stayed here?",
+      "a": "Not yet. This card is based on research and verified guest reviews, not a personal stay."
+     }
+    ]
+   },
+   "price": {
+    "main": "€820",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€820"
+     },
+     {
+      "label": "Most dates",
+      "small": "per night",
+      "price": "€1,100+"
+     }
+    ],
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_one_only&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#6-one-and-only-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": ["families", "kidsclub", "westbeach", "under250"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-accent\">🌴 #7 Best Palm Trunk Location</span>\n<div aria-label=\"Photo gallery 7\" class=\"bpa-slider\" tabindex=\"0\"><img alt=\"Fairmont The Palm Hotel\" decoding=\"async\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw\" src=\"/assets/cdn/67d02edca7795b0f57073b59/6814c7e5b2da3ec55079f2f1_5-star-dubai-palm-hotel-logo-fairmont-palm-dubai.webp\" width=\"800\"/></div>\n</div></div>"
+   },
+   "kicker": [
+    "Fairmont The Palm",
+    "5★ Family Beach",
+    {
+     "url": "https://maps.google.com/?q=Fairmont+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm Trunk"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Fairmont The Palm Hotel"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.25",
+     "score": "4.2",
+     "meta": "3.2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(3.2k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "On the trunk",
+     "pop_html": "<strong>On the trunk of the Palm, next to Palm West Beach.</strong> Nakheel Mall and the Al Ittihad Park monorail station are a 5-minute walk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "8 pools",
+     "pop_html": "<strong>8 temperature-controlled outdoor pools</strong>, including adult-only zones, and an 800 m private beach facing the Marina skyline."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧒",
+     "label": "Falcon Kids Club",
+     "pop_html": "<strong>Fairmont Falcon Kids Club</strong>, a splash park, toddler play zones and family pools."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for location: on the trunk, the quickest Palm resort to reach Dubai Marina.",
+    "skip_html": "if you want a secluded Crescent resort feel or an open-sea view."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Where exactly is it?",
+      "a": "On the trunk of the Palm, next to Palm West Beach. Nakheel Mall and the Al Ittihad Park monorail station are a 5-minute walk."
+     },
+     {
+      "q": "Does the beach face the open sea?",
+      "a": "No. The 800 m private beach faces the Dubai Marina skyline, across an active waterway."
+     },
+     {
+      "q": "How many pools are there?",
+      "a": "8 temperature-controlled outdoor pools, including adult-only zones."
+     },
+     {
+      "q": "Is it good for kids?",
+      "a": "Yes: the Fairmont Falcon Kids Club, a splash park, toddler play zones and family pools."
+     },
+     {
+      "q": "Are the rooms modern?",
+      "a": "Entry-level rooms show some ageing next to newer hotels. Rooms have private balconies with Marina or sea views."
+     }
+    ]
+   },
+   "price": {
+    "main": "€200",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€200"
+     }
+    ],
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_fairmont&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffairmont-the-palm.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#7-fairmont-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": ["couples", "quiet", "nodrink", "crescent", "under250"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-accent\">🧘 #8 Wellness &amp; Detox Resort</span>\n<div aria-label=\"Photo gallery 8\" class=\"bpa-slider\" tabindex=\"0\"><img alt=\"The Retreat Palm Dubai, MGallery\" decoding=\"async\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw\" src=\"/assets/cdn/67d02edca7795b0f57073b59/6814c7e693b2ec2a3ba1428d_5-star-dubai-palm-hotel-logo-sofitel-gallery.webp\" width=\"800\"/></div>\n</div></div>"
+   },
+   "kicker": [
+    "The Retreat Palm",
+    "4★ Wellness Spa",
+    {
+     "url": "https://maps.google.com/?q=The+Retreat+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 East Crescent"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "The Retreat Palm Dubai, MGallery"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.25",
+     "score": "4.2",
+     "meta": "5.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(5.3k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚫",
+     "label": "Alcohol-free",
+     "pop_html": "<strong>No alcohol is served anywhere on the property</strong> and there is no loud music: a dry, detox-focused resort."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Rayya Wellness",
+     "pop_html": "<strong>Rayya Wellness Spa</strong> with cryotherapy, oxygen therapy, Ayurveda and salt therapy rooms."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast +€34",
+     "pop_html": "<strong>Breakfast costs €34 per person</strong> when it is not in your room rate. Guests rate it “Very good”.<span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a wellness reset: alcohol-free, with detox and spa programmes.",
+    "skip_html": "if you want a cocktail by the pool: no alcohol is served."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is alcohol served?",
+      "a": "No. The Retreat is a dry resort: no cocktails or wine anywhere on the property."
+     },
+     {
+      "q": "What wellness is there?",
+      "a": "The Rayya Wellness Spa offers cryotherapy, oxygen therapy and Ayurveda, plus salt therapy rooms and a gym."
+     },
+     {
+      "q": "What is the food like?",
+      "a": "Health-focused: vegan, gluten-free and organic options at restaurants like Vibe and The Social Kitchen."
+     },
+     {
+      "q": "Is the beach big?",
+      "a": "Smaller than at Atlantis or Anantara. There is a private beach and a beachfront infinity pool."
+     },
+     {
+      "q": "Who is it for?",
+      "a": "Health-conscious guests, solo travellers and wellness-focused couples. It may feel too quiet if you want nightlife."
+     }
+    ]
+   },
+   "price": {
+    "main": "€180",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€180"
+     },
+     {
+      "label": "Breakfast",
+      "small": "per person, if not in the rate",
+      "price": "€34"
+     }
+    ],
+    "total": {
+     "label": "2 adults, cheapest room + breakfast, 1 night",
+     "price": "€248"
+    },
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_retreat&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-retreat-palm-dubai-mgallery-by-sofitel.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#8-the-retreat-palm-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": ["couples", "quiet", "crescent", "under250"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-gold\">✨ #9 Classic Refined Luxury</span>\n<div aria-label=\"Photo gallery 9\" class=\"bpa-slider\" tabindex=\"0\"><img alt=\"Waldorf Astoria Dubai Palm Jumeirah\" decoding=\"async\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw\" src=\"/assets/cdn/67d02edca7795b0f57073b59/6814c7e633878569de21812e_5-star-dubai-palm-hotel-logo-walford-astoria.webp\" width=\"800\"/></div>\n</div></div>"
+   },
+   "kicker": [
+    "Waldorf Astoria",
+    "5★ Classic Luxury",
+    {
+     "url": "https://maps.google.com/?q=Waldorf+Astoria+Palm+Jumeirah+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 East Crescent"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Waldorf Astoria Dubai Palm Jumeirah"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.30",
+     "score": "4.3",
+     "meta": "1.2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(1.2k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛎️",
+     "label": "Personal concierge",
+     "pop_html": "<strong>A Waldorf Astoria Personal Concierge for every guest</strong>, with butler-level attention."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Rooms from 55 m²",
+     "pop_html": "<strong>Some of the largest standard rooms on the Palm, from 55 m²</strong>, many with full sea or skyline views."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast +€42",
+     "pop_html": "<strong>Breakfast costs €42 per person</strong> when it is not in your room rate. Guests rate it “Excellent”.<span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for service and space: a personal concierge and large rooms with sea views.",
+    "skip_html": "if you want nightlife: this part of the Crescent is very quiet."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "How big are the rooms?",
+      "a": "Standard rooms start at 55 m², some of the largest on the Palm, and many have full sea or skyline views."
+     },
+     {
+      "q": "What is the personal concierge?",
+      "a": "Every guest gets a Waldorf Astoria Personal Concierge, the hotel's signature service."
+     },
+     {
+      "q": "What are the pools like?",
+      "a": "Two temperature-controlled pools plus a dedicated adult-only pool, and a 200 m private beach."
+     },
+     {
+      "q": "How far is Downtown Dubai?",
+      "a": "About 30 minutes by road from the East Crescent."
+     },
+     {
+      "q": "Is it good for kids?",
+      "a": "It is less geared to families with young kids. It suits couples, honeymooners and travellers who want quiet."
+     }
+    ]
+   },
+   "price": {
+    "main": "€220",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€220"
+     },
+     {
+      "label": "Breakfast",
+      "small": "per person, if not in the rate",
+      "price": "€42"
+     }
+    ],
+    "total": {
+     "label": "2 adults, cheapest room + breakfast, 1 night",
+     "price": "€304"
+    },
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_waldorf&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-palm-jumeirah.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#9-waldorf-astoria-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": ["families", "kidsclub", "westbeach", "under250"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-accent\">🇬🇧 #10 British Style &amp; Palm West Beach</span>\n<div aria-label=\"Photo gallery 10\" class=\"bpa-slider\" tabindex=\"0\"><img alt=\"Dukes The Palm, Royal Hideaway\" decoding=\"async\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw\" src=\"/assets/cdn/67d02edca7795b0f57073b59/6814c7e6e0891b73476c7dc0_5-star-dubai-palm-hotel-logo-dukes.webp\" width=\"800\"/></div>\n</div></div>"
+   },
+   "kicker": [
+    "Dukes The Palm",
+    "5★ British Luxury",
+    {
+     "url": "https://maps.google.com/?q=Dukes+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm West Beach"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.palm_hub_cta_dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dukes The Palm, Royal Hideaway"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.00",
+     "score": "4.0",
+     "meta": "5.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.0",
+       "count": "(5.3k+)",
+       "url": "https://tp.media/r?marker=404154.palm_hub_cta_dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Indoor pool & lazy river",
+     "pop_html": "<strong>A heated indoor pool on the 14th floor with Marina views</strong>, an outdoor infinity pool and a lazy river. The outdoor pool area is compact next to the Crescent resorts."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧒",
+     "label": "Dukesy Kids Club",
+     "pop_html": "<strong>Dukesy Kids Club</strong> with daily entertainment and an outdoor play area."
+    },
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Check-in 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in from 15:00, check-out until 12:00.</strong><span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast +€25",
+     "pop_html": "<strong>Breakfast costs €25 per person</strong> when it is not in your room rate. Guests rate it “Good”.<span class=\"bpa-lang-note\">As listed on the booking page, checked 12 November 2026.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for value: the cheapest 5-star stay on this list, near West Beach.",
+    "skip_html": "if you want a sprawling resort: it is a high-rise hotel with a compact pool deck."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is it the cheapest hotel on this list?",
+      "a": "Yes: from €160 a night, the lowest rate of the 10."
+     },
+     {
+      "q": "What are the pools like?",
+      "a": "A heated indoor pool on the 14th floor with Marina views, an outdoor infinity pool facing the Gulf and a lazy river. The outdoor area is compact."
+     },
+     {
+      "q": "Is it good for kids?",
+      "a": "It works for families on a budget: the Dukesy Kids Club and the lazy river are popular."
+     },
+     {
+      "q": "What are the weak points?",
+      "a": "Guest reviews note inconsistent service, check-in delays and slow restaurant service, and some areas show wear."
+     },
+     {
+      "q": "Where can I eat?",
+      "a": "The Great British Restaurant, Khyber (North Indian, 15th floor, with views) and the Dukes Bar for martinis and afternoon tea."
+     }
+    ]
+   },
+   "price": {
+    "main": "€160",
+    "sub": "per night, from",
+    "rows": [
+     {
+      "label": "Cheapest room",
+      "small": "per night, from",
+      "price": "€160"
+     },
+     {
+      "label": "Breakfast",
+      "small": "per person, if not in the rate",
+      "price": "€25"
+     }
+    ],
+    "total": {
+     "label": "2 adults, cheapest room + breakfast, 1 night",
+     "price": "€210"
+    },
+    "note": "Lowest nightly rate on the booking page, checked 12 November 2026. Dates, room type and board change it; the final price is shown before you pay.",
+    "_heading": "Prices per night"
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.palm_hub_cta_dukes&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdukes.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": ["<b>Free cancellation</b> on rates that show it", "<b>No booking fee</b> on Booking.com"],
+    "sublink": {
+     "url": "#10-dukes-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
