@@ -1,0 +1,2049 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": ["tested", "morning", "evening", "dunes", "quad", "sandboard", "dinner", "shows", "under30"],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["fetchpriority", "high"],
+      ["height", "500"],
+      ["loading", "eager"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy.webp"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy.webp 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_bestdubaidesertsafaris_1camel.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_5E692A71-FD88-4522-89D3-F00C6588326D_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_5E692A71-FD88-4522-89D3-F00C6588326D_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_bestdubaidesertsafaris_1camel.webp 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result.webp 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result.webp 1182w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477998e_bestdubaidesertsafaris_1Food.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477998e_Food-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477998e_Food-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477998e_bestdubaidesertsafaris_1Food.webp 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799a4_F30814A7-2D8B-4A1A-BA02-3C51F08AB8E2_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799a4_F30814A7-2D8B-4A1A-BA02-3C51F08AB8E2_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799a4_F30814A7-2D8B-4A1A-BA02-3C51F08AB8E2_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799a4_F30814A7-2D8B-4A1A-BA02-3C51F08AB8E2_1_105_c_result.webp 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "_photo_sep": "\n",
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_5E692A71-FD88-4522-89D3-F00C6588326D_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477998e_Food-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799a4_F30814A7-2D8B-4A1A-BA02-3C51F08AB8E2_1_105_c_result-p-500.webp"
+     }
+    ]
+   },
+   "kicker": [
+    "Excursion Point Tourism",
+    "⏱️ 4–7 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Lahbab Red Dunes"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jeep-desert-safari-camel-ride-and-quad-bike-tour-t128547/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_1pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Desert Safari, Camel Ride, Quad Bike &amp; BBQ Dinner"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.92",
+     "score": "4.9",
+     "meta": "18k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(18.4k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jeep-desert-safari-camel-ride-and-quad-bike-tour-t128547/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_1pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself.</strong><span class=\"bpa-lang-note\">What I checked: pickup, the 4x4, dune bashing, the buggy, sandboarding, the camp, food and shows. <a href=\"#1-dubai-red-dunes-desert-safari-camel-ride\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "07:00–10:00 or 14:00–15:30",
+     "pop_html": "<strong>Shared, morning:</strong> 07:00, 08:00, 09:00, 10:00. <strong>Shared, afternoon (camp dinner options):</strong> 14:00, 15:00, 15:30. <strong>Private transfer:</strong> 06:00 to 16:00.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "Dune Bashing &amp; Sandboarding",
+     "pop_html": "<strong>Dune bashing, sandboarding and a camel ride on every departure.</strong> On my tour the tyres were let down almost flat for grip, and the guides showed how to sandboard sitting down."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍖",
+     "label": "BBQ Dinner &amp; Tanoura Show (Option)",
+     "pop_html": "<strong>Afternoon departures only:</strong> camp with a BBQ dinner, Tanoura, belly dance and fire shows, henna, shisha and camel feeding. Unlimited water and 2 soft drinks; alcohol and juices cost extra."
+    },
+    {
+     "cls": "bpa-lang",
+     "data": {
+      "langs": "en,hi,ur"
+     },
+     "emoji": "🎧",
+     "label": "English, Hindi, Urdu",
+     "pop_html": "<strong>Live guide:</strong> <span class=\"bpa-lang-names\">English, Hindi, Urdu</span><span class=\"bpa-lang-note\">Guide languages as listed on the booking page.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a full desert afternoon: dune bashing, sandboarding, a camel ride and a BBQ dinner with a Tanoura show on the dinner option.",
+    "skip_html": "if you want alcohol included: it is sold separately at the camp."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Morning or afternoon?",
+      "a": "The morning departures (07:00 to 10:00) cover dune bashing, sandboarding and the camel ride. The camp, shows, henna, shisha and the BBQ dinner come only with the afternoon departures (14:00 to 15:30)."
+     },
+     {
+      "q": "Which drinks are included?",
+      "a": "Unlimited water and 2 soft drinks. Alcohol, juices and extra soft drinks are paid at the camp, which has a bar and an Aperol Spritz lounge."
+     },
+     {
+      "q": "Is the buggy upgrade worth it?",
+      "a": "For me it was the highlight: a 1000cc buggy instead of a 250cc quad, about 45 minutes in all with 30 minutes of riding. Book it in advance: bought on site it cost 800 AED for 30 minutes when I tested it."
+     },
+     {
+      "q": "How long is the drive?",
+      "a": "About an hour each way, roughly 90 km to Al Lahbab. On my afternoon tour I was back in the city around 22:00."
+     },
+     {
+      "q": "Is it wheelchair accessible?",
+      "a": "No, this safari is not wheelchair accessible."
+     }
+    ]
+   },
+   "price": {
+    "main": "€29",
+    "sub": "from, per person",
+    "_heading": "Price and paid extras",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€29"
+     },
+     {
+      "label": "Buggy upgrade",
+      "small": "30 min, bought on site when I tested it",
+      "price": "800 AED"
+     },
+     {
+      "label": "Falcon photo",
+      "small": "paid on site, card accepted",
+      "price": "about 20 AED"
+     }
+    ],
+    "note": "The price depends on the date, the option (morning, or afternoon with dinner) and the pickup. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jeep-desert-safari-camel-ride-and-quad-bike-tour-t128547/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_1pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#1-dubai-red-dunes-desert-safari-camel-ride",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #2: Desert Safari & Quad Biking with BBQ Dinner Options -->\n",
+   "id": "card-2",
+   "cats": ["tested", "morning", "evening", "dunes", "quad", "sandboard", "dinner", "under30"],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Morning Safari",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour.avif"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour.avif 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e11588728be1dc52f7cf27_Quad_funtour.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e11588728be1dc52f7cf27_Quad_funtour-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e11588728be1dc52f7cf27_Quad_funtour.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e115dca6aa11f03c9e9c17_IMG_9368.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e115dca6aa11f03c9e9c17_IMG_9368-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e115dca6aa11f03c9e9c17_IMG_9368.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e1167b9bd27e94b9848be6_IMG_9401.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e1167b9bd27e94b9848be6_IMG_9401-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e1167b9bd27e94b9848be6_IMG_9401.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e1147cf593b354278d1a4e_hotelpickup_funtours.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e1147cf593b354278d1a4e_hotelpickup_funtours-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e1147cf593b354278d1a4e_hotelpickup_funtours.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "_photo_sep": "\n",
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e11588728be1dc52f7cf27_Quad_funtour-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e115dca6aa11f03c9e9c17_IMG_9368-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e1167b9bd27e94b9848be6_IMG_9401-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e1147cf593b354278d1a4e_hotelpickup_funtours-p-500.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Funtours Dubai",
+    "⏱️ 4–7 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Lahbab Desert"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-safari-with-bbq-dinner-quad-biking-options-t31103/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_2pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Desert Safari &amp; Quad Biking with BBQ Dinner Options"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.95",
+     "score": "5.0",
+     "meta": "23k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "5.0",
+       "count": "(23.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-safari-with-bbq-dinner-quad-biking-options-t31103/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_2pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself (the 4-hour morning tour).</strong><span class=\"bpa-lang-note\">What I checked: pickup, the 4x4, quads, dune bashing, sandboarding and the camel ride. <a href=\"#2-morning-desert-safari-with-camel-ride-sa\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "07:30–10:00 or 14:00–15:00",
+     "pop_html": "<strong>4-hour tours:</strong> every 30 minutes from 07:30 to 10:00, plus 14:00, 14:30, 15:00. <strong>7-hour tours with BBQ dinner:</strong> 14:00, 14:30, 15:00.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "30–45 Min Dune Bashing",
+     "pop_html": "<strong>Dune bashing in a 4x4 on both options.</strong> My driver kept it moderate for a nervous guest; the exit from the desert was part of the ride too."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐪",
+     "label": "Camel Ride &amp; Sandboarding",
+     "pop_html": "<strong>Camel ride and sandboarding are included.</strong> The guide waxed the boards and filmed everyone's first run."
+    },
+    {
+     "cls": "bpa-lang",
+     "data": {
+      "langs": "en,ur,hi"
+     },
+     "emoji": "🎧",
+     "label": "English, Urdu, Hindi",
+     "pop_html": "<strong>Live guide:</strong> <span class=\"bpa-lang-names\">English, Urdu, Hindi</span><span class=\"bpa-lang-note\">Guide languages as listed on the booking page.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a morning safari: dune bashing, sandboarding and a camel ride, back before lunch.",
+    "skip_html": "if you want dinner and a camp: book the 7-hour option instead."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "4-hour or 7-hour option?",
+      "a": "The 4-hour morning tour covers dune bashing, sandboarding and a camel ride. Pick the 7-hour option (14:00 to 15:00 starts) for the BBQ dinner."
+     },
+     {
+      "q": "Are soft drinks included?",
+      "a": "Only on the 7-hour option."
+     },
+     {
+      "q": "When will I be back?",
+      "a": "Allow some slack: my 4-hour morning tour left the desert at 12:42 and, after a drop-off at Dubai Mall, I was back at my hotel at 14:00."
+     },
+     {
+      "q": "Will the guide take photos?",
+      "a": "Yes: my guide took photos and videos of us on the quads and the camel for free. The falcon photo during the quad ride was free too; the one in the open desert cost about 24 AED."
+     },
+     {
+      "q": "How good are the quads?",
+      "a": "The most powerful quads of all the safaris I tested, with full-face helmets and a ride in the open desert. The quad ride is an option."
+     }
+    ]
+   },
+   "price": {
+    "main": "€27",
+    "sub": "from, per person",
+    "_heading": "Price and paid extras",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€27"
+     },
+     {
+      "label": "Falcon photo in the open desert",
+      "small": "paid on site",
+      "price": "about 24 AED"
+     }
+    ],
+    "note": "The price depends on the date and the option (4-hour morning or 7-hour with BBQ dinner). Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-safari-with-bbq-dinner-quad-biking-options-t31103/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_2pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#2-morning-desert-safari-with-camel-ride-sa",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #3: Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp -->\n",
+   "id": "card-3",
+   "cats": ["tested", "morning", "evening", "dunes", "quad", "sandboard", "dinner", "under30"],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best Variety",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result.webp"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result.webp 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e119569a3536f1e2ebb202_IMG_8320.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e119569a3536f1e2ebb202_IMG_8320-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e119569a3536f1e2ebb202_IMG_8320.avif 712w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%20telescope.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%20telescope.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e118908a57a7b5bdb69f34_IMG_8096.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e118908a57a7b5bdb69f34_IMG_8096-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e118908a57a7b5bdb69f34_IMG_8096.avif 712w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "_photo_sep": "\n",
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e119569a3536f1e2ebb202_IMG_8320-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e118908a57a7b5bdb69f34_IMG_8096-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092-p-500.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "OceanAir Travels",
+    "⏱️ 4–7 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Red Dunes &amp; Al Khayma"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-private-6-hour-desert-safari-dubai-w-bbq-t67792/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_3pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Desert Safari, Quad Bike, Camel Ride &amp; Al Khayma Camp"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.90",
+     "score": "4.9",
+     "meta": "73k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(73.5k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-private-6-hour-desert-safari-dubai-w-bbq-t67792/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_3pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself.</strong><span class=\"bpa-lang-note\">What I checked: pickup, the 4x4, the quad area, dune bashing, sandboarding, the camp and food. <a href=\"#3-premium-desert-safari-with-stargazing-fa\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "07:30–10:00 or 14:30–15:30",
+     "pop_html": "<strong>4-hour tours:</strong> every 30 minutes from 07:30 to 10:00, plus 14:30, 15:00, 15:30. <strong>7-hour tours with BBQ dinner:</strong> 14:30, 15:00.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "Dune Bashing &amp; Sandboarding",
+     "pop_html": "<strong>Dune bashing, sandboarding and a camel ride are included.</strong> Seatbelts for every passenger; the driver adjusted tyre pressure to the terrain."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏕️",
+     "label": "Al Khayma Camp (7-Hour Option)",
+     "pop_html": "<strong>The 7-hour option adds the Al Khayma camp with a BBQ dinner.</strong> Stargazing telescopes and a falconry show are not part of this listing."
+    },
+    {
+     "cls": "bpa-lang",
+     "data": {
+      "langs": "en"
+     },
+     "emoji": "🎧",
+     "label": "English guide",
+     "pop_html": "<strong>Live guide:</strong> <span class=\"bpa-lang-names\">English</span><span class=\"bpa-lang-note\">Guide languages as listed on the booking page.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the most-reviewed safari here, with the Al Khayma camp, shisha and a BBQ dinner on the 7-hour option.",
+    "skip_html": "if you want stargazing or telescopes: they are not part of this tour."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Are stargazing and falconry included?",
+      "a": "Not on this listing. It includes dune bashing, sandboarding, a camel ride and, on the 7-hour option, the Al Khayma camp with a BBQ dinner."
+     },
+     {
+      "q": "Is the quad ride in the open desert?",
+      "a": "No, in a large fenced area where staff watch your speed. You ride at your own pace; I got about 30 minutes."
+     },
+     {
+      "q": "Can I ride a horse?",
+      "a": "When I tested it, horse riding at the camp was a paid extra: 120 AED for about 30 minutes. Wear long trousers and closed shoes."
+     },
+     {
+      "q": "How is the food?",
+      "a": "The widest buffet of all the camps I tried, fresh and well cooked, though not fine dining."
+     },
+     {
+      "q": "Is it crowded?",
+      "a": "It is a big operator: I saw several of their cars and large groups at every stop, even off-season in late May."
+     }
+    ]
+   },
+   "price": {
+    "main": "€27",
+    "sub": "from, per person",
+    "_heading": "Price and paid extras",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€27"
+     },
+     {
+      "label": "Horse riding at the camp",
+      "small": "about 30 min, when I tested it",
+      "price": "120 AED"
+     },
+     {
+      "label": "Photo from the quad ride",
+      "small": "on site",
+      "price": "40 AED"
+     }
+    ],
+    "note": "The price depends on the date and the option (4-hour, or 7-hour with the Al Khayma camp). Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-private-6-hour-desert-safari-dubai-w-bbq-t67792/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_3pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#3-premium-desert-safari-with-stargazing-fa",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #4: Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner -->\n",
+   "id": "card-4",
+   "cats": ["tested", "morning", "evening", "dunes", "quad", "sandboard", "dinner", "under30"],
+   "gallery": {
+    "rank": {
+     "text": "⚡ #4 Most Adrenaline",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack.webp"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack.webp 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "_photo_sep": "\n",
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a5e_Al%20Jabal-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507-p-500.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Ammar Tours",
+    "⏱️ 4–7 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Lahbab Red Sand"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-safari-quad-bike-camel-ride-and-more-t188052/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_4pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.91",
+     "score": "4.9",
+     "meta": "33k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(33.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-safari-quad-bike-camel-ride-and-more-t188052/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_4pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself.</strong><span class=\"bpa-lang-note\">What I checked: pickup, the 4x4, the quad ride, dune bashing, sandboarding, the camp and food. <a href=\"#4-high-power-dune-buggy-quad-biking-extrem\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "07:00–10:00 or 14:30–15:00",
+     "pop_html": "<strong>4-hour tours:</strong> 07:00, 08:00, 09:00, 10:00, 14:30, 15:00. <strong>7-hour tours with BBQ dinner:</strong> 14:30, 15:00.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏍️",
+     "label": "35-Min Self-Drive Quad (Option)",
+     "pop_html": "<strong>A 35-minute self-drive quad bike is an option, not a dune buggy.</strong> Book it with the safari: on my tour, guests who added it on the day paid more."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "30–40 Min Red Dune Bashing",
+     "pop_html": "<strong>The wildest dune bashing of the safaris I tested.</strong> Fun for thrill seekers, too intense for anyone prone to motion sickness."
+    },
+    {
+     "cls": "bpa-lang",
+     "data": {
+      "langs": "en"
+     },
+     "emoji": "🎧",
+     "label": "English guide",
+     "pop_html": "<strong>Live guide:</strong> <span class=\"bpa-lang-names\">English</span><span class=\"bpa-lang-note\">Guide languages as listed on the booking page.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the cheapest way to add a 35-minute self-drive quad bike to a red-dune safari.",
+    "skip_html": "if you want a dune buggy: this tour uses quad bikes."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is the quad bike included?",
+      "a": "It is an option: a 35-minute self-drive quad. Book it with the safari, as guests who added it on the day paid more."
+     },
+     {
+      "q": "How wild is the dune bashing?",
+      "a": "The wildest of all the safaris I tested. Great for thrill seekers, too much for anyone prone to motion sickness."
+     },
+     {
+      "q": "Is there a dune buggy?",
+      "a": "No, this listing uses quad bikes."
+     },
+     {
+      "q": "What is the camp like?",
+      "a": "No frills, but with proper restrooms and even a shower. Good shisha, a smaller food choice served by staff, and our seats were next to the stage."
+     },
+     {
+      "q": "Will I be pushed to buy extras?",
+      "a": "Not on my tour: no pushy selling and no pressure for reviews. The camel ride was short, though, with no photos from the handler."
+     }
+    ]
+   },
+   "price": {
+    "main": "€24",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€24"
+     }
+    ],
+    "note": "The price depends on the date and the option (with or without the quad bike and dinner). Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-safari-quad-bike-camel-ride-and-more-t188052/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_4pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#4-high-power-dune-buggy-quad-biking-extrem",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #5: Heritage Safari in Vintage Land Rover with Dinner -->\n",
+   "id": "card-5",
+   "cats": ["tested", "evening", "wildlife", "dinner", "shows"],
+   "gallery": {
+    "rank": {
+     "text": "🌿 #5 Most Authentic",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled.avif"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled.avif 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/69284089893d82ace6570519_Rooms%20to%20sleep%20sunrise%20.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/69284089893d82ace6570519_Rooms%20to%20sleep%20sunrise%20-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/69284089893d82ace6570519_Rooms%20to%20sleep%20sunrise%20.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6928408da590daee17d28d9d_Ghutra%20-%20wide%20choice%20of%20selection.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928408da590daee17d28d9d_Ghutra%20-%20wide%20choice%20of%20selection-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928408da590daee17d28d9d_Ghutra%20-%20wide%20choice%20of%20selection.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6928408ca7118d680917b81f_Drink%20Selection.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928408ca7118d680917b81f_Drink%20Selection-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928408ca7118d680917b81f_Drink%20Selection.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6928407f04d977e586b9b13f_Drum%20show%20%2B%20Shisha.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928407f04d977e586b9b13f_Drum%20show%20%2B%20Shisha-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928407f04d977e586b9b13f_Drum%20show%20%2B%20Shisha.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6928408d3e8d10b11d80f95f_arrival%20at%20the%20camp.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928408d3e8d10b11d80f95f_arrival%20at%20the%20camp-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928408d3e8d10b11d80f95f_arrival%20at%20the%20camp.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "_photo_sep": "\n",
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/69284089893d82ace6570519_Rooms%20to%20sleep%20sunrise%20-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6928408da590daee17d28d9d_Ghutra%20-%20wide%20choice%20of%20selection-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6928408ca7118d680917b81f_Drink%20Selection-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6928407f04d977e586b9b13f_Drum%20show%20%2B%20Shisha-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/6928408d3e8d10b11d80f95f_arrival%20at%20the%20camp-p-500.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Platinum Heritage",
+    "⏱️ 7 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Desert Conservation Reserve"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/heritage-dinner-desert-safari-from-dubai-t28813/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_8pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Heritage Safari in Vintage Land Rover with Dinner"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.84",
+     "score": "4.8",
+     "meta": "890+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(890+)",
+       "url": "https://www.getyourguide.com/dubai-l173/heritage-dinner-desert-safari-from-dubai-t28813/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_8pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself.</strong><span class=\"bpa-lang-note\">What I checked: the transfer, the reserve drive, the falconry show, the camp and dinner. <a href=\"#5-heritage-desert-safari-in-vintage-1950s-\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "14:30",
+     "pop_html": "Departs at 14:30, shared or private car.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🦅",
+     "label": "Reserve Drive &amp; Falconry",
+     "pop_html": "<strong>Open-top 1950s Land Rovers on set tracks in the Dubai Desert Conservation Reserve,</strong> then a falconry demonstration at sunset. No dune bashing, quads or sandboarding."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "4-Course Dinner",
+     "pop_html": "<strong>4-course traditional dinner at the camp:</strong> starters served at the table, then a buffet. Local drinks such as karak chai, jallab and camel milk."
+    },
+    {
+     "cls": "bpa-lang",
+     "data": {
+      "langs": "en,ar,fr"
+     },
+     "emoji": "🎧",
+     "label": "English, Arabic, French",
+     "pop_html": "<strong>Live guide:</strong> <span class=\"bpa-lang-names\">English, Arabic, French</span><span class=\"bpa-lang-note\">Guide languages as listed on the booking page.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for vintage Land Rovers in the Dubai Desert Conservation Reserve, a falconry show and a 4-course dinner.",
+    "skip_html": "if you want dune bashing or a budget price: it is a nature drive, from €195."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is there dune bashing?",
+      "a": "No. The cars follow set tracks in the Dubai Desert Conservation Reserve: a wildlife drive, not a thrill ride. No quads or sandboarding either."
+     },
+     {
+      "q": "Do the vintage cars have air conditioning?",
+      "a": "No, they are open-top. It was fine on my tour, but it can get hot in the summer months."
+     },
+     {
+      "q": "What is for dinner?",
+      "a": "A 4-course traditional dinner: starters at the table, then a buffet with dishes such as lamb ouzi, chicken harees, camel meat and grilled chicken."
+     },
+     {
+      "q": "Will I see animals?",
+      "a": "Likely: the reserve is greener than other safari areas and I saw Arabian oryx. You may see fewer animals than the marketing photos suggest."
+     },
+     {
+      "q": "Why does it cost more?",
+      "a": "Almost everything is included: a headscarf, a steel water bottle, the falconry show, shisha, drumming and the Yola dance. The only extra on site is a professional photo shoot."
+     }
+    ]
+   },
+   "price": {
+    "main": "€195",
+    "sub": "from, per person",
+    "_heading": "Price and paid extras",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€195"
+     },
+     {
+      "label": "Private car instead of the shared transfer",
+      "small": "per car",
+      "price": "800 AED extra"
+     }
+    ],
+    "note": "Shared or private car. Free transfers from Dubai hotels on the shared option. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/heritage-dinner-desert-safari-from-dubai-t28813/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_8pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#5-heritage-desert-safari-in-vintage-1950s-",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #6: Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner -->\n",
+   "id": "card-6",
+   "cats": ["tested", "evening", "dunes", "dinner", "shows"],
+   "gallery": {
+    "rank": {
+     "text": "👑 #6 Most Luxurious",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%201_result.webp"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%201_result.webp 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%20Corner.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%20Corner.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%20_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%2520_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%2520_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%2520_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%2520_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%2520_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%20_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%20%2B%20barbecue-2_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%2520%252B%2520barbecue-2_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%2520%252B%2520barbecue-2_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%2520%252B%2520barbecue-2_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%2520%252B%2520barbecue-2_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%2520%252B%2520barbecue-2_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%20%2B%20barbecue-2_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "_photo_sep": "\n",
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ab7_FCAA33E3-2006-4180-BAB9-F31AFE6EEF9D_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ac2_EC329A15-B014-49D5-BA51-28E69317BB3A_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a96_Quad%2520_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779acd_playground%2520%252B%2520barbecue-2_result-p-500.webp"
+     }
+    ]
+   },
+   "kicker": [
+    "Noble Life",
+    "⏱️ 6 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Marmoom Desert"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/noble-camp-l219379/dubai-s-best-desert-safari-live-show-gourmet-bbq-dinner-t840528/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_5pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai’s Best Desert Safari: Live Show &amp; Gourmet BBQ Dinner"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.92",
+     "score": "4.9",
+     "meta": "1.4k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(1.4k+)",
+       "url": "https://www.getyourguide.com/noble-camp-l219379/dubai-s-best-desert-safari-live-show-gourmet-bbq-dinner-t840528/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_5pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself (premium seating).</strong><span class=\"bpa-lang-note\">What I checked: pickup, the quad area, dune bashing, the camp, the buffet and shows. <a href=\"#6-vip-royal-desert-safari-with-gourmet-din\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "14:00 or 14:30",
+     "pop_html": "Standard tour at 14:30; premium seating tours at 14:00 or 14:30.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "45-Min Dune Bashing",
+     "pop_html": "<strong>Listed as 45 minutes.</strong> On my tour it was about 30 minutes of driving plus a 20-minute photo stop."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍖",
+     "label": "BBQ Buffet &amp; Live Shows",
+     "pop_html": "<strong>International BBQ buffet with live fire and dance shows</strong> at the Noble Camp in Al Marmoom. The buffet is self-service."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👑",
+     "label": "VIP Gold Seating (Option)",
+     "pop_html": "<strong>VIP Gold seating is an upgrade.</strong> When I tested it, only the VIP section had table service and its own menu; premium seating was still a buffet."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a Noble Camp evening with fire and dance shows and a BBQ buffet, with VIP seating as an upgrade.",
+    "skip_html": "if you want a seated, served dinner: it is a buffet."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is VIP seating worth it?",
+      "a": "I paid 136 AED more for premium seating and would skip it: premium is still a self-service buffet. Only the VIP section had table service and its own menu."
+     },
+     {
+      "q": "Is sandboarding included?",
+      "a": "Only on request, so ask your guide. It was not offered on my tour."
+     },
+     {
+      "q": "How much dune bashing is there?",
+      "a": "Listed as 45 minutes. On my tour it was about 30 minutes plus a 20-minute photo stop."
+     },
+     {
+      "q": "Should I book early?",
+      "a": "Yes: my last-minute booking cost about 40% more than booking a few days ahead."
+     },
+     {
+      "q": "Which drinks are included?",
+      "a": "On my tour, unlimited mineral water and Coca-Cola. A medium shisha at the table cost 200 AED."
+     }
+    ]
+   },
+   "price": {
+    "main": "€114",
+    "sub": "from, per person",
+    "_heading": "Price and paid extras",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€114"
+     },
+     {
+      "label": "Premium seating and buffet",
+      "small": "on top of the standard price, when I tested it",
+      "price": "136 AED"
+     },
+     {
+      "label": "Quad, fenced area",
+      "small": "on site, when I tested it",
+      "price": "200 AED"
+     },
+     {
+      "label": "Quad, open desert",
+      "small": "on site, when I tested it",
+      "price": "250 AED"
+     },
+     {
+      "label": "Buggy, open desert",
+      "small": "on site, when I tested it",
+      "price": "800 AED"
+     },
+     {
+      "label": "Shisha at the table",
+      "small": "medium",
+      "price": "200 AED"
+     }
+    ],
+    "note": "The price depends on the date and the seating (standard, premium or VIP Gold). Book a few days ahead: my last-minute booking cost about 40% more."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/noble-camp-l219379/dubai-s-best-desert-safari-live-show-gourmet-bbq-dinner-t840528/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_5pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#6-vip-royal-desert-safari-with-gourmet-din",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #7: Sunrise Desert Jeep Safari with Wildlife Experience -->\n",
+   "id": "card-7",
+   "cats": ["tested", "morning", "dunes", "sandboard", "wildlife"],
+   "gallery": {
+    "rank": {
+     "text": "🌅 #7 Best Sunrise",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result.webp"],
+      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result.webp 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae1_F9458DD3-C4C0-4A2A-90FF-F19590EE6BAE_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae1_F9458DD3-C4C0-4A2A-90FF-F19590EE6BAE_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae1_F9458DD3-C4C0-4A2A-90FF-F19590EE6BAE_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aea_2572858E-3A90-4BC1-80F8-C44DE456F148_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aea_2572858E-3A90-4BC1-80F8-C44DE456F148_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aea_2572858E-3A90-4BC1-80F8-C44DE456F148_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae7_32E868C2-57F5-4E2A-9637-A152B732F937_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae7_32E868C2-57F5-4E2A-9637-A152B732F937_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae7_32E868C2-57F5-4E2A-9637-A152B732F937_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ade_646B3441-24BD-48B0-8ADE-7F9F606F7582_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ade_646B3441-24BD-48B0-8ADE-7F9F606F7582_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ade_646B3441-24BD-48B0-8ADE-7F9F606F7582_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%20pickup.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%2520pickup-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%2520pickup-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%20pickup.webp 1067w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ]
+    ],
+    "_photo_sep": "\n",
+    "thumbs": [
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae1_F9458DD3-C4C0-4A2A-90FF-F19590EE6BAE_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aea_2572858E-3A90-4BC1-80F8-C44DE456F148_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae7_32E868C2-57F5-4E2A-9637-A152B732F937_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ade_646B3441-24BD-48B0-8ADE-7F9F606F7582_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%2520pickup-p-500.webp"
+     }
+    ]
+   },
+   "kicker": [
+    "Odyssey DMC",
+    "⏱️ 4 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Desert Reserve"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-sunrise-desert-jeep-safari-with-wildlife-experience-t71350/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_6pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Sunrise Desert Jeep Safari with Wildlife Experience"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.68",
+     "score": "4.7",
+     "meta": "1.8k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.7",
+       "count": "(1.8k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-sunrise-desert-jeep-safari-with-wildlife-experience-t71350/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_6pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself.</strong><span class=\"bpa-lang-note\">What I checked: pickup, sandboarding, the sunrise, wildlife and breakfast. <a href=\"#7-sunrise-desert-jeep-safari-with-wildlife\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "Pickup 04:15–04:30",
+     "pop_html": "<strong>Private tour:</strong> pickups at 04:15, 04:20 or 04:30.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☀️",
+     "label": "Sunrise Photo Stop",
+     "pop_html": "<strong>Sunrise from the top of a dune,</strong> right after sandboarding. On my tour it was quiet, not crowded."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🦌",
+     "label": "Arabian Oryx Feeding",
+     "pop_html": "<strong>Oryx feeding is part of the listing.</strong> On my tour we also saw gazelles and many birds, mostly from the car."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☕",
+     "label": "Picnic Breakfast",
+     "pop_html": "<strong>Simple picnic breakfast at Al Qudra Lake:</strong> smoothies, juices, water, Arabic coffee and tea."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for sunrise over the dunes, an Arabian oryx feeding stop, Al Qudra Lake and a picnic breakfast.",
+    "skip_html": "if you are not an early riser: pickup is around 04:15."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "How early is pickup?",
+      "a": "Around 04:15 to 04:30. On my tour I was back at the hotel by 08:00."
+     },
+     {
+      "q": "Is there dune bashing?",
+      "a": "Only a short, mild session: it was advertised as 10 minutes and was shorter on my tour. No quad or buggy option."
+     },
+     {
+      "q": "Will I see wildlife?",
+      "a": "Yes, more than on any other safari I tested: oryx, gazelles and many birds, mostly from the car. The listing includes an Arabian oryx feeding stop."
+     },
+     {
+      "q": "What is breakfast?",
+      "a": "A simple picnic at Al Qudra Lake: smoothies, juices, water, Arabic coffee and tea, on a thin blanket on the sand."
+     },
+     {
+      "q": "Are the dunes as big as in the red desert?",
+      "a": "No, the white-sand dunes are smaller. Sandboarding was still fun, and the sunrise came right after it."
+     }
+    ]
+   },
+   "price": {
+    "main": "€48",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€48"
+     }
+    ],
+    "note": "Private tour; the price per person depends on the group size. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-sunrise-desert-jeep-safari-with-wildlife-experience-t71350/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_6pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#7-sunrise-desert-jeep-safari-with-wildlife",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #8: Desert Safari: Camel Ride, Sandboarding & 30-Min Quad Bike -->\n",
+   "id": "card-8",
+   "cats": ["tested", "morning", "evening", "dunes", "quad", "sandboard"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-accent\">⭐ #8 Great All-Round</span>\n<div aria-label=\"Photo gallery 8\" class=\"bpa-slider\" tabindex=\"0\">\n<img alt=\"Desert Safari: Camel Ride, Sandboarding &amp; 30-Min Quad Bike\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px\" src=\"/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af0_8DEE0197-6F01-4E73-B616-79D893160FF2_1_105_c-2_result.webp\" srcset=\"/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af0_8DEE0197-6F01-4E73-B616-79D893160FF2_1_105_c-2_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af0_8DEE0197-6F01-4E73-B616-79D893160FF2_1_105_c-2_result.webp 800w\" width=\"800\"/>\n</div>\n</div></div>"
+   },
+   "kicker": [
+    "Dream Journey",
+    "⏱️ 4 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Lahbab Dunes"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/lahbab-desert-l115372/dubai-desert-discovery-red-dunes-safari-sandboard-camels-t56413/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_7pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Desert Safari: Camel Ride, Sandboarding &amp; 30-Min Quad Bike"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.80",
+     "score": "4.8",
+     "meta": "12k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(12.7k+)",
+       "url": "https://www.getyourguide.com/lahbab-desert-l115372/dubai-desert-discovery-red-dunes-safari-sandboard-camels-t56413/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_7pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    },
+    "tested": {
+     "chip": "Personally tested",
+     "pop_html": "<strong>I booked and did this safari myself.</strong><span class=\"bpa-lang-note\">What I checked: pickup, the 4x4, the quad area, dune bashing, sandboarding and the camel ride. <a href=\"#8-dubai-red-dunes-discovery-safari-sandboa\">Full review ↓</a></span>"
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "07:30–09:30 or 15:30",
+     "pop_html": "<strong>Shared tours:</strong> 07:30, 08:30, 09:30, 15:30. <strong>Private tours:</strong> 06:30, 07:30, 08:30, 09:30, 14:30, 15:30, 16:30.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "45-Min Dune Bashing",
+     "pop_html": "<strong>Listed as 45 minutes.</strong> My ride was calmer and shorter: about 10 minutes moderate and 5 minutes light."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏄",
+     "label": "Sandboarding &amp; Camel Ride",
+     "pop_html": "<strong>Sandboarding and a short camel ride are included.</strong> The longest sandboard run of all my safaris, from the biggest dune in the area."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏍️",
+     "label": "30-Min Quad (Option)",
+     "pop_html": "<strong>A 30-minute quad bike is an add-on.</strong> When I tested it, the fenced riding area was empty, so you ride at your own pace."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a short 4-hour safari with 45 minutes of dune bashing, sandboarding and an optional 30-minute quad.",
+    "skip_html": "if you want dinner: meals are not included."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "Is a meal included?",
+      "a": "No, meals are not included in this 4-hour safari. Only water is unlimited."
+     },
+     {
+      "q": "Is the quad bike included?",
+      "a": "A 30-minute quad is an add-on. When I tested it, the fenced riding area was empty, so I could ride at my own pace."
+     },
+     {
+      "q": "How long is the dune bashing?",
+      "a": "Listed as 45 minutes. On my tour it was about 10 minutes moderate and 5 minutes light."
+     },
+     {
+      "q": "How is the sandboarding?",
+      "a": "The longest run of all my safaris, from the biggest dune in the area. The walk back up is hot."
+     },
+     {
+      "q": "What should I know about pickup?",
+      "a": "Wait in the lobby: the driver waits 15 minutes at most. My guide sent a photo of the car with the plate number before pickup."
+     }
+    ]
+   },
+   "price": {
+    "main": "€41",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€41"
+     }
+    ],
+    "note": "Shared or private tour; the quad bike costs extra. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/lahbab-desert-l115372/dubai-desert-discovery-red-dunes-safari-sandboard-camels-t56413/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_7pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#8-dubai-red-dunes-discovery-safari-sandboa",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #9: Desert Camel Ride with Live Shows & BBQ Buffet Dinner -->\n",
+   "id": "card-9",
+   "cats": ["evening", "camel", "dinner", "shows"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-accent\">🐪 #9 Best Camel Safari</span>\n<div aria-label=\"Photo gallery 9\" class=\"bpa-slider\" tabindex=\"0\">\n<img alt=\"Desert Camel Ride with Live Shows &amp; BBQ Buffet Dinner\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4624px) 50vw, 2312px\" src=\"/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af7_Excursion%20Camel%20Safari%201.webp\" srcset=\"/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af7_Excursion%2520Camel%2520Safari%25201-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af7_Excursion%2520Camel%2520Safari%25201-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af7_Excursion%2520Camel%2520Safari%25201-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af7_Excursion%2520Camel%2520Safari%25201-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af7_Excursion%2520Camel%2520Safari%25201-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779af7_Excursion%20Camel%20Safari%201.webp 2312w\" width=\"800\"/>\n</div>\n</div></div>"
+   },
+   "kicker": [
+    "Excursion Point Tourism",
+    "⏱️ 7 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Desert Trail"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-camel-safari-tour-with-optional-bbq-dinner-t130620/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_9pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Desert Camel Ride with Live Shows &amp; BBQ Buffet Dinner"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.79",
+     "score": "4.8",
+     "meta": "240+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(240+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-camel-safari-tour-with-optional-bbq-dinner-t130620/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_9pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "14:00, 15:00 or 15:30",
+     "pop_html": "Shared transfer at 14:00, 15:00 or 15:30.<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐪",
+     "label": "1-Hour Camel Ride",
+     "pop_html": "<strong>The listing has a 1-hour camel ride</strong> instead of the usual few minutes. No quads or sandboarding."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍖",
+     "label": "BBQ Buffet &amp; Shows",
+     "pop_html": "<strong>BBQ buffet with Tanoura and belly dance shows,</strong> henna for women, shisha, Arabic coffee and tea. Unlimited water and 2 soft drinks."
+    },
+    {
+     "cls": "bpa-lang",
+     "data": {
+      "langs": "en,hi,ur"
+     },
+     "emoji": "🎧",
+     "label": "English, Hindi, Urdu",
+     "pop_html": "<strong>Live guide:</strong> <span class=\"bpa-lang-names\">English, Hindi, Urdu</span><span class=\"bpa-lang-note\">Guide languages as listed on the booking page.</span>"
+    }
+   ],
+   "best_for": {
+    "pick_html": "for an hour on a camel instead of dune bashing, then a BBQ buffet with Tanoura and belly dance shows.",
+    "skip_html": "if you want quads or sandboarding: neither is included."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "How long is the camel ride?",
+      "a": "About an hour, according to the listing."
+     },
+     {
+      "q": "Are quads or sandboarding included?",
+      "a": "No, neither is included."
+     },
+     {
+      "q": "What happens at the camp?",
+      "a": "A BBQ buffet with Tanoura and belly dance shows, henna for women, shisha, Arabic coffee and tea."
+     },
+     {
+      "q": "Which drinks are included?",
+      "a": "Unlimited water and 2 soft drinks."
+     },
+     {
+      "q": "Is it wheelchair accessible?",
+      "a": "No, this safari is not wheelchair accessible."
+     }
+    ]
+   },
+   "price": {
+    "main": "€93",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€93"
+     }
+    ],
+    "note": "Shared transfer. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-camel-safari-tour-with-optional-bbq-dinner-t130620/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_9pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#9-extended-camel-caravan-trek-with-sunset-",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "before": "\n<!-- #10: Overnight Safari, Dinner, Stargazing & Al Khayma Camp -->\n",
+   "id": "card-10",
+   "cats": ["overnight", "dinner", "shows"],
+   "gallery": {
+    "raw": "<div class=\"cd-gal\"><div class=\"bpa-media\">\n<span class=\"bpa-rank-tag bpa-gold\">⛺ #10 Best Overnight</span>\n<div aria-label=\"Photo gallery 10\" class=\"bpa-slider\" tabindex=\"0\">\n<img alt=\"Overnight Safari, Dinner, Stargazing &amp; Al Khayma Camp\" height=\"500\" loading=\"lazy\" sizes=\"(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px\" src=\"/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779afe_Overnight%20Safari%202%20OceanAir.avif\" srcset=\"/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779afe_Overnight%20Safari%202%20OceanAir-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779afe_Overnight%20Safari%202%20OceanAir.avif 800w\" width=\"800\"/>\n</div>\n</div></div>"
+   },
+   "kicker": [
+    "OceanAir Travels",
+    "⏱️ 17 Hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Khayma Camp"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-red-dunes-and-camel-safari-with-overnight-camp-t176457/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_10pic&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Overnight Safari, Dinner, Stargazing &amp; Al Khayma Camp"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.85",
+     "score": "4.8",
+     "meta": "2.6k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(2.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-red-dunes-and-camel-safari-with-overnight-camp-t176457/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_10pic&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang bpa-time",
+     "emoji": "🕒",
+     "label": "14:00–15:00",
+     "pop_html": "Pickups at 14:30 or 15:00 (dome option at 14:00).<span class=\"bpa-lang-note\">Checked on the booking calendar for Saturday 14 November 2026; times change by season.</span>"
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛺",
+     "label": "Private Tent or Dome",
+     "pop_html": "<strong>A private tent for the night; a dome is an option</strong> with an earlier 14:00 pickup."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "3 Buffet Dinners",
+     "pop_html": "<strong>Three buffet dinners are listed</strong> with the overnight stay at the Al Khayma camp."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔥",
+     "label": "Falconry &amp; Fire Shows",
+     "pop_html": "<strong>Horse, falconry and fire shows</strong> at the camp in the evening."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a night in the desert with a private tent, three buffet dinners and horse, falconry and fire shows.",
+    "skip_html": "if you want a short trip: it takes 17 hours to a day."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included for the night?",
+      "a": "A private tent (or a dome as an option), three buffet dinners and horse, falconry and fire shows at the Al Khayma camp."
+     },
+     {
+      "q": "How long does it take?",
+      "a": "About 17 hours: pickup between 14:00 and 15:00, back the next morning."
+     },
+     {
+      "q": "Does it get cold?",
+      "a": "Yes, desert temperatures drop a lot after midnight, so bring warm layers."
+     },
+     {
+      "q": "Is it quiet at night?",
+      "a": "Guests say the camp turns peaceful once the day visitors leave. A few mention noisy guests or airport noise."
+     },
+     {
+      "q": "Did you test it?",
+      "a": "I tested this operator's day safari (#3), not this overnight listing. This card is based on the listing and guest reviews."
+     }
+    ]
+   },
+   "price": {
+    "main": "€170",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€170"
+     }
+    ],
+    "note": "Tent or dome. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-red-dunes-and-camel-safari-with-overnight-camp-t176457/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_10pic&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": ["<b>Free cancellation</b> up to 24 h before, full refund", "<b>Mobile ticket</b> sent right after booking"],
+    "sublink": {
+     "url": "#10-overnight-desert-safari-with-luxury-tent",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
