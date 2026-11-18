@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
+  "version": "0.11.2",
   "source": "https://github.com/adamdimitrov/site-kit",
-  "commit": "6486da8810971337c4fdd8c2ebe36bbb629b8e35",
-  "tree_sha256": "d88a91933d6aa7245f28e03f0c67727cef2c1f1c4fc53c364bd42c6284debe22"
+  "commit": "eb8770c46b08f6bb0b0dc44d23d5cbd2c2b8ecf4",
+  "tree_sha256": "76ef1865bb04a3b4d66619cd4b36f9620686c4fcdddf89def4f7c8be1fef45bb"
 }
