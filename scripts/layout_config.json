@@ -37,6 +37,7 @@
   ],
   "skip_dirs": [
     "node_modules",
-    "assets"
+    "assets",
+    "embed"
   ]
 }
