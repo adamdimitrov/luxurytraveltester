@@ -1,0 +1,2810 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "sky"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Skydive Experience at The Palm with Photos & Video"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-06-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-07-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-08-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-09-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/01-skydive-palm-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Skydive Dubai",
+    "⏱️ 3–4 hours on site",
+    {
+     "url": "https://maps.google.com/?q=Skydive+Dubai+Al+Seyahi+St+Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Skydive Dubai, Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-skydive-experience-at-the-palm-with-photos-video-t298845/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Skydive Experience at The Palm with Photos &amp; Video"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.85",
+     "score": "4.8",
+     "meta": "2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-skydive-experience-at-the-palm-with-photos-video-t298845/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪂",
+     "label": "13,000 ft jump",
+     "pop_html": "<strong>The jump:</strong> A 20-minute climb by plane, exit at 13,000 ft (4,000 m), nearly 60 seconds of freefall at about 120 mph, parachute open at around 6,000 ft, then a 4–5 minute canopy ride down over the dunes and Palm Jumeirah."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎥",
+     "label": "Photos + video",
+     "pop_html": "<strong>Included:</strong> A camera flyer jumps alongside you and films the whole dive, plus a short interview after landing. You get digital photos and a professionally edited video, so there is no add-on to buy at the desk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚖️",
+     "label": "18+, weight limits",
+     "pop_html": "<strong>Who can jump:</strong> 18 or older on the day. Women up to 90 kg (above 85 kg, BMI max 27.5), men up to 100 kg (above 95 kg, BMI max 30), weighed in clothes and shoes. The general terms also flag guests over 91 kg, so confirm with the operator first if you are near the limit. Over 70, or with conditions like epilepsy, diabetes, high blood pressure or heart disease, you need a doctor's certificate."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "3–4 hours total",
+     "pop_html": "<strong>Your day:</strong> Briefing and harness fitting start about an hour before boarding. Friends and family can watch the landing from below, and there is an on-site café for light food and drinks."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone who wants the biggest thrill on this page, because a 13,000 ft freefall over the Palm with a filmed video is the one experience here no other activity can imitate",
+    "skip_html": "if you are under 18, over the weight or BMI limit, or your dates might change, because the booking is non-refundable"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Tandem skydive, photos, professionally edited video, The Palm drop zone."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Non-refundable."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Skydive Dubai, Al Seyahi St, Dubai Marina."
+     },
+     {
+      "q": "What are the requirements?",
+      "a": "18+, women max 90 kg, men max 100 kg (BMI rules near the top), doctor's certificate if over 70 or with listed conditions."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID, sports shoes, comfortable sportswear. No sandals, heels, boots, sleeveless shirts or swimwear."
+     }
+    ]
+   },
+   "price": {
+    "main": "€679",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€679"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-skydive-experience-at-the-palm-with-photos-video-t298845/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Photos and edited video</b> included",
+     "<b>Small group, max 2 participants</b>"
+    ],
+    "sublink": {
+     "url": "#1-tandem-skydive-over-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "sky",
+    "water",
+    "budget",
+    "kids",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Parasailing Burj Al Arab w free Pictures, Videos & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-01-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-02-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-03-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-04-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-05-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-06-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-07-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-08-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-09-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/02-parasail-burj-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Nemo WaterSports",
+    "⏱️ 1 hour (10 min flight)",
+    {
+     "url": "https://maps.google.com/?q=Nemo+WaterSports+Jet+Ski+Dubai+Umm+Suqeim+Fishing+Harbour",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Umm Suqeim Fishing Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-al-arab-parasailing-ice-cream-pics-and-videos-t420577/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Parasailing Burj Al Arab w free Pictures, Videos &amp; Ice Cream"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.87",
+     "score": "4.9",
+     "meta": "677 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(677)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-al-arab-parasailing-ice-cream-pics-and-videos-t420577/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪁",
+     "label": "50 m, 10 min",
+     "pop_html": "<strong>The flight:</strong> About 10 minutes on the line at 50 m, flown in front of the Burj Al Arab when the wind allows (otherwise near the beach). The boat cruises about 5 minutes out, and the whole session lasts about an hour with up to 4 groups on board."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👫",
+     "label": "Solo or duo",
+     "pop_html": "<strong>Who flies:</strong> Fly alone or as a pair. Solo flights need at least 45 kg, maximum is 150 kg for solo and duo. Children from 6 can fly on duo flights, and under-18s need a guardian to sign the waiver."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💧",
+     "label": "Dry take-off",
+     "pop_html": "<strong>The boat:</strong> Take-off and landing are from a deck on a specially built boat, so there is no water start. Expect some splashing, and you may get wet on landing depending on the wind."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚿",
+     "label": "Lockers, shower",
+     "pop_html": "<strong>At the marina:</strong> Drinking water, lockers, a changing room with open shower, Wi-Fi and charging, plus 20% off food and drinks at Lumiere Cafe. The GoPro photo and video package is optional and chosen at check-in."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers and families who want real height with the Burj Al Arab in the frame, because €51 for a 10-minute flight is the best thrill-per-euro on this page",
+    "skip_html": "if you want the photos guaranteed in the price, because the GoPro package is an optional extra at check-in"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Parasailing ride, crew, drinking water, locker, changing room with open shower, Wi-Fi and charging, 20% off at Lumiere Cafe."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Nemo WaterSports, Fishing Harbour, Jumeirah St, Umm Suqeim 2."
+     },
+     {
+      "q": "What are the requirements?",
+      "a": "6+ (duo flights for children), solo minimum 45 kg, maximum 150 kg, not for pregnant women."
+     },
+     {
+      "q": "What can I add?",
+      "a": "GoPro photo and video package, chosen at check-in."
+     }
+    ]
+   },
+   "price": {
+    "main": "€51",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€51"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−10%",
+      "price": "<s>€57</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-al-arab-parasailing-ice-cream-pics-and-videos-t420577/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#2-parasailing-by-the-burj-al-arab",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "water",
+    "budget",
+    "kids",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best for Couples",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-01-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-02-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-03-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-04-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-05-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-06-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-07-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-08-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-09-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/03-jet-car-burj-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Yoush Water Sports",
+    "⏱️ 30 minutes",
+    {
+     "url": "https://maps.google.com/?q=Yoush+Water+Sports+Jetski+Dubai+Umm+Suqeim",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Umm Suqeim Fishing Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-car-tour-of-burj-al-arab-with-photos-and-videos-t496098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Jet Car Tour of Burj Al Arab with Photos and Videos"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.93",
+     "score": "4.9",
+     "meta": "1.3k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(1.3k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-car-tour-of-burj-al-arab-with-photos-and-videos-t496098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "You drive, 30 min",
+     "pop_html": "<strong>The ride:</strong> A 30-minute guided drive in a red 2-seater jet car: out of the marina to the Burj Al Arab, past Jumeirah Beach Hotel, along the Palm and past Sheikh Island, going as fast as you like with the instructor alongside."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "≈ €62 each for 2",
+     "pop_html": "<strong>Real cost:</strong> The €124 price is per car for up to 2 people, so a couple pays about €62 each, around €4 per minute for the car."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Photos + videos",
+     "pop_html": "<strong>Included:</strong> The instructor shoots photos and videos of you during the ride, with an optional photo stop facing the Burj Khalifa skyline."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍦",
+     "label": "Ice cream, showers",
+     "pop_html": "<strong>Also included:</strong> Drinking water, ice cream, lockers, a changing room with open shower, Wi-Fi and charging, and a sea-view seating area. Arrive 15 minutes early for registration and the safety briefing."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want to share one thrill and drive it themselves, because €124 covers two people, 30 minutes and the instructor's photos and videos",
+    "skip_html": "if you are travelling solo, because you pay the full per-car price, or if you want height rather than speed"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "2-seater jet car ride, instructor, photos and videos, drinking water, ice cream, locker, changing room with open shower, Wi-Fi and charging, sea-view seating."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Yoush Water Sports Jetski Dubai, P&O Marina Port, Fishing Harbour, Jumeirah St, Umm Suqeim 2."
+     },
+     {
+      "q": "What are the requirements?",
+      "a": "Not for children under 5, pregnant women or people with high blood pressure."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID, swimwear, towel. No luggage or large bags."
+     }
+    ]
+   },
+   "price": {
+    "main": "€124",
+    "sub": "from, per jet car (up to 2 people)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet car (up to 2 people)",
+      "price": "€124"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−16%",
+      "price": "<s>€148</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-car-tour-of-burj-al-arab-with-photos-and-videos-t496098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Private group</b>"
+    ],
+    "sublink": {
+     "url": "#3-jet-car-tour-to-the-burj-al-arab",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "sky",
+    "kids"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Most Unusual",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dinner in the Sky Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-01-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-02-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-03-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-04-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-05-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-06-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-07-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/04-dinner-in-the-sky-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Dinner in the Sky",
+    "⏱️ 1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Skydive+Dubai+Al+Seyahi+St+Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-dinner-in-the-sky-t102806/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Dinner in the Sky Experience"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.84",
+     "score": "4.8",
+     "meta": "1.5k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(1.5k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-dinner-in-the-sky-t102806/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏗️",
+     "label": "50 m above ground",
+     "pop_html": "<strong>The setting:</strong> A shared table lifted 50 m by a crane, rotating slightly while you eat, with a safety supervisor at the table. Views take in Dubai Marina, Palm Jumeirah and the Burj Al Arab."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "3 courses, live",
+     "pop_html": "<strong>On the menu:</strong> Chefs cook in front of you. Burrata starter, then Angus beef short rib, sous-vide chicken breast, vegetarian tortellini or vegan penne, and a chocolate sphere with ice cream. Tell the operator your choice at least 24 hours ahead."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥤",
+     "label": "No alcohol",
+     "pop_html": "<strong>Drinks:</strong> Fresh juice, soft drinks, coffee and tea are included. Alcoholic drinks are not served."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📏",
+     "label": "8+, 120 cm",
+     "pop_html": "<strong>Who can join:</strong> Minimum age 8, at least 1.2 m tall, maximum 150 kg. Bring your own camera and dress for the weather."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples or groups where not everyone wants to jump, because €198 buys 90 minutes 50 m up with a 3-course meal cooked live and the Palm in view",
+    "skip_html": "if you want a real adrenaline rush or a drink with dinner, because it is a seated meal and no alcohol is served"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "3-course menu, fresh juice and soft drinks, coffee and tea."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Alcoholic drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Al Seyahi St, Dubai Marina (Skydive Dubai address)."
+     },
+     {
+      "q": "What are the requirements?",
+      "a": "8+, at least 1.2 m tall, maximum 150 kg."
+     }
+    ]
+   },
+   "price": {
+    "main": "€198",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€198"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-dinner-in-the-sky-t102806/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#4-dinner-in-the-sky-50-m-up",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "sky",
+    "water",
+    "budget",
+    "kids"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Highest Parasail",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Parasailing Adventure Above Dubai's Iconic Coastline"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Parasailing Adventure Above Dubai's Iconic Coastline"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Parasailing Adventure Above Dubai's Iconic Coastline"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Parasailing Adventure Above Dubai's Iconic Coastline"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Parasailing Adventure Above Dubai's Iconic Coastline"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Parasailing Adventure Above Dubai's Iconic Coastline"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/05-parasail-palm-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "SeaWake",
+    "⏱️ 1 hour (10–15 min flight)",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Harbour+Yacht+Club",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Harbour Yacht Club"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/best-parasailing-in-dubai-fly-above-our-iconic-coastline-t106945/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Parasailing Adventure Above Dubai&#x27;s Iconic Coastline"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.51",
+     "score": "4.5",
+     "meta": "323 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(323)",
+       "url": "https://www.getyourguide.com/dubai-l173/best-parasailing-in-dubai-fly-above-our-iconic-coastline-t106945/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪁",
+     "label": "≈ 500 ft up",
+     "pop_html": "<strong>The flight:</strong> Up to about 500 ft above the water for 10–15 minutes, depending on wind and sea. Views over Palm Jumeirah, Atlantis, Dubai Marina, JBR and the Burj Al Arab in the distance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Up to 3 together",
+     "pop_html": "<strong>Who flies:</strong> The boat can lift 2 or 3 people at once. Ages 6 to 80, children with an adult, combined weight between 55 kg and 180 kg."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📱",
+     "label": "Photos on your phone",
+     "pop_html": "<strong>Media:</strong> A crew member can shoot photos and videos with your own phone during the flight."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Max 10 guests",
+     "pop_html": "<strong>Group size:</strong> Small group of up to 10 on a new boat with a music system. The outing includes a safety briefing and returns to Dubai Harbour Yacht Club."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or friends who want to fly two or three at a time and go higher, because this boat takes up to 3 people to about 500 ft over the Palm",
+    "skip_html": "if the Burj Al Arab backdrop matters most or you want the lowest price, because #2 flies right in front of it for €35 less"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Boat ride, onboard music, parasailing, instructors, safety briefing."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Dubai Harbour Yacht Club, Dubai Marina."
+     },
+     {
+      "q": "What are the requirements?",
+      "a": "Ages 6 to 80, children with an adult, combined weight 55–180 kg, not for pregnant women."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID, swimwear, towel, breathable clothing."
+     }
+    ]
+   },
+   "price": {
+    "main": "€86",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€86"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/best-parasailing-in-dubai-fly-above-our-iconic-coastline-t106945/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Small group, max 10</b>"
+    ],
+    "sublink": {
+     "url": "#5-parasailing-500-ft-over-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "water",
+    "budget",
+    "kids",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Cheapest Jet Car",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Car to Burj Al Arab or Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-01-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-02-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-03-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-04-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-05-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-06-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-07-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-08-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-09-t.avif"
+     },
+     {
+      "src": "/assets/best-adrenaline-experiences-dubai/06-jet-car-atlantis-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Friends Aqua Watersports",
+    "⏱️ 20 minutes – 1 hour",
+    {
+     "url": "https://maps.google.com/?q=553X+36+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Umm Suqeim, Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-car-to-burj-al-arab-with-breakfast-and-soft-drink-t555483/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Jet Car to Burj Al Arab or Atlantis"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.91",
+     "score": "4.9",
+     "meta": "900 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(900)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-car-to-burj-al-arab-with-breakfast-and-soft-drink-t555483/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "20, 30 or 60 min",
+     "pop_html": "<strong>Ride lengths:</strong> Three ride lengths: 20, 30 and 60 minutes. The longer rides can reach Atlantis on Palm Jumeirah, with photo stops at the Burj Al Arab and sailing past Umm Suqeim."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "1,800 cc supercharged",
+     "pop_html": "<strong>The car:</strong> Three water cars in green, red and white, each with a 1,800 cc supercharged engine, four Bluetooth speakers, a spoiler and mirrors. A licensed guide rides with you."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥐",
+     "label": "Breakfast + drink",
+     "pop_html": "<strong>Included:</strong> Light breakfast from 8 AM to 11 AM and a soft drink from 8 AM to 2 PM, plus unlimited bottled water, life jacket, Wi-Fi, beach access, free lockers, shower and changing room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎬",
+     "label": "Video sold on site",
+     "pop_html": "<strong>Media:</strong> A professional photographer offers edited pictures and videos set to music, available only on site, so budget extra if you want them."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples on a budget or anyone who wants a longer 60-minute drive out to Atlantis, because the 20-minute ride starts at €100 per car for two",
+    "skip_html": "if you want photos and videos included, because #3 bundles them and this operator sells them on site"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Guide, life jacket, unlimited bottled water, Wi-Fi, beach access, free lockers, shower, changing room, light breakfast (8–11 AM), soft drink (8 AM–2 PM)."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Professional photos and videos (sold on site), towel, swimsuit, parking (AED 3 per hour)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "553X+36, Umm Suqeim, Dubai."
+     },
+     {
+      "q": "What are the requirements?",
+      "a": "Not for children under 5 or pregnant women."
+     }
+    ]
+   },
+   "price": {
+    "main": "€100",
+    "sub": "from, per jet car (up to 2 people)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet car (up to 2 people)",
+      "price": "€100"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−10%",
+      "price": "<s>€111</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-car-to-burj-al-arab-with-breakfast-and-soft-drink-t555483/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=adrenaline_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Private group</b>"
+    ],
+    "sublink": {
+     "url": "#6-jet-car-to-burj-al-arab-or-atlantis",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
