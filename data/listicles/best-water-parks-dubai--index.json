@@ -1,0 +1,3181 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "thrill",
+    "kids",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure World Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/01-aquaventure-day-pass-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-01-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-02-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-03-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-04-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-05-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-06-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-07-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-08-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-09-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/01-aquaventure-day-pass-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Atlantis Aquaventure World",
+    "⏱️ Full day",
+    {
+     "url": "https://maps.google.com/?q=Aquaventure+Waterpark+Atlantis+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Atlantis, The Palm"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/aquaventure-world-waterpark-day-pass-at-atlantis-dubai-t570397/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Atlantis Aquaventure World Waterpark Day Pass"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.52",
+     "score": "4.5",
+     "meta": "14.2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(14.2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/aquaventure-world-waterpark-day-pass-at-atlantis-dubai-t570397/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "105+ slides",
+     "pop_html": "<strong>What&#x27;s inside:</strong> The Leap of Faith near-vertical drop through a tunnel in a shark lagoon, high-speed turns and drops, a lazy river and the Surf's Up wave rider, spread over 22 hectares."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Downtime:</strong> Aquaventure Beach is included, with sand underfoot and a straight view of the Dubai skyline. A complimentary Dolphin Discovery Presentation is part of the day too."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧒",
+     "label": "Splashers kids zone",
+     "pop_html": "<strong>For children:</strong> Four zones billed as the world's largest kids zone. Child rate for ages 3 to 6.99 under 1.2 m, under 2s free with ID. Some rides need 1.2 m."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕘",
+     "label": "09:15 to sunset",
+     "pop_html": "<strong>Hours:</strong> Open daily from 09:15 until sunset. The pass is valid for one day from first activation, so arrive at opening to get the big slides before the queues build."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone who wants the biggest slide count on this page in one day, because €77 buys 105+ slides, the beach and the kids zone with no transfer to Abu Dhabi",
+    "skip_html": "if you only have small children and want a calmer park built around them (Legoland Water Park), or if you want the aquarium too, since the combo adds it for about €5"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Full-day pass, 105+ slides, private beach, Surf's Up wave rider, Splashers kids zones."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Towel (from AED 35) and locker (from AED 80) rental, AquaXpress fast pass (AED 225–795), meals."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Aquaventure Waterpark, Atlantis The Palm, Crescent Rd, Palm Jumeirah."
+     },
+     {
+      "q": "What are the opening hours?",
+      "a": "Daily 09:15 until sunset."
+     }
+    ]
+   },
+   "price": {
+    "main": "€77",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€77"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/aquaventure-world-waterpark-day-pass-at-atlantis-dubai-t570397/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#1-aquaventure-world-day-pass",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "thrill",
+    "kids",
+    "combo",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis Aquaventure Day Pass & Lost World Aquarium"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/02-aquaventure-aquarium-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-01-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-02-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-03-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-04-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-05-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-06-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-07-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-08-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-09-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/02-aquaventure-aquarium-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Atlantis Aquaventure World",
+    "⏱️ Full day",
+    {
+     "url": "https://maps.google.com/?q=Aquaventure+Waterpark+Atlantis+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Atlantis, The Palm"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-aquaventure-world-waterpark-and-aquarium-combo-t570399/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Atlantis Aquaventure Day Pass &amp; Lost World Aquarium"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.48",
+     "score": "4.5",
+     "meta": "5.7k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(5.7k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-aquaventure-world-waterpark-and-aquarium-combo-t570399/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐠",
+     "label": "+ Aquarium for ~€5",
+     "pop_html": "<strong>The maths:</strong> €81 against €77 for the waterpark alone, so The Lost World Aquarium (65,000 marine animals, 14 chambers, mermaid performances) costs you about €4.94 extra."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "105+ slides",
+     "pop_html": "<strong>Same park:</strong> Identical waterpark access to the #1 pick: Leap of Faith, lazy river, Surf's Up wave rider, private beach and the Splashers kids zones."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌙",
+     "label": "Aquarium till 21:00",
+     "pop_html": "<strong>Timing trick:</strong> The waterpark runs 09:15 to sunset and the aquarium 10:00 to 21:00, so you can slide all day and walk through the aquarium after the park closes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📏",
+     "label": "Height-based price",
+     "pop_html": "<strong>Kids:</strong> Adult rate from age 7 or over 1.2 m; child rate for ages 3 to 6.99 under 1.2 m; under 2s free with ID."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and first-timers who want the full Atlantis day, because the aquarium adds an evening activity for about €5 more than the waterpark alone",
+    "skip_html": "if nobody in your group cares about marine life, or anyone has back, heart or mobility problems, which the ticket terms rule out"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Full-day waterpark pass with 105+ slides, private beach, Surf's Up wave rider, Splashers kids zones, entry to The Lost World Aquarium."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Towel (from AED 35) and locker (from AED 80) rental, AquaXpress fast pass, meals."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Atlantis The Palm, Palm Jumeirah."
+     },
+     {
+      "q": "What are the opening hours?",
+      "a": "Waterpark 09:15 to sunset; aquarium 10:00 to 21:00."
+     }
+    ]
+   },
+   "price": {
+    "main": "€81",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€81"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-aquaventure-world-waterpark-and-aquarium-combo-t570399/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#2-aquaventure-lost-world-aquarium",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "kids",
+    "combo"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Aquaventure World: Dolphin Encounter + Waterpark Day Pass"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-water-parks-dubai/03-dolphin-aquaventure-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aquaventure World: Dolphin Encounter + Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/03-dolphin-aquaventure-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aquaventure World: Dolphin Encounter + Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/03-dolphin-aquaventure-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aquaventure World: Dolphin Encounter + Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/03-dolphin-aquaventure-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aquaventure World: Dolphin Encounter + Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/03-dolphin-aquaventure-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aquaventure World: Dolphin Encounter + Waterpark Day Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/03-dolphin-aquaventure-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-water-parks-dubai/03-dolphin-aquaventure-01-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/03-dolphin-aquaventure-02-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/03-dolphin-aquaventure-03-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/03-dolphin-aquaventure-04-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/03-dolphin-aquaventure-05-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/03-dolphin-aquaventure-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Atlantis Dolphin Bay",
+    "⏱️ 1.5 hours + waterpark",
+    {
+     "url": "https://maps.google.com/?q=Dolphin+Bay+Atlantis+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dolphin Bay, Atlantis The Palm"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/aquaventure-world-waterpark-day-pass-dolphin-encounter-t567692/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Aquaventure World: Dolphin Encounter + Waterpark Day Pass"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.64",
+     "score": "4.6",
+     "meta": "1.4k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.6",
+       "count": "(1.4k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/aquaventure-world-waterpark-day-pass-dolphin-encounter-t567692/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐬",
+     "label": "30 min in the water",
+     "pop_html": "<strong>The encounter:</strong> 30 minutes of check-in, changing and safety briefing with a marine mammal specialist, then 30 minutes in waist-deep water in the Dolphin Bay lagoon. It is a shallow-water interaction, not a swim with dolphins."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "Waterpark included",
+     "pop_html": "<strong>Same day:</strong> A free same-day Aquaventure pass, so you get the 105+ slides and private beach after your session."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧺",
+     "label": "Towels + drinks",
+     "pop_html": "<strong>Included extras:</strong> Wetsuits or neoprene vests (mandatory), water, juices and coffee, plus towels and lockers during the encounter only."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👶",
+     "label": "All ages",
+     "pop_html": "<strong>Families:</strong> Children 2 and under join free; under-12s need a paying adult. Instructor speaks English. Photos are sold at the Dolphin Bay shop."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a once-in-a-trip family treat, because the dolphin session and the full waterpark fit into one day and even small children can take part in waist-deep water",
+    "skip_html": "if you expected to swim with dolphins (this is a shallow-water session), or if €139 extra over the plain pass is better spent on another day out"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Supervised dolphin encounter (30 min orientation + 30 min in the water), wetsuit or neoprene vest, water, juices and coffee, towels and lockers during the experience, same-day waterpark access."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Photos (sold at the Dolphin Bay shop), meals."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Dolphin Bay, Atlantis The Palm, Crescent Rd."
+     },
+     {
+      "q": "What about kids?",
+      "a": "2 and under free; under-12s must be with a paying adult."
+     }
+    ]
+   },
+   "price": {
+    "main": "€216",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€216"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/aquaventure-world-waterpark-day-pass-dolphin-encounter-t567692/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>English-speaking instructor</b>"
+    ],
+    "sublink": {
+     "url": "#3-dolphin-encounter-aquaventure",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "kids",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best for Young Kids",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND® Water Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/04-legoland-water-park-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-01-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-02-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-03-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-04-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-05-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-06-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-07-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-08-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-09-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/04-legoland-water-park-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "LEGOLAND Water Park Dubai",
+    "⏱️ 1 day",
+    {
+     "url": "https://maps.google.com/?q=LEGOLAND+Water+Park+Dubai+Parks+and+Resorts",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/1-day-legolandr-water-park-pass-at-dubai-parks-and-resorts-t118774/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "LEGOLAND® Water Park Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.31",
+     "score": "4.3",
+     "meta": "172 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.3",
+       "count": "(172)",
+       "url": "https://www.getyourguide.com/dubai-l173/1-day-legolandr-water-park-pass-at-dubai-parks-and-resorts-t118774/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧱",
+     "label": "20+ family slides",
+     "pop_html": "<strong>Rides:</strong> Red Rush into a huge halfpipe, LEGO Slide Racers mat races, Twin Chaser double body slides and the LEGO Wave Pool. Built for families, not adrenaline."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛟",
+     "label": "Build-A-Raft River",
+     "pop_html": "<strong>Unique bit:</strong> Build your own raft from large soft LEGO bricks and float it down the river, plus an outdoor LEGO building area for a dry break."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👶",
+     "label": "DUPLO toddler zone",
+     "pop_html": "<strong>Small kids:</strong> DUPLO Splash Safari is a water play area for toddlers. The ticket terms also say the park is not suitable for children under 120 cm, so check the height rules for your kids before you book."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "~25 min from Marina",
+     "pop_html": "<strong>Getting there:</strong> On Sheikh Zayed Road at Dubai Parks and Resorts, about 25 minutes from Dubai Marina. Parking at Dubai Parks and Resorts is listed; hotel pickup is not included."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with children roughly 2 to 12, because every slide is sized for them and the Build-A-Raft River keeps kids busy in a way Aquaventure's big drops do not",
+    "skip_html": "if you have teens or adults who want speed, or if your only free day is a Wednesday, when the park is closed"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Admission, unlimited access to rides and entertainment, parking at Dubai Parks and Resorts."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drink, souvenir photos, hotel pickup and drop-off."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dubai Parks and Resorts, Sheikh Zayed Road (about 25 min from Dubai Marina)."
+     },
+     {
+      "q": "When is it closed?",
+      "a": "Wednesdays."
+     }
+    ]
+   },
+   "price": {
+    "main": "€73",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€73"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/1-day-legolandr-water-park-pass-at-dubai-parks-and-resorts-t118774/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#4-legoland-water-park-ticket",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "kids",
+    "combo"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Two-Park Day",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts™ Multi Parks Pass"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/05-dubai-parks-multi-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-01-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-02-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-03-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-04-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-05-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-06-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-07-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-08-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-09-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/05-dubai-parks-multi-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Dubai Parks and Resorts",
+    "⏱️ 1 day",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Parks+and+Resorts",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-dubai-parks-and-resorts-multi-parks-pass-t118780/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Parks and Resorts™ Multi Parks Pass"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.49",
+     "score": "4.5",
+     "meta": "891 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(891)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-dubai-parks-and-resorts-multi-parks-pass-t118780/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "2 parks, 1 day",
+     "pop_html": "<strong>Your choice:</strong> Pick 2 of MOTIONGATE™, LEGOLAND® Dubai, LEGOLAND® Water Park and Real Madrid World. Redeem at any of the parks to start."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "~€44 per park",
+     "pop_html": "<strong>The maths:</strong> €88 for two parks, against €73 for the water park alone, so the second park costs about €15."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚶",
+     "label": "5–10 min walk",
+     "pop_html": "<strong>Hopping:</strong> The parks are linked by Riverland™ Dubai, a themed dining and shopping area, and are a 5–10 minute walk apart."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚠️",
+     "label": "Water park shut Wed",
+     "pop_html": "<strong>Plan around it:</strong> LEGOLAND® Water Park is closed on Wednesdays. Opening hours change often, so check each park's hours for your date."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a water park morning and a theme park afternoon, because the second park costs about €15 over a single water park ticket",
+    "skip_html": "if you want a full water park day (one park is plenty for small kids), or if you are visiting on a Wednesday and want the water park"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "1-day admission to 2 of MOTIONGATE™ Dubai, LEGOLAND® Dubai, LEGOLAND® Water Park and Real Madrid World."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and beverages, transport to Dubai Parks and Resorts."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dubai Parks and Resorts, Sheikh Zayed Road."
+     },
+     {
+      "q": "When is it closed?",
+      "a": "LEGOLAND® Water Park closed on Wednesdays."
+     }
+    ]
+   },
+   "price": {
+    "main": "€88",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€88"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-dubai-parks-and-resorts-multi-parks-pass-t118780/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#5-dubai-parks-multi-parks-pass",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "thrill",
+    "daytrip",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Abu Dhabi Day Trip",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Waterworld Entry Ticket (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/06-yas-waterworld-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-01-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-02-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-03-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-04-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-05-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-06-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-07-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-08-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/06-yas-waterworld-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Yas Waterworld",
+    "⏱️ 1 day",
+    {
+     "url": "https://maps.google.com/?q=Yas+Waterworld+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Yas Island, Abu Dhabi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-waterworld-entry-ticket-with-free-shuttle-t962085/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Yas Waterworld Entry Ticket (Abu Dhabi)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.32",
+     "score": "4.3",
+     "meta": "182 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.3",
+       "count": "(182)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-waterworld-entry-ticket-with-free-shuttle-t962085/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "45 rides &amp; slides",
+     "pop_html": "<strong>What&#x27;s inside:</strong> 24 rides with 32 individual slides, six rides found nowhere else, and a pearl-diving attraction. The park holds the Guinness World Record for most waterslides in a waterpark."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏩",
+     "label": "Skip ticket queue",
+     "pop_html": "<strong>Entry:</strong> Skip the ticket line at the gate. A Quick Pass for rides is sold inside the park (or as a ticket option). The gate skip does not cover ride queues."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "Abu Dhabi, not Dubai",
+     "pop_html": "<strong>Getting there:</strong> Yas Island is in Abu Dhabi, more than an hour from Dubai by road. Transport from Dubai is not included, and the free shuttle has been suspended until further notice, so plan your own car or taxi."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👩",
+     "label": "Ladies&#x27; Day Fridays",
+     "pop_html": "<strong>Fridays:</strong> Every Friday is ladies-only, with all-female staff and no phones or cameras. Boys 8 and under may enter with government ID."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who are spending a day in Abu Dhabi anyway, because it costs €73, about €4 less than Aquaventure, and has six rides you cannot ride anywhere else",
+    "skip_html": "if you are based in Dubai with no other reason to go to Abu Dhabi (well over two hours return by road), or if you are a mixed group visiting on a Friday"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "General admission (or Quick Pass if that option is selected), access to all rides and attractions, shuttle within Yas Island (the free shuttle is currently suspended)."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks, transport to and from the water park."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Yas Waterworld, Yas Island, Abu Dhabi (more than an hour from Dubai by road)."
+     },
+     {
+      "q": "What about Fridays?",
+      "a": "Ladies-only day; boys 8 and under admitted with government ID."
+     }
+    ]
+   },
+   "price": {
+    "main": "€73",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€73"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-waterworld-entry-ticket-with-free-shuttle-t962085/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Skip the ticket queue</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#6-yas-waterworld-ticket-abu-dhabi",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "thrill",
+    "combo",
+    "daytrip"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Multi-Day Pass",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-01-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-02-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-03-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-04-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-05-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Yas Island Theme Parks",
+    "⏱️ Valid 1–6 days",
+    {
+     "url": "https://maps.google.com/?q=Yas+Island+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Yas Island, Abu Dhabi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-island-multi-park-entry-tickets-t962101/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.52",
+     "score": "4.5",
+     "meta": "822 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(822)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-island-multi-park-entry-tickets-t962101/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "2, 3 or 4 parks",
+     "pop_html": "<strong>Choose from:</strong> Any combination of Yas Waterworld, Ferrari World Abu Dhabi, SeaWorld Abu Dhabi and Warner Bros. World Abu Dhabi, picked as you go."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📅",
+     "label": "6 days to use it",
+     "pop_html": "<strong>Flexible:</strong> Valid within 6 days of your first park visit, so you can split parks over separate days instead of rushing. Biometric check on first use, or register with photo ID."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚌",
+     "label": "Free parking + shuttle",
+     "pop_html": "<strong>Logistics:</strong> Free parking at all parks, and the pass covers the shuttle between the Yas parks, hotels and Yas Mall. A shuttle from Dubai is described as resuming, and the Yas Waterworld shuttle has been suspended, so plan your own transport from Dubai."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "From €107",
+     "pop_html": "<strong>Price:</strong> From €107 for the smallest pass. With 2 parks that is about €54 per park. Quick Pass and fast track upgrades are not included."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families staying 2+ nights in Abu Dhabi, because 6 days of validity lets you do Yas Waterworld one day and Ferrari World or Warner Bros. World on another",
+    "skip_html": "if you are doing a single day trip from Dubai, since 3 or 4 parks will not fit into one day and a single Yas Waterworld ticket is €73"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "2-, 3- or 4-park pass (Ferrari World, SeaWorld, Yas Waterworld, Warner Bros. World), valid 6 days from first visit, free Yas Island shuttle, free parking."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Quick Pass/fast track, food and drinks, premium add-ons, souvenirs."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Yas Island, Abu Dhabi (more than an hour from Dubai by road)."
+     },
+     {
+      "q": "How does entry work?",
+      "a": "Ages 3+ need a ticket; biometric check or photo ID on first use."
+     }
+    ]
+   },
+   "price": {
+    "main": "€107",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€107"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-island-multi-park-entry-tickets-t962101/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Free parking at all parks</b>",
+     "<b>Valid 6 days</b>"
+    ],
+    "sublink": {
+     "url": "#7-yas-island-multi-park-pass",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

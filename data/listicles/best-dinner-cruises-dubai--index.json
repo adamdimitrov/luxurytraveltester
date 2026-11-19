@@ -1,0 +1,3264 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "megayacht",
+    "openbar"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Dinner Cruise with Live Music & Open Bar"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/01-marina-open-bar-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/01-marina-open-bar-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Xclusive Yachts",
+    "⏱️ 1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Xclusive+Yachts+Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-sunset-or-dinner-cruise-with-live-music-open-bar-t57982/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Marina: Dinner Cruise with Live Music &amp; Open Bar"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.74",
+     "score": "4.7",
+     "meta": "6.1k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.7",
+       "count": "(6.1k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-sunset-or-dinner-cruise-with-live-music-open-bar-t57982/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍸",
+     "label": "Open bar",
+     "pop_html": "<strong>What&#x27;s poured:</strong> Unlimited beer, wine and spirits, plus unlimited soft drinks, juice, water, tea and coffee. A welcome drink is served as you board."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Buffet + live stations",
+     "pop_html": "<strong>On the sample menu:</strong> Salads, Egyptian lentil soup, chicken cacciatore, grilled spice-rubbed fish, kadai vegetables, plus a live pasta station and a live noodle station. Red velvet and carrot cake for dessert."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛥️",
+     "label": "Glass boat, 2 decks",
+     "pop_html": "<strong>Seating:</strong> A glass-enclosed lower deck with panoramic windows and an open-air upper deck for the breeze and photos."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Marina to Harbour",
+     "pop_html": "<strong>Route:</strong> Dubai Marina, Jumeirah Beach Residence, Ain Dubai and Dubai Harbour, back at the dock around 10:00 PM."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and groups who want drinks included, because it is the only dinner cruise here where unlimited beer, wine and spirits come with the €52 fare",
+    "skip_html": "if you want the Burj Khalifa in view (this is a Marina route) or a seated served dinner rather than a buffet"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "90-minute cruise, international buffet dinner with live stations, unlimited beer, wine and spirits, unlimited soft drinks, juice, water, tea and coffee."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Xclusive Yachts boarding point, Dubai Marina."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €52 per person. The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Where does it end?",
+      "a": "Back at the dock around 10:00 PM."
+     }
+    ]
+   },
+   "price": {
+    "main": "€52",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€52"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-sunset-or-dinner-cruise-with-live-music-open-bar-t57982/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Open bar</b> included"
+    ],
+    "sublink": {
+     "url": "#1-marina-dinner-cruise-with-open-bar",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "dhow",
+    "show"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Canal Route",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/02-canal-dhow-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/02-canal-dhow-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Amazon Tours UAE",
+    "⏱️ 2–2.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Faris+Floating+Restaurant+Dubai+Festival+City",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Water Canal"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-water-canal-cruise-new-route-t86489/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Luxury Canal Dinner Cruise with Optional Transfers"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.56",
+     "score": "4.6",
+     "meta": "1.1k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.6",
+       "count": "(1.1k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-water-canal-cruise-new-route-t86489/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Burj Khalifa route",
+     "pop_html": "<strong>What you pass:</strong> Dubai Festival City, Al Jaddaf, Mohammed bin Rashid Library, Dubai Creek Harbour, Burj Khalifa, Business Bay, JW Marriott Marquis and under the Dubai Canal Waterfall Bridge."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛵",
+     "label": "Glass-enclosed dhow",
+     "pop_html": "<strong>Boat:</strong> A traditional dhow shape with a glass-encased deck, so you get the heritage look and dine indoors behind the glass."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍢",
+     "label": "5-star buffet",
+     "pop_html": "<strong>On the table:</strong> Arabic appetisers, grilled meat, fresh salads and Arabian sweets with live stations, after a welcome kahwah (Arabic coffee), dates and chilled refreshments."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎷",
+     "label": "Saxophone + music",
+     "pop_html": "<strong>Entertainment:</strong> Arabic music and a saxophone performance. Entertainment is paused during the holy month of Ramadan."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers who want the Burj Khalifa and Downtown skyline from the water, because it is the only route here that runs through Business Bay instead of the Marina",
+    "skip_html": "if you want drinks included (alcohol is an optional extra) or you are visiting during Ramadan, when the entertainment is paused"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Canal cruise, welcome kahwah, dates and refreshments, international buffet with live stations, entertainment, pickup and drop-off if option chosen."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Beer, wine, cocktails and spirits (optional, extra fee)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Al Faris Floating Restaurant, Dubai Festival City (or hotel pickup if chosen)."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Hindi, Arabic."
+     }
+    ]
+   },
+   "price": {
+    "main": "€51",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€51"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-water-canal-cruise-new-route-t86489/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> available"
+    ],
+    "sublink": {
+     "url": "#2-canal-dinner-cruise-burj-khalifa-views",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "megayacht",
+    "show"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Michelin Chef Menu Dinner Cruise & Live Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/03-michelin-yacht-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/03-michelin-yacht-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Noble Life",
+    "⏱️ 2 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Harbour+Yacht+Club",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Harbour Yacht Club"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-s-best-dinner-cruise-michelin-chef-menu-live-show-t1184895/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Marina: Michelin Chef Menu Dinner Cruise &amp; Live Show"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.53",
+     "score": "4.5",
+     "meta": "58 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(58)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-s-best-dinner-cruise-michelin-chef-menu-live-show-t1184895/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍🍳",
+     "label": "Set menu, seated",
+     "pop_html": "<strong>How dinner works:</strong> A multi-course menu created by a Michelin-starred chef, served at your table instead of a buffet queue."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕗",
+     "label": "8:00–10:00 PM",
+     "pop_html": "<strong>Timing:</strong> One fixed evening sailing of 2 hours through Dubai Marina, from Dubai Harbour Yacht Club."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎤",
+     "label": "Live singer",
+     "pop_html": "<strong>Entertainment:</strong> A live singer and on-board entertainment. Free Wi-Fi and toilets on board."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍷",
+     "label": "Bar extra",
+     "pop_html": "<strong>Drinks:</strong> Unlimited soft drinks, water, coffee and tea included. A full licensed bar is on board, alcohol paid on board."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anniversaries, birthdays and couples who care more about the food than the price, because it is the only cruise here with a seated, chef-designed multi-course menu",
+    "skip_html": "if you want alcohol in the fare (it is paid at the bar) or you are prone to seasickness (it is flagged as unsuitable)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "2-hour yacht cruise, multi-course dinner from a Michelin-chef menu, live singer, unlimited soft drinks, water, coffee and tea, Wi-Fi."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Alcohol (paid at the onboard bar), hotel transfer, special decorations."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Dubai Harbour Yacht Club, Boat Parking A19."
+     },
+     {
+      "q": "What time does it run?",
+      "a": "8:00 PM to 10:00 PM."
+     }
+    ]
+   },
+   "price": {
+    "main": "€104",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€104"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-s-best-dinner-cruise-michelin-chef-menu-live-show-t1184895/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Seated multi-course dinner</b>"
+    ],
+    "sublink": {
+     "url": "#3-michelin-chef-menu-yacht-cruise",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "dhow",
+    "show"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Dinner + Show Combo",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Canal Cruise with Dinner & La Perle Show (Gold Tickets)"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/04-canal-la-perle-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/04-canal-la-perle-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Amazon Tours UAE",
+    "⏱️ 3 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Faris+Floating+Restaurant+Dubai+Festival+City",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Festival City"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-canal-cruise-with-dinner-la-perle-show-gold-tickets-t1102097/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Canal Cruise with Dinner &amp; La Perle Show (Gold Tickets)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.89",
+     "score": "4.9",
+     "meta": "63 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(63)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-canal-cruise-with-dinner-la-perle-show-gold-tickets-t1102097/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎭",
+     "label": "La Perle Gold Pass",
+     "pop_html": "<strong>The show:</strong> A Gold Pass for La Perle by Dragone, the acrobatic water show (about 1.5 hours). The cruise drops you at La Perle, where the evening ends."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕖",
+     "label": "Boards 6:15 PM",
+     "pop_html": "<strong>Timing:</strong> Boarding at 6:15 PM, departure 7:00 PM from Al Faris Floating Restaurant behind InterContinental Dubai Festival City."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Buffet on a dhow",
+     "pop_html": "<strong>Dinner:</strong> International buffet on a luxury dhow with glass-enclosed and al fresco seating, plus recorded commentary. Confirmed al fresco seats cost 50 AED extra."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Transfer option",
+     "pop_html": "<strong>Getting there:</strong> Pickup and return shared transfer if you choose that option, valid for hotels within 20 km of the venue."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone who has La Perle on their list anyway, because one booking covers the canal dinner, the Gold Pass and the drop-off at the theatre",
+    "skip_html": "if you are travelling with children under 2 (not suitable) or just want a relaxed dinner without a show to rush to"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Canal cruise with recorded commentary, international buffet, La Perle Gold Pass, pickup and return shared transfer if option selected."
+     },
+     {
+      "q": "What is not included?",
+      "a": "House beverages unless option selected, photo souvenirs, confirmed al fresco seating (50 AED)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Al Faris Floating Restaurant, behind InterContinental Hotel DFC, Dubai Festival City (parking at Festival City Mall North, P1)."
+     },
+     {
+      "q": "What time does it run?",
+      "a": "Boarding 6:15 PM, departure 7:00 PM."
+     }
+    ]
+   },
+   "price": {
+    "main": "€137",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€137"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-canal-cruise-with-dinner-la-perle-show-gold-tickets-t1102097/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair</b> accessible"
+    ],
+    "sublink": {
+     "url": "#4-canal-dinner-cruise-la-perle-gold",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "megayacht",
+    "show"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/05-marina-catamaran-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/05-marina-catamaran-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Celeste Cruise",
+    "⏱️ 2–3 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-marina-dhow-dinner-cruise-with-live-entertainment-t909954/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Marina: Luxury Dinner Cruise with Buffet and Live Entertainment"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.38",
+     "score": "4.4",
+     "meta": "1.2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.4",
+       "count": "(1.2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-marina-dhow-dinner-cruise-with-live-entertainment-t909954/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "💃",
+     "label": "Tanura + DJ",
+     "pop_html": "<strong>Show line-up:</strong> A traditional Tanura dance, live music, a live DJ and a Darbuka drum show."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍗",
+     "label": "Copthorne buffet",
+     "pop_html": "<strong>Dinner:</strong> International buffet by Copthorne Hotel (Millennium Hotels): salads, BBQ, hot mains, vegetarian dishes and desserts."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥤",
+     "label": "Soft drinks only",
+     "pop_html": "<strong>Drinks:</strong> Welcome drinks, unlimited water, soft drinks, tea and coffee. Mocktail, milkshake or ice cream on selected packages. No alcohol listed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛥️",
+     "label": "Modern catamaran",
+     "pop_html": "<strong>Boat:</strong> Air-conditioned lower deck or open-air upper deck, chosen when you book. Wheelchair accessible, clean restrooms on board."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with kids and alcohol-free groups, because it has the fullest show (Tanura, live music, DJ, Darbuka) on a modern boat for €41",
+    "skip_html": "if you want an open bar, or a quiet romantic dinner (the DJ and drum show make it lively)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "2-hour cruise, welcome drinks, international buffet (veg and non-veg), unlimited water, soft drinks, tea and coffee, live shows and music."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup and drop-off (extra, book 6 hours ahead), souvenir photo."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Dubai Marina (or hotel pickup at extra cost)."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "Arabic, English, French, Hindi, Tagalog."
+     }
+    ]
+   },
+   "price": {
+    "main": "€41",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€41"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−30%",
+      "price": "<s>€58</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-marina-dhow-dinner-cruise-with-live-entertainment-t909954/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair</b> accessible"
+    ],
+    "sublink": {
+     "url": "#5-marina-catamaran-dinner-tanura-show",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "dhow",
+    "show",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Creek Dhow",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Dhow Dinner Cruise on Creek or Marina with Live Shows"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dinner-cruises-dubai/06-creek-dhow-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dhow Dinner Cruise on Creek or Marina with Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/06-creek-dhow-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dhow Dinner Cruise on Creek or Marina with Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/06-creek-dhow-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dhow Dinner Cruise on Creek or Marina with Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/06-creek-dhow-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Dhow Dinner Cruise on Creek or Marina with Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/06-creek-dhow-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dinner-cruises-dubai/06-creek-dhow-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/06-creek-dhow-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/06-creek-dhow-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/06-creek-dhow-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/06-creek-dhow-05-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Traditional dhow",
+    "⏱️ 1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Creek+dhow+cruise",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Creek or Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-dhow-cruise-buffet-dinner-live-entertainment-show-t630102/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Dhow Dinner Cruise on Creek or Marina with Live Shows"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "3.84",
+     "score": "3.8",
+     "meta": "134 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "3.8",
+       "count": "(134)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-dhow-cruise-buffet-dinner-live-entertainment-show-t630102/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Creek or Marina",
+     "pop_html": "<strong>Route options:</strong> The base option sails Dubai Creek, the old trading waterway. The Dubai Marina option costs extra."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛵",
+     "label": "Wooden dhow",
+     "pop_html": "<strong>Boat:</strong> A traditional Arabian wooden dhow with traditional décor. Small-group option available."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍛",
+     "label": "Buffet + veg",
+     "pop_html": "<strong>Dinner:</strong> Local and international buffet with vegetarian options, plus tea, coffee, sweets and fruit. Alcohol not included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Pickup option",
+     "pop_html": "<strong>Getting there:</strong> Hotel pickup and drop-off if you choose that option, with an English-speaking driver. Otherwise meet at the dock."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who specifically want the old-Dubai Creek dhow with a hotel pickup for about €30, because it is the only Creek option here",
+    "skip_html": "if you want a polished evening: it is rated 3.8, the lowest here, and alcohol is not included"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Creek or Marina cruise by option, buffet dinner with vegetarian options, tea and coffee, sweets, fruit, live entertainment shows, hotel pickup and drop-off if selected."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Alcoholic drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Depends on option (Creek or Marina dock, or hotel pickup)."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English (driver)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€30",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€30"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-dhow-cruise-buffet-dinner-live-entertainment-show-t630102/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> available"
+    ],
+    "sublink": {
+     "url": "#6-creek-or-marina-dhow-dinner-show",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "dhow",
+    "show",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Budget",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+      ],
+      [
+       "data-src",
+       "/assets/best-dinner-cruises-dubai/07-budget-dhow-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dinner-cruises-dubai/07-budget-dhow-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Dream Sea Lounge",
+    "⏱️ 1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Harbour+Yacht+Club",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-scenic-dhow-cruise-with-buffet-dinner-and-live-shows-t622139/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Scenic Dhow Cruise with Buffet Dinner and Live Shows"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "3.88",
+     "score": "3.9",
+     "meta": "698 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "3.9",
+       "count": "(698)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-scenic-dhow-cruise-with-buffet-dinner-and-live-shows-t622139/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "💸",
+     "label": "From €22",
+     "pop_html": "<strong>Price:</strong> Down from €27, about €14 per hour on the water, the cheapest dinner cruise on this page by €8."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💃",
+     "label": "Tanoura + puppets",
+     "pop_html": "<strong>Show:</strong> Live music, Tanoura dance and a live puppet show on board."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "45-min dinner",
+     "pop_html": "<strong>Timing:</strong> The 1.5-hour sailing gives the buffet a 45-minute window. Starts and ends at Dream Sea Lounge."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "Dubai Harbour",
+     "pop_html": "<strong>Meeting point:</strong> Dream Sea Lounge, Dubai Harbour Yacht Club, Berth AA05. No hotel transfer included."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for backpackers and budget travellers who want a Tanoura show and a buffet on a wooden dhow for €22, and are fine with a basic boat",
+    "skip_html": "if dinner is the main event or you want drinks included: it is rated 3.9, alcohol is not part of the package and there is no transfer"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Dhow cruise, buffet dinner, live entertainment."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Alcoholic drinks, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Dream Sea Lounge, Dubai Harbour Yacht Club, Berth AA05."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English (host)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€22",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€22"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−20%",
+      "price": "<s>€27</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-scenic-dhow-cruise-with-buffet-dinner-and-live-shows-t622139/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dinner_cruises_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#7-budget-marina-dhow-dinner-tanoura",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
