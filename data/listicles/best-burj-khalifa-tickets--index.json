@@ -1,0 +1,3497 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "premium",
+    "fasttrack",
+    "sunset"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa SKY Level 148, 124 & 125 Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/01-sky-148-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-06-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-07-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-08-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-09-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/01-sky-148-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "At the Top SKY",
+    "⏱️ 1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=At+the+Top+Burj+Khalifa+Dubai+Mall",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Mall, Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-sky-level-148-124-125-entry-ticket-t49181/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Burj Khalifa SKY Level 148, 124 &amp; 125 Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.61",
+     "score": "4.6",
+     "meta": "24.7k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.6",
+       "count": "(24.7k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-sky-level-148-124-125-entry-ticket-t49181/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "3 decks: 124, 125, 148",
+     "pop_html": "<strong>Floors reached:</strong> You start at the SKY Lounge, go up to Level 148 with its outdoor terrace, then continue to the standard decks on 124 and 125. One ticket, all three floors."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚡",
+     "label": "Skip the line",
+     "pop_html": "<strong>Queues:</strong> Skip-the-line access for both the security check and the lift, plus an introductory tour with a guest ambassador. On a busy evening that is the single biggest time saver in the building."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☕",
+     "label": "Lounge snacks",
+     "pop_html": "<strong>Included:</strong> Access to the lounge with snacks and hot drinks, interactive stations and Wi-Fi throughout. During Ramadan, food and drinks are served only after Iftar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Max 50 on deck",
+     "pop_html": "<strong>Crowds:</strong> No more than 50 people are allowed on the 148 observation deck at any one time, compared with the busy shared floors of 124/125. Visits last up to 1.5 hours."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers who want the full Burj experience without the queues, because €99 buys fast-track, a capped 50-person deck, lounge snacks and 124/125 on top",
+    "skip_html": "if you only care about the view itself and are happy to queue: the standard 124/125 ticket shows the same skyline for less than half the price"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "SKY Level 148 and Levels 124/125, skip-the-line security and lift, introductory tour with a guest ambassador, lounge with snacks and hot drinks, interactive stations, Wi-Fi."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Dubai Mall, Downtown Dubai."
+     },
+     {
+      "q": "How accessible is it?",
+      "a": "Wheelchair-accessible."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€99",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€99"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-sky-level-148-124-125-entry-ticket-t49181/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Fast-track entry</b>"
+    ],
+    "sublink": {
+     "url": "#1-sky-level-148-124-125-fast-track",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "budget",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Levels 124 & 125 Entry Ticket + Options"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/02-levels-124-125-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-06-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-07-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-08-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-09-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/02-levels-124-125-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "At the Top",
+    "⏱️ 1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=At+the+Top+Burj+Khalifa+Dubai+Mall",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 At the Top, Dubai Mall"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-levels-124-125-entry-ticket-options-t49019/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Burj Khalifa Levels 124 &amp; 125 Entry Ticket + Options"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.31",
+     "score": "4.3",
+     "meta": "93.2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.3",
+       "count": "(93.2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-levels-124-125-entry-ticket-options-t49019/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌇",
+     "label": "Open-air terrace",
+     "pop_html": "<strong>On 124:</strong> Level 124 has the outdoor terrace, at 452 metres above the ground, where you feel the breeze with the full 360-degree view of the city, the Gulf and the desert."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔭",
+     "label": "Telescopes",
+     "pop_html": "<strong>On 125:</strong> Level 125 has the Mashrabiya-style interior and high-powered telescopes for zooming in on landmarks. Free Wi-Fi throughout."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☕",
+     "label": "Café or souvenir add-on",
+     "pop_html": "<strong>Options:</strong> You can add a café treat or soft drink at The Café on the ground floor, a souvenir, or Dubai Aquarium entry when you choose your option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏰",
+     "label": "Timed slot",
+     "pop_html": "<strong>Rules:</strong> The ticket is valid only for the booked time slot. Under-3s enter free. Bring a passport or ID card."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for budget travellers and anyone who just wants the classic view, because €47 gets you both standard decks, the open-air terrace and the fastest lift ride",
+    "skip_html": "if you hate queues or are visiting at sunset: this ticket has no fast-track and the decks get crowded at golden hour"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Entry to Levels 124 and 125, Wi-Fi, telescopes; souvenir, café treat or aquarium entry only if selected."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "At The Top, Burj Khalifa Blvd, Unit LG-089, Downtown Dubai."
+     },
+     {
+      "q": "What about children?",
+      "a": "Under 3 free."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card."
+     }
+    ]
+   },
+   "price": {
+    "main": "€47",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€47"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-levels-124-125-entry-ticket-options-t49019/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Valid for your booked time slot</b>"
+    ],
+    "sublink": {
+     "url": "#2-levels-124-125-standard-ticket",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "premium",
+    "fasttrack",
+    "couples",
+    "sunset"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/03-lounge-152-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-06-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-07-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/03-lounge-152-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "The Lounge, Burj Khalifa",
+    "⏱️ 2 hours",
+    {
+     "url": "https://maps.google.com/?q=The+Lounge+Burj+Khalifa",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Burj Khalifa, Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-vip-experience-level-152-lounge-access-t215139/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Burj Khalifa VIP Experience with Level 152 Lounge Access"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.62",
+     "score": "4.6",
+     "meta": "2.8k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.6",
+       "count": "(2.8k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-vip-experience-level-152-lounge-access-t215139/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥂",
+     "label": "Bubbly + canapés",
+     "pop_html": "<strong>Included:</strong> One glass of bubbly or another house beverage, gourmet canapés or desserts, plus unlimited teas, coffee and non-alcoholic drinks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏔️",
+     "label": "Levels 152–154",
+     "pop_html": "<strong>Floors reached:</strong> The Lounge spans levels 152, 153 and 154, with a 3-storey staircase suspended from the 154th-floor ceiling and a lit fountain inside the staircase."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌅",
+     "label": "575 m terrace",
+     "pop_html": "<strong>Outside:</strong> A guided tour of the outdoor terrace at 575 metres, the highest point you can reach on any ticket here. Sunsets over the Gulf are a highlight."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚡",
+     "label": "Express security",
+     "pop_html": "<strong>Queues:</strong> Fast-track through an express security check, then the lift straight up to level 152. The visit runs about 2 hours."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and special occasions, because €190 buys the highest terrace in the building at 575 m, a lounge seat instead of a crowded window and a drink in hand",
+    "skip_html": "if you are travelling with young kids or on a budget: children 3 to 16 need an adult and the 148 ticket gives you a calm, high deck for half the price"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "The Lounge entry ticket, skip the queue, tour of the outside terrace, teas and coffee, a glass of bubbly or house beverage, gourmet canapés, Wi-Fi."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Burj Khalifa, 1 Sheikh Mohammed bin Rashid Blvd, Downtown Dubai."
+     },
+     {
+      "q": "What about children?",
+      "a": "3 to 16 years only with an adult."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card."
+     }
+    ]
+   },
+   "price": {
+    "main": "€190",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€190"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-vip-experience-level-152-lounge-access-t215139/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Fast-track security</b>"
+    ],
+    "sublink": {
+     "url": "#3-level-152-vip-lounge",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "family",
+    "combo",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Aquarium & Burj Khalifa Levels 124 & 125 Combination Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/04-aquarium-combo-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-06-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-07-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-08-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-09-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/04-aquarium-combo-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Burj Khalifa + Dubai Aquarium",
+    "⏱️ 1 day",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Aquarium+and+Underwater+Zoo",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Mall, Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/combination-ticket-dubai-aquarium-burj-khalifa-levels-124-125-t62827/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Aquarium &amp; Burj Khalifa Levels 124 &amp; 125 Combination Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.42",
+     "score": "4.4",
+     "meta": "25.6k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.4",
+       "count": "(25.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/combination-ticket-dubai-aquarium-burj-khalifa-levels-124-125-t62827/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🦈",
+     "label": "Tunnel + Underwater Zoo",
+     "pop_html": "<strong>Aquarium:</strong> Entry to the aquarium tunnel, the Underwater Zoo and the Underwater Observatory: 485 aquatic species including sand tiger sharks and the King Crocodile, across Rainforest, Rocky Shore and Living Ocean zones."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Levels 124 &amp; 125",
+     "pop_html": "<strong>Burj Khalifa:</strong> Standard entry to the 124 and 125 decks at your booked time slot. No fast-track is included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕙",
+     "label": "Aquarium any time",
+     "pop_html": "<strong>Flexibility:</strong> The aquarium can be visited any time on the same day. Opening hours: Sunday to Wednesday 10 am to 10 pm, Thursday to Saturday 10 am to midnight, last entry one hour before closing."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👶",
+     "label": "Under-3s free",
+     "pop_html": "<strong>Kids:</strong> Infants aged 0 to 3 go free and do not need a ticket. Both tickets must be used on the same day."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with kids, because €79 covers both of the Dubai Mall's headline attractions in one day and the aquarium fills the time around your Burj slot",
+    "skip_html": "if you have no interest in marine life: the standard 124/125 ticket gives you the same decks for €32 less"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Burj Khalifa entry at your selected time, Levels 124 and 125, Dubai Aquarium tunnel and Underwater Zoo, Underwater Observatory."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "At The Top, Burj Khalifa Blvd, Unit LG-089, Downtown Dubai."
+     },
+     {
+      "q": "What about children?",
+      "a": "Infants 0 to 3 free."
+     },
+     {
+      "q": "When is the aquarium open?",
+      "a": "Sun to Wed 10 am to 10 pm, Thu to Sat 10 am to midnight, last entry 1 hour before closing."
+     }
+    ]
+   },
+   "price": {
+    "main": "€79",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€79"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/combination-ticket-dubai-aquarium-burj-khalifa-levels-124-125-t62827/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Official ticket</b>",
+     "<b>Valid 1 day</b>"
+    ],
+    "sublink": {
+     "url": "#4-aquarium-burj-khalifa-124-125-combo",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "couples",
+    "combo",
+    "sunset"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best With a Meal",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & The Burj Club 3-Course Meal"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/05-burj-club-meal-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-06-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-07-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-08-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/05-burj-club-meal-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "At the Top + The Burj Club",
+    "⏱️ 5 hours",
+    {
+     "url": "https://maps.google.com/?q=At+the+Top+Burj+Khalifa",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Burj Khalifa, Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/burj-khalifa-level-124-125-the-burj-club-3-course-meal-t74881/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Burj Khalifa Level 124, 125 &amp; The Burj Club 3-Course Meal"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.24",
+     "score": "4.2",
+     "meta": "9.6k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.2",
+       "count": "(9.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/burj-khalifa-level-124-125-the-burj-club-3-course-meal-t74881/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "3-course meal",
+     "pop_html": "<strong>Included:</strong> A 3-course lunch or dinner at the Burj Club on the 3rd floor of the Burj Khalifa, served alfresco overlooking the Dubai Fountain."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕕",
+     "label": "Lunch or dinner",
+     "pop_html": "<strong>Timing:</strong> Book a deck slot between 12 pm and 2 pm and you have lunch afterwards. Book between 6:30 pm and 9 pm and you have dinner after the deck."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛲",
+     "label": "Fountain view",
+     "pop_html": "<strong>From your table:</strong> The restaurant overlooks the Dubai Fountain, so you can watch the evening shows (every 30 minutes from 6 pm) while you eat."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Levels 124 &amp; 125",
+     "pop_html": "<strong>Deck:</strong> Standard admission to Levels 124 and 125 and the outdoor terrace at 452 metres, at your selected time. No fast-track."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want dinner and the view in one booking, because €82 covers the deck and a 3-course meal facing the fountain, only €35 over the standard ticket",
+    "skip_html": "if you hate queues: the deck part is standard entry without fast-track"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Admission to Levels 124 and 125, 3-course meal at the Burj Club (3rd floor), Wi-Fi."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "At The Top Burj Khalifa, 1 Sheikh Mohammed bin Rashid Blvd."
+     },
+     {
+      "q": "What about children?",
+      "a": "Infants 0 to 3 free, no food or drinks provided."
+     },
+     {
+      "q": "When are meals served?",
+      "a": "Deck slot 12 pm to 2 pm: lunch after. Deck slot 6:30 pm to 9 pm: dinner after."
+     }
+    ]
+   },
+   "price": {
+    "main": "€82",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€82"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/burj-khalifa-level-124-125-the-burj-club-3-course-meal-t74881/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Official ticket</b>"
+    ],
+    "sublink": {
+     "url": "#5-124-125-burj-club-3-course-meal",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "premium",
+    "fasttrack",
+    "combo"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Two-Tower Combo",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 148 & Sky Views Entry Ticket Combo"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/06-148-sky-views-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 148 & Sky Views Entry Ticket Combo"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/06-148-sky-views-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 148 & Sky Views Entry Ticket Combo"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/06-148-sky-views-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 148 & Sky Views Entry Ticket Combo"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/06-148-sky-views-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 148 & Sky Views Entry Ticket Combo"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/06-148-sky-views-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 148 & Sky Views Entry Ticket Combo"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/06-148-sky-views-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/06-148-sky-views-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/06-148-sky-views-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/06-148-sky-views-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/06-148-sky-views-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/06-148-sky-views-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/06-148-sky-views-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "At the Top SKY + Sky Views",
+    "⏱️ 1 day",
+    {
+     "url": "https://maps.google.com/?q=Sky+Views+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Burj Khalifa, Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-level-148-sky-views-entry-ticket-combo-t599447/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Burj Khalifa Level 148 &amp; Sky Views Entry Ticket Combo"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "1.1k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.7",
+       "count": "(1.1k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-level-148-sky-views-entry-ticket-combo-t599447/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚡",
+     "label": "148 + 124/125 fast-track",
+     "pop_html": "<strong>Burj Khalifa:</strong> Skip-the-line entry for security and the lift to SKY Level 148 and Levels 124/125, plus the lounge with snacks and hot drinks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔭",
+     "label": "Sky Views at 219.5 m",
+     "pop_html": "<strong>Second tower:</strong> Entry to the Sky Views Observatory, 219.5 metres up, which looks back at the Burj Khalifa itself. Visit any time before or after your Burj slot on the same day."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛝",
+     "label": "Slide: 25 AED extra",
+     "pop_html": "<strong>Not included:</strong> The Sky Glass Slide from level 53 costs an extra 25 AED per person, paid on site."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚶",
+     "label": "Separate tower",
+     "pop_html": "<strong>Heads-up:</strong> Sky Views is in a separate tower from the Burj Khalifa, so build walking time between your two visits into the day."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for photographers who want the Burj in their pictures, because Sky Views shows the tower from outside while 148 shows the city from it, for €22 over 148 alone",
+    "skip_html": "if you only have an hour or two: the two sites are in separate towers and the 148 ticket on its own covers the main event"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Skip-the-line Burj Khalifa SKY Level 148 and Levels 124/125, Sky Views Dubai entry, lounge with snacks and hot drinks."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Sky Glass Slide, 25 AED per person on site."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Burj Khalifa, 1 Sheikh Mohammed bin Rashid Blvd, Downtown Dubai."
+     },
+     {
+      "q": "What about children?",
+      "a": "Under 3 free."
+     }
+    ]
+   },
+   "price": {
+    "main": "€120",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€120"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-level-148-sky-views-entry-ticket-combo-t599447/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Fast-track entry</b>"
+    ],
+    "sublink": {
+     "url": "#6-level-148-sky-views-combo",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "budget",
+    "combo",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Cheapest Combo",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & Sky Views Entry Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/07-124-sky-views-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & Sky Views Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/07-124-sky-views-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & Sky Views Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/07-124-sky-views-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & Sky Views Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/07-124-sky-views-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & Sky Views Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/07-124-sky-views-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & Sky Views Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/07-124-sky-views-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Burj Khalifa Level 124, 125 & Sky Views Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/07-124-sky-views-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/07-124-sky-views-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/07-124-sky-views-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/07-124-sky-views-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/07-124-sky-views-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/07-124-sky-views-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/07-124-sky-views-06-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/07-124-sky-views-07-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Burj Khalifa + Sky Views",
+    "⏱️ 1 day",
+    {
+     "url": "https://maps.google.com/?q=Sky+Views+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Burj Khalifa, Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-level-124-125-sky-views-entry-ticket-t417771/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Burj Khalifa Level 124, 125 &amp; Sky Views Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.28",
+     "score": "4.3",
+     "meta": "3.6k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.3",
+       "count": "(3.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-level-124-125-sky-views-entry-ticket-t417771/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕐",
+     "label": "Non-prime hours",
+     "pop_html": "<strong>Catch:</strong> The Burj Khalifa part covers Levels 124 and 125 in non-prime hours only, for your booked time slot. Sunset is the prime window people usually want."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔭",
+     "label": "Sky Views at 219.5 m",
+     "pop_html": "<strong>Second view:</strong> Sky Views Observatory entry, 219.5 metres up, valid for one day during opening hours. Go before or after your Burj slot."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "Go straight to gates",
+     "pop_html": "<strong>Entry:</strong> This is your final ticket: no counter stop needed. Carry photo ID in case it is checked."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👶",
+     "label": "Under-4s free",
+     "pop_html": "<strong>Kids:</strong> Children under 4 go free of charge."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for daytime visitors on a budget who want two viewpoints, because €69 adds Sky Views to the standard decks for €22",
+    "skip_html": "if you want sunset or golden hour: the Burj part is limited to non-prime hours"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Levels 124 and 125 (non-prime hours, booked slot only), Sky Views Dubai entry."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Burj Khalifa, 1 Sheikh Mohammed bin Rashid Blvd, Downtown Dubai."
+     },
+     {
+      "q": "What about children?",
+      "a": "Under 4 free."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Valid photo ID."
+     }
+    ]
+   },
+   "price": {
+    "main": "€69",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€69"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-level-124-125-sky-views-entry-ticket-t417771/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Official ticket</b>",
+     "<b>Valid 1 day</b>"
+    ],
+    "sublink": {
+     "url": "#7-124-125-sky-views-combo",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "fasttrack"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Fast-Track Only",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Fast-Track Entry to Burj Khalifa Levels 124 & 125"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-burj-khalifa-tickets/08-fast-track-124-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fast-Track Entry to Burj Khalifa Levels 124 & 125"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/08-fast-track-124-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fast-Track Entry to Burj Khalifa Levels 124 & 125"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/08-fast-track-124-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fast-Track Entry to Burj Khalifa Levels 124 & 125"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/08-fast-track-124-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fast-Track Entry to Burj Khalifa Levels 124 & 125"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/08-fast-track-124-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fast-Track Entry to Burj Khalifa Levels 124 & 125"
+      ],
+      [
+       "data-src",
+       "/assets/best-burj-khalifa-tickets/08-fast-track-124-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-burj-khalifa-tickets/08-fast-track-124-01-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/08-fast-track-124-02-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/08-fast-track-124-03-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/08-fast-track-124-04-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/08-fast-track-124-05-t.avif"
+     },
+     {
+      "src": "/assets/best-burj-khalifa-tickets/08-fast-track-124-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "At the Top",
+    "⏱️ 1 hour",
+    {
+     "url": "https://maps.google.com/?q=At+the+Top+Burj+Khalifa+Dubai+Mall",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Mall, Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-fast-track-entry-to-burj-khalifa-levels-124-125-t1024874/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Fast-Track Entry to Burj Khalifa Levels 124 &amp; 125"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.44",
+     "score": "4.4",
+     "meta": "2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.4",
+       "count": "(2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-fast-track-entry-to-burj-khalifa-levels-124-125-t1024874/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚡",
+     "label": "Express lifts",
+     "pop_html": "<strong>Queues:</strong> Fast-track entry through the express lifts, so you skip the standard lift queue. The visit is valid for 1 hour."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Levels 124 &amp; 125",
+     "pop_html": "<strong>Floors:</strong> The 124 open-air terrace and the Mashrabiya-style 125, with telescopes and free Wi-Fi."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "Dubai Mall entry",
+     "pop_html": "<strong>Finding it:</strong> Entry is at the Burj Khalifa in Dubai Mall, Downtown Dubai. Allow time to find it inside the mall before your slot."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💸",
+     "label": "€21 below 148",
+     "pop_html": "<strong>Compare:</strong> For €21 more, the SKY 148 ticket adds Level 148, the lounge with snacks and hot drinks, and also skips the queues."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for visitors who only want the standard decks and will pay to skip the lines, because it removes the lift queue for €31 over the standard ticket",
+    "skip_html": "if you are already paying €78: the 148 ticket costs only €21 more and adds Level 148 and the lounge with fast-track included"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Fast-track entry to Levels 124 and 125, free Wi-Fi, viewing telescopes."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Meals and drinks, souvenirs, personal guide."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dubai Mall, Downtown Dubai."
+     },
+     {
+      "q": "How accessible is it?",
+      "a": "Wheelchair-accessible."
+     }
+    ]
+   },
+   "price": {
+    "main": "€78",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€78"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-fast-track-entry-to-burj-khalifa-levels-124-125-t1024874/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=burj_khalifa_tickets&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Fast-track entry</b>"
+    ],
+    "sublink": {
+     "url": "#8-fast-track-levels-124-125",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,2868 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "beginner",
+    "sea",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Discover Scuba Diving in Dubai (Jumeirah Beach)"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discover Scuba Diving in Dubai (Jumeirah Beach)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discover Scuba Diving in Dubai (Jumeirah Beach)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discover Scuba Diving in Dubai (Jumeirah Beach)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discover Scuba Diving in Dubai (Jumeirah Beach)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discover Scuba Diving in Dubai (Jumeirah Beach)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-04-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-05-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/01-discover-scuba-jumeirah-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Nemo Diving Center",
+    "⏱️ 3 hours",
+    {
+     "url": "https://maps.google.com/?q=Nemo+Diving+Center+Azure+Residences+Palm+Jumeirah+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jumeirah Beach"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/discover-scuba-diving-in-dubai-t95049/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Discover Scuba Diving in Dubai (Jumeirah Beach)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.63",
+     "score": "4.6",
+     "meta": "515 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.6",
+       "count": "(515)",
+       "url": "https://www.getyourguide.com/dubai-l173/discover-scuba-diving-in-dubai-t95049/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Up to 12 m",
+     "pop_html": "<strong>The dive:</strong> A real sea dive off Jumeirah Beach with an instructor beside you, down to a maximum of 12 metres (40 feet). You learn the skills first, then descend."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎓",
+     "label": "No certificate",
+     "pop_html": "<strong>Who can join:</strong> Built for first-timers with no diving experience. Not suitable for pregnant women."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Meet at the centre",
+     "pop_html": "<strong>Getting there:</strong> You meet at Nemo Diving Center, Azure Residences on Palm Jumeirah. Hotel pickup is not part of the package, so confirm transport when you book."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Max 10 people",
+     "pop_html": "<strong>Group size:</strong> Small group capped at 10 participants. Instructors speak English, Arabic, Spanish, Russian and Hebrew."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a first dive in the actual sea without losing a whole day, because it is the cheapest option here (€86), takes 3 hours and still goes down to 12 metres.",
+    "skip_html": "if you are already certified (book a fun dive in Fujairah or Deep Dive instead) or you want turtles and coral reefs, which the east coast does better."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Diving equipment, instruction."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Nemo Diving Center, Azure Residences, Palm Jumeirah."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Pregnant women."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Swimwear, reusable water bottle."
+     }
+    ]
+   },
+   "price": {
+    "main": "€86",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€86"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/discover-scuba-diving-in-dubai-t95049/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Meet at the centre</b>"
+    ],
+    "sublink": {
+     "url": "#1-discover-scuba-diving-jumeirah-beach",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "beginner",
+    "sea",
+    "snorkel"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Sea Dive for Beginners",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Discovery Scuba Diving & Snorkelling in Fujairah (from Dubai)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discovery Scuba Diving & Snorkelling in Fujairah (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discovery Scuba Diving & Snorkelling in Fujairah (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discovery Scuba Diving & Snorkelling in Fujairah (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Discovery Scuba Diving & Snorkelling in Fujairah (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-04-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/02-fujairah-discovery-dibba-05-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Nemo Diving Center",
+    "⏱️ 8 hours",
+    {
+     "url": "https://maps.google.com/?q=Dibba+Fujairah",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dibba, Fujairah"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-discovery-scuba-diving-snorkelling-in-fujairah-t165327/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Discovery Scuba Diving &amp; Snorkelling in Fujairah (from Dubai)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.89",
+     "score": "4.9",
+     "meta": "97 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(97)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-discovery-scuba-diving-snorkelling-in-fujairah-t165327/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐢",
+     "label": "Dive + snorkel",
+     "pop_html": "<strong>What you do:</strong> A guided try dive to up to 10 metres over coral reefs, then you switch to snorkel gear and swim alongside sea turtles, with mountains around the bay."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎓",
+     "label": "No certificate",
+     "pop_html": "<strong>Who can join:</strong> No previous diving experience needed, but you must be able to swim. Not suitable for pregnant women or people with pre-existing medical conditions."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "+AED 160 transfer",
+     "pop_html": "<strong>Transport:</strong> Return transport between Dubai and Fujairah is arranged but costs AED 160 extra, paid on arrival. It covers both directions."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥤",
+     "label": "Drinks &amp; snacks",
+     "pop_html": "<strong>Included on board:</strong> Certified instructor, all diving equipment, a theory session on the boat, unlimited soft drinks, water and snacks."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for beginners who want the full east coast version, coral and turtles in the Gulf of Oman, and the best-rated beginner trip here (4.9).",
+    "skip_html": "if you cannot swim (swimming is required) or you only have a morning free, because the day runs about 8 hours."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Certified instructor, all diving equipment, theory session on board, unlimited soft drinks, water, snacks."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Dubai to Fujairah transport is AED 160 extra, payable on arrival (return)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dibba, Fujairah (Gulf of Oman)."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Original passport, swimwear, towel."
+     }
+    ]
+   },
+   "price": {
+    "main": "€107",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€107"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-discovery-scuba-diving-snorkelling-in-fujairah-t165327/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> available"
+    ],
+    "sublink": {
+     "url": "#2-discovery-scuba-snorkel-fujairah",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "certified",
+    "pool"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Unique Dive",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Guided Scuba Dive for Certified Divers at Deep Dive Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/03-deep-dive-certified-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Scuba Dive for Certified Divers at Deep Dive Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/03-deep-dive-certified-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Scuba Dive for Certified Divers at Deep Dive Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/03-deep-dive-certified-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Scuba Dive for Certified Divers at Deep Dive Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/03-deep-dive-certified-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/03-deep-dive-certified-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/03-deep-dive-certified-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/03-deep-dive-certified-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/03-deep-dive-certified-04-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Deep Dive Dubai",
+    "⏱️ 2 hours",
+    {
+     "url": "https://maps.google.com/?q=Deep+Dive+Dubai+NAS+Sports+Complex",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Deep Dive Dubai, NAS Sports Complex"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/guided-scuba-dive-for-certified-divers-at-deep-dive-dubai-t443098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Guided Scuba Dive for Certified Divers at Deep Dive Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.87",
+     "score": "4.9",
+     "meta": "85 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(85)",
+       "url": "https://www.getyourguide.com/dubai-l173/guided-scuba-dive-for-certified-divers-at-deep-dive-dubai-t443098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "World&#x27;s deepest pool",
+     "pop_html": "<strong>Where:</strong> Deep Dive Dubai, a 60-metre-deep indoor pool built around a sunken city. Entry ticket is included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📏",
+     "label": "10, 18 or 30 m",
+     "pop_html": "<strong>Depth:</strong> You choose the depth your certification allows: 10 m, 18 m or 30 m for advanced divers. You also choose your diver-to-guide ratio."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Certified only",
+     "pop_html": "<strong>Requirements:</strong> Bring your certification card (or a photo of it) from a recognised agency and a signed waiver. Minimum age 10."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "Entry + gear",
+     "pop_html": "<strong>Included:</strong> Entry to Deep Dive Dubai, all equipment and breathing gases, and a professional dive guide. You make your own way to NAS Sports Complex. Not for children under 10 or non-swimmers."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for certified divers who want the one dive you cannot do anywhere else, because it takes 2 hours in the city and goes up to 30 m.",
+    "skip_html": "if you want marine life or are price-sensitive, because 2 sea dives with transfer in Fujairah (#4) cost €148, half this price."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "All equipment and breathing gases, dive guide, expert advice, entry ticket."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Non-refundable."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Deep Dive Dubai, NAS Sports Complex, Dubai."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 10, non-swimmers, uncertified divers, people with pre-existing medical conditions."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID, swimwear, diving certification, signed waiver."
+     }
+    ]
+   },
+   "price": {
+    "main": "€296",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€296"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/guided-scuba-dive-for-certified-divers-at-deep-dive-dubai-t443098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Entry ticket</b> included",
+     "<b>All equipment and gases</b> included"
+    ],
+    "sublink": {
+     "url": "#3-deep-dive-dubai-guided-dive-certified",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "certified",
+    "sea"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Value for Certified Divers",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-04-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-05-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-06-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-07-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Fujairah dive centre",
+    "⏱️ 8 hours",
+    {
+     "url": "https://maps.google.com/?q=Fujairah+dive+sites",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Fujairah, East Coast"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-2-dives-for-certified-divers-with-bbq-transfer-t440676/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "70 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(70)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-2-dives-for-certified-divers-with-bbq-transfer-t440676/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🤿",
+     "label": "2 dives",
+     "pop_html": "<strong>The diving:</strong> Two guided dives at two different east coast sites: soft and hard corals, wrecks, artificial reefs and macro life like shrimps and nudibranchs."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Transfer included",
+     "pop_html": "<strong>Transport:</strong> Hotel pickup and drop-off from Dubai or Fujairah is included in the price. Pickup is between 6:00 and 7:00 AM, exact time sent the day before."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏞️",
+     "label": "2 stops on return",
+     "pop_html": "<strong>On the way back:</strong> Stops at Khor Fakkan Waterfall and the Khor Fakkan Amphitheatre on the drive back to Dubai."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚿",
+     "label": "Changing rooms",
+     "pop_html": "<strong>At the dive centre:</strong> Women's and men's lockers and changing rooms, scuba equipment, a certified instructor or divemaster and a sound system on the boat. Bring your own towel and swimwear."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for certified divers who want real reef diving at the lowest cost per dive (€74), because the transfer is already in the €148.",
+    "skip_html": "if you are not certified or only have half a day, since pickup is 6:00–7:00 AM and the trip lasts about 8 hours."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, scuba equipment, 2 guided dives at different sites, certified instructor or divemaster, lockers and changing rooms."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotels in Dubai or Fujairah, between 6:00 and 7:00 AM (exact time sent one day before)."
+     },
+     {
+      "q": "How big is the group?",
+      "a": "Up to 10 participants."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport, swimwear, towel, diving certification."
+     }
+    ]
+   },
+   "price": {
+    "main": "€148",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€148"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-2-dives-for-certified-divers-with-bbq-transfer-t440676/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#4-2-dives-for-certified-divers-fujairah",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "beginner",
+    "certified",
+    "sea",
+    "snorkel"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best for Mixed Groups",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/05-fujairah-half-day-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/05-fujairah-half-day-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/05-fujairah-half-day-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/05-fujairah-half-day-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/05-fujairah-half-day-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/05-fujairah-half-day-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/05-fujairah-half-day-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/05-fujairah-half-day-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/05-fujairah-half-day-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/05-fujairah-half-day-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/05-fujairah-half-day-04-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/05-fujairah-half-day-05-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/05-fujairah-half-day-06-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/05-fujairah-half-day-07-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Fujairah dive centre",
+    "⏱️ 8 hours",
+    {
+     "url": "https://maps.google.com/?q=Fujairah+dive+sites",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Fujairah, East Coast"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-fujairah-daily-boat-scuba-dive-snorkelling-trip-t118216/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Fujairah Half-Day Scuba Dive and Snorkelling (from Dubai)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.64",
+     "score": "4.6",
+     "meta": "194 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.6",
+       "count": "(194)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-fujairah-daily-boat-scuba-dive-snorkelling-trip-t118216/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "👫",
+     "label": "Beginners + certified",
+     "pop_html": "<strong>Two tracks:</strong> Beginners get instruction and dive with the instructor at all times. Certified divers are guided by a divemaster and do two dives at different sites, depending on licence level."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕕",
+     "label": "6–7 AM pickup",
+     "pop_html": "<strong>Timing:</strong> Pickup between 6:00 and 7:00 AM, back at the port between 12:00 and 1:00 PM, then the driver takes you to your Dubai hotel."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "+AED 160 transfer",
+     "pop_html": "<strong>Transport:</strong> Dubai to Fujairah transport is arranged but costs AED 160 extra, paid on arrival, for both directions."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐠",
+     "label": "Snorkel after",
+     "pop_html": "<strong>Also included:</strong> Snorkelling gear, life jacket, unlimited soft drinks and water. Coral gardens with colourful fish and a chance of turtles."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples or groups where one person is certified and the other has never dived, because both go on the same boat for the same €107.",
+    "skip_html": "if everyone is a beginner (#2 is rated higher at the same price) or anyone is under 12 or cannot swim."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Scuba equipment, snorkelling gear, life jacket, unlimited soft drinks, water, professional instructor."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Transport is AED 160 extra, payable on arrival (return); alcoholic drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Dubai hotels, 6:00–7:00 AM; back at the port 12:00–1:00 PM."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 12, pregnant women, non-swimmers, people with pre-existing medical conditions."
+     }
+    ]
+   },
+   "price": {
+    "main": "€107",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€107"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-fujairah-daily-boat-scuba-dive-snorkelling-trip-t118216/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> available"
+    ],
+    "sublink": {
+     "url": "#5-fujairah-scuba-dive-snorkel-trip",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "beginner",
+    "sea",
+    "private"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Private Dive",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/06-vip-private-scuba-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-04-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-05-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-06-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-07-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-08-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-09-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/06-vip-private-scuba-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Bermuda Diving Center",
+    "⏱️ 3 hours",
+    {
+     "url": "https://maps.google.com/?q=Bermuda+Diving+Center+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jumeirah Beach"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-try-scuba-diving-experience-with-hotel-transfer-t590654/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "VIP Private Scuba Dive in Dubai with Hotel Transfer"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.17",
+     "score": "4.2",
+     "meta": "39 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.2",
+       "count": "(39)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-try-scuba-diving-experience-with-hotel-transfer-t590654/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "👤",
+     "label": "1-on-1 instructor",
+     "pop_html": "<strong>Private:</strong> Your own instructor for the whole session, from the classroom briefing to the dive. Instructors speak English, Arabic, Chinese, Hindi, Malayalam, Russian and Tagalog."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "30–45 min dive",
+     "pop_html": "<strong>The dive:</strong> After a 30-minute classroom briefing and 30 minutes of shallow-water training, you dive off Jumeirah Beach to 6–8 metres for 30–45 minutes, with a fish interaction."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Photos &amp; videos",
+     "pop_html": "<strong>Included:</strong> Unlimited underwater photos and videos, full equipment, towels and slippers, plus water, juice, coffee and popcorn."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚫",
+     "label": "No swimming needed",
+     "pop_html": "<strong>Who can join:</strong> No prior experience and no swimming skills required. Complimentary hotel pickup and drop-off in Dubai."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for nervous beginners and non-swimmers, because it is the only sea dive here with a private instructor, no swimming requirement and photos included.",
+    "skip_html": "if you are fine in a group, because #1 goes deeper (12 m vs 6–8 m) for €87 less."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Private instructor, hotel pickup and drop-off in Dubai, unlimited underwater photos and videos, full equipment, towels and slippers, water, juice, coffee, popcorn."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Bermuda Diving Center, Dubai (15-minute transfer to Jumeirah Beach)."
+     },
+     {
+      "q": "What is the schedule?",
+      "a": "30 min classroom, 30 min shallow-water training, 30–45 min dive to 6–8 m."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Arabic, Chinese, Hindi, Malayalam, Russian, Tagalog."
+     }
+    ]
+   },
+   "price": {
+    "main": "€173",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€173"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-try-scuba-diving-experience-with-hotel-transfer-t590654/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#6-vip-private-scuba-dive-with-transfer",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "beginner",
+    "pool"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best for Non-Swimmers",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Sunken City Walk at Deep Dive Dubai (No Certificate Needed)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sunken City Walk at Deep Dive Dubai (No Certificate Needed)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sunken City Walk at Deep Dive Dubai (No Certificate Needed)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sunken City Walk at Deep Dive Dubai (No Certificate Needed)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sunken City Walk at Deep Dive Dubai (No Certificate Needed)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sunken City Walk at Deep Dive Dubai (No Certificate Needed)"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-04-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-05-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/07-deep-dive-sunken-city-walk-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Deep Dive Dubai",
+    "⏱️ 1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Deep+Dive+Dubai+NAS+Sports+Complex",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Deep Dive Dubai, NAS Sports Complex"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-sunken-city-walk-at-deep-dive-not-certificate-needed-t1112559/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Sunken City Walk at Deep Dive Dubai (No Certificate Needed)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.46",
+     "score": "4.5",
+     "meta": "9 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(9)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-sunken-city-walk-at-deep-dive-not-certificate-needed-t1112559/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚶",
+     "label": "30 min at 4 m",
+     "pop_html": "<strong>What you do:</strong> A 30-minute session, gearing up included, with guides on a balcony-style platform 4 metres down, among sunken city props: a vintage motorcycle, a parking meter, a coffee table."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚫",
+     "label": "No swimming needed",
+     "pop_html": "<strong>Who can join:</strong> No swimming skills and no certificate required. Minimum age 10, a parent or guardian must be present for minors."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎬",
+     "label": "Teaser video",
+     "pop_html": "<strong>Included:</strong> Underwater walk, equipment, instructor, locker, parking and a teaser video. Upgrades include longer videos and a behind-the-scenes facility tour."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Max 6 people",
+     "pop_html": "<strong>Group size:</strong> Small group capped at 6, English-speaking guides. Arrive 30 minutes early and fill in the online waiver before your visit."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for non-swimmers and nervous first-timers who want to see Deep Dive Dubai from the inside, because no swimming or certificate is required.",
+    "skip_html": "if you can swim and want an actual dive, because #1 takes you to 12 m in the sea for €62 less."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Underwater walk, equipment, instructor, locker, parking, teaser video."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Non-refundable."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Deep Dive Dubai, NAS Sports Complex, Dubai."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 10."
+     },
+     {
+      "q": "What should I know before I go?",
+      "a": "Arrive 30 minutes early; online waiver required; no flying or Burj Khalifa for 18 hours after."
+     }
+    ]
+   },
+   "price": {
+    "main": "€148",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€148"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-sunken-city-walk-at-deep-dive-not-certificate-needed-t1112559/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Locker and parking</b> included",
+     "<b>Teaser video</b> included"
+    ],
+    "sublink": {
+     "url": "#7-deep-dive-sunken-city-walk",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "pool",
+    "snorkel",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Snorkelling at Deep Dive Dubai, the World's Deepest Pool"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Snorkelling at Deep Dive Dubai, the World's Deepest Pool"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Snorkelling at Deep Dive Dubai, the World's Deepest Pool"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Snorkelling at Deep Dive Dubai, the World's Deepest Pool"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-01-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-02-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-03-t.avif"
+     },
+     {
+      "src": "/assets/best-scuba-diving-dubai/08-deep-dive-snorkel-04-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Deep Dive Dubai",
+    "⏱️ 1 hour",
+    {
+     "url": "https://maps.google.com/?q=Deep+Dive+Dubai+NAS+Sports+Complex",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Deep Dive Dubai, NAS Sports Complex"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-snorkelling-lesson-at-deep-dive-dubai-with-instructor-t436659/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Snorkelling at Deep Dive Dubai, the World&#x27;s Deepest Pool"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "20 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(20)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-snorkelling-lesson-at-deep-dive-dubai-with-instructor-t436659/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🤿",
+     "label": "1 hour snorkel",
+     "pop_html": "<strong>What you do:</strong> A snorkel session on the surface of the 60-metre pool with a guide who teaches the basics, gear adjustment and a few tricks, looking down on the sunken city."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Ages 6+",
+     "pop_html": "<strong>Who can join:</strong> Minimum age 6 and you must be able to swim. A snorkelling life jacket keeps you at the surface. Parent or guardian must be present for minors."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Life jacket",
+     "pop_html": "<strong>Included:</strong> Snorkelling equipment and a snorkelling life jacket that keeps you on the surface. You make your own way to NAS Sports Complex."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Max 6 people",
+     "pop_html": "<strong>Group size:</strong> Small group of up to 6 with an English-speaking guide. Bring passport or ID and swimwear, fill in the online waiver first."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with kids from 6 who want to see Deep Dive Dubai together, because it is the lowest age limit on the page and costs €99.",
+    "skip_html": "if you want to snorkel with real marine life, because the Fujairah trips (#2, #5) include sea snorkelling with turtles."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Snorkelling equipment, life jacket."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Non-refundable."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Deep Dive Dubai, NAS Sports Complex, Dubai."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 6, non-swimmers."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card, swimwear."
+     }
+    ]
+   },
+   "price": {
+    "main": "€99",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€99"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-snorkelling-lesson-at-deep-dive-dubai-with-instructor-t436659/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Snorkelling equipment</b> included",
+     "<b>Small group of max 6</b>"
+    ],
+    "sublink": {
+     "url": "#8-deep-dive-dubai-snorkelling",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
