@@ -1,0 +1,3176 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "budget",
+    "photos"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab, Atlantis & Burj Khalifa; Free Photos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/01-yoush-30min-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-01-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-02-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-03-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-04-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-05-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-06-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-07-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-08-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-09-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/01-yoush-30min-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Yoush Water Sports",
+    "⏱️ 30 min (up to 1 hr)",
+    {
+     "url": "https://maps.google.com/?q=Yoush+Water+Sports+Jet+Ski+Dubai+Umm+Suqeim",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Umm Suqeim Fishing Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-of-burj-al-arab-with-free-photos-video-t448454/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jet Ski to Burj Al Arab, Atlantis &amp; Burj Khalifa; Free Photos"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.93",
+     "score": "4.9",
+     "meta": "6.6k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(6.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-of-burj-al-arab-with-free-photos-video-t448454/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "30 min",
+     "pop_html": "<strong>Time on the water:</strong> 30 minutes from the harbour to the Burj Al Arab and back along Jumeirah Beach Hotel, with the Burj Khalifa skyline on the return. 1-hour options are also sold. At the from-price that is about €1.11 per minute per jet ski."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "2 per ski",
+     "pop_html": "<strong>Riders:</strong> The price is per jet ski and covers 1 or 2 people: 3–4 riders book 2 skis, 5–6 book 3. You can swap drivers during the ride, so a couple pays about €16.60 each."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Photos + video",
+     "pop_html": "<strong>Included:</strong> The instructor shoots photos and videos for free. Ice cream, drinking water, lockers, a changing room, an open shower and Wi-Fi are included too."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Driver 16+",
+     "pop_html": "<strong>Age limits:</strong> Drivers must be at least 16, passengers at least 5. Bring a passport (a copy is accepted). Not suitable for pregnant women."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers and couples who want the classic Burj Al Arab ride because it is the cheapest per minute here (€1.11) and still includes photos, video and ice cream",
+    "skip_html": "if riding around Atlantis and the Palm is the point: the listed 30-minute route stays on the Burj Al Arab side"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Jet ski ride, instructor, ice cream, drinking water, photos and videos, lockers, changing room, open shower, Wi-Fi."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food, personal expenses."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Yoush Water Sports Jet Ski Dubai, P&amp;O Marina Port Fishing Harbor, Jumeira St, Umm Suqeim 2."
+     },
+     {
+      "q": "What are the age rules?",
+      "a": "Drivers 16+, passengers 5+."
+     }
+    ]
+   },
+   "price": {
+    "main": "€33",
+    "sub": "from, per jet ski (1–2 riders)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet ski (1–2 riders)",
+      "price": "€33"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-of-burj-al-arab-with-free-photos-video-t448454/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#1-yoush-30-min-jet-ski-burj-al-arab",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "budget",
+    "photos"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Café Combo",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jet Ski to Burj Al Arab & Atlantis, Photo, Video & Ice Cream"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/02-nemo-30min-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-01-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-02-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-03-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-04-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-05-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-06-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-07-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-08-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-09-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/02-nemo-30min-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Nemo WaterSports",
+    "⏱️ 30 min (up to 1 hr)",
+    {
+     "url": "https://maps.google.com/?q=Nemo+WaterSports+Jet+Ski+Dubai+Umm+Suqeim",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Umm Suqeim Fishing Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-to-burj-arab-atlantis-w-pic-video-ice-cream-t59772/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jet Ski to Burj Al Arab &amp; Atlantis, Photo, Video &amp; Ice Cream"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.91",
+     "score": "4.9",
+     "meta": "27.4k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(27.4k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-to-burj-arab-atlantis-w-pic-video-ice-cream-t59772/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "30 min",
+     "pop_html": "<strong>Time on the water:</strong> A 30-minute ride from Umm Suqeim Marina past the Burj Al Arab and Jumeirah Beach Hotel; on a clear day you may see the Burj Khalifa in the distance. Longer options up to 1 hour. About €1.15 per minute per ski."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍦",
+     "label": "Ice cream or pizza",
+     "pop_html": "<strong>After the ride:</strong> Lumiere Café is about 50 steps from the base: one ice cream or pizza per jet ski depending on the option, plus 20% off the rest of the menu, in air-conditioned seats with sea views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Photos + video",
+     "pop_html": "<strong>Included:</strong> Free photos and videos from the ride. Collect them before you leave the base. Water, life jackets, lockers, changing rooms, open showers and Wi-Fi are included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "2 car parks",
+     "pop_html": "<strong>Getting there:</strong> Two public car parks on site at Fishing Harbour, Umm Suqeim 2. Check in 20 minutes before departure: late arrivals are only accepted at the operator's discretion."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and families who want the Burj Al Arab ride plus a sit-down treat after, because the ice cream or pizza at the café next door is included per jet ski",
+    "skip_html": "if you only care about the ride itself: Yoush (#1) is slightly cheaper for the same 30 minutes"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Jet ski tour, instructor, photos and videos, drinking water, life jackets, lockers, changing rooms, open showers, Wi-Fi, 1 ice cream or pizza at Lumiere Café (by option), 20% café discount."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup and drop-off."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Nemo WaterSports Jet Ski Dubai, Parasailing &amp; Flyboard, Fishing Harbour, Jumeirah St, Umm Suqeim 2."
+     },
+     {
+      "q": "How many riders per jet ski?",
+      "a": "1–2 per jet ski, price per ski."
+     }
+    ]
+   },
+   "price": {
+    "main": "€34",
+    "sub": "from, per jet ski (1–2 riders)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet ski (1–2 riders)",
+      "price": "€34"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-to-burj-arab-atlantis-w-pic-video-ice-cream-t59772/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#2-nemo-30-min-jet-ski-ice-cream",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "palm",
+    "long"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Longest Ride",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour with Atlantis Hotel & Burj Al Arab Views"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-jet-ski-tours-dubai/03-coast-2hr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour with Atlantis Hotel & Burj Al Arab Views"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/03-coast-2hr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour with Atlantis Hotel & Burj Al Arab Views"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/03-coast-2hr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour with Atlantis Hotel & Burj Al Arab Views"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/03-coast-2hr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/03-coast-2hr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/03-coast-2hr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/03-coast-2hr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/03-coast-2hr-04-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Coastline tour",
+    "⏱️ 1.5–2 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Fish+Market+Umm+Suqeim",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Near Burj Al Arab (by option)"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-to-dubai-marina-jbr-t245622/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Jet Ski Tour with Atlantis Hotel &amp; Burj Al Arab Views"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.78",
+     "score": "4.8",
+     "meta": "409 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(409)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-to-dubai-marina-jbr-t245622/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "1.5–2 hours",
+     "pop_html": "<strong>Time on the water:</strong> The longest tour here, with photo and swim stops along the way. At the from-price that is €1.45 per minute for 90 minutes, or about €1.09 per minute if your option runs the full 2 hours."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Full coast route",
+     "pop_html": "<strong>Route:</strong> Burj Al Arab photo stop, into the Palm Jumeirah lagoon, Atlantis, the Dubai Marina and JBR skyline, Ain Dubai, the sheikh's private island, The World islands and a Burj Khalifa view on the way back."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "1800cc Yamaha",
+     "pop_html": "<strong>The machine:</strong> Recent Yamaha 1800cc two-seaters with 260 horsepower and a top speed of up to 110 km/h. Premium goggles are provided because the sea is very salty."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Driver 16+",
+     "pop_html": "<strong>Age and limits:</strong> Drivers 16+, passengers 4+. Not suitable for riders over 136 kg (300 lbs) or pregnant women. Bring a passport, or Emirates ID if you live in the UAE."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for confident riders and couples who want the whole coastline in one go, because it is the only tour here that covers Burj Al Arab, the Palm, Ain Dubai and The World with swim stops",
+    "skip_html": "if you are on a budget or just want one photo at the Burj Al Arab: €131 is four times the price of #1"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Recent Yamaha jet ski, life jackets, premium goggles, photos by the instructor, changing room, shower."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Jet ski station near the Burj Al Arab; varies by option."
+     },
+     {
+      "q": "What are the age rules?",
+      "a": "Drivers 16+, passengers 4+; max 136 kg."
+     },
+     {
+      "q": "How many riders per jet ski?",
+      "a": "1–2 per jet ski, price per ski."
+     }
+    ]
+   },
+   "price": {
+    "main": "€131",
+    "sub": "from, per jet ski (1–2 riders)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet ski (1–2 riders)",
+      "price": "€131"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-to-dubai-marina-jbr-t245622/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#3-2-hour-jet-ski-burj-al-arab-to-ain-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "palm"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best From Dubai Marina",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm & Burj Al Arab"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/04-shark-marina-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-01-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-02-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-03-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-04-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-05-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-06-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-07-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-08-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/04-shark-marina-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Shark Jetski Yacht Club",
+    "⏱️ 30 min–1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Shark+Jetski+Yacht+Club+Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-tour-to-dubai-eye-jbr-palm-burj-al-arab-t309623/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Jet Ski Tour to Dubai Eye, JBR, Palm &amp; Burj Al Arab"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.78",
+     "score": "4.8",
+     "meta": "563 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(563)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-tour-to-dubai-eye-jbr-palm-burj-al-arab-t309623/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "Dubai Marina start",
+     "pop_html": "<strong>Departure:</strong> The only tour here that leaves from Dubai Marina (Shark Jetski Yacht Club, Nuran Marina Serviced Residences), so Ain Dubai and the Palm are minutes away instead of a long run up the coast from Umm Suqeim."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Ain Dubai + Atlantis",
+     "pop_html": "<strong>Route:</strong> Slow exit from the marina, then Bluewaters Island and Ain Dubai, JBR Beach, around the Palm and Atlantis. The longer options add the Burj Al Arab."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔒",
+     "label": "Private guide",
+     "pop_html": "<strong>Format:</strong> Booked as a private group with a live guide in English or Arabic. Skis take up to 2 riders. From €88.64 for 1 rider on the shortest option: about €2.95 per minute if that is the 30-minute ride."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Driver 18+",
+     "pop_html": "<strong>Age limits:</strong> Drivers must legally be 18 or over; under-18s ride as a passenger with an adult. The strictest age rule on this page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone staying in Dubai Marina, JBR or on the Palm, because it starts on your doorstep and goes straight to Ain Dubai and Atlantis",
+    "skip_html": "if a driver in your group is 16 or 17, or if price per minute matters most: this is the most expensive per minute here"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Life jacket, jet ski, guide, free mobile photos, drinking water, towels."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Showers and changing rooms (not allowed in the marina), tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Shark Jetski Yacht Club, Nuran Marina Serviced Residences, Dubai Marina."
+     },
+     {
+      "q": "What are the age rules?",
+      "a": "Drivers 18+; under-18s ride with an adult."
+     }
+    ]
+   },
+   "price": {
+    "main": "€89",
+    "sub": "from, per jet ski, 1 rider (private)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet ski, 1 rider (private)",
+      "price": "€89"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-tour-to-dubai-eye-jbr-palm-burj-al-arab-t309623/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Private group</b>"
+    ],
+    "sublink": {
+     "url": "#4-shark-jet-ski-ain-dubai-jbr-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "palm",
+    "long",
+    "photos"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best 45-Minute Ride",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: 45-Minute Jet Ski Burj Al Arab & Atlantis with Photos and Videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/05-aone-45min-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-01-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-02-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-03-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-04-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-05-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-06-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-07-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-08-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/05-aone-45min-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "A One Watersports",
+    "⏱️ 45 minutes",
+    {
+     "url": "https://maps.google.com/?q=A+One+Watersports+Jet+Ski+Dubai+Umm+Suqeim+2",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Umm Suqeim 2 Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-45-min-jet-ski-to-burj-al-arab-burj-khalifa-t471563/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: 45-Minute Jet Ski Burj Al Arab &amp; Atlantis with Photos and Videos"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.92",
+     "score": "4.9",
+     "meta": "1k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(1k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-45-min-jet-ski-to-burj-al-arab-burj-khalifa-t471563/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "45 min",
+     "pop_html": "<strong>Time on the water:</strong> A fixed 45-minute ride, 15 minutes more than the standard tours. About €1.54 per minute per ski, or €0.77 per minute each for two riders."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Burj Al Arab + Ain Dubai option",
+     "pop_html": "<strong>Route:</strong> Burj Al Arab with your guide and Burj Khalifa views. Atlantis is in the tour name and an optional 5-minute Ain Dubai photo stop is offered, which means riding past the Palm; confirm the route at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Photos + video",
+     "pop_html": "<strong>Included:</strong> Your instructor takes pictures and videos during the tour. A bottle of water, free Wi-Fi and the safety briefing are included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Driver 16+",
+     "pop_html": "<strong>Age limits:</strong> Drivers 16+, passengers 5+. Not suitable for pregnant women or people with back problems. Arrive 15–20 minutes early to register; bring a passport or ID."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for riders who want 15 more minutes than the standard ride without paying for 2 hours, because it adds Burj Khalifa views and an optional Ain Dubai photo stop for €1.54 a minute",
+    "skip_html": "if you only want the Burj Al Arab photo: the 30-minute ride at #1 does that for half the price"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Jet ski, safety briefing, certified trainer, pictures and videos, bottle of water, free Wi-Fi."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup and drop-off, food and additional drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "A One Watersports Jet Ski Dubai, Umm Suqeim 2 Marina, Jumeirah Road, 2b Street."
+     },
+     {
+      "q": "What are the age rules?",
+      "a": "Drivers 16+, passengers 5+."
+     }
+    ]
+   },
+   "price": {
+    "main": "€69",
+    "sub": "from, per jet ski (1–2 riders)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet ski (1–2 riders)",
+      "price": "€69"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-45-min-jet-ski-to-burj-al-arab-burj-khalifa-t471563/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#5-a-one-45-min-jet-ski-burj-al-arab",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "budget",
+    "palm",
+    "photos"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Facilities",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/06-friends-aqua-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-01-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-02-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-03-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-04-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-05-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-06-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-07-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-08-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/06-friends-aqua-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Friends Aqua WaterSports",
+    "⏱️ 30, 60 or 90 min",
+    {
+     "url": "https://maps.google.com/?q=Friends+Aqua+WaterSports+Umm+Suqeim+2",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Fisherman Harbour 2, Umm Suqeim"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-to-burj-al-arab-and-atlantis-with-drink-t556526/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Jet Ski Tour to Burj Al Arab and Atlantis"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.92",
+     "score": "4.9",
+     "meta": "1.4k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(1.4k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-to-burj-al-arab-and-atlantis-with-drink-t556526/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "30 / 60 / 90 min",
+     "pop_html": "<strong>Options:</strong> Three lengths: a half-hour ride for a busy day, or 60 and 90 minutes. The route starts at the Burj Al Arab, with Atlantis, the Palm and Jumeirah Beach as optional stops; confirm which length includes them. About €1.32 per minute per person at the 30-minute from-price."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🅿️",
+     "label": "Parking + beach",
+     "pop_html": "<strong>At the base:</strong> Parking, beach access, lockers for valuables, a changing cabin, a shower, Wi-Fi and unlimited bottled water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Photos + video",
+     "pop_html": "<strong>Included:</strong> Digital photos and videos of your ride with the skyline behind you are part of every option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👤",
+     "label": "Per person",
+     "pop_html": "<strong>Pricing:</strong> Priced per person, not per jet ski, on a private-group booking. Children under 5, pregnant women and people with heart problems cannot join."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for groups who want to pick their length and arrive by car, because it has parking, beach access and a 90-minute option at one base",
+    "skip_html": "if two of you will share one ski on a short ride: the per-ski price at #1 is cheaper than this per-person price"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Guide, jet ski tour, life jacket, unlimited bottled water, Wi-Fi, parking, beach access, lockers, changing cabin, shower, photos and videos."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Friends Aqua WaterSports, Fisherman Harbour 2, Umm Suqeim 2."
+     },
+     {
+      "q": "What are the age rules?",
+      "a": "Not suitable for children under 5."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card, swimwear, towel."
+     }
+    ]
+   },
+   "price": {
+    "main": "€39",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€39"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jet-ski-tour-to-burj-al-arab-and-atlantis-with-drink-t556526/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Private group</b>"
+    ],
+    "sublink": {
+     "url": "#6-friends-aqua-jet-ski-30-90-min",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "budget",
+    "palm",
+    "photos"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best for Non-English Speakers",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+      ],
+      [
+       "data-src",
+       "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-01-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-02-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-03-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-04-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-05-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-06-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-07-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-08-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-09-t.avif"
+     },
+     {
+      "src": "/assets/best-jet-ski-tours-dubai/07-sun-and-fun-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Sun and Fun",
+    "⏱️ 30, 45 or 60 min",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Fishing+Harbour+Umm+Suqeim+2",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Umm Suqeim 2 Fishing Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-visit-to-the-burj-al-arab-and-atlantis-with-photos-and-videos-t871184/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Burj Al Arab and Atlantis by jet ski, with photos and videos"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.79",
+     "score": "4.8",
+     "meta": "1.6k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(1.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-visit-to-the-burj-al-arab-and-atlantis-with-photos-and-videos-t871184/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Clear route tiers",
+     "pop_html": "<strong>What each length covers:</strong> 30 minutes: Burj Al Arab. 45 minutes: Burj Al Arab and the Burj Khalifa view. 60 minutes: Burj Al Arab, Burj Khalifa and the Royal Atlantis. No other operator here spells it out this clearly."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "9 languages",
+     "pop_html": "<strong>Instructors speak:</strong> French, English, German, Arabic, Italian, Afrikaans, Urdu, Spanish and Russian, the widest choice on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Photos + video",
+     "pop_html": "<strong>Included:</strong> Your guide takes photos and videos. Fuel, life jackets, a certified instructor, lockers, a changing room, a shower and a bottle of water are included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Driver 16+",
+     "pop_html": "<strong>Age and ID:</strong> Drivers 16+, no children under 4. An original passport or Emirates ID is needed at registration; arrive 15 minutes early. Stag and hen groups are not accepted."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and groups who want the safety briefing in their own language, because instructors cover 9 languages, and for anyone who wants to know exactly which landmarks each length includes",
+    "skip_html": "if you want the best-rated ride for the money: Yoush (#1) costs less and rates higher for the same 30 minutes"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Jet ski with fuel, life jackets, certified instructor, photos and videos, lockers, bottle of water, changing room, shower."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup and drop-off, food and drinks (except water), towels, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Jumeirah Fishing Harbour, Umm Suqeim 2."
+     },
+     {
+      "q": "What are the age rules?",
+      "a": "Drivers 16+, no children under 4."
+     }
+    ]
+   },
+   "price": {
+    "main": "€36",
+    "sub": "from, per jet ski (by rider option)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per jet ski (by rider option)",
+      "price": "€36"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-jetski-visit-to-the-burj-al-arab-and-atlantis-with-photos-and-videos-t871184/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=jet_ski_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#7-sun-and-fun-jet-ski-30-60-min",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
