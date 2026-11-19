@@ -87,7 +87,7 @@ SPEC = {
         {"h2": "How are Abu Dhabi's hotels performing?", "blocks": [
             "<p>Hotel revenue reached <strong>AED 9.1 billion in 2025, up 19.5%</strong>. Occupancy averaged <strong>81%</strong>, the average daily rate rose <strong>19%</strong> and revenue per available room <strong>23%</strong>, while airlines added 11% more inbound seats and flew them 89% full.</p>",
             {"chart": {"id": "chart-auh-growth", "title": "Abu Dhabi hotel growth in 2025", "sub": "Change on 2024, %",
-                       "label_w": 150,
+                       "label_w": 150, "short": {"International guests": "Intl guests", "Average daily rate": "Avg daily rate", "Inbound air seats": "Air seats"},
                        "rows": [("RevPAR", 23, "+23%"), ("Hotel revenue", 19.5, "+19.5%"), ("Average daily rate", 19, "+19%"),
                                 ("Inbound air seats", 11, "+11%"), ("International guests", 10, "+10%"), ("Hotel guests", 2.2, "+2.2%")],
                        "highlight": [0], "src": S25,
@@ -114,7 +114,7 @@ SPEC = {
         {"h2": "What are the most visited attractions in Abu Dhabi?", "toc": "Most visited attractions", "blocks": [
             "<p>The <strong>Sheikh Zayed Grand Mosque</strong> is by far the most visited landmark: 6,846,723 guests in 2025, its highest total on record and 4% more than in 2024. That figure includes 4,331,046 visitors, 1,531,192 worshippers and 898,767 iftar guests during Ramadan. Cultural sites and libraries across the emirate recorded more than 8.6 million visits.</p>",
             {"chart": {"id": "chart-auh-attractions", "title": "Visits to major Abu Dhabi cultural sites, 2025", "sub": "Millions of visits",
-                       "label_w": 170, "short": {"Sheikh Zayed Grand Mosque (visitors)": "Grand Mosque (visitors)"},
+                       "label_w": 170, "short": {"Sheikh Zayed Grand Mosque (visitors)": "Grand Mosque"},
                        "rows": [("Sheikh Zayed Grand Mosque (visitors)", 4.331, "4.33M"), ("Louvre Abu Dhabi", 1.4, "1.4M"),
                                 ("Qasr Al Hosn", 0.843, "0.84M")],
                        "highlight": [0], "src": a(SZGM, "Sheikh Zayed Grand Mosque Centre (via Gulf News, Jan 2026)") + "; " + S25,
