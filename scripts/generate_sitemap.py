@@ -17,7 +17,8 @@ def build_sitemap():
     canon_data = {}
 
     for root, dirs, files in os.walk(ROOT_DIR):
-        if any(p.startswith('.') for p in root.split(os.sep)):
+        rel_parts = os.path.relpath(root, ROOT_DIR).split(os.sep)
+        if any(p.startswith('.') for p in root.split(os.sep)) or rel_parts[0] in ('kit', 'node_modules', 'drafts', 'embed'):
             continue
         for f in files:
             if f.endswith('.html') and f != 'sitemap.html' and not f.startswith('test-'):
