@@ -130,6 +130,23 @@
                   "label": "Anantara The Palm Review"
                 }
               ]
+            },
+            {
+              "head": "TRAVEL STATISTICS",
+              "subitems": [
+                {
+                  "href": "/dubai-tourism-statistics",
+                  "label": "📊 Dubai Tourism Statistics"
+                },
+                {
+                  "href": "/abu-dhabi-tourism-statistics",
+                  "label": "📊 Abu Dhabi Tourism Statistics"
+                },
+                {
+                  "href": "/uae-tourism-statistics",
+                  "label": "📊 UAE Tourism Statistics"
+                }
+              ]
             }
           ]
         }
@@ -303,6 +320,28 @@
             {
               "href": "/contact",
               "title": "✉️ Contact Editorial Desk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "groups": [
+        {
+          "head": "Travel Statistics",
+          "items": [
+            {
+              "href": "/dubai-tourism-statistics",
+              "title": "📊 Dubai Tourism Statistics"
+            },
+            {
+              "href": "/abu-dhabi-tourism-statistics",
+              "title": "📊 Abu Dhabi Tourism Statistics"
+            },
+            {
+              "href": "/uae-tourism-statistics",
+              "title": "📊 UAE Tourism Statistics"
             }
           ]
         }
