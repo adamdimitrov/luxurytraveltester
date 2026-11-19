@@ -1,0 +1,3426 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "hour",
+    "bbq",
+    "private"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Red Dune Desert",
+    "⏱️ 4–7 hours",
+    {
+     "url": "https://maps.google.com/?q=Red+Dunes+Desert+Safari+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Red Dunes, pickup in Dubai, Sharjah, Ajman"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-evening-dune-buggy-and-bbq-desert-adventure-t130623/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding &amp; BBQ Buffet Dinner"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.93",
+     "score": "4.9",
+     "meta": "2.2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(2.2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-evening-dune-buggy-and-bbq-desert-adventure-t130623/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "60 min driving",
+     "pop_html": "<strong>Buggy time:</strong> A full hour on the dunes, the longest drive on this page alongside the 1000cc tours. A guide leads the route and sets a pace you are comfortable with, and you can stop for a breather and refreshments mid-ride."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "Twin-seat buggy",
+     "pop_html": "<strong>The buggy:</strong> Two-seater with a full roll cage, bucket seats and a full safety harness. You can ride solo or as a couple sharing one buggy for the hour."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍖",
+     "label": "BBQ camp option",
+     "pop_html": "<strong>After the drive:</strong> Optional, at extra cost: a 4x4 transfer to a Bedouin camp for a 2.5-hour evening with BBQ buffet, belly dance and Tanoura shows, henna, shisha, Arabic coffee and soft drinks, depending on the option you pick."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Pickup included",
+     "pop_html": "<strong>Transport:</strong> Pickup and drop-off in central Dubai, with Sharjah and Ajman as alternative pickup points. About 45 minutes each way by Jeep/SUV."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for drivers who want a full hour at the wheel on the Red Dunes with a guide setting the lines, because it pairs the longest drive with pickup from Dubai, Sharjah or Ajman and an optional BBQ camp",
+    "skip_html": "if anyone in your group is under 16, or if you only want the drive and not a 4–7 hour evening"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Pickup and drop-off in central Dubai, dune buggy ride; BBQ dinner, shows, shisha, camel ride, henna and soft drinks depending on option."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Alcoholic drinks, souvenir photos, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 16, pregnant women, people with back or heart problems, wheelchair users."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Hindi, Urdu."
+     }
+    ]
+   },
+   "price": {
+    "main": "€139",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€139"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-evening-dune-buggy-and-bbq-desert-adventure-t130623/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#1-red-dune-60-min-buggy-bbq",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "budget",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding & Camel Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/02-excursion-point-30min-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Excursion Point",
+    "⏱️ 4–7 hours",
+    {
+     "url": "https://maps.google.com/?q=Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Adventure Hub, Lahbab Desert"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-safari-camel-riding-sandboarding-dune-buggy-t130716/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Excursion Point: Desert Safari with 30-Minute Self-Drive Dune Buggy, Sandboarding &amp; Camel Ride"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.89",
+     "score": "4.9",
+     "meta": "4.5k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(4.5k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-safari-camel-riding-sandboarding-dune-buggy-t130716/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "30 min self-drive",
+     "pop_html": "<strong>Buggy time:</strong> A 30-minute self-drive session at Excursion Point's own Adventure Hub area. Works out to €1.41 per buggy minute, the lowest on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "4-seat buggy",
+     "pop_html": "<strong>Who drives:</strong> Each buggy takes 1 driver and up to 3 passengers. One person drives the whole session while the others ride along, so it suits families more than groups who all want the wheel."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "Dune bashing too",
+     "pop_html": "<strong>Also included:</strong> 40 minutes of 4x4 dune bashing on the Red Dunes, 30 minutes of sandboarding, a 10-minute camel ride, and tea, coffee and dates in the Majlis."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Evening option",
+     "pop_html": "<strong>Dinner:</strong> Eligible evening packages add a camp dinner with live entertainment and fire shows; in winter there may be an outdoor bonfire. A quad bike ride is an optional extra."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and budget travellers who want a real self-drive buggy session plus dune bashing for about €42, because nothing else here gets you behind a buggy wheel for less",
+    "skip_html": "if everyone in your group wants to drive, since one buggy has one driver and three passengers"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Dubai, Sharjah or Ajman."
+     },
+     {
+      "q": "What is the route?",
+      "a": "Transfer (45 min), Adventure Hub break, dune bashing (40 min), sandboarding (30 min), optional quad bike (30 min), camel ride (10 min)."
+     },
+     {
+      "q": "How accessible is it?",
+      "a": "Wheelchair access in designated areas; contact the operator in advance."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Hindi."
+     }
+    ]
+   },
+   "price": {
+    "main": "€42",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€42"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-desert-safari-camel-riding-sandboarding-dune-buggy-t130716/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#2-excursion-point-safari-30-min-buggy",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "hour",
+    "private",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Private",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride & Private Transport"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/03-private-rzr-1000-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Kings and Queens",
+    "⏱️ 4 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Desert",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Private pickup in Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-dune-buggy-camel-riding-private-transport-sandboarding-t605817/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Kings and Queens: Private 1-Hour Polaris RZR 1000cc Buggy Safari, Camel Ride &amp; Private Transport"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.85",
+     "score": "4.8",
+     "meta": "247 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(247)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-dune-buggy-camel-riding-private-transport-sandboarding-t605817/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "Polaris RZR 1000cc",
+     "pop_html": "<strong>The buggy:</strong> A Polaris 1000cc Sport buggy with 4-wheel drive, the most powerful class on this page. Helmet and goggles are provided free."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔁",
+     "label": "60 min, swap at 30",
+     "pop_html": "<strong>Driving time:</strong> A 1-hour ride for two. After the first 30 minutes you switch seats with your partner, so each of you drives for 30 minutes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔒",
+     "label": "Fully private",
+     "pop_html": "<strong>No other guests:</strong> Transport, buggy ride and camel ride are all private, with your own licensed guide who adapts the pace to your driving. You do not share with other customers at any point."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏕️",
+     "label": "Base camp",
+     "pop_html": "<strong>Facilities:</strong> Air-conditioned lounge, outdoor seating with desert views, cafeteria, prayer rooms and a supermarket. Food and supermarket items cost extra; bottled water is included."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a 1000cc buggy, a guide and a car to themselves, because at about €111 each it is the only fully private option here and costs less per head than the shared #1 tour",
+    "skip_html": "if you want a BBQ dinner and shows, or if you are travelling solo and would pay the full €222 for one person"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "1-hour private buggy ride in a 1000cc RZR, private pickup and drop-off, sandboarding, camel ride, licensed private guide, bottled water, helmet and goggles, safety instruction."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and supermarket items."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 4, pregnant women, people with mobility impairments, wheelchair users."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€222",
+    "sub": "from, per group (2-seat buggy)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (2-seat buggy)",
+      "price": "€222"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−10%",
+      "price": "<s>€247</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-dune-buggy-camel-riding-private-transport-sandboarding-t605817/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Private pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#3-private-1000cc-buggy-transport",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "hour",
+    "bbq",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best 1000cc Hour Under €100",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding & Camel Ride, Optional BBQ Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/04-lehbab-1000cc-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Lehbab buggy centre",
+    "⏱️ 1–6 hours",
+    {
+     "url": "https://maps.google.com/?q=Lehbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Lehbab Desert, hotel pickup"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-self-drive-dune-buggy-and-camel-riding-adventure-t304968/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "1-Hour Self-Drive 1000cc Dune Buggy, Sandboarding &amp; Camel Ride, Optional BBQ Camp"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.90",
+     "score": "4.9",
+     "meta": "670 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(670)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-self-drive-dune-buggy-and-camel-riding-adventure-t304968/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "1000cc, 1 hour",
+     "pop_html": "<strong>The drive:</strong> You drive a 1000cc buggy yourself for an hour on the Lehbab dunes, after kitting up and a briefing from the safari captain. €1.63 per minute at the from-price."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕐",
+     "label": "4 or 6 hours",
+     "pop_html": "<strong>Two lengths:</strong> The 4-hour version ends after buggy and sandboarding. The 6-hour version continues to Al Khayma Desert Camp for a camel ride, henna, falcon show, shisha and BBQ dinner."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧒",
+     "label": "Ages 10+",
+     "pop_html": "<strong>Who can join:</strong> Not suitable for children under 10, a lower limit than the 16+ tours. Under-12s must ride the camel with an adult."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Hotel pickup",
+     "pop_html": "<strong>Transport:</strong> Pickup and drop-off from your hotel in an air-conditioned vehicle, plus unlimited soft drinks and water."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for drivers who want a full hour in a 1000cc buggy for under €100, because it matches the #1 pick's wheel time for about €40 less",
+    "skip_html": "if your travel insurance does not cover motorsports, since the drive is at your own risk and the provider's insurance does not cover accidents"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, air-conditioned vehicle, expert instructor, 1000cc dune buggy ride, helmet, sandboarding, short camel ride, camel feeding, unlimited soft drinks and water; welcome coffee, henna, shisha, BBQ dinner and live shows on the 6-hour tour only."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 10, pregnant women, people with back or heart problems, wheelchair users."
+     },
+     {
+      "q": "What happens at the camp?",
+      "a": "Al Khayma Desert Camp (6-hour tour)."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Comfortable shoes, sunglasses, sun hat, sunscreen, comfortable clothes."
+     }
+    ]
+   },
+   "price": {
+    "main": "€98",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€98"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−20%",
+      "price": "<s>€122</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-self-drive-dune-buggy-and-camel-riding-adventure-t304968/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> available"
+    ],
+    "sublink": {
+     "url": "#4-1000cc-buggy-hour-optional-bbq",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "budget",
+    "bbq"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Classic Safari with Buggy Add-On",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride & BBQ"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/05-red-dunes-addon-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Red Dunes safari",
+    "⏱️ 4–7 hours",
+    {
+     "url": "https://maps.google.com/?q=Lahbab+Desert+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Red Dunes, Lahbab Desert"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-red-dunes-safari-with-dune-buggy-sandboarding-and-bbq-t191549/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Red Dunes Safari with Optional Self-Drive Dune Buggy, Sandboarding, Camel Ride &amp; BBQ"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.89",
+     "score": "4.9",
+     "meta": "3.5k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(3.5k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-red-dunes-safari-with-dune-buggy-sandboarding-and-bbq-t191549/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "➕",
+     "label": "Buggy is an option",
+     "pop_html": "<strong>Read this first:</strong> The €27 from-price is the safari without the buggy. The self-drive buggy is included only if you select that option, and its price and minutes show in the booking options."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "30–45 min dune bashing",
+     "pop_html": "<strong>Also included:</strong> 30 to 45 minutes of dune bashing with a trained driver in an air-conditioned 4WD, plus sandboarding and a camel ride you can repeat."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍖",
+     "label": "BBQ on 7-hour tour",
+     "pop_html": "<strong>Camp evening:</strong> The 7-hour version adds the desert camp: rose water and Arabic coffee welcome, falcons, henna, shisha, entertainment shows and a BBQ with vegetarian options."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥤",
+     "label": "Unlimited soft drinks",
+     "pop_html": "<strong>Refreshments:</strong> Tea and coffee with dates and unlimited soft drinks in a cool tent after the camel ride. Hotel pickup and drop-off in Dubai included."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for groups where only one or two people want to drive, because everyone else pays the €27 safari price and only the drivers add the buggy",
+    "skip_html": "if the buggy is your main reason to go: the add-on adds cost and the drive time is not fixed in the from-price"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, air-conditioned 4WD, English-speaking driver, dune bashing (30–45 min), sandboarding, camel ride, tea/coffee with dates, unlimited soft drinks; self-drive buggy if option selected; BBQ, gahwa and sweets on the 7-hour option."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Dubai."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €27 per person (buggy extra). The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€27",
+    "sub": "from, per person (buggy extra)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person (buggy extra)",
+      "price": "€27"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−26%",
+      "price": "<s>€37</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-red-dunes-safari-with-dune-buggy-sandboarding-and-bbq-t191549/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#5-red-dunes-safari-buggy-add-on",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Short Session",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride & Falcons"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/06-sharjah-short-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Sharjah desert base",
+    "⏱️ 1–2 hours",
+    {
+     "url": "https://maps.google.com/?q=Desert+Adventure+Motorcycle+Rentals+Sharjah",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Qasimia, Sharjah"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-red-dunes-quad-bike-dune-buggy-camel-refreshments-t394220/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Red Dunes Self-Drive Quad Bike or Dune Buggy, Sandboarding, Camel Ride &amp; Falcons"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.87",
+     "score": "4.9",
+     "meta": "91 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(91)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-red-dunes-quad-bike-dune-buggy-camel-refreshments-t394220/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "1–2 hours total",
+     "pop_html": "<strong>Time commitment:</strong> The shortest trip here: briefing, a guided drive through the red dunes with a sandboarding break at the halfway point, a camel ride, then falcons and drinks back at base."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔀",
+     "label": "Quad or buggy",
+     "pop_html": "<strong>Choose your machine:</strong> Self-ride quad bike or dune buggy. The from-price is the entry option, so check the buggy option's price when you pick a date."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "Sharjah meeting point",
+     "pop_html": "<strong>Getting there:</strong> Desert Adventure Motorcycle Rentals in Al Qasimia City, Industrial 1, Sharjah. Hotel pickup is not part of this tour, so plan a taxi."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Drivers 16+",
+     "pop_html": "<strong>Age rules:</strong> Minimum age 14; ages 14 to 16 must be accompanied by an adult, and drivers need to be 16+ with basic driving knowledge. Everyone signs a waiver."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who want a quick self-drive session in an afternoon, because it is done in 1–2 hours instead of eating a whole evening",
+    "skip_html": "if you need hotel pickup, or if you want an exact number of driving minutes before you book"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Self-ride quad bike or dune buggy, instructor, sandboarding, short camel ride, photo stop, falcon photos, refreshments, training and safety briefing, helmet."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Desert Adventure Motorcycle Rentals, XM9V+HQ, Al Qasimia City, Industrial 1, Sharjah."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 14, pregnant women, people with back problems, wheelchair users."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Comfortable shoes, sunglasses, sun hat."
+     }
+    ]
+   },
+   "price": {
+    "main": "€31",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€31"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−25%",
+      "price": "<s>€41</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-red-dunes-quad-bike-dune-buggy-camel-refreshments-t394220/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#6-1-2-hour-quad-or-buggy-session",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "budget",
+    "bbq"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Cheapest Entry Price",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer & Desert Camp"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/07-360-adventures-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/07-360-adventures-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "360 Adventures Tourism",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=360+Adventures+Tourism+Lehbab+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Lehbab Desert"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/sharjah-l495/dubai-quad-bike-or-dune-buggy-adventure-optional-transfer-t694762/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "360 Adventures: 1000cc Dune Buggy or Quad Bike, Optional Transfer &amp; Desert Camp"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.54",
+     "score": "4.5",
+     "meta": "179 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(179)",
+       "url": "https://www.getyourguide.com/sharjah-l495/dubai-quad-bike-or-dune-buggy-adventure-optional-transfer-t694762/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔀",
+     "label": "Quad or 1000cc buggy",
+     "pop_html": "<strong>Machines:</strong> 250cc or 320cc quad bikes, or a 1000cc dune buggy. The €24 from-price is the entry option; the buggy is its own option with its own price."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "30 min ride",
+     "pop_html": "<strong>Riding time:</strong> The itinerary lists a 30-minute quad ride on the Lehbab red dunes after a safety briefing; buggy minutes are not stated, with a helmet compulsory the whole time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "Transfer optional",
+     "pop_html": "<strong>Getting there:</strong> Return transport is an option, not standard. There is no public transport or Uber from the site, so either add the transfer or drive yourself."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔥",
+     "label": "Camp option",
+     "pop_html": "<strong>Evening add-on:</strong> The desert camp option adds tea, coffee and dates, a BBQ buffet with vegetarian dishes, belly dance, Khaliji and Tanoura dance and a fire show. Sandboarding comes with selected options."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for self-drivers with a rental car who want the lowest possible price for a ride on the Lehbab dunes",
+    "skip_html": "if you have no car and do not add the transfer: there is no Uber or public transport back from the site"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Quad bike or dune buggy (by option), licensed instructor, safety briefing, helmet, bottled water; sandboarding, transfer and camp with BBQ by option."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Varies by option."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "Children under 16."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Sports shoes."
+     }
+    ]
+   },
+   "price": {
+    "main": "€24",
+    "sub": "from, per group (entry option)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (entry option)",
+      "price": "€24"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−9%",
+      "price": "<s>€26</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/sharjah-l495/dubai-quad-bike-or-dune-buggy-adventure-optional-transfer-t694762/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#7-360-adventures-buggy-or-quad",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,3229 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "guided",
+    "budget",
+    "private",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Sightseeing, Souks & Abra Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/01-half-day-souks-abra-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/01-half-day-souks-abra-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Guided half-day tour",
+    "⏱️ 5 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Fahidi+Historical+Neighbourhood+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Hotel pickup in Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-half-day-city-tour-with-burj-khalifa-optional-t62730/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Half-Day City Sightseeing, Souks &amp; Abra Experience"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.84",
+     "score": "4.8",
+     "meta": "3.2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(3.2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-half-day-city-tour-with-burj-khalifa-optional-t62730/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "5 hours, 11 stops",
+     "pop_html": "<strong>Route:</strong> Burj Al Arab photo stop (15 min), drive past Atlantis The Palm and Atlantis The Royal, Dubai Marina walk (15 min), Museum of the Future (15 min), Blue Mosque (30 min), Gold and Spice Souks (30 min each), Dubai Creek, abra ride (15 min), Al Fahidi (30 min) and Al Khayma Heritage House (30 min)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Blue Mosque inside",
+     "pop_html": "<strong>Entries:</strong> A 30-minute guided visit of the Al Farooq Omar Bin Al Khattab (Blue) Mosque and access to the Museum of the Future ground floor. The only tour here under €30 that takes you inside a mosque."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Hotel pickup",
+     "pop_html": "<strong>Transport:</strong> Hotel pickup and drop-off in an air-conditioned vehicle, plus the 15-minute abra crossing of Dubai Creek. No bus timetables to work around."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "5 languages",
+     "pop_html": "<strong>Guide:</strong> Licensed live guide in English, Italian, German, French or Spanish. Shared small group by default, with a private option at checkout."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a first-timer with one free morning or afternoon, because €24.48 buys 5 guided hours, pickup, an abra ride and a mosque visit, which is less than any bus pass on this page",
+    "skip_html": "if you want Burj Khalifa or Dubai Mall in the same tour; neither is on this route"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Air-conditioned vehicle, licensed guide, Dubai Marina walk, Blue Mosque visit, Museum of the Future ground floor, abra ride."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup and drop-off in Dubai."
+     },
+     {
+      "q": "How big is the group?",
+      "a": "Shared small group, private option available."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Italian, German, French, Spanish."
+     }
+    ]
+   },
+   "price": {
+    "main": "€24",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€24"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-half-day-city-tour-with-burj-khalifa-optional-t62730/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#1-half-day-city-tour-souks-abra",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "hoho",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Hop-On Hop-Off",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Big Bus Tours",
+    "⏱️ 24 hours to 5 days",
+    {
+     "url": "https://maps.google.com/?q=Big+Bus+Tours+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Any Red or Blue Route stop"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-big-bus-hop-onhop-off-tour-dhow-cruise-t5105/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Big Bus Hop-on/Hop-off Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.36",
+     "score": "4.4",
+     "meta": "3.4k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.4",
+       "count": "(3.4k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-big-bus-hop-onhop-off-tour-dhow-cruise-t5105/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "24h, 48h or 5 days",
+     "pop_html": "<strong>Tickets:</strong> 24 hours is bus only. 48 hours adds entry to The Lost Chambers Aquarium at Atlantis. The 5-day (120-hour) ticket adds the aquarium and the Dubai Frame."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Red + Blue Routes",
+     "pop_html": "<strong>Stops:</strong> Red Route: Wafi Mall, Burj Khalifa/Dubai Mall, Museum of the Future, Arabian Dhow Cruise, Bastakiya, Old Souk, Gold and Spice Souk, Dubai Frame. Blue Route: Burj Khalifa/Dubai Mall, Souk Madinat Jumeirah/Burj Al Arab, Atlantis The Palm."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎧",
+     "label": "Audio in 6 languages",
+     "pop_html": "<strong>Commentary:</strong> Recorded commentary in English, Spanish, French, German, Italian and Russian. Headphones included. No live guide."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Wheelchair-accessible",
+     "pop_html": "<strong>Access:</strong> Open-top double-decker buses that are wheelchair-accessible. Of the car and van tours on this page, only the VIP private tour says the same."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for 2–5 day stays and families who want to stop where they like, because the 48-hour ticket bundles Lost Chambers Aquarium entry and the bus links Bastakiya, Dubai Mall and Atlantis",
+    "skip_html": "if you only have one day and hate waiting in the heat; a €24 guided tour covers more with pickup"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "24-, 48- or 120-hour ticket, Red and Blue Routes, audio commentary with headphones; Lost Chambers Aquarium (48h and 5-day), Dubai Frame (5-day)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "How accessible is it?",
+      "a": "Wheelchair-accessible."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €37 per person (24-hour ticket). The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Spanish, French, German, Italian, Russian (audio)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€37",
+    "sub": "from, per person (24-hour ticket)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person (24-hour ticket)",
+      "price": "€37"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−16%",
+      "price": "<s>€44</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-big-bus-hop-onhop-off-tour-dhow-cruise-t5105/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#2-big-bus-hop-on-hop-off-tour",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "private",
+    "guided",
+    "night"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/03-vip-private-burj-khalifa-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Private VIP tour",
+    "⏱️ 1 day",
+    {
+     "url": "https://maps.google.com/?q=Burj+Khalifa+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Hotel pickup in Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-vip-private-city-tour-with-burj-khalifa-entry-tickets-t539860/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: VIP Private City Tour with Burj Khalifa Entry Tickets"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.81",
+     "score": "4.8",
+     "meta": "190 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(190)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-vip-private-city-tour-with-burj-khalifa-entry-tickets-t539860/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Burj Khalifa 124–125",
+     "pop_html": "<strong>Entry:</strong> Skip-the-ticket-line entry to levels 124–125 with about 1 hour at the top and sunset views from the deck. The only tour here with a Burj Khalifa ticket included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔒",
+     "label": "Private car + guide",
+     "pop_html": "<strong>Format:</strong> Private group only, luxury private vehicle and a licensed guide in Arabic, English, French or German."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Pro photos",
+     "pop_html": "<strong>Extra:</strong> The guide photographs you along the way with a professional camera, and the photos are free."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛲",
+     "label": "Ends at the fountains",
+     "pop_html": "<strong>Route:</strong> Dubai Mall and Aquarium photo stop, Burj Khalifa, Al Fahidi, abra crossing, Gold and Spice Souks, Sheikh Zayed Road, Palm Jumeirah, Dubai Marina, Burj Al Arab, Blue Mosque, then the Dubai Fountain."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples or a small group with one day who want Burj Khalifa, old Dubai and the Dubai Fountain in a single private booking, because the €136.69 already includes the observation deck ticket",
+    "skip_html": "if you already hold Burj Khalifa tickets or want a short morning tour; you are paying for the deck and a full day"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Private guide, private luxury vehicle, Burj Khalifa levels 124–125 skip-the-line entry, abra crossing, professional photos."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup in Dubai."
+     },
+     {
+      "q": "How big is the group?",
+      "a": "Private group."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "Arabic, English, French, German."
+     }
+    ]
+   },
+   "price": {
+    "main": "€137",
+    "sub": "from, private tour",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "private tour",
+      "price": "€137"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-vip-private-city-tour-with-burj-khalifa-entry-tickets-t539860/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included",
+     "<b>Skip the ticket line</b>"
+    ],
+    "sublink": {
+     "url": "#3-vip-private-tour-burj-khalifa",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "guided",
+    "budget",
+    "private",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Short Tour",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Half-Day City Tour of Old & New Dubai with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/04-old-new-dubai-abra-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/04-old-new-dubai-abra-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Guided half-day tour",
+    "⏱️ 4 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Gold+Souk",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Hotel pickup in Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-half-day-city-tour-of-old-new-dubai-with-abra-ride-t1427783/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Half-Day City Tour of Old &amp; New Dubai with Abra Ride"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.80",
+     "score": "4.8",
+     "meta": "527 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(527)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-half-day-city-tour-of-old-new-dubai-with-abra-ride-t1427783/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "4 hours",
+     "pop_html": "<strong>Timing:</strong> Choose a morning or afternoon departure at checkout. Route: Gold Souk and Spice Souk (30 min each), Al Fahidi, abra ride (20 min), Museum of the Future, Burj Al Arab, Palm Jumeirah, Dubai Marina, Burj Khalifa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛵",
+     "label": "20-min abra",
+     "pop_html": "<strong>Old Dubai:</strong> A traditional wooden abra across Dubai Creek, the longest abra slot of the guided tours here, plus the wind-tower lanes of Al Fahidi (Bastakiya)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Burj Khalifa photo stop",
+     "pop_html": "<strong>New Dubai:</strong> Photo stops at the Museum of the Future, Burj Al Arab and Atlantis The Palm, a scenic drive through Dubai Marina and Palm Jumeirah, and 20 minutes at Burj Khalifa. Entry tickets not included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Pickup + water",
+     "pop_html": "<strong>Included:</strong> Hotel pickup and drop-off, licensed English-speaking guide and chilled bottled water. Private or small-group options."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who want old and new Dubai in 4 hours and a free afternoon (or morning), because it costs €24.69 and adds a Burj Khalifa stop that #1 skips",
+    "skip_html": "if you need a guide in a language other than English, or want to go inside a mosque"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Licensed English-speaking guide, abra ride, Spice and Gold Souks, Al Fahidi, photo stops, bottled water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Entry tickets (Burj Khalifa, Museum of the Future exhibits), food, meals, soft drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup and drop-off in Dubai."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€25",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€25"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-half-day-city-tour-of-old-new-dubai-with-abra-ride-t1427783/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#4-old-new-dubai-tour-with-abra-ride",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "guided"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Luxury Car Tour",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: City Tour with Professional Guide in a Luxury Car"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dubai-city-tours/05-luxury-car-city-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: City Tour with Professional Guide in a Luxury Car"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/05-luxury-car-city-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: City Tour with Professional Guide in a Luxury Car"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/05-luxury-car-city-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: City Tour with Professional Guide in a Luxury Car"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/05-luxury-car-city-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: City Tour with Professional Guide in a Luxury Car"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/05-luxury-car-city-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: City Tour with Professional Guide in a Luxury Car"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/05-luxury-car-city-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: City Tour with Professional Guide in a Luxury Car"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/05-luxury-car-city-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dubai-city-tours/05-luxury-car-city-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/05-luxury-car-city-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/05-luxury-car-city-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/05-luxury-car-city-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/05-luxury-car-city-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/05-luxury-car-city-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/05-luxury-car-city-07-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Luxury car tour",
+    "⏱️ 5 hours",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Mosque+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Hotel pickup in Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-city-tour-with-professional-tour-guide-in-luxury-car-t613600/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: City Tour with Professional Guide in a Luxury Car"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.73",
+     "score": "4.7",
+     "meta": "631 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.7",
+       "count": "(631)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-city-tour-with-professional-tour-guide-in-luxury-car-t613600/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚘",
+     "label": "Luxury car",
+     "pop_html": "<strong>Transport:</strong> Air-conditioned luxury car with pickup and drop-off from your accommodation. Details are confirmed by WhatsApp or email before the tour."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Jumeirah Mosque",
+     "pop_html": "<strong>Unique stops:</strong> The only tour here with a Jumeirah Mosque photo stop, plus Dubai Frame photo stop, Al Seef and an optional stop at Zabeel Palace."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "14 stops, 5 hours",
+     "pop_html": "<strong>Route:</strong> Spice and Gold Souks, Dubai Creek, Al Seef, Dubai Frame, Jumeirah Mosque, Jumeirah Beach, Burj Al Arab, Palm Jumeirah and Atlantis drive, Dubai Marina, Dubai Mall, Burj Khalifa photo stop, Zabeel Palace."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚠️",
+     "label": "5-min pickup rule",
+     "pop_html": "<strong>Catch:</strong> Be in the lobby 20 minutes before pickup; the driver waits no longer than 5 minutes, then you count as a no-show. Burj Khalifa and Dubai Museum tickets not included."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who want a more comfortable car and the widest stop list, including Jumeirah Mosque, Dubai Frame and Dubai Mall, because no other guided tour here covers all three",
+    "skip_html": "if you want an abra ride or a private car; the abra is not listed and the pickup rules say the guide collects other guests"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Luxury car, guide, souks, Dubai Creek, Dubai Frame, Jumeirah Mosque and Burj Al Arab photo stops, Dubai Mall."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Burj Khalifa and Dubai Museum tickets, tips, airport parking."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Pickup and drop-off from your accommodation; wait in the lobby 20 minutes before."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€74",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€74"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-city-tour-with-professional-tour-guide-in-luxury-car-t613600/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#5-city-tour-in-a-luxury-car",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "night",
+    "guided",
+    "budget",
+    "private"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Night Tour",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Nighttime Guided City Tour by Van & DXB Fountain Show"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/06-night-tour-fountain-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/06-night-tour-fountain-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Guided night tour",
+    "⏱️ 4 hours",
+    {
+     "url": "https://maps.google.com/?q=The+Dubai+Fountain",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Hotel pickup, ends at Dubai Mall"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-nighttime-guided-city-tour-by-van-dxb-fountain-show-t542740/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Nighttime Guided City Tour by Van &amp; DXB Fountain Show"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "583 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.4",
+       "count": "(583)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-nighttime-guided-city-tour-by-van-dxb-fountain-show-t542740/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌃",
+     "label": "4 hours after dark",
+     "pop_html": "<strong>Route:</strong> Burj Khalifa lit up, Burj Al Arab against the night sky, a waterfront walk on Dubai Marina, Palm Jumeirah, then the Dubai Fountain show at the base of Burj Khalifa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛲",
+     "label": "Fountain show",
+     "pop_html": "<strong>Finale:</strong> The Dubai Fountain water and light show is included and ends the tour at Dubai Mall, so you can stay for dinner or shopping."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Group or private",
+     "pop_html": "<strong>Options:</strong> Group option: hotel pickup, drop-off at Dubai Mall and you get back on your own. Private option: hotel pickup and hotel drop-off."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "8 languages",
+     "pop_html": "<strong>Guide:</strong> Live guide in English, Italian, Spanish, German, French, Portuguese, Russian or Arabic. Food and drinks not included."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for night owls and anyone who spent the day at the beach or in the desert, because €28.40 gets you lit-up new Dubai plus the fountain show with pickup",
+    "skip_html": "if you want old Dubai or the souks; this route is new Dubai only"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Guide, night city tour by van, Dubai Fountain show."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup; hotel drop-off on the private option, Dubai Mall drop-off on the group option."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Italian, Spanish, German, French, Portuguese, Russian, Arabic."
+     }
+    ]
+   },
+   "price": {
+    "main": "€28",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€28"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-nighttime-guided-city-tour-by-van-dxb-fountain-show-t542740/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#6-night-city-tour-fountain-show",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "hoho",
+    "night",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Bus With Night Loop",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/07-city-sightseeing-night-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-01-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-02-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-04-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-05-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-06-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-07-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-08-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-09-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/07-city-sightseeing-night-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "City Sightseeing",
+    "⏱️ 24 or 48 hours",
+    {
+     "url": "https://maps.google.com/?q=672J+2FW+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Main stop near Burj Khalifa"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-city-sightseeing-hoho-bus-tour-sunset-night-tour-t49021/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "City Sightseeing Hop-on Hop-off Bus + Sunset and Night Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.29",
+     "score": "4.3",
+     "meta": "6.5k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.3",
+       "count": "(6.5k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-city-sightseeing-hoho-bus-tour-sunset-night-tour-t49021/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌇",
+     "label": "Sunset + Night Tour",
+     "pop_html": "<strong>Extra:</strong> Adds a Sunset and Night Tour to the two daytime routes, the only bus pass here that covers the city after dark."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "11 languages",
+     "pop_html": "<strong>Audio:</strong> Recorded commentary in English, Spanish, French, German, Italian, Japanese, Chinese, Korean, Portuguese, Russian and Arabic, the widest choice on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Red + Blue Routes",
+     "pop_html": "<strong>Stops:</strong> Red Route: Museum of the Future and Al Seef heritage area. Blue Route: Palm Jumeirah and Mall of the Emirates. Other named sights: Burj Khalifa, Old Souk, Atlantis and Dubai Marina Mall."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚠️",
+     "label": "Check stops first",
+     "pop_html": "<strong>Catch:</strong> Recorded audio only and no hotel pickup, and the 24-hour ticket costs €6.53 more than Big Bus. Check current stops and frequency before buying."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who want a bus pass and a night loop in one ticket, or need commentary in Japanese, Chinese, Korean, Portuguese or Arabic",
+    "skip_html": "if you want the old town on your schedule; Big Bus (#2) is cheaper and lists the souk stops"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "24- or 48-hour hop-on hop-off ticket, Red and Blue Routes, Sunset and Night Tour, audio commentary."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free up to 24 hours before."
+     },
+     {
+      "q": "How accessible is it?",
+      "a": "Wheelchair-accessible."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €44 per person (24-hour ticket). The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Spanish, French, German, Italian, Japanese, Chinese, Korean, Portuguese, Russian, Arabic (audio)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€44",
+    "sub": "from, per person (24-hour ticket)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person (24-hour ticket)",
+      "price": "€44"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-city-sightseeing-hoho-bus-tour-sunset-night-tour-t49021/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#7-city-sightseeing-bus-night-tour",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
