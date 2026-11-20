@@ -1433,6 +1433,9 @@
      "url": "#3-luxury-flight-michelin-chef-breakfast",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 8 photos, all on the card"
    }
   },
   {
@@ -2711,6 +2714,9 @@
      "url": "#6-noble-life-sunrise-balloon-ride",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 4 photos, all on the card"
    }
   },
   {

@@ -359,6 +359,9 @@
      "url": "#1-discover-scuba-diving-jumeirah-beach",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 6 photos, all on the card"
    }
   },
   {
@@ -675,6 +678,9 @@
      "url": "#2-discovery-scuba-snorkel-fujairah",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 5 photos, all on the card"
    }
   },
   {
@@ -952,6 +958,9 @@
      "url": "#3-deep-dive-dubai-guided-dive-certified",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 4 photos, all on the card"
    }
   },
   {
@@ -986,6 +995,40 @@
       [
        "src",
        "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "2 Guided Dives for Certified Divers in Fujairah with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
       ],
       [
        "width",
@@ -1202,6 +1245,9 @@
       "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-01-t.avif"
      },
      {
+      "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-08-t.avif"
+     },
+     {
       "src": "/assets/best-scuba-diving-dubai/04-fujairah-2-dives-certified-02-t.avif"
      },
      {
@@ -1341,6 +1387,10 @@
      "url": "#4-2-dives-for-certified-divers-fujairah",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/from-dubai-2-dives-for-certified-divers-with-bbq-transfer-t440676/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=scuba_diving_dubai&mkt_cmp=true",
+    "skip": "listing has 10 photos: 8 used, 2 of the dive centre patio"
    }
   },
   {
@@ -1732,6 +1782,9 @@
      "url": "#5-fujairah-scuba-dive-snorkel-trip",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 7 photos, all on the card"
    }
   },
   {
@@ -2584,6 +2637,9 @@
      "url": "#7-deep-dive-sunken-city-walk",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 6 photos, all on the card"
    }
   },
   {
@@ -2862,6 +2918,9 @@
      "url": "#8-deep-dive-dubai-snorkelling",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 4 photos, all on the card"
    }
   }
  ]

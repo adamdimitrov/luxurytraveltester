@@ -54,6 +54,40 @@
       ],
       [
        "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
        "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-02.avif"
       ],
       [
@@ -89,6 +123,40 @@
       [
        "data-src",
        "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Red Dune Desert: 60-Minute Dune Buggy Ride, Sandboarding & BBQ Buffet Dinner"
+      ],
+      [
+       "data-src",
+       "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-10.avif"
       ],
       [
        "decoding",
@@ -291,10 +359,16 @@
       "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-01-t.avif"
      },
      {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-09-t.avif"
+     },
+     {
       "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-02-t.avif"
      },
      {
       "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-10-t.avif"
      },
      {
       "src": "/assets/best-dune-buggy-tours-dubai/01-red-dune-60min-04-t.avif"
@@ -433,6 +507,9 @@
      "url": "#1-red-dune-60-min-buggy-bbq",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/dubai-evening-dune-buggy-and-bbq-desert-adventure-t130623/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dune_buggy_dubai&mkt_cmp=true"
    }
   },
   {

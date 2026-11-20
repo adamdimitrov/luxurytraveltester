@@ -555,6 +555,40 @@
       ],
       [
        "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
        "/assets/best-dubai-city-tours/02-big-bus-hoho-02.avif"
       ],
       [
@@ -590,6 +624,40 @@
       [
        "data-src",
        "/assets/best-dubai-city-tours/02-big-bus-hoho-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Big Bus Hop-on/Hop-off Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-dubai-city-tours/02-big-bus-hoho-10.avif"
       ],
       [
        "decoding",
@@ -792,10 +860,16 @@
       "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-01-t.avif"
      },
      {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-09-t.avif"
+     },
+     {
       "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-02-t.avif"
      },
      {
       "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-03-t.avif"
+     },
+     {
+      "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-10-t.avif"
      },
      {
       "src": "/assets/best-dubai-city-tours/02-big-bus-hoho-04-t.avif"
@@ -939,6 +1013,9 @@
      "url": "#2-big-bus-hop-on-hop-off-tour",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/dubai-big-bus-hop-onhop-off-tour-dhow-cruise-t5105/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=dubai_city_tours&mkt_cmp=true"
    }
   },
   {
@@ -1869,6 +1946,9 @@
      "url": "#4-old-new-dubai-tour-with-abra-ride",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 8 photos, all on the card"
    }
   },
   {
@@ -2257,6 +2337,9 @@
      "url": "#5-city-tour-in-a-luxury-car",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 7 photos, all on the card"
    }
   },
   {

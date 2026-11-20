@@ -1434,6 +1434,9 @@
      "url": "#3-level-152-vip-lounge",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 8 photos, all on the card"
    }
   },
   {
@@ -2751,6 +2754,9 @@
      "url": "#6-level-148-sky-views-combo",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 6 photos, all on the card"
    }
   },
   {
@@ -3141,6 +3147,9 @@
      "url": "#7-124-125-sky-views-combo",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 7 photos, all on the card"
    }
   },
   {
@@ -3491,6 +3500,9 @@
      "url": "#8-fast-track-levels-124-125",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 6 photos, all on the card"
    }
   }
  ]
