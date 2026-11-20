@@ -19,14 +19,47 @@
       ["height", "500"],
       ["loading", "eager"],
       ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
-      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy.webp"],
-      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy.webp 2048w"],
+      ["src", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-01.avif"],
+      ["srcset", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-01-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-01-p-800.avif 800w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-01.avif 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy.webp 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-02.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-02-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-02-p-800.avif 800w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-02.avif 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
       ["width", "800"]
      ],
      [
       ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_bestdubaidesertsafaris_1camel.webp"],
       ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_5E692A71-FD88-4522-89D3-F00C6588326D_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_5E692A71-FD88-4522-89D3-F00C6588326D_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_bestdubaidesertsafaris_1camel.webp 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-03.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-03-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-03-p-800.avif 800w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-03.avif 1024w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -47,8 +80,19 @@
      ],
      [
       ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-04.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-04-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-04-p-800.avif 800w, /assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-04.avif 1024w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Camel Ride, Quad Bike & BBQ Dinner"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result.webp"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result.webp 1182w"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result.webp 1024w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -82,13 +126,25 @@
     "_photo_sep": "\n",
     "thumbs": [
      {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-01-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799ac_Buggy-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-02-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779993_5E692A71-FD88-4522-89D3-F00C6588326D_1_105_c_result-p-500.webp"
      },
      {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-03-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be9477999f_F777B364-6E93-4638-AE41-962C73448297_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-camel-ride-quad-bike-bbq-dinner-04-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779999_CF916A23-B816-42BA-976C-E2D4F087215C_1_105_c_result-p-500.webp"
@@ -234,6 +290,9 @@
      "url": "#1-dubai-red-dunes-desert-safari-camel-ride",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/dubai-jeep-desert-safari-camel-ride-and-quad-bike-tour-t128547/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_1pic&mkt_cmp=true"
    }
   },
   {
@@ -251,14 +310,25 @@
       ["height", "500"],
       ["loading", "lazy"],
       ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
-      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour.avif"],
-      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour.avif 800w"],
+      ["src", "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-01.avif"],
+      ["srcset", "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-01-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-01.avif 800w"],
       ["width", "800"]
      ],
      [
       ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
-      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397.avif"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397.avif 800w"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-02.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-02-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-02.avif 800w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -269,7 +339,29 @@
      [
       ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result.webp"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result.webp 2048w"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-03.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-03-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-03.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari & Quad Biking with BBQ Dinner Options"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397.avif 800w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -325,13 +417,22 @@
     "_photo_sep": "\n",
     "thumbs": [
      {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-01-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68e1151e4c60e2add221d6f4_Camel%20Ride_funtour-p-500.avif"
      },
      {
-      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397-p-500.avif"
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-02-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be947799d8_73F0D7E9-8112-466B-B06F-FCDCB37DBEC3_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-quad-biking-with-bbq-dinner-03-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68e117ff4c1750300b0a4cb7_IMG_9397-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68e11588728be1dc52f7cf27_Quad_funtour-p-500.avif"
@@ -475,6 +576,9 @@
      "url": "#2-morning-desert-safari-with-camel-ride-sa",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/dubai-desert-safari-with-bbq-dinner-quad-biking-options-t31103/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_2pic&mkt_cmp=true"
    }
   },
   {
@@ -492,8 +596,52 @@
       ["height", "500"],
       ["loading", "lazy"],
       ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
-      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result.webp"],
-      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result.webp 2048w"],
+      ["src", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-01.avif"],
+      ["srcset", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-01-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-01.avif 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result.webp 712w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-02.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-02-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-02.avif 712w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result.webp 712w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-03.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-03-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-03.avif 712w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 712px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
       ["width", "800"]
      ],
      [
@@ -509,8 +657,8 @@
      ],
      [
       ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
-      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result.webp"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result.webp 2048w"],
+      ["data-src", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-04.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-04-p-500.avif 500w, /assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-04.avif 712w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -521,7 +669,7 @@
      [
       ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%20telescope.webp"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%20telescope.webp 2048w"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%20telescope.webp 712w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -543,7 +691,7 @@
      [
       ["alt", "Desert Safari, Quad Bike, Camel Ride & Al Khayma Camp"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092.avif"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092.avif 800w"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e119cca6aa11f03c9f1294_IMG_8092.avif 712w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -555,13 +703,25 @@
     "_photo_sep": "\n",
     "thumbs": [
      {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-01-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a32_ABFDEB8D-5BB9-4765-9F27-271C84F11D1D_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-02-p-500.avif"
+     },
+     {
+      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-03-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68e119569a3536f1e2ebb202_IMG_8320-p-500.avif"
      },
      {
-      "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a27_954591A9-06C6-4C6F-B992-3A64251438C8_1_105_c_result-p-500.webp"
+      "src": "/assets/best-desert-safaris-dubai/desert-safari-quad-bike-camel-ride-al-khayma-04-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a3d_Stargazing%2520telescope-p-500.webp"
@@ -707,6 +867,9 @@
      "url": "#3-premium-desert-safari-with-stargazing-fa",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/from-dubai-private-6-hour-desert-safari-dubai-w-bbq-t67792/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_3pic&mkt_cmp=true"
    }
   },
   {
@@ -724,8 +887,30 @@
       ["height", "500"],
       ["loading", "lazy"],
       ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
-      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack.webp"],
-      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack.webp 2048w"],
+      ["src", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01.avif"],
+      ["srcset", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01-p-500.avif 500w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01-p-800.avif 800w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01-p-1080.avif 1080w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01-p-1600.avif 1600w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01-p-2000.avif 2000w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01.avif 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02-p-500.avif 500w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02-p-800.avif 800w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02-p-1080.avif 1080w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02-p-1600.avif 1600w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02-p-2000.avif 2000w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02.avif 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
       ["width", "800"]
      ],
      [
@@ -741,8 +926,30 @@
      ],
      [
       ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03-p-500.avif 500w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03-p-800.avif 800w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03-p-1080.avif 1080w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03-p-1600.avif 1600w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03-p-2000.avif 2000w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03.avif 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating.webp"],
       ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04-p-500.avif 500w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04-p-800.avif 800w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04-p-1080.avif 1080w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04-p-1600.avif 1600w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04-p-2000.avif 2000w, /assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04.avif 2048w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -775,7 +982,7 @@
      [
       ["alt", "Safari, Quad Bike, Camel Ride, and BBQ Buffet Dinner"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507.avif"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507.avif 800w"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507.avif 800w, /assets/cdn/67d02edca7795b0f57073b59/68e11d9c489d43d06d5c1f6b_IMG_8507.avif 2048w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -787,13 +994,25 @@
     "_photo_sep": "\n",
     "thumbs": [
      {
+      "src": "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-01-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a53_Crack-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-02-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a74_ECE04369-DBC5-44CB-BD23-6A8FC9554C04_1_105_c_result-p-500.webp"
      },
      {
+      "src": "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-03-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a69_seating-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/safari-quad-bike-camel-ride-and-bbq-buffet-04-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a80_Fruit-p-500.webp"
@@ -929,6 +1148,9 @@
      "url": "#4-high-power-dune-buggy-quad-biking-extrem",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/dubai-safari-quad-bike-camel-ride-and-more-t188052/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_4pic&mkt_cmp=true"
    }
   },
   {
@@ -946,14 +1168,47 @@
       ["height", "500"],
       ["loading", "lazy"],
       ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
-      ["src", "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled.avif"],
-      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled.avif 800w"],
+      ["src", "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-01.avif"],
+      ["srcset", "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-01-p-500.avif 500w, /assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-01.avif 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled.avif"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-02.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-02-p-500.avif 500w, /assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-02.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
       ["width", "800"]
      ],
      [
       ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon.avif"],
       ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon-p-500.avif 500w, /assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Heritage Safari in Vintage Land Rover with Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-03.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-03-p-500.avif 500w, /assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-03.avif 800w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -1020,10 +1275,19 @@
     "_photo_sep": "\n",
     "thumbs": [
      {
+      "src": "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-01-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/6928407a5b47e62eda4eeffd_Untitled-p-500.avif"
      },
      {
+      "src": "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-02-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/6928408cad4df7cbc00015d7_eating%20falcon-p-500.avif"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/heritage-safari-in-vintage-land-rover-with-03-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/69284089893d82ace6570519_Rooms%20to%20sleep%20sunrise%20-p-500.avif"
@@ -1170,6 +1434,9 @@
      "url": "#5-heritage-desert-safari-in-vintage-1950s-",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/heritage-dinner-desert-safari-from-dubai-t28813/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_8pic&mkt_cmp=true"
    }
   },
   {
@@ -1187,14 +1454,47 @@
       ["height", "500"],
       ["loading", "lazy"],
       ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
-      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%201_result.webp"],
-      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%201_result.webp 2048w"],
+      ["src", "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01.avif"],
+      ["srcset", "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01-p-500.avif 500w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01-p-800.avif 800w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01-p-1080.avif 1080w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01-p-1600.avif 1600w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01-p-2000.avif 2000w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01.avif 2048w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%201_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%201_result.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02-p-500.avif 500w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02-p-800.avif 800w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02-p-1080.avif 1080w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02-p-1600.avif 1600w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02-p-2000.avif 2000w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02.avif 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
       ["width", "800"]
      ],
      [
       ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%20Corner.webp"],
       ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-1080.webp 1080w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-1600.webp 1600w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-2000.webp 2000w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%20Corner.webp 2048w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, (max-width: 4096px) 50vw, 2048px"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Dubai’s Best Desert Safari: Live Show & Gourmet BBQ Dinner"],
+      ["data-src", "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03-p-500.avif 500w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03-p-800.avif 800w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03-p-1080.avif 1080w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03-p-1600.avif 1600w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03-p-2000.avif 2000w, /assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03.avif 2048w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -1261,10 +1561,19 @@
     "_photo_sep": "\n",
     "thumbs": [
      {
+      "src": "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-01-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779a8b_Fireshow%25201_result-p-500.webp"
      },
      {
+      "src": "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-02-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aa1_Insta%2520Corner-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/dubais-best-desert-safari-live-show-gourmet-bbq-03-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aac_6499F787-47D7-4CDD-9029-BC77A802250A_1_105_c_result-p-500.webp"
@@ -1428,6 +1737,9 @@
      "url": "#6-vip-royal-desert-safari-with-gourmet-din",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/noble-camp-l219379/dubai-s-best-desert-safari-live-show-gourmet-bbq-dinner-t840528/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_5pic&mkt_cmp=true"
    }
   },
   {
@@ -1445,14 +1757,47 @@
       ["height", "500"],
       ["loading", "lazy"],
       ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1919px) 49vw, 800px"],
-      ["src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result.webp"],
-      ["srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result.webp 800w"],
+      ["src", "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-01.avif"],
+      ["srcset", "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-01-p-500.avif 500w, /assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-01.avif 800w"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result.webp"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-02.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-02-p-500.avif 500w, /assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-02.avif 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
       ["width", "800"]
      ],
      [
       ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result.webp"],
       ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result.webp 800w"],
+      ["decoding", "async"],
+      ["height", "500"],
+      ["loading", "lazy"],
+      ["sizes", "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"],
+      ["src", "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"],
+      ["width", "800"]
+     ],
+     [
+      ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
+      ["data-src", "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-03.avif"],
+      ["data-srcset", "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-03-p-500.avif 500w, /assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-03.avif 800w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -1507,7 +1852,7 @@
      [
       ["alt", "Sunrise Desert Jeep Safari with Wildlife Experience"],
       ["data-src", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%20pickup.webp"],
-      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%2520pickup-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%2520pickup-p-800.webp 800w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%20pickup.webp 1067w"],
+      ["data-srcset", "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%2520pickup-p-500.webp 500w, /assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ada_Hotel%20pickup.webp 800w"],
       ["decoding", "async"],
       ["height", "500"],
       ["loading", "lazy"],
@@ -1519,10 +1864,19 @@
     "_photo_sep": "\n",
     "thumbs": [
      {
+      "src": "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-01-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae4_6554D29C-70F5-4CC9-9BE6-70BBC556A69E_1_105_c_result-p-500.webp"
      },
      {
+      "src": "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-02-p-500.avif"
+     },
+     {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779aed_BDE7D4AD-E9EE-4259-82A1-9FA6D07BB60A_1_105_c_result-p-500.webp"
+     },
+     {
+      "src": "/assets/best-desert-safaris-dubai/sunrise-desert-jeep-safari-with-wildlife-03-p-500.avif"
      },
      {
       "src": "/assets/cdn/67d02edca7795b0f57073b59/68a1c9f3d9abe6be94779ae1_F9458DD3-C4C0-4A2A-90FF-F19590EE6BAE_1_105_c_result-p-500.webp"
@@ -1661,6 +2015,9 @@
      "url": "#7-sunrise-desert-jeep-safari-with-wildlife",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/dubai-l173/dubai-sunrise-desert-jeep-safari-with-wildlife-experience-t71350/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=Dubai_Comparison_6pic&mkt_cmp=true"
    }
   },
   {

@@ -1358,6 +1358,9 @@
      "url": "#3-dolphin-encounter-aquaventure",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "skip": "listing has 6 photos, all on the card"
    }
   },
   {
@@ -2856,7 +2859,7 @@
       ],
       [
        "src",
-       "/assets/best-water-parks-dubai/07-yas-multi-park-01.avif"
+       "/assets/best-water-parks-dubai/07-yas-multi-park-07.avif"
       ],
       [
        "width",
@@ -2870,7 +2873,7 @@
       ],
       [
        "data-src",
-       "/assets/best-water-parks-dubai/07-yas-multi-park-02.avif"
+       "/assets/best-water-parks-dubai/07-yas-multi-park-08.avif"
       ],
       [
        "decoding",
@@ -2904,7 +2907,7 @@
       ],
       [
        "data-src",
-       "/assets/best-water-parks-dubai/07-yas-multi-park-03.avif"
+       "/assets/best-water-parks-dubai/07-yas-multi-park-09.avif"
       ],
       [
        "decoding",
@@ -2938,7 +2941,7 @@
       ],
       [
        "data-src",
-       "/assets/best-water-parks-dubai/07-yas-multi-park-04.avif"
+       "/assets/best-water-parks-dubai/07-yas-multi-park-10.avif"
       ],
       [
        "decoding",
@@ -2972,7 +2975,7 @@
       ],
       [
        "data-src",
-       "/assets/best-water-parks-dubai/07-yas-multi-park-05.avif"
+       "/assets/best-water-parks-dubai/07-yas-multi-park-11.avif"
       ],
       [
        "decoding",
@@ -3006,7 +3009,143 @@
       ],
       [
        "data-src",
-       "/assets/best-water-parks-dubai/07-yas-multi-park-06.avif"
+       "/assets/best-water-parks-dubai/07-yas-multi-park-12.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-13.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-14.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-15.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass: 2, 3 or 4 Parks (Abu Dhabi)"
+      ],
+      [
+       "data-src",
+       "/assets/best-water-parks-dubai/07-yas-multi-park-16.avif"
       ],
       [
        "decoding",
@@ -3036,22 +3175,34 @@
     ],
     "thumbs": [
      {
-      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-01-t.avif"
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-07-t.avif"
      },
      {
-      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-02-t.avif"
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-08-t.avif"
      },
      {
-      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-03-t.avif"
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-09-t.avif"
      },
      {
-      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-04-t.avif"
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-10-t.avif"
      },
      {
-      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-05-t.avif"
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-11-t.avif"
      },
      {
-      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-06-t.avif"
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-12-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-13-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-14-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-15-t.avif"
+     },
+     {
+      "src": "/assets/best-water-parks-dubai/07-yas-multi-park-16-t.avif"
      }
     ]
    },
@@ -3175,6 +3326,9 @@
      "url": "#7-yas-island-multi-park-pass",
      "text": "Read Review ↓"
     }
+   },
+   "_photo_topup": {
+    "listing": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-island-multi-park-entry-tickets-t962101/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=water_parks_dubai&mkt_cmp=true"
    }
   }
  ]
