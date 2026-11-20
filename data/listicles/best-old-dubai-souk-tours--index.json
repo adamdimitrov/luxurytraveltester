@@ -1,0 +1,5157 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "budget",
+    "pickup",
+    "small"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/01-old-town-abra-museums-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Guided walking tour",
+    "⏱️ 2.5–4 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Seef+Heritage+Hotel+Dubai+Curio",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Seef, Bur Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-explore-old-dubai-souks-creek-and-street-food-t506774/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Old Town, Abra Cruise, Museums, Souks and Street Food Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.84",
+     "score": "4.8",
+     "meta": "11.5k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(11.5k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-explore-old-dubai-souks-creek-and-street-food-t506774/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "2.5–4 hours",
+     "pop_html": "<strong>Timing:</strong> Length depends on the option you book. The route runs Al Seef, Al Fahidi and Bastakiya, the Grand Souk, the abra across the Creek, then the Spice Souk and Gold Souk in Deira. Check availability for start times."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "7 languages",
+     "pop_html": "<strong>Guides:</strong> English, Arabic, French, German, Italian, Spanish and Hindi, the widest choice on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "On foot, with breaks",
+     "pop_html": "<strong>Access &amp; kids:</strong> A walking tour with built-in comfort breaks. Not suitable for people with mobility impairments; no luggage, large bags or pets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛶",
+     "label": "Private abra",
+     "pop_html": "<strong>On the water:</strong> A private traditional abra cruise on Dubai Creek with priority boarding, instead of squeezing onto a shared water-taxi crossing."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "4 tastings",
+     "pop_html": "<strong>Food:</strong> Arabic coffee and tea, premium dates, Dubai chocolate and camel milk chocolate with dates, plus unlimited mineral water. Shawarma, falafel and the fresh juices come with the premium option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛡️",
+     "label": "Souk price briefing",
+     "pop_html": "<strong>Before you shop:</strong> Before each market the guide explains real prices for gold, spices and textiles, how to haggle and the usual sales tricks, then gives you free time with no pressure to buy from set shops."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏛️",
+     "label": "Museum entry",
+     "pop_html": "<strong>Entry:</strong> Admission to the heritage sites and historic museums on the route is included, as are visits to the Textile, Spice and Gold markets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⭐",
+     "label": "Most booked",
+     "pop_html": "<strong>Vibe:</strong> The most reviewed Old Dubai tour here: practical, relaxed pace, with hotel pickup and private-group options for families who want them."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers who want the whole Old Dubai loop for €20, with a private abra, museum entry and a guide who tells you what gold and spices should cost before you start haggling",
+    "skip_html": "if you want a full street-food meal in the base price (shawarma and falafel are premium-option only) or you only have 2 hours"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Local guide, pre-market briefing, entry to heritage sites and museums, private abra with priority boarding, Arabic coffee and tea, dates, Dubai chocolate, camel milk chocolate, unlimited water, Textile, Spice and Gold market visits with shopping time."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup unless that option is selected."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Entrance of Al Seef Heritage Hotel by Curio, Bayt 1 (guide wears a badge), or hotel pickup if that option is booked."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Arabic, French, German, Italian, Spanish, Hindi."
+     }
+    ]
+   },
+   "price": {
+    "main": "€20",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€20"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-explore-old-dubai-souks-creek-and-street-food-t506774/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup option</b>"
+    ],
+    "sublink": {
+     "url": "#1-old-town-abra-museums-souks",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "short",
+    "small"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Highest Rated",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Authentic Old Town, Souks, Tastings & Abra Boat Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/02-old-town-tastings-abra-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Small-group walking tour",
+    "⏱️ 2–2.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Arabian+Tea+House+Al+Fahidi+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Fahidi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-authentic-old-town-souks-tastings-abra-boat-tour-t505703/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Authentic Old Town, Souks, Tastings &amp; Abra Boat Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.93",
+     "score": "4.9",
+     "meta": "1.7k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(1.7k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-authentic-old-town-souks-tastings-abra-boat-tour-t505703/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "2–2.5 hours",
+     "pop_html": "<strong>Timing:</strong> The shortest tour on this page. It starts and finishes at the Arabian Tea House in Al Fahidi, with Bastakiya, Al Seef, the abra and both Deira souks in between. Check availability for start times."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "6 languages",
+     "pop_html": "<strong>Guides:</strong> English, Spanish, French, Italian, German and Portuguese, led by a senior official licensed guide."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Mostly on foot",
+     "pop_html": "<strong>Access &amp; kids:</strong> A walking tour; bring comfortable shoes, sunglasses and a sun hat. Hotel pickup comes only with the private tour option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "6 tastings",
+     "pop_html": "<strong>Food:</strong> Arabic coffee, saffron tea, dates, chocolates, local sweets and iced tea, plus water, with a tea-preparation and spices experience."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Old houses + Baba&#x27;s Cave",
+     "pop_html": "<strong>Entry:</strong> Entry to old Emirati houses, access to the heritage area and entry to Baba's Cave, then the Spice and Gold Souks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛶",
+     "label": "Abra across the Creek",
+     "pop_html": "<strong>On the water:</strong> A traditional abra, the old fishermen's boat, carries you across Dubai Creek to the Deira souks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Small group",
+     "pop_html": "<strong>Group:</strong> Run as a small-group tour, with a private option that adds hotel pickup."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏅",
+     "label": "4.9 rated",
+     "pop_html": "<strong>Vibe:</strong> The highest score among the big Old Dubai tours (4.93). Story-led, with a focus on dodging souk tourist traps."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers short on time who want the best-rated guide, 6 tastings and to finish back where they started, all in about 2 hours",
+    "skip_html": "if you want savoury street food like shawarma or samosa, or want hotel pickup without paying for the private option"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Senior licensed guide, old houses entry, heritage area access, abra ride, Baba's Cave entry, spices experience, souk access, Arabic coffee, saffron tea, dates, chocolates, local sweets, iced tea, water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup (only with the private tour option)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "In front of the Arabian Tea House Restaurant and Cafe, Al Fahidi branch (not another branch); finishes at the same place."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Spanish, French, Italian, German, Portuguese."
+     }
+    ]
+   },
+   "price": {
+    "main": "€25",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€25"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-authentic-old-town-souks-tastings-abra-boat-tour-t505703/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Skip the ticket line</b>"
+    ],
+    "sublink": {
+     "url": "#2-old-town-tastings-abra",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "food",
+    "pickup"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best Emirati House Visit",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Souks, Street Food, Guided Tour & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/03-old-town-souks-street-food-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Guided walking tour",
+    "⏱️ 3–4 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Khayma+Heritage+Restaurant+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Fahidi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-souks-street-food-guided-tour-abra-ride-t303828/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Old Town, Souks, Street Food, Guided Tour &amp; Abra Ride"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.87",
+     "score": "4.9",
+     "meta": "7.8k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(7.8k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-souks-street-food-guided-tour-abra-ride-t303828/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "3–4 hours",
+     "pop_html": "<strong>Timing:</strong> Opens with 30 minutes inside Al Khayma Heritage House, then Al Seef, Al Fahidi Fort, the mosque, Bur Dubai Souk, the abra and about 30 minutes each in the Spice and Gold Souks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "5 languages",
+     "pop_html": "<strong>Guides:</strong> English, French, German, Italian and Spanish."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "No under-2s",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for children under 2, people with mobility impairments or wheelchair users. No baby strollers or large bags."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Emirati house entry",
+     "pop_html": "<strong>Heritage:</strong> Entry to Al Khayma Heritage House, a historic Emirati house with a gallery of old UAE photographs, plus entry to the heritage sites and museums on the route."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "3 tastings base",
+     "pop_html": "<strong>Food:</strong> Arabic coffee or tea, premium Emirati dates and camel milk chocolate, plus unlimited water. The Premium Tour adds karak and samosa, rogag and luqaimat, shawarma and falafel, lemon mint juice and camel milk ice cream."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Souk shopping time",
+     "pop_html": "<strong>Souks:</strong> Textile Souk visit, then shopping time in the Spice and Gold Souks, with local shopping tips and spice and souvenir recommendations."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Pickup option",
+     "pop_html": "<strong>Getting there:</strong> Meet at Al Khayma in Al Fahidi, or book the option with hotel pickup and drop-off."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "The classic route",
+     "pop_html": "<strong>Vibe:</strong> One of the two most-booked Old Dubai tours, with 7,775 reviews; the same Al Khayma route also comes cheaper (#5) and with full street food (#4)."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who want a real Emirati house at the start and the freedom to choose between a coffee-and-dates tour and a full street-food upgrade",
+    "skip_html": "if you are bringing a baby stroller (not allowed), or you want the full food line-up without having to pick the right option"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Local guide, entry to heritage sites and museums, Al Khayma Heritage House entry, Textile Souk visit, abra ride, Gold and Spice Souk shopping time, Arabic coffee or tea, dates, camel milk chocolate, unlimited water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Tips (optional); hotel pickup unless selected."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Al Khayma Heritage Restaurant, Historical Neighbourhood, 79 Al Mussallah Rd, Al Fahidi; hotel pickup if that option is booked."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, French, German, Italian, Spanish."
+     }
+    ]
+   },
+   "price": {
+    "main": "€22",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€22"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-souks-street-food-guided-tour-abra-ride-t303828/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup option</b>"
+    ],
+    "sublink": {
+     "url": "#3-old-town-souks-street-food",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "food",
+    "pickup"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best for Street Food",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Dubai: Premium Guided Tour with Street Food & Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/04-premium-street-food-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/04-premium-street-food-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Street food walking tour",
+    "⏱️ 3–4 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Khayma+Heritage+Restaurant+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Fahidi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/old-dubai-premium-guided-tour-with-street-food-abra-ride-t432201/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Old Dubai: Premium Guided Tour with Street Food &amp; Abra Ride"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.84",
+     "score": "4.8",
+     "meta": "489 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(489)",
+       "url": "https://www.getyourguide.com/dubai-l173/old-dubai-premium-guided-tour-with-street-food-abra-ride-t432201/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "3–4 hours",
+     "pop_html": "<strong>Timing:</strong> Same route as #3: Al Khayma Heritage House, Al Seef, Al Fahidi Fort, Bur Dubai Souk, the abra, then about 30 minutes each in the Spice and Gold Souks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "5 languages",
+     "pop_html": "<strong>Guides:</strong> English, German, French, Italian and Spanish."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "No under-2s",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for children under 2, people with mobility impairments or wheelchair users. No large bags or pets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥙",
+     "label": "8 food items",
+     "pop_html": "<strong>Street food:</strong> Shawarma, falafel, karak tea, samosa, rogag, luqaimat, camel milk ice cream and lemon mint juice, all in the base price."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "Plus coffee &amp; dates",
+     "pop_html": "<strong>Drinks:</strong> Arabic tea or coffee, dates and a bottle of water on top of the street food."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Emirati house entry",
+     "pop_html": "<strong>Heritage:</strong> Al Khayma Heritage House entry, an Al Fahidi visit and entry to the heritage sites and museums on the route."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Shared pickup option",
+     "pop_html": "<strong>Getting there:</strong> Meet at the entrance of Al Khayma, or book the shared pick-up and drop-off option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥟",
+     "label": "A walking food crawl",
+     "pop_html": "<strong>Vibe:</strong> Come hungry: this works as dinner, with the souks and the Creek as the backdrop."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for food-first travellers who want shawarma, falafel, samosa and Emirati sweets guaranteed in the price, so the tour doubles as dinner",
+    "skip_html": "if a coffee-and-dates taste is enough: #5 walks the same route from €16"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Guide, entry to heritage sites and museums, Al Fahidi visit, Al Khayma Heritage House entry, abra ride, Gold and Spice Souk visit, shawarma, falafel, karak tea, samosa, rogag, luqaimat, camel milk ice cream, lemon mint juice, dates, Arabic tea or coffee, bottle of water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Tips (optional); pickup unless selected."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Entrance of Al Khayma Heritage Restaurant, Al Fahidi Historical Neighbourhood; shared pickup if that option is booked."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, German, French, Italian, Spanish."
+     }
+    ]
+   },
+   "price": {
+    "main": "€29",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€29"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/old-dubai-premium-guided-tour-with-street-food-abra-ride-t432201/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Pickup option</b>"
+    ],
+    "sublink": {
+     "url": "#4-premium-street-food-abra",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "budget",
+    "food",
+    "short"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Value",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old Town, Street Food, Creek, Souks & Emirati House"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/05-old-town-emirati-house-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Guided walking tour",
+    "⏱️ 3 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Khayma+Heritage+Restaurant+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Fahidi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-street-food-creek-souks-emirati-house-t409518/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Old Town, Street Food, Creek, Souks &amp; Emirati House"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.89",
+     "score": "4.9",
+     "meta": "1.6k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(1.6k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-street-food-creek-souks-emirati-house-t409518/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "3 hours",
+     "pop_html": "<strong>Timing:</strong> Starts at Al Khayma, then Al Fahidi Fort, Al Seef and the mosque, an optional Wall of Old Dubai stop, 30 minutes in Bur Dubai Souk, the abra and the Spice and Gold Souks. Finishes at the Gold Souk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "4 languages",
+     "pop_html": "<strong>Guides:</strong> English, Spanish, Italian and German."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Ages 5+",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for children under 5 or wheelchair users; not recommended for infants. No luggage, large bags or pets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Emirati house entry",
+     "pop_html": "<strong>Heritage:</strong> Emirati Heritage House entry with dates, tea and Arabic coffee, plus museum and heritage-site tickets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "3 tastings base",
+     "pop_html": "<strong>Food:</strong> Arabic tea or coffee, dates and camel milk chocolate, plus a bottle of water. Karak tea and samosa come with the street-food option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛶",
+     "label": "Abra to the souks",
+     "pop_html": "<strong>On the water:</strong> A traditional abra across Dubai Creek to reach the Gold and Spice Souks; about 30 minutes in the Spice Souk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "From €16",
+     "pop_html": "<strong>Value:</strong> The cheapest way onto the Al Khayma route, about €5.50 per hour of guiding."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for budget travellers who still want an Emirati heritage house, museum entry and an abra crossing, for €16",
+    "skip_html": "if you have children under 5, or you want street food without remembering to add the option"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Guide, museum and heritage-site tickets, Emirati Heritage House entry, Al Seef Mosque photo stop, abra ride, Arabic tea or coffee, dates, camel milk chocolate, bottle of water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Tips (optional)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Al Khayma Heritage Restaurant, Historical Neighbourhood, Al Fahidi; finishes at the Gold Souk."
+     },
+     {
+      "q": "What can I add?",
+      "a": "Street food (karak tea and samosa) if that option is selected."
+     }
+    ]
+   },
+   "price": {
+    "main": "€16",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€16"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-street-food-creek-souks-emirati-house-t409518/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Skip the ticket line</b>"
+    ],
+    "sublink": {
+     "url": "#5-old-town-creek-emirati-house",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "pickup",
+    "small"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best with Hotel Pickup",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Frame Tickets, Creek, Souks & Blue Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/06-souks-blue-mosque-frame-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Half-day tour by vehicle",
+    "⏱️ 5–6 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Khayma+Heritage+Restaurant+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Hotel pickup in Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/half-day-dubai-city-tour-with-dubai-frame-tickets-t160202/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Frame Tickets, Creek, Souks &amp; Blue Mosque Guided Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.85",
+     "score": "4.8",
+     "meta": "6.2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(6.2k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/half-day-dubai-city-tour-with-dubai-frame-tickets-t160202/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "5–6 hours",
+     "pop_html": "<strong>Timing:</strong> Includes pickup and drop-off time. Palm Jumeirah drive, Marina walk, Burj Al Arab and Museum of the Future photo stops, the Blue Mosque, Gold and Spice Souks (about 30 minutes each), the abra, Bastakiya, Al Khayma and the Dubai Frame."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "5 languages",
+     "pop_html": "<strong>Guides:</strong> English, German, Italian, Spanish and French."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for wheelchairs",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for wheelchair users. Most of the day is by air-conditioned vehicle, with short walks at each stop."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Hotel pickup included",
+     "pop_html": "<strong>Transport:</strong> Hotel pickup and drop-off in an air-conditioned vehicle. Not available from Jebel Ali, Discovery Gardens, Investment Park, Expo City or Silicon Oasis; from there you meet at a suggested point."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Blue Mosque visit",
+     "pop_html": "<strong>Inside:</strong> A guided visit to the Al Farooq Omar Bin Al Khattab (Blue) Mosque; if it is closed, the group stops outside for photos."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🖼️",
+     "label": "Dubai Frame option",
+     "pop_html": "<strong>Upgrade:</strong> With the Frame option you get an entry ticket and about an hour at the Frame. Without it, the Frame is a photo stop before the drive back."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Al Khayma visit",
+     "pop_html": "<strong>Heritage:</strong> A visit to Al Khayma Heritage House with Arabic tea and coffee, plus unlimited water all day."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Old and new Dubai",
+     "pop_html": "<strong>Vibe:</strong> Less a souk walk, more a highlights day that includes Old Dubai. Private group option."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who want hotel pickup and Old Dubai plus a mosque visit and the Dubai Frame in one half day, without using the metro or taxis",
+    "skip_html": "if street food is the point (only tea, coffee and water are included) or you want time to explore Al Fahidi on foot"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Air-conditioned transport, licensed guide, Marina walk, Blue Mosque guided tour, Burj Al Arab photo stop, Museum of the Future photo stop and ground floor, Gold and Spice Souk visit, Al Khayma heritage visit, Arabic tea and coffee, abra ride, unlimited water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Tips (optional)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup and drop-off included, except from Jebel Ali, Discovery Gardens, Investment Park, Expo City and Silicon Oasis (meet at a suggested point)."
+     },
+     {
+      "q": "What can I add?",
+      "a": "Dubai Frame entry ticket."
+     }
+    ]
+   },
+   "price": {
+    "main": "€25",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€25"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/half-day-dubai-city-tour-with-dubai-frame-tickets-t160202/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#6-creek-souks-blue-mosque-frame",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "food",
+    "short",
+    "small",
+    "pickup"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Most Souk Time",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/07-old-dubai-walking-souks-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Walking tour",
+    "⏱️ 3 hours",
+    {
+     "url": "https://maps.google.com/?q=Sharaf+DG+Metro+Station+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Sharaf DG Metro, Exit 4"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/walking-tour-in-old-dubai-souks-abra-boat-old-town-t571712/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Walking Tour in Old Dubai, Souks, Abra Boat, Old Town"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.94",
+     "score": "4.9",
+     "meta": "103 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(103)",
+       "url": "https://www.getyourguide.com/dubai-l173/walking-tour-in-old-dubai-souks-abra-boat-old-town-t571712/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "3 hours",
+     "pop_html": "<strong>Timing:</strong> 45 minutes in Bastakiya, Al Fahidi Fort, the Old Textile Market and Grand Souk, a water-taxi crossing, then about 45 minutes each in the Spice Souk and Gold Souk. Ends near Al Ras Metro."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English, German",
+     "pop_html": "<strong>Guides:</strong> English and German."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for wheelchairs",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for wheelchair users or people with mobility impairments. No baby strollers or large bags."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "45 min per souk",
+     "pop_html": "<strong>Souks:</strong> The longest Spice and Gold Souk stops on this page; the Gold Souk has over 350 tax-free gold retailers."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "3 tastings",
+     "pop_html": "<strong>Food:</strong> Camel milk tea, camel milk chocolate and local food, plus water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛶",
+     "label": "Abra water taxi",
+     "pop_html": "<strong>On the water:</strong> An abra water-taxi trip across Dubai Creek from the Bur Dubai side to the Deira souks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Small group or private",
+     "pop_html": "<strong>Group:</strong> Join a small group or book it as a private tour; pickup is available on some options."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Metro-friendly",
+     "pop_html": "<strong>Vibe:</strong> Starts at a metro exit and ends at another, so no taxi is needed at either end."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for shoppers who want the longest souk time on the page, about 45 minutes each in the Spice and Gold Souks, with a metro exit at both ends",
+    "skip_html": "if you need a guide in French, Spanish or Italian, or want an Emirati house or museum entry"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Licensed guide, camel milk tea, camel milk chocolate, abra water taxi, local food, water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Sharaf DG Metro Station, Exit 4 (guide wears a tour guide licence); ends near Al Ras Metro Station."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, German."
+     }
+    ]
+   },
+   "price": {
+    "main": "€22",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€22"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/walking-tour-in-old-dubai-souks-abra-boat-old-town-t571712/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Skip the ticket line</b>"
+    ],
+    "sublink": {
+     "url": "#7-old-dubai-walking-souks",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "budget",
+    "short",
+    "pickup"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best Budget Metro Start",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Old City Walking Tour with Abra Ride"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/08-old-city-walking-abra-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Walking tour",
+    "⏱️ 3 hours",
+    {
+     "url": "https://maps.google.com/?q=Sharaf+DG+Metro+Station+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Sharaf DG Metro, Exit 4"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-old-city-walking-tour-with-abra-ride-t531518/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Old City Walking Tour with Abra Ride"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.92",
+     "score": "4.9",
+     "meta": "111 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(111)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-old-city-walking-tour-with-abra-ride-t531518/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "3 hours",
+     "pop_html": "<strong>Timing:</strong> Al Seef, Bastakiya, Bayt Al Khanyar Museum and Coffee Shop, Al Fahidi Fort, the Old Textile Market, a water-taxi crossing and 30 minutes each in the Spice and Gold Souks. Ends near Al Ras Metro."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English, Hindi, Urdu",
+     "pop_html": "<strong>Guides:</strong> English, Hindi and Urdu; one of only two tours here with Urdu (the other is #10)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "On foot throughout",
+     "pop_html": "<strong>Access &amp; kids:</strong> Every leg between stops is on foot (3 to 10 minutes each). Bring comfortable shoes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☕",
+     "label": "Museum &amp; coffee stop",
+     "pop_html": "<strong>Heritage:</strong> A 15-minute stop at Bayt Al Khanyar Museum and Coffee Shop, plus a walk through the historical houses and textile market."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "2 tastings",
+     "pop_html": "<strong>Food:</strong> One small dish for tasting and a tea or coffee per person, plus bottled water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛶",
+     "label": "Shared abra",
+     "pop_html": "<strong>On the water:</strong> A shared abra across the Creek to the Deira side, with free time in both souks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "€17, fees included",
+     "pop_html": "<strong>Vibe:</strong> All entry fees and taxes are included, so €17 is the full price apart from tips."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for metro users on a tight budget who want a museum and coffee-house stop and the option of a Hindi or Urdu-speaking guide",
+    "skip_html": "if you want real street food (one small tasting dish) or a guide in a European language other than English"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Licensed guide, entry to Al Fahidi and Al Seef, historical houses and textile market walk, 1 small tasting dish, shared abra, Spice and Gold Souk entry, bottled water, tea or coffee, all fees and taxes."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Sharaf DG Metro Station, Exit 4 (formerly Al Fahidi Metro); hotel pickup if that option is selected; ends near Al Ras Metro Station."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Hindi, Urdu."
+     }
+    ]
+   },
+   "price": {
+    "main": "€17",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€17"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-old-city-walking-tour-with-abra-ride-t531518/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Skip the ticket line</b>"
+    ],
+    "sublink": {
+     "url": "#8-old-city-walking-abra",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "food",
+    "short"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best for Museums",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-08-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-09-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/09-old-town-coin-museum-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Walking tour",
+    "⏱️ 3 hours",
+    {
+     "url": "https://maps.google.com/?q=Al+Seef+Heritage+Hotel+Dubai+Curio+Collection+by+Hilton",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Seef"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-creek-abra-boat-souks-guided-walking-tour-t545030/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Guided Walking Tour of Old Town, Creek, Abra Boat and Souks"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.85",
+     "score": "4.8",
+     "meta": "4 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(4)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-creek-abra-boat-souks-guided-walking-tour-t545030/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "3 hours",
+     "pop_html": "<strong>Timing:</strong> Al Seef, Al Fahidi, the Coin Museum (20 minutes), a traditional village stop, Al Fahidi Fort, the Grand Souk, a short ferry crossing, then the Spice and Gold Souks with 30 minutes of shopping."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Arabic, English",
+     "pop_html": "<strong>Guides:</strong> Arabic and English."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for limited mobility",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for people with mobility impairments. No luggage or large bags."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏛️",
+     "label": "Coin Museum",
+     "pop_html": "<strong>Museums:</strong> Entry fees to the museums and heritage sites are included, with a 20-minute guided stop at the Coin Museum and its old coins of Arabia and Dubai."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍵",
+     "label": "4 tastings",
+     "pop_html": "<strong>Food:</strong> Arabic coffee or tea, fresh juice, a samosa and camel milk chocolate, plus bottled water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Coral-stone houses",
+     "pop_html": "<strong>Heritage:</strong> Al Fahidi's 55-plus houses built from coral and seashells, and a stop at a traditional village."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌱",
+     "label": "Newer tour",
+     "pop_html": "<strong>Vibe:</strong> A newer tour with only a handful of reviews so far, built around history: coral-stone houses, old coins and a mosque stop."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for history fans who want a museum inside the tour (the Coin Museum) and the option of an Arabic-speaking guide",
+    "skip_html": "if you want a long review track record or hotel transport (not included)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Local guide, Arabic coffee and/or tea, bottled water, all fees and taxes, heritage-site and museum entry, fresh juice, samosa, camel milk chocolate, abra ride, Gold and Spice Souk visits."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Transport, meals, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Al Seef Heritage Hotel Dubai, Curio Collection by Hilton, Al Seef St (nearest metro: Sharaf DG, Green Line)."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "Arabic, English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€25",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€25"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-old-town-creek-abra-boat-souks-guided-walking-tour-t545030/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#9-old-town-coin-museum",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "budget",
+    "small"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Best Evening Walk",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Evening Heritage Walk, Souks, Museums & Emirati Flavour"
+      ],
+      [
+       "data-src",
+       "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-01-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-02-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-03-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-04-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-05-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-06-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-07-t.avif"
+     },
+     {
+      "src": "/assets/best-old-dubai-souk-tours/10-evening-heritage-walk-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Evening walking tour",
+    "⏱️ 4 hours",
+    {
+     "url": "https://maps.google.com/?q=Starbucks+Marsa+Al+Seef+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Marsa Al Seef"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-evening-heritage-walk-souks-museums-emirati-flavour-t1167663/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Evening Heritage Walk, Souks, Museums &amp; Emirati Flavour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "5.00",
+     "score": "5.0",
+     "meta": "2 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "5.0",
+       "count": "(2)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-evening-heritage-walk-souks-museums-emirati-flavour-t1167663/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Evening, 4 hours",
+     "pop_html": "<strong>Timing:</strong> An evening walk: starts at Al Seef, photo stops in Al Fahidi and at the abra dock, the water taxi across the Creek, then 30 minutes each in the Gold and Spice Souks. Finishes at the Spice Souk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "4 languages",
+     "pop_html": "<strong>Guides:</strong> English, Arabic, Hindi and Urdu."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for limited mobility",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for people with mobility impairments, heart problems or wheelchair users. Bring a passport (a copy is accepted)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛶",
+     "label": "Abra crossing",
+     "pop_html": "<strong>On the water:</strong> An abra ride across Dubai Creek, with the skyline seen from the water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Gold &amp; Spice Souks",
+     "pop_html": "<strong>Souks:</strong> About 30 minutes each in the Gold Souk and Spice Souk, with the guide explaining spices and their uses."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📖",
+     "label": "Storytelling focus",
+     "pop_html": "<strong>Included:</strong> A guided walk with cultural storytelling and history; no food or museum tickets are on the included list."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌙",
+     "label": "Cheapest, after dark",
+     "pop_html": "<strong>Vibe:</strong> €11, the lowest price on this page, and out of the midday sun. Private or small-group format."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for budget travellers who want to walk the souks after the heat of the day, at €11 the cheapest guided option here",
+    "skip_html": "if you expect food or museum entry: neither is on the included list despite the name"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Guided walking tour of Old Dubai, Al Seef visit, abra ride across Dubai Creek, Spice and Gold Souk visit, cultural storytelling."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup and drop-off, personal expenses and souvenirs."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Starbucks, Marsa Al Seef, Al Hamriya; finishes at the Spice Souk."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Comfortable shoes, camera, passport (copy accepted), charged phone, hat and sunscreen."
+     }
+    ]
+   },
+   "price": {
+    "main": "€11",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€11"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-evening-heritage-walk-souks-museums-emirati-flavour-t1167663/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=old_dubai_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#10-evening-heritage-walk",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

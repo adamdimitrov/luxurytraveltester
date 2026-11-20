@@ -142,6 +142,22 @@
            "p": ""
           }
          }
+        },
+        {
+         "href": "/best-theme-parks-dubai",
+         "label": "🎢 Theme Parks"
+        },
+        {
+         "href": "/best-old-dubai-souk-tours",
+         "label": "🕌 Old Dubai & Souk Tours"
+        },
+        {
+         "href": "/best-boat-tours-dubai",
+         "label": "🚤 Boat & Yacht Tours"
+        },
+        {
+         "href": "/best-abu-dhabi-tours-from-dubai",
+         "label": "🏛️ Abu Dhabi Day Trips"
         }
        ],
        "_fmt": {
@@ -445,6 +461,22 @@
          "p": ""
         }
        }
+      },
+      {
+       "href": "/best-theme-parks-dubai",
+       "title": "🎢 Theme Parks"
+      },
+      {
+       "href": "/best-old-dubai-souk-tours",
+       "title": "🕌 Old Dubai & Souk Tours"
+      },
+      {
+       "href": "/best-boat-tours-dubai",
+       "title": "🚤 Boat & Yacht Tours"
+      },
+      {
+       "href": "/best-abu-dhabi-tours-from-dubai",
+       "title": "🏛️ Abu Dhabi Day Trips"
       }
      ],
      "_fmt": {

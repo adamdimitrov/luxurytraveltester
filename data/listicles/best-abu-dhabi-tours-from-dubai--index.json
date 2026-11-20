@@ -1,0 +1,4810 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "budget",
+    "palace"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-08-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-09-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/01-premium-full-day-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "OceanAir Travels",
+    "⏱️ 9–10 hours",
+    {
+     "url": "https://maps.google.com/?q=Sheikh+Zayed+Grand+Mosque+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Abu Dhabi (~1.5 h each way)"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-city-sightseeing-tour-t60673/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Abu Dhabi Premium Full-Day Sightseeing Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.89",
+     "score": "4.9",
+     "meta": "28.3k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(28.3k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-city-sightseeing-tour-t60673/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "9–10 hours",
+     "pop_html": "<strong>Timing:</strong> Dubai hotel pickup, about 1.5 hours each way, then 1.5 hours at the Grand Mosque and, on the Premium option, 1.5 hours at Qasr Al Watan and 40 minutes at Etihad Towers. Not a good pick on a Friday you fly out."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "5 languages",
+     "pop_html": "<strong>Language:</strong> Live licensed guide in English, French, German, Spanish or Italian. The operator's guides are allowed to guide you inside the mosque year-round, including peak season."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Child seats on request",
+     "pop_html": "<strong>Access &amp; kids:</strong> Child seats on request (send age, height and weight after booking). Not suitable for wheelchair users. Shoulders, knees and tattoos must be covered; women get an abaya to borrow, men get nothing."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Guided inside the mosque",
+     "pop_html": "<strong>Grand Mosque:</strong> Mosque entry ticket and a guided visit inside Sheikh Zayed Grand Mosque: white marble domes, Swarovski chandeliers and the world's largest hand-knotted carpet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏛️",
+     "label": "Palace + 74th floor",
+     "pop_html": "<strong>Premium option:</strong> Adds Qasr Al Watan entry and the Observation Deck at 300 on the 74th floor of Etihad Towers. Guides cannot go inside Qasr Al Watan; if it closes for a presidential event, the Louvre replaces it."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Louvre photo stop",
+     "pop_html": "<strong>Also on the route:</strong> Photo stops at the Louvre Abu Dhabi on Saadiyat Island and at Emirates Palace, plus the Corniche viewpoint. Louvre entry is not part of this tour."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Lunch is an add-on",
+     "pop_html": "<strong>Food:</strong> Lunch is an optional add-on at checkout; otherwise you eat at the mall near the mosque at your own cost. Unlimited water is included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌟",
+     "label": "The classic Abu Dhabi day",
+     "pop_html": "<strong>Vibe:</strong> The most-reviewed Abu Dhabi day trip on this page, rated 4.9, with its guides scoring 4.9 out of 5 from guests."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers who want the full Abu Dhabi checklist in one day, because €45 covers hotel pickup, a guided visit inside the Grand Mosque and the Louvre and Emirates Palace photo stops, with the palace and the 74th-floor deck one option away",
+    "skip_html": "if you want to go inside the Louvre (book #3, #4 or #8) or you fly out the same evening, especially on a Friday"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, licensed guide, Sheikh Zayed Grand Mosque entry and guided visit inside, Louvre and Emirates Palace photo stops, Corniche viewpoint, abaya for women, unlimited water; Qasr Al Watan and Etihad Towers deck on the Premium option."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Lunch (add-on at checkout), tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Dubai hotels; airport pickup only from Holiday Inn Dubai Airport Hotel."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, French, German, Spanish, Italian."
+     }
+    ]
+   },
+   "price": {
+    "main": "€45",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€45"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-city-sightseeing-tour-t60673/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup in Dubai</b>"
+    ],
+    "sublink": {
+     "url": "#1-premium-full-day",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "mosque",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Half-Day",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-08-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-09-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/02-mosque-half-day-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Half-day mosque tour",
+    "⏱️ 5 hours",
+    {
+     "url": "https://maps.google.com/?q=Sheikh+Zayed+Grand+Mosque+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Sheikh Zayed Grand Mosque"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/half-day-sheikh-zayed-mosque-tour-from-dubai-t92025/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Abu Dhabi Sheikh Zayed Mosque Guided Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.85",
+     "score": "4.8",
+     "meta": "10.2k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(10.2k+)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/half-day-sheikh-zayed-mosque-tour-from-dubai-t92025/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "5 hours",
+     "pop_html": "<strong>Timing:</strong> About 1.5 hours each way plus 1.5 hours at the mosque; the 5 hours include the drive. Security checks at the mosque can add delays."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English or German",
+     "pop_html": "<strong>Language:</strong> Live licensed local guide in English or German, with you inside the mosque, not just at the gate."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for wheelchairs",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for wheelchair users. No luggage, large bags or pets; leave valuables in the vehicle and carry only phone, camera and sunglasses."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Guided inside",
+     "pop_html": "<strong>Grand Mosque:</strong> Entry fee and a guided visit inside: marble mosaics, Swarovski crystal chandeliers and one of the world's largest hand-knotted carpets in the main prayer hall."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧕",
+     "label": "Abaya to borrow",
+     "pop_html": "<strong>Dress code:</strong> Women can borrow an abaya and headscarf (if that option is selected). Men must cover shoulders, legs and knees; no clothing is provided for men. Tattoos covered, or entry is refused."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Hotel pickup",
+     "pop_html": "<strong>Transport:</strong> Hotel pickup and drop-off in Dubai in an air-conditioned vehicle, with unlimited mineral water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⏱️",
+     "label": "Mosque, nothing else",
+     "pop_html": "<strong>Vibe:</strong> One sight done properly, and the other half of your day stays free for Dubai plans."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who only want the Grand Mosque and refuse to give up a whole day, because 5 hours door to door buys a guided visit inside and leaves the rest of the day free",
+    "skip_html": "if you also want the Corniche, the palaces or the Louvre: the full-day tour at #1 costs the same €45"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Air-conditioned transport, mosque entry fee, guided visit inside with a licensed local guide, abaya and headscarf for women (if option selected), unlimited mineral water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Clothes for extra coverage, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup and drop-off in Dubai."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, German."
+     }
+    ]
+   },
+   "price": {
+    "main": "€45",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€45"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/half-day-sheikh-zayed-mosque-tour-from-dubai-t92025/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup in Dubai</b>"
+    ],
+    "sublink": {
+     "url": "#2-mosque-half-day",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "louvre"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best with Louvre Entry",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Grand Mosque & Louvre Museum Full-Day"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-08-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-09-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/03-mosque-louvre-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "OceanAir Travels",
+    "⏱️ 7–9 hours",
+    {
+     "url": "https://maps.google.com/?q=Louvre+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Grand Mosque and Saadiyat Island"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/louvre-museum-abu-dhabi-grand-mosque-tour-from-dubai-t129267/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Abu Dhabi Grand Mosque &amp; Louvre Museum Full-Day"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.84",
+     "score": "4.8",
+     "meta": "6.3k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(6.3k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/louvre-museum-abu-dhabi-grand-mosque-tour-from-dubai-t129267/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "7–9 hours",
+     "pop_html": "<strong>Timing:</strong> About an hour's transfer each way, 2 hours at the mosque, a 15-minute Corniche stop, an optional 30-minute lunch break and 2 hours at the Louvre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English, French, German",
+     "pop_html": "<strong>Language:</strong> Live guide in English, French or German for the drive and the mosque."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for wheelchairs",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for wheelchair users. The listing states guests with diabetic devices cannot enter the Louvre. The Louvre has a Children's Museum."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🖼️",
+     "label": "Louvre ticket included",
+     "pop_html": "<strong>Louvre Abu Dhabi:</strong> Entry and 2 hours inside the largest museum in the Gulf, with works lent by the Louvre, Pompidou Centre and Musée d'Orsay. Self-guided: there is no guided tour inside."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "2 hours at the mosque",
+     "pop_html": "<strong>Grand Mosque:</strong> Mosque entry fee included and a guided walk past the hand-woven carpet and the Swarovski-studded glass panels."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏛️",
+     "label": "Zayed Museum option",
+     "pop_html": "<strong>Upgrade:</strong> A Zayed Museum entry ticket can be added if you select that option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎨",
+     "label": "Art and architecture day",
+     "pop_html": "<strong>Vibe:</strong> Two of the UAE's big set pieces, 2 hours each, without a list of quick drive-bys in between."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone who wants the Louvre Abu Dhabi ticket and transport sorted in one booking, because €69 buys 2 full hours inside the museum and 2 at the mosque",
+    "skip_html": "if you want a guided museum visit (the Louvre part is self-guided) or more city stops for less money (see #4)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Air-conditioned transport, guide, Louvre Abu Dhabi entry (2-hour visit), Sheikh Zayed Mosque entry fee (2-hour visit), Corniche photo stop, chilled mineral water, Zayed Museum entry if that option is selected."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Clothes for extra coverage, guided tour of the Louvre, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup and drop-off in Dubai."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, French, German."
+     }
+    ]
+   },
+   "price": {
+    "main": "€69",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€69"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/louvre-museum-abu-dhabi-grand-mosque-tour-from-dubai-t129267/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Louvre ticket</b> included"
+    ],
+    "sublink": {
+     "url": "#3-mosque-louvre",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "louvre"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Small Group",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Louvre Abu Dhabi Day Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-08-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-09-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/04-small-group-louvre-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Small-group day tour",
+    "⏱️ 6–8 hours",
+    {
+     "url": "https://maps.google.com/?q=Louvre+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Abu Dhabi landmarks and Louvre"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-city-tour-with-louvre-museum-t652137/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Grand Mosque &amp; Louvre Abu Dhabi Day Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.85",
+     "score": "4.8",
+     "meta": "496 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(496)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-city-tour-with-louvre-museum-t652137/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "6–8 hours",
+     "pop_html": "<strong>Timing:</strong> About an hour's transfer each way, 1.5 hours at the mosque, a lunch break, four 10-minute photo stops and about 2 hours at the Louvre at the end of the day."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "4 languages",
+     "pop_html": "<strong>Language:</strong> Multilingual licensed guide: English, French, German or Spanish."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Dress code applies",
+     "pop_html": "<strong>Access &amp; kids:</strong> Men cover shoulders and knees; women cover shoulders, arms and legs and wear a headscarf. Mosque entry is not guaranteed on Islamic holidays. Luggage costs extra."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Max 10 people",
+     "pop_html": "<strong>Group:</strong> Small group of up to 10, or book it as a private tour. Airport pickup only on the private option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🖼️",
+     "label": "Louvre entry, ~2 h",
+     "pop_html": "<strong>Louvre Abu Dhabi:</strong> Ticket included and around two hours to explore the museum at your own pace on Saadiyat Island."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "4 photo stops",
+     "pop_html": "<strong>Also on the route:</strong> Corniche, Qasr Al Watan, Emirates Palace Marina and Etihad Towers, 10 minutes each, plus an optional 30-minute Heritage Village visit."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📷",
+     "label": "Photo help",
+     "pop_html": "<strong>Vibe:</strong> Photography assistance from your guide is in the includes, alongside a modern air-conditioned vehicle and bottled water."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and small families who want the Louvre plus the classic photo landmarks in a group of 10 or fewer, at €11 less than #3",
+    "skip_html": "if you want real time at Qasr Al Watan (10-minute photo stop only) or lunch included (you buy your own)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off within Dubai zones, modern air-conditioned vehicle, multilingual licensed guide, guided Grand Mosque visit, abaya for women if selected, Louvre Abu Dhabi entry, bottled water, Corniche drive, photography assistance, max 10 people."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food (except on the option with lunch and Arabic attire), additional drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotels and residences within Dubai city limits; airport pickup on private bookings only."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, French, German, Spanish."
+     }
+    ]
+   },
+   "price": {
+    "main": "€57",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€57"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-city-tour-with-louvre-museum-t652137/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Max 10 people</b>"
+    ],
+    "sublink": {
+     "url": "#4-small-group-louvre",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Budget Full Day",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-08-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-09-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/05-budget-full-day-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Budget full-day tour",
+    "⏱️ 5–10 hours",
+    {
+     "url": "https://maps.google.com/?q=Abu+Dhabi+Heritage+Village",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Abu Dhabi city loop"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-full-day-abu-dhabi-city-tour-with-sheikh-zayed-mosque-t708925/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Full-Day Abu Dhabi Tour with Sheikh Zayed Mosque"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.78",
+     "score": "4.8",
+     "meta": "1.3k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(1.3k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-full-day-abu-dhabi-city-tour-with-sheikh-zayed-mosque-t708925/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "5–10 hours",
+     "pop_html": "<strong>Timing:</strong> Pickup details arrive the evening before, between 19:00 and 20:00. About 90 minutes' drive each way and 1.5 hours at the mosque."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Licensed guide in English, plus a professional driver."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Bring a headscarf",
+     "pop_html": "<strong>Access &amp; kids:</strong> No sleeveless or see-through clothing; traditional clothing can be bought at the mosque if needed. Cabin bags on your lap are fine; hold luggage costs extra."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Mosque entry",
+     "pop_html": "<strong>Grand Mosque:</strong> Entry included and 1.5 hours on the grounds. On busy days guides may not be allowed inside, and checkpoints direct you."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏘️",
+     "label": "Heritage Village + Dates Market",
+     "pop_html": "<strong>Entries:</strong> Entry to the Heritage Village (30 minutes, self-guided) and the Dates Market (30 minutes) on the full-day tour."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Palace photo stops",
+     "pop_html": "<strong>Also on the route:</strong> Qasr Al Watan photo stop (20 minutes), Emirates Palace drive-by, Corniche, plus optional Louvre, Saadiyat Island and Ferrari World photo stops."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "€30 for the full loop",
+     "pop_html": "<strong>Vibe:</strong> One of the two €30 full days on this page: small vehicle, lots of stops, little time at each."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for budget travellers who want the mosque and a full city loop for about €30, with Heritage Village and Dates Market entries included",
+    "skip_html": "if you want a guide beside you inside the mosque on a busy day, or any palace or museum interiors"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Air-conditioned small vehicle, driver, licensed guide, Sheikh Zayed Mosque entry, Heritage Village and Dates Market entry (full day), Qasr Al Watan and Corniche photo stops (full day), bottled water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Personal expenses; lunch is optional at extra cost."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotels and residences within Dubai city limits; airport pickup on the private option only."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Comfortable shoes and clothes, headscarf."
+     }
+    ]
+   },
+   "price": {
+    "main": "€30",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€30"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-full-day-abu-dhabi-city-tour-with-sheikh-zayed-mosque-t708925/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup in Dubai</b>"
+    ],
+    "sublink": {
+     "url": "#5-budget-full-day",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "budget",
+    "palace"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Value with Palace Option",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/06-city-tour-lunch-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Abu Dhabi city tour",
+    "⏱️ 10 hours",
+    {
+     "url": "https://maps.google.com/?q=Qasr+Al+Watan+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai (incl. cruise terminals); Abu Dhabi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-abu-dhabi-city-tour-with-optional-lunch-t1427462/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Abu Dhabi City Tour with Optional Lunch"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.93",
+     "score": "4.9",
+     "meta": "114 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(114)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-abu-dhabi-city-tour-with-optional-lunch-t1427462/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "About 10 hours",
+     "pop_html": "<strong>Timing:</strong> About 9–10 hours including 1.5-hour transfers each way. The listing advises against booking it on your flight day."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Professional licensed guide in English."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Abayas for women",
+     "pop_html": "<strong>Access &amp; kids:</strong> Shoulders, knees and tattoos covered at the mosque and Qasr Al Watan. Free abayas and scarves for women; men's traditional clothing can be arranged. No luggage or large bags."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏛️",
+     "label": "Qasr Al Watan option",
+     "pop_html": "<strong>Palace:</strong> Choose the option with Qasr Al Watan entry for a 75-minute self-guided visit. If the palace closes for a presidential event, you get the Louvre or a full refund."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Buffet lunch option",
+     "pop_html": "<strong>Food:</strong> International buffet lunch at a local restaurant if you pick that option; otherwise free time to eat at your own cost."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Ferrari World &amp; Louvre stops",
+     "pop_html": "<strong>Also on the route:</strong> 2 hours at the mosque, Heritage Village (45 min), Emirates Palace (30 min), Etihad Towers, Louvre (15 min), Dates Market and a 30-minute Ferrari World photo stop."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚢",
+     "label": "Cruise terminal pickup",
+     "pop_html": "<strong>Pickup:</strong> From Dubai hotels and apartments, Port Rashid and Dubai Harbour. Airport pickup only from the Holiday Inn Express Dubai Airport lobby."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⭐",
+     "label": "Top-rated budget pick",
+     "pop_html": "<strong>Vibe:</strong> Rated 4.9, the best score among the tours with 100+ reviews, at the lowest price on the page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for cruise passengers and budget travellers who want to choose their own upgrades, because €30 is the base and Qasr Al Watan entry or a buffet lunch are add-ons you pick at booking",
+    "skip_html": "if you want everything in one fixed price with a guide inside the palace (guides are not permitted in Qasr Al Watan anyway) or you are flying out that day"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Pickup and drop-off, licensed guide, air-conditioned vehicle, Sheikh Zayed Grand Mosque visit, Corniche drive, Emirates Palace and Etihad Towers photo stops, cold water, abaya for women; Qasr Al Watan entry and buffet lunch if those options are selected."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Guided tour inside Qasr Al Watan, meals unless the lunch option is selected, men's traditional clothing, personal expenses, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Dubai hotels and apartments, Port Rashid, Dubai Harbour; airport only from the Holiday Inn Express Dubai Airport lobby."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€30",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€30"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-abu-dhabi-city-tour-with-optional-lunch-t1427462/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Cruise terminal pickup</b>"
+    ],
+    "sublink": {
+     "url": "#6-city-tour-lunch",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Most Landmarks in One Day",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-08-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-09-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/07-landmarks-loop-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Full-day sightseeing tour",
+    "⏱️ 10 hours",
+    {
+     "url": "https://maps.google.com/?q=Ferrari+World+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Abu Dhabi and Yas Island"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-tour-with-sheikh-zayed-mosque-t74721/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Abu Dhabi Tour with Sheikh Zayed Mosque"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.82",
+     "score": "4.8",
+     "meta": "955 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(955)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-tour-with-sheikh-zayed-mosque-t74721/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "10 hours",
+     "pop_html": "<strong>Timing:</strong> About 1.5 hours by van each way, 1.5 hours at the Grand Mosque, 20 minutes at Heritage Village, a 30-minute Marina Mall break and a 20-minute Ferrari World photo stop. Start times show when you check availability."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Live licensed tour guide in English only. For French, German, Spanish or Italian, #1 costs about €5 less."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for wheelchairs",
+     "pop_html": "<strong>Access &amp; kids:</strong> Not suitable for wheelchair users. No luggage, large bags or sleeveless shirts. Women get an abaya and scarf free; clothing for men is not included. Bring sunglasses and a sun hat."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Guided mosque visit",
+     "pop_html": "<strong>Grand Mosque:</strong> 1.5 hours with a guided visit at Sheikh Zayed Grand Mosque: marble floors, chandeliers and the world's largest hand-knotted carpet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "Yas Island + Ferrari World",
+     "pop_html": "<strong>In the base price:</strong> A drive across Yas Island and a 20-minute photo stop outside Ferrari World. On the €30 budget tour at #5 this stop is only an option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "Louvre &amp; palace photo stops",
+     "pop_html": "<strong>Also on the route:</strong> Photo stops at the Louvre Abu Dhabi, Emirates Palace and the Corniche; drive-bys at Qasr Al Watan, Etihad Towers and the Founder's Memorial. None of these is an entry."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "30 min at Marina Mall",
+     "pop_html": "<strong>Lunch stop:</strong> A 30-minute break with free time at Marina Mall, where you buy your own lunch. The description ends the day at the Dates Market for dates and local sweets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "The big landmark loop",
+     "pop_html": "<strong>Vibe:</strong> The longest sight list on this page, almost all from the van or a short photo stop. Rated 4.8, with guide and transport both scored 4.9 out of 5 by guests."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers who want to see every Abu Dhabi landmark once, Yas Island and Ferrari World included, with a guided mosque visit and a mall break for lunch, on a full day with nearly 1,000 guest reviews",
+    "skip_html": "if price matters (#6 covers a similar loop for €30 with 2 hours at the mosque, and #1 has guides in five languages for about €5 less) or you want to go inside anything other than the mosque"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Pickup and drop-off, air-conditioned vehicle, licensed guide, guided visit to Sheikh Zayed Grand Mosque, drive past the Founder's Memorial, Louvre Abu Dhabi, Ferrari World and Corniche photo stops, abaya and scarf for women, mineral water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Lunch, clothes for extra coverage for men."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Pickup and drop-off from your location in Dubai; private group available."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€49",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€49"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-tour-with-sheikh-zayed-mosque-t74721/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Private group</b> available"
+    ],
+    "sublink": {
+     "url": "#7-landmarks-loop",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "louvre",
+    "premium"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best for Museum Lovers",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Sheikh Zayed Mosque, Zayed Museum & Louvre Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-08-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-09-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/08-mosque-two-museums-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Museum day tour",
+    "⏱️ 7–10 hours",
+    {
+     "url": "https://maps.google.com/?q=Zayed+National+Museum+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Saadiyat Island and Grand Mosque"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-mosque-zayed-national-museum-louvre-t1146600/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Sheikh Zayed Mosque, Zayed Museum &amp; Louvre Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.83",
+     "score": "4.8",
+     "meta": "23 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(23)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-mosque-zayed-national-museum-louvre-t1146600/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "7–10 hours",
+     "pop_html": "<strong>Timing:</strong> About an hour's transfer each way, 1.5 hours at Zayed National Museum, 2 hours at the Louvre, a 45-minute lunch break and 1.5 hours at the mosque at the end."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Licensed tour guide in English, plus a professional driver."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Bring ID",
+     "pop_html": "<strong>Access &amp; kids:</strong> Bring a valid ID for entry. Dress modestly; mosque entry is not guaranteed on Islamic holidays. Luggage allowed for a fee."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏛️",
+     "label": "Zayed National Museum",
+     "pop_html": "<strong>Museum 1:</strong> Entry included to the museum of the UAE's history and the legacy of its founder, Sheikh Zayed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🖼️",
+     "label": "Louvre entry, 2 h",
+     "pop_html": "<strong>Museum 2:</strong> Entry included and about 2 hours in the galleries under the famous dome."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "Skip the ticket queue",
+     "pop_html": "<strong>Entry:</strong> Tickets are pre-arranged, plus a guided visit at the Grand Mosque."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Pickup zones",
+     "pop_html": "<strong>Pickup:</strong> Deira, Bur Dubai, World Trade Centre, Satwa, Sheikh Zayed Road, Business Bay, Barsha, Palm Jumeirah, Marina. Not Sharjah, Al Nahda, Al Qusais, Motor City, JVC/JVT or Expo 2020 (meeting point instead); no airport pickup."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎓",
+     "label": "Museum day",
+     "pop_html": "<strong>Vibe:</strong> Three big cultural sites, no drive-by photo list: built for people who read the wall texts."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for culture lovers who want both of Abu Dhabi's headline museums plus the mosque, because €85 includes all three entries",
+    "skip_html": "if you are not a museum person: #1 covers more of the city for €45, and #3 gives you the Louvre for €69"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, Sheikh Zayed Grand Mosque entry, Zayed National Museum entry, Louvre Abu Dhabi entry, Corniche drive, licensed guide, professional driver."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Meals, personal expenses."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Deira, Bur Dubai, World Trade Centre, Al Satwa, Sheikh Zayed Road, Business Bay, Barsha, Palm Jumeirah, Marina; meeting point for Sharjah, Al Nahda, Al Qusais, Motor City, JVC/JVT, Expo 2020; no airport pickup."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Valid ID, comfortable shoes, camera, sunscreen."
+     }
+    ]
+   },
+   "price": {
+    "main": "€85",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€85"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-abu-dhabi-mosque-zayed-national-museum-louvre-t1146600/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Skip the ticket queue</b>"
+    ],
+    "sublink": {
+     "url": "#8-mosque-two-museums",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "mosque",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best for Friday Prayer",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Friday Prayer at Sheikh Zayed Grand Mosque"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/09-friday-prayer-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Friday Prayer at Sheikh Zayed Grand Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/09-friday-prayer-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Friday Prayer at Sheikh Zayed Grand Mosque"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/09-friday-prayer-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/09-friday-prayer-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/09-friday-prayer-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/09-friday-prayer-03-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Noor Al Manzil Tourism",
+    "⏱️ About 5 hours (Fridays)",
+    {
+     "url": "https://maps.google.com/?q=Sheikh+Zayed+Grand+Mosque+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Sheikh Zayed Grand Mosque"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-friday-prayer-at-sheikh-zayed-grand-mosque-t1543940/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Friday Prayer at Sheikh Zayed Grand Mosque"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "5.00",
+     "score": "5.0",
+     "meta": "2 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "5.0",
+       "count": "(2)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-friday-prayer-at-sheikh-zayed-grand-mosque-t1543940/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Fridays only",
+     "pop_html": "<strong>Timing:</strong> Pickup from Dubai hotels starts at 10:30; Friday prayer in the UAE starts at 12:45. The whole trip takes about 5 hours."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English, Urdu, Hindi",
+     "pop_html": "<strong>Language:</strong> Guided commentary in English on the drive about the UAE and the mosque; the guide also speaks Urdu and Hindi."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Children welcome",
+     "pop_html": "<strong>Access &amp; kids:</strong> Children are welcome with an adult and must follow mosque rules. Bring your own prayer cap or headscarf if you prefer."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🤲",
+     "label": "Jumu&#x27;ah prayer",
+     "pop_html": "<strong>At the mosque:</strong> 1.5 hours of free time to make wudu, hear the khutbah and pray Jumu'ah with the congregation, then a few quiet minutes in the courtyards."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👥",
+     "label": "Max 12 people",
+     "pop_html": "<strong>Group:</strong> Small group of up to 12, or a private booking."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Hotel pickup",
+     "pop_html": "<strong>Transport:</strong> Hotel pickup and drop-off in Dubai in an air-conditioned van."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕊️",
+     "label": "Prayer, not sightseeing",
+     "pop_html": "<strong>Vibe:</strong> Made for Muslim travellers who want to pray in the mosque, not for a guided sightseeing visit."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for Muslim travellers in Dubai over a Friday who want to pray Jumu'ah in the Grand Mosque, because €38 handles the transport and the timing",
+    "skip_html": "if you want a sightseeing tour: this one is for guests attending Friday prayer only"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, air-conditioned van, guided commentary in English on the drive, free time at the mosque for Friday prayer."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks, tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Dubai hotels, from 10:30; exact time shared after booking."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Urdu, Hindi."
+     }
+    ]
+   },
+   "price": {
+    "main": "€38",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€38"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-friday-prayer-at-sheikh-zayed-grand-mosque-t1543940/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Max 12 people</b>"
+    ],
+    "sublink": {
+     "url": "#9-friday-prayer",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "premium"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Most Luxurious",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Grand Mosque & Emirates Palace Coffee Tour"
+      ],
+      [
+       "data-src",
+       "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-01-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-02-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-03-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-04-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-05-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-06-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-07-t.avif"
+     },
+     {
+      "src": "/assets/best-abu-dhabi-tours-from-dubai/10-emirates-palace-coffee-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "360 Adventures Tourism",
+    "⏱️ 8–10 hours",
+    {
+     "url": "https://maps.google.com/?q=Emirates+Palace+Mandarin+Oriental+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Emirates Palace and Grand Mosque"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-grand-mosque-emirates-palace-coffee-tour-t1526468/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Grand Mosque &amp; Emirates Palace Coffee Tour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "0.00",
+     "score": "0.0",
+     "meta": "0 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "0.0",
+       "count": "(0)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-grand-mosque-emirates-palace-coffee-tour-t1526468/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "8–10 hours",
+     "pop_html": "<strong>Timing:</strong> Leaves Dubai in the morning; 1.5 hours each way. On Fridays the mosque closes to visitors from 11:30 to 14:30, so the order changes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> English-speaking guide throughout."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Smart-casual + ID",
+     "pop_html": "<strong>Access &amp; kids:</strong> Bring passport or Emirates ID. Mosque: long sleeves, long trousers or skirts, women cover their hair (abayas sold at Souq Al Jami). Emirates Palace: smart casual, no beachwear or flip-flops."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☕",
+     "label": "Gold cappuccino + cake",
+     "pop_html": "<strong>Emirates Palace:</strong> An hour in the gilded halls of Emirates Palace with the 23K gold-flaked Palace Cappuccino and a slice of cake, included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Guided mosque visit",
+     "pop_html": "<strong>Grand Mosque:</strong> Entry ticket and a 1.5-hour guided tour: marble domes, reflective pools, the hand-knotted carpet and chandeliers."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏘️",
+     "label": "Heritage Village + Corniche",
+     "pop_html": "<strong>Also on the route:</strong> Heritage Village (30 min), Qasr Al Watan photo stop (20 min), Corniche (30 min) and a drive past Yas Island and Ferrari World."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔒",
+     "label": "Shared or private",
+     "pop_html": "<strong>Group:</strong> Join a small shared group or book a private tour with your own vehicle and guide."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Slow luxury day",
+     "pop_html": "<strong>Vibe:</strong> Fewer stops, a long sit-down at Abu Dhabi's grandest hotel: the day trip for people who want comfort over coverage."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and luxury travellers who want to sit inside Emirates Palace, not just photograph it, because the gold cappuccino and cake and an hour there are in the price",
+    "skip_html": "if you are watching your budget: #1 covers the mosque and Emirates Palace photo stop for €45, a quarter of the price"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Air-conditioned vehicle, English-speaking guide, Palace Cappuccino with 23K gold flakes and cake at Emirates Palace, Sheikh Zayed Grand Mosque entry, bottled water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Lunch, Qasr Al Watan entry (photo stop only), tips."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Hotel pickup and drop-off in Dubai."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card."
+     }
+    ]
+   },
+   "price": {
+    "main": "€179",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€179"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/from-dubai-grand-mosque-emirates-palace-coffee-tour-t1526468/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=abu_dhabi_tours&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Shared or private</b>"
+    ],
+    "sublink": {
+     "url": "#10-emirates-palace-coffee",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
