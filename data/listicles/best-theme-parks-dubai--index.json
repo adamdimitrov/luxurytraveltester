@@ -1,0 +1,4930 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "indoor",
+    "thrill"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "IMG Worlds of Adventure Entrance Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/01-img-worlds-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/01-img-worlds-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IMG Worlds of Adventure",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=IMG+Worlds+of+Adventure+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-img-worlds-of-adventure-t121581/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "IMG Worlds of Adventure Entrance Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.23",
+     "score": "4.2",
+     "meta": "286 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.2",
+       "count": "(286)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-img-worlds-of-adventure-t121581/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Valid 1 day",
+     "pop_html": "<strong>Timing:</strong> One day of entry on the date you book; check availability for start times. The park is indoor and temperature-controlled, so the outdoor heat does not shape your day."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides. The ticket is sold in English."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Under 105 cm free",
+     "pop_html": "<strong>Access &amp; kids:</strong> Children under 105 cm enter free. Under-12s need an adult aged 16 or over, and the Haunted Hotel is 15+ only (ID required for ages 15 to 18). Wheelchair-accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "22 rides, 6 zones",
+     "pop_html": "<strong>What&#x27;s inside:</strong> 22 rides and attractions, 17 of them themed rides, across Marvel, Cartoon Network, Lost Valley: Dinosaur Adventure, Haunted Hotel, IMG Boulevard and the Kids Zone."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🦸",
+     "label": "Marvel 3D ride",
+     "pop_html": "<strong>Headliner:</strong> Avengers: Battle of Ultron in the Marvel Zone, plus roller coasters among the animatronic dinosaurs of the Lost Valley and live shows in the Cartoon Network Zone."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🅿️",
+     "label": "Free parking",
+     "pop_html": "<strong>Getting in:</strong> Parking is free. Hotel pickup and drop-off are not part of the ticket."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "❄️",
+     "label": "Biggest indoor park",
+     "pop_html": "<strong>Vibe:</strong> Billed as the world's largest indoor theme park at 1.5 million sq ft, with superheroes, Cartoon Network characters and dinosaurs under one roof."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and groups visiting between May and October, because €63 buys a full day of rides under one air-conditioned roof and kids under 105 cm pay nothing",
+    "skip_html": "if your kids are mainly under 6 and you need the Kids Zone (it is sold separately at the park), or if you want outdoor coasters and LEGO lands"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Entry to IMG Worlds of Adventure, unlimited access to rides and attractions, free parking; children under 105 cm free."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks, Kids Zone access, Iron Man experience and arcade games, lockers, pushchairs, souvenir photos, hotel pickup."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Any rules to know?",
+      "a": "No outside food or drinks; under-12s with an adult 16+; Haunted Hotel 15+ only."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card."
+     }
+    ]
+   },
+   "price": {
+    "main": "€63",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€63"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-img-worlds-of-adventure-t121581/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#1-img-worlds",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "kids",
+    "multi"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/02-dubai-parks-multi-pass-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Dubai Parks and Resorts",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Parks+and+Resorts",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts, Sheikh Zayed Rd"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-dubai-parks-and-resorts-multi-parks-pass-t118780/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Parks and Resorts Multi Parks Pass (2 Parks, 1 Day)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.49",
+     "score": "4.5",
+     "meta": "891 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(891)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-dubai-parks-and-resorts-multi-parks-pass-t118780/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "2 parks, 1 day",
+     "pop_html": "<strong>Timing:</strong> Both parks on the same day. Redeem the pass at whichever park you start in, then walk to the second. Opening hours change often, so check each park's hours for your date."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Ages 2–12 sweet spot",
+     "pop_html": "<strong>Access &amp; kids:</strong> The resort pitches itself at families with children aged 2 to 12. Wheelchair-accessible. Not suitable for pregnant women."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "Pick 2 of 4 parks",
+     "pop_html": "<strong>Choose from:</strong> MOTIONGATE Dubai, LEGOLAND Dubai, LEGOLAND Water Park and Real Madrid World. All daytime rides, shows and attractions in both parks are included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚶",
+     "label": "5–10 min walk",
+     "pop_html": "<strong>Park hopping:</strong> The parks are linked by Riverland Dubai, a themed dining and shopping area, so moving from one gate to the next is a short walk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "~€44 per park",
+     "pop_html": "<strong>The maths:</strong> €88 for two parks versus €73 for one, so the second park costs about €15."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎡",
+     "label": "Big day out",
+     "pop_html": "<strong>Vibe:</strong> A full, busy day across the Middle East's largest multi-themed resort, with 100+ rides and attractions on site."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families spending a whole day at Dubai Parks, because the second park costs about €15 and the gates are a 5–10 minute walk apart",
+    "skip_html": "if you only have the energy for one park, or if one of your two choices is LEGOLAND Water Park and you are going on a Wednesday (it is closed)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "1-day admission to 2 of: MOTIONGATE Dubai, LEGOLAND Dubai, LEGOLAND Water Park, Real Madrid World; all daytime rides, shows and attractions."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks, transport to Dubai Parks and Resorts."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dubai Parks and Resorts, Sheikh Zayed Rd, about 25 minutes from Dubai Marina."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card."
+     }
+    ]
+   },
+   "price": {
+    "main": "€88",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€88"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-dubai-parks-and-resorts-multi-parks-pass-t118780/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#2-dubai-parks-multi-pass",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "thrill"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best for Thrills in Dubai",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/03-motiongate-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "MOTIONGATE Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/03-motiongate-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/03-motiongate-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "MOTIONGATE Dubai",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=Motiongate+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts, Sheikh Zayed Rd"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/motiongate-dubai-ticket-at-dubai-parks-and-resorts-t118768/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "MOTIONGATE Dubai Theme Park Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.41",
+     "score": "4.4",
+     "meta": "995 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.4",
+       "count": "(995)",
+       "url": "https://www.getyourguide.com/dubai-l173/motiongate-dubai-ticket-at-dubai-parks-and-resorts-t118768/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Valid 1 day",
+     "pop_html": "<strong>Timing:</strong> A full day of entry on the date you book; check availability for start times and the park's opening hours for your date."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Wheelchair-accessible",
+     "pop_html": "<strong>Access &amp; kids:</strong> The park is wheelchair-accessible. With 5 coasters and a drop tower it leans to older kids; families with young children have LEGOLAND next door."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "5 roller coasters",
+     "pop_html": "<strong>Rides:</strong> 27 rides and attractions in all: 5 coasters, multi-media dark rides, a drop tower, a water rapids ride, interactive play labs and theatre shows."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎬",
+     "label": "3 film studios",
+     "pop_html": "<strong>Themes:</strong> Lands based on Columbia Pictures, DreamWorks Animation and Lionsgate films."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💃",
+     "label": "15 live shows",
+     "pop_html": "<strong>Entertainment:</strong> 15 entertainment experiences including the Step Up Dubai, All In! dance show at the 1,000-seat Hollywood Theatre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎥",
+     "label": "Hollywood energy",
+     "pop_html": "<strong>Vibe:</strong> Cinematic and ride-heavy: a Hollywood-inspired park built on Columbia Pictures, DreamWorks Animation and Lionsgate films."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for teens and adults who want coasters without driving to Abu Dhabi, because 5 coasters and a drop tower sit 25 minutes from Dubai Marina with free parking",
+    "skip_html": "if you are travelling in peak summer and want air-conditioning all day (IMG Worlds), or if your children are under 8 (LEGOLAND)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Entry to MOTIONGATE Dubai, unlimited access to all rides and entertainment, free parking at Dubai Parks and Resorts."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks, souvenir photos, hotel pickup and drop-off, transfers."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €73 per person. The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dubai Parks and Resorts, Sheikh Zayed Rd, about 25 minutes from Dubai Marina."
+     }
+    ]
+   },
+   "price": {
+    "main": "€73",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€73"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/motiongate-dubai-ticket-at-dubai-parks-and-resorts-t118768/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#3-motiongate",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "kids"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best for Young Kids",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Dubai Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/04-legoland-dubai-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/04-legoland-dubai-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "LEGOLAND Dubai",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=LEGOLAND+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts, Sheikh Zayed Rd"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/legolandr-dubai-ticket-at-dubai-parks-and-resorts-1day-1park-t118771/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "LEGOLAND Dubai Theme Park Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.25",
+     "score": "4.2",
+     "meta": "803 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.2",
+       "count": "(803)",
+       "url": "https://www.getyourguide.com/dubai-l173/legolandr-dubai-ticket-at-dubai-parks-and-resorts-1day-1park-t118771/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Valid 1 day",
+     "pop_html": "<strong>Timing:</strong> One day of entry on your chosen date. With a mix of indoor and outdoor areas, plan the outdoor rides for the morning."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Wheelchair-accessible",
+     "pop_html": "<strong>Access &amp; kids:</strong> Wheelchair-accessible, with hands-on attractions such as the Driving School for children. Not suitable for pregnant women."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧱",
+     "label": "40+ rides &amp; shows",
+     "pop_html": "<strong>What&#x27;s inside:</strong> Over 40 LEGO-themed rides, shows and building experiences across 6 themed lands."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏗️",
+     "label": "15,000 LEGO models",
+     "pop_html": "<strong>Miniland &amp; more:</strong> Thousands of models made from over 60 million bricks. Start at the LEGO Factory to see how bricks are made and take one home."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "Driving School",
+     "pop_html": "<strong>Kids&#x27; favourite:</strong> Children earn an official LEGOLAND Driving Licence, and can crew a boat at The Sea Port. The Big Shop has the region's largest LEGO range."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧸",
+     "label": "Small-kid friendly",
+     "pop_html": "<strong>Vibe:</strong> Hands-on LEGO play and building: a family park rather than a thrill park."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with young children, because the 40+ rides, shows and building experiences are LEGO-themed and hands-on, and the water park next door pairs on a multi pass",
+    "skip_html": "if your kids are teenagers who want coasters (Motiongate or Ferrari World), or if you will visit two parks anyway (the multi pass is €15 more)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Admission to LEGOLAND Dubai."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dubai Parks and Resorts, Sheikh Zayed Rd, about 25 minutes from Dubai Marina."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Passport or ID card, driver's licence, comfortable shoes."
+     }
+    ]
+   },
+   "price": {
+    "main": "€73",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€73"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/legolandr-dubai-ticket-at-dubai-parks-and-resorts-1day-1park-t118771/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#4-legoland-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "indoor",
+    "kids",
+    "abudhabi"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Indoor Park in Abu Dhabi",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Warner Bros. World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/05-warner-bros-world-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/05-warner-bros-world-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Warner Bros. World Abu Dhabi",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=Warner+Bros.+World+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Yas Island, Abu Dhabi (about 40 min from Dubai)"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-warner-bros-world-entry-ticket-with-free-shuttle-t962098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Warner Bros. World Abu Dhabi Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.51",
+     "score": "4.5",
+     "meta": "444 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(444)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-warner-bros-world-entry-ticket-with-free-shuttle-t962098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Valid 1 day",
+     "pop_html": "<strong>Timing:</strong> A full day on Yas Island, which the park puts 40 minutes from Dubai and 10 minutes from Abu Dhabi airport. Opening hours change, so check them for your date."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Wheelchair-accessible",
+     "pop_html": "<strong>Access &amp; kids:</strong> Wheelchair-accessible. Some rides have content parents may find unsuitable for young children, and some require a signed disclaimer."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🦇",
+     "label": "29 rides &amp; shows",
+     "pop_html": "<strong>What&#x27;s inside:</strong> 29 rides, family attractions and live shows across 6 lands: Warner Bros. Plaza, Metropolis, Gotham City, Cartoon Junction, Bedrock and Dynamite Gulch."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐰",
+     "label": "35+ live characters",
+     "pop_html": "<strong>Meet &amp; greet:</strong> Batman, Superman and Wonder Woman alongside Looney Tunes and Hanna-Barbera favourites such as Bugs Bunny, Tom and Jerry and Scooby-Doo."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚡",
+     "label": "Skip the ticket line",
+     "pop_html": "<strong>Entry:</strong> The ticket skips the ticket-office queue. Quick Pass for ride queues is sold separately."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Under one roof",
+     "pop_html": "<strong>Vibe:</strong> Fully indoor, so it works in any season. 16 restaurants and 22 shops keep you inside all day."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with mixed ages on an Abu Dhabi day, because it is fully indoor and has both DC superheroes and cartoon characters for little ones",
+    "skip_html": "if you do not want to leave Dubai (IMG Worlds is the indoor alternative), or if you plan 2+ Yas parks (the multi-park pass is cheaper per park)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "General admission, all rides, all attractions."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Quick Pass, food and drinks, transport (free shuttle suspended until further notice)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €86 per person. The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Warner Bros. World Abu Dhabi, Yas Island, Abu Dhabi; the park quotes 40 minutes from Dubai."
+     }
+    ]
+   },
+   "price": {
+    "main": "€86",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€86"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-warner-bros-world-entry-ticket-with-free-shuttle-t962098/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Skip the ticket line</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#5-warner-bros-world",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "thrill",
+    "abudhabi"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Day Trip from Dubai",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/06-ferrari-mosque-transfer-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Abu Dhabi day trip from Dubai",
+    "⏱️ 8–10 hours",
+    {
+     "url": "https://maps.google.com/?q=Sheikh+Zayed+Grand+Mosque+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pickup in Dubai; Sheikh Zayed Grand Mosque and Yas Island, Abu Dhabi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/from-dubai-sheikh-zayed-mosque-with-ferrari-world-admission-t493861/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "From Dubai: Sheikh Zayed Mosque and Ferrari World Entry with Transfer"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.72",
+     "score": "4.7",
+     "meta": "1.1k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.7",
+       "count": "(1.1k+)",
+       "url": "https://www.getyourguide.com/dubai-l173/from-dubai-sheikh-zayed-mosque-with-ferrari-world-admission-t493861/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "8–10 hours",
+     "pop_html": "<strong>Timing:</strong> A full day out of Dubai: hotel pickup, the Sheikh Zayed Grand Mosque, then the park, then back to your hotel. The exact pickup time is sent the day before."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English guide",
+     "pop_html": "<strong>Language:</strong> A live tour guide in English. Private or small-group options are available when you book."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Mosque dress code",
+     "pop_html": "<strong>Access &amp; kids:</strong> Strict dress code at the mosque, and mosque entry is not guaranteed on Islamic holidays. No large luggage and no airport pickup."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Hotel pickup in Dubai",
+     "pop_html": "<strong>Transport:</strong> Pickup and drop-off at your Dubai hotel in an air-conditioned vehicle, with bottled water."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Grand Mosque visit",
+     "pop_html": "<strong>First stop:</strong> Access to the Sheikh Zayed Grand Mosque, with its white marble domes, carvings and prayer halls, and its history explained by the guide."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏎️",
+     "label": "Ferrari World, WB or SeaWorld",
+     "pop_html": "<strong>Park ticket:</strong> Entry to Ferrari World, or to Warner Bros. World or SeaWorld depending on the option you choose. The team hands out the park tickets at the venue."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛣️",
+     "label": "Hands-off day",
+     "pop_html": "<strong>Vibe:</strong> You do not drive or buy tickets yourself: the most hands-off way to see a Yas Island park from Dubai."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone staying in Dubai who wants one Abu Dhabi park without arranging transport, because €127 covers the return drive, an English guide, the Grand Mosque and the park ticket",
+    "skip_html": "if you want a full day in the park (the mosque takes part of it), or if you plan two or more Yas parks (rent a car and use the multi-park pass)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, air-conditioned vehicle, Sheikh Zayed Grand Mosque access, entry to Ferrari World or Warner Bros. World or SeaWorld (by option), bottled water."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What about hotel pickup?",
+      "a": "Your hotel in Dubai; exact time sent one day before (no airport pickup)."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Comfortable shoes; clothing that meets the mosque dress code."
+     }
+    ]
+   },
+   "price": {
+    "main": "€127",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€127"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/from-dubai-sheikh-zayed-mosque-with-ferrari-world-admission-t493861/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Pickup</b> included",
+     "<b>Reserve now, pay later</b>"
+    ],
+    "sublink": {
+     "url": "#6-ferrari-world-mosque-transfer",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "thrill",
+    "abudhabi"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best for Coaster Fans",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ferrari World Abu Dhabi Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/07-ferrari-world-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/07-ferrari-world-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Ferrari World Abu Dhabi",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=Ferrari+World+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Yas Island, Abu Dhabi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-ferrari-world-entry-ticket-with-free-shuttle-t962078/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Ferrari World Abu Dhabi Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.08",
+     "score": "4.1",
+     "meta": "1.8k+ reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.1",
+       "count": "(1.8k+)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-ferrari-world-entry-ticket-with-free-shuttle-t962078/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Valid 1 day",
+     "pop_html": "<strong>Timing:</strong> One day on Yas Island in Abu Dhabi. Some rides may open late or close for maintenance, so check ride status before you go."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides. The e-ticket arrives by email; show it on your phone with photo ID."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Height limits",
+     "pop_html": "<strong>Access &amp; kids:</strong> Wheelchair and pushchair-accessible, but most rides have height, age and weight limits and some have health restrictions."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "44 rides &amp; shows",
+     "pop_html": "<strong>What&#x27;s inside:</strong> 44 rides, family attractions, simulators and live shows, plus seasonal events such as Winter on Italian Street and the Festival of Lights."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌀",
+     "label": "Mission Ferrari",
+     "pop_html": "<strong>Headliners:</strong> The 5D multisensory mega-coaster Mission Ferrari, a record-breaking ride with an inverted loop, and the Roof Walk on top of the park."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏁",
+     "label": "Karting extra",
+     "pop_html": "<strong>Not included:</strong> Karting and the Scuderia Challenge F1 simulators are paid separately, as is the Quick Pass."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔥",
+     "label": "Adrenaline park",
+     "pop_html": "<strong>Vibe:</strong> Speed, simulators and record-breaking coasters: the most thrill-focused park on this page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for teens and adults who rank parks by coasters and will be on Yas Island anyway, because €86 buys 44 rides, simulators and shows including Mission Ferrari",
+    "skip_html": "if you are based in Dubai with no car (the day trip at #6 adds pickup for €42), or if your group has small children (Warner Bros. World)"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Ferrari World Abu Dhabi general admission."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Quick Pass, Karting and Scuderia Challenge F1 simulators, food and drinks, transfers (free shuttle suspended until further notice)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Yas Leisure Dr, Yas Island, Abu Dhabi."
+     },
+     {
+      "q": "Any rules to know?",
+      "a": "No outside food, drinks or coolers; most rides have height, age and weight limits."
+     }
+    ]
+   },
+   "price": {
+    "main": "€86",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€86"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-ferrari-world-entry-ticket-with-free-shuttle-t962078/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Mobile ticket</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#7-ferrari-world",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "multi",
+    "abudhabi",
+    "thrill"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best for 2+ Days on Yas Island",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/08-yas-multi-park-pass-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Yas Island theme parks",
+    "⏱️ Valid 1–6 days",
+    {
+     "url": "https://maps.google.com/?q=Yas+Island+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Yas Island, Abu Dhabi"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-island-multi-park-entry-tickets-t962101/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Yas Island Multi-Park Pass (2, 3 or 4 Parks)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.53",
+     "score": "4.5",
+     "meta": "828 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(828)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-island-multi-park-entry-tickets-t962101/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "6 days to use",
+     "pop_html": "<strong>Timing:</strong> Use the pass within 6 days of your first park visit, so you can spread 2 to 4 parks over a long weekend."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Ages 3+ need a ticket",
+     "pop_html": "<strong>Access &amp; kids:</strong> Everyone aged 3 and over needs a pass; proof of age may be asked. Wheelchair-accessible. Yas Waterworld is women and children only on Fridays."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "2, 3 or 4 parks",
+     "pop_html": "<strong>Choose from:</strong> Any mix of Ferrari World, Warner Bros. World, SeaWorld Abu Dhabi and Yas Waterworld, picked as you go."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚌",
+     "label": "Free Yas shuttle",
+     "pop_html": "<strong>Transport:</strong> Free parking at all parks and a free shuttle between the parks, hotels and Yas Mall. A free shuttle from Dubai is listed too; check it is running for your date."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🪪",
+     "label": "Biometric check",
+     "pop_html": "<strong>Entry:</strong> Your face is verified on first use so the pass cannot be shared. If you prefer not to, register manually with a government photo ID."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗺️",
+     "label": "Resort weekend",
+     "pop_html": "<strong>Vibe:</strong> Built for a short stay on Yas Island: one park a day, pool in between."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone staying 2+ nights on Yas Island, because from €108 you get two parks (about €54 each) and 6 days to use them",
+    "skip_html": "if you are doing Abu Dhabi as one day trip from Dubai, since two parks in one day is rushed; book the day trip at #6 instead"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "2, 3 or 4-park pass for any mix of Ferrari World, SeaWorld Abu Dhabi, Yas Waterworld and Warner Bros. World; valid within 6 days of first use; free shuttle between Yas parks, hotels and Yas Mall; free parking."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Quick Pass, food and drinks, premium experiences and add-ons, souvenirs."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €108 per person (2-park pass). The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Yas Island, Abu Dhabi."
+     }
+    ]
+   },
+   "price": {
+    "main": "€108",
+    "sub": "from, per person (2-park pass)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person (2-park pass)",
+      "price": "€108"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-yas-island-multi-park-entry-tickets-t962101/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#8-yas-multi-park-pass",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "indoor",
+    "kids",
+    "abudhabi"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best for Marine Life",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-04-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-05-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-06-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-07-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-08-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-09-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/09-seaworld-abu-dhabi-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "SeaWorld Yas Island, Abu Dhabi",
+    "⏱️ Valid 1 day",
+    {
+     "url": "https://maps.google.com/?q=SeaWorld+Abu+Dhabi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Yas Island, Abu Dhabi (about 40 min from Dubai)"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-seaworld-entry-ticket-optional-experiences-t962092/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "SeaWorld Abu Dhabi General Admission (Optional Add-Ons)"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.17",
+     "score": "4.2",
+     "meta": "443 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.2",
+       "count": "(443)",
+       "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-seaworld-entry-ticket-optional-experiences-t962092/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Valid 1 day",
+     "pop_html": "<strong>Timing:</strong> Open daily; opening hours change, so check them for your date. The park puts itself 40 minutes from Dubai and 20 minutes from Abu Dhabi city."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Encounters from age 2",
+     "pop_html": "<strong>Access &amp; kids:</strong> Animal encounter add-ons are for ages 2+, with check-in at Explorer HQ 15 minutes before. Some attractions may not suit young children."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐬",
+     "label": "8 themed realms",
+     "pop_html": "<strong>What&#x27;s inside:</strong> The world's largest indoor marine life theme park: rides, animal presentations and immersive realms, all with unlimited all-day access."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐠",
+     "label": "Giant aquarium",
+     "pop_html": "<strong>Headliner:</strong> The world's largest multi-species marine life aquarium, plus 20+ live characters and shows and the region's most thrilling ride."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🅿️",
+     "label": "Free parking &amp; shuttle",
+     "pop_html": "<strong>Getting around:</strong> Complimentary parking and a free shuttle within Yas Island. Add-on experiences need this general admission ticket to redeem."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Calm and educational",
+     "pop_html": "<strong>Vibe:</strong> Indoor and ocean-themed, with the region's first marine research and rescue centre on site."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families whose kids love animals more than coasters, because €73 buys a full indoor day of marine realms, shows and the world's largest multi-species aquarium",
+    "skip_html": "if you are coming from Dubai for one day with no car (the #6 day trip offers SeaWorld with pickup), or if you mainly want rides"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Unlimited all-day access to rides, attractions, animal presentations and realms; complimentary parking and free shuttle within Yas Island."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Quick Pass, food and drinks, add-on experiences (need general admission)."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €73 per person. The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Where is it?",
+      "a": "SeaWorld Yas Island, Abu Dhabi; the park quotes 40 minutes from Dubai."
+     }
+    ]
+   },
+   "price": {
+    "main": "€73",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€73"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/abu-dhabi-l494/abu-dhabi-seaworld-entry-ticket-optional-experiences-t962092/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before"
+    ],
+    "sublink": {
+     "url": "#9-seaworld-abu-dhabi",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "kids"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Best for Football Fans",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Real Madrid World Theme Park Entry Ticket"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-theme-parks-dubai/10-real-madrid-world-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Real Madrid World Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/10-real-madrid-world-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Real Madrid World Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/10-real-madrid-world-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Real Madrid World Theme Park Entry Ticket"
+      ],
+      [
+       "data-src",
+       "/assets/best-theme-parks-dubai/10-real-madrid-world-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-theme-parks-dubai/10-real-madrid-world-01-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/10-real-madrid-world-02-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/10-real-madrid-world-03-t.avif"
+     },
+     {
+      "src": "/assets/best-theme-parks-dubai/10-real-madrid-world-04-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Real Madrid World",
+    "⏱️ 12:00–21:00",
+    {
+     "url": "https://maps.google.com/?q=Real+Madrid+World+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts, Sheikh Zayed Rd"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-real-madrid-world-theme-park-entry-ticket-t649072/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Real Madrid World Theme Park Entry Ticket"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.21",
+     "score": "4.2",
+     "meta": "100 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.2",
+       "count": "(100)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-real-madrid-world-theme-park-entry-ticket-t649072/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "12:00–21:00",
+     "pop_html": "<strong>Hours:</strong> Open daily from noon to 9 pm, and all attractions close 30 minutes before closing. The late opening makes it a good second park in the afternoon."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Self-guided",
+     "pop_html": "<strong>Language:</strong> No guide: this is a park entry ticket, so you set your own pace and order of rides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "All ages",
+     "pop_html": "<strong>Access &amp; kids:</strong> Designed for visitors of all ages, with family rides alongside the coaster. Wheelchair-accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚽",
+     "label": "16 attractions",
+     "pop_html": "<strong>What&#x27;s inside:</strong> 16 Real Madrid-themed attractions across zones such as Champions Avenue, Celebration Plaza and Stars Universe."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "Hala Madrid Coaster",
+     "pop_html": "<strong>Rides:</strong> The Hala Madrid Coaster, The Wave-La Ola family coaster, the Hands Up! mini drop tower and the Champions Bus around the Cibeles fountain."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏆",
+     "label": "Club history",
+     "pop_html": "<strong>Exhibition:</strong> Champions Avenue relives the club's big moments and honours football and basketball legends; La Fabrica is a training pitch for budding players."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🤍",
+     "label": "Fan pilgrimage",
+     "pop_html": "<strong>Vibe:</strong> The world's first football-themed park: compact, themed and best for fans."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for football-mad families, because it is the only park built around a club and works as an afternoon second park on the multi pass",
+    "skip_html": "if nobody in your group follows football; with 16 attractions it is the smallest park here, and Motiongate next door has more rides for the same €73"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Real Madrid World entry ticket."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks, hotel pickup and drop-off, merchandise."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where is it?",
+      "a": "Dubai Parks and Resorts, Sheikh Zayed Rd, about 25 minutes from Dubai Marina."
+     },
+     {
+      "q": "What are the opening hours?",
+      "a": "Daily 12:00–21:00; attractions close 30 minutes before closing."
+     }
+    ]
+   },
+   "price": {
+    "main": "€73",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€73"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-real-madrid-world-theme-park-entry-ticket-t649072/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=theme_parks_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#10-real-madrid-world",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
