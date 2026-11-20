@@ -1,0 +1,5188 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "beach",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grosvenor House, a Luxury Collection Hotel, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/01-grosvenor-house-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/01-grosvenor-house-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Luxury Collection)",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Grosvenor+House+a+Luxury+Collection+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Marina promenade, Al Emreef Street"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_grosvenor_house&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fgrosvenor-house-west-marina-beach-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Grosvenor House, a Luxury Collection Hotel, Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.75",
+     "score": "4.8",
+     "meta": "944 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.8",
+       "count": "(944)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_grosvenor_house&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fgrosvenor-house-west-marina-beach-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, an hour earlier than most hotels on this list, and check-out until 12:00. Photo ID and a credit card are asked for at check-in, and the hotel wants your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "35 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> The Deluxe Room (377 ft², king or twin) comes with a bath, a bluetooth speaker and free pool and beach access at Le Royal Meridien. The marble bathrooms have Byredo amenities, a soaking tub and a rain shower."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, and those 12 and over pay as adults. Cots for under-2s are free; an extra bed for 12+ costs AED 360 a night. The hotel is wheelchair accessible, with grab rails and a raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Free beach access",
+     "pop_html": "<strong>Beach:</strong> Guests get full use of the beach, pools and leisure facilities at sister hotel Le Royal Meridien Beach Resort &amp; Spa, with a free shuttle. The Beach Mall is a 10-minute walk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast deals",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast-included rates for the Deluxe Room start at €285 a night, with free cancellation and pay at the property. Breakfast here is rated \"superb\" by guests."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍸",
+     "label": "10 restaurants",
+     "pop_html": "<strong>Dining:</strong> Buddha-Bar, Toro Toro (Latin American), Rhodes W1 (British, with high tea), Indego by Vineet (Indian) and Bar 44 with top-floor Marina views, plus a weekly seafood buffet at Sloane's."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Classic luxury",
+     "pop_html": "<strong>The vibe:</strong> Butler service, floor-to-ceiling windows and two spas (B/Attitude and Retreat). Guests score cleanliness and comfort 9.8, the highest marks on this page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the best-reviewed hotel in Dubai Marina, 10 restaurants downstairs and a free beach day at Le Royal Meridien, from €236 a night.",
+    "skip_html": "if you want to walk straight from your room onto the sand: the beach is a shuttle ride away, so book the W (#4) instead."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00, check-out until 12:00. Photo ID and credit card at check-in."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on rates from €285 a night for the Deluxe Room."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Full access to the beach at sister hotel Le Royal Meridien Beach Resort &amp; Spa, free shuttle."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 heated outdoor pools with pool bar, plus the pools at Le Royal Meridien."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room 377 ft² (about 35 m²), king or twin, with bath; some rooms have a balcony and Club Lounge access."
+     }
+    ]
+   },
+   "price": {
+    "main": "€236",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€236"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_grosvenor_house&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fgrosvenor-house-west-marina-beach-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#1-grosvenor-house-dubai-marina",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value 5★",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Dubai Marina by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/02-intercontinental-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/02-intercontinental-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IHG",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=InterContinental+Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Bay Central, facing Dubai Marina Mall"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_intercontinental&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fintercontinental-dubai-marina.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "InterContinental Dubai Marina by IHG"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(2k+)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_intercontinental&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fintercontinental-dubai-marina.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are needed at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "43 m² Classic",
+     "pop_html": "<strong>Cheapest room:</strong> The Classic King Room is 463 ft² (about 43 m²) with a city view, soundproofing, a minibar and a 40-inch smart TV. That is the most floor space per euro of any regular hotel room on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome and only pay as adults from 15. Cots are free for under-2s, extra beds AED 100 a night. Wheelchair accessible, with Braille visual aids."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €20",
+     "pop_html": "<strong>Breakfast:</strong> Add breakfast for €20, or book a breakfast-included rate from €175 (non-refundable). The flexible breakfast rate is €219, with free cancellation and nothing to pay upfront."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "2 pools",
+     "pop_html": "<strong>Pools:</strong> An outdoor pool with pool bar plus a separate kids' pool, and a spa with 6 treatment suites and a Pilates studio."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍝",
+     "label": "Rooftop Rex Bar",
+     "pop_html": "<strong>Dining:</strong> Accents (all-day, theme nights), Urban Lounge, Ginter gin bar and the rooftop Rex Bar, which serves Italian through the winter season."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Marina-front city hotel",
+     "pop_html": "<strong>The vibe:</strong> A big, polished business-and-leisure hotel with 328 rooms, facing Dubai Marina Mall on the promenade, with easy access to the Dubai Tram."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and families who want a 5★ room of 43 m² on the Marina promenade for €162, the lowest price of any 5★ hotel here (only the City Premiere apartments cost less).",
+    "skip_html": "if beach time is the point of the trip: there is no beach deal, so Grosvenor House (#1) or the W (#4) fit better."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€20 extra, or included on rates from €175 (non-refundable) or €219 (free cancellation)."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Outdoor pool with pool bar, plus a kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Classic King Room 463 ft² (about 43 m²), city view; Premium King with balcony and Marina view 538 ft²."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa with 6 treatment suites, steam room, Pilates studio, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€162",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€162"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_intercontinental&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fintercontinental-dubai-marina.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Pay-later rates</b> available",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#2-intercontinental-dubai-marina",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best for Families",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "JW Marriott Hotel Marina"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/03-jw-marriott-marina-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (JW Marriott)",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=JW+Marriott+Hotel+Marina+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Marsa Street, linked to Dubai Marina Mall"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_jw_marriott_marina&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjw-marriott-hotel-marina.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "JW Marriott Hotel Marina"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "2.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(2.3k+)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_jw_marriott_marina&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjw-marriott-hotel-marina.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–00:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out until 12:00. Photo ID and a credit card are needed, and the hotel asks for your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "40 m², balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe City View Room, 431 ft² (about 40 m²), king bed, balcony and walk-in shower. The Marina View version of the same room starts at €328 with breakfast."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; club",
+     "pop_html": "<strong>Kids and access:</strong> The kids' club runs PlayStation, climbing walls, arts and crafts and a daily schedule of films, storytelling and dance. Children 12+ pay as adults. There are no cots at this hotel."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Direct mall link",
+     "pop_html": "<strong>Location:</strong> Directly linked to Dubai Marina Mall and Marina Walk. The beach is a 5-minute stroll, and Media City is 5 minutes by car."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Level-4 infinity pool",
+     "pop_html": "<strong>Pools:</strong> Heated infinity pool on level 4 with poolside bar and Marina views, plus a separate children's pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €36",
+     "pop_html": "<strong>Breakfast:</strong> €36 extra, or included on rates from €283 (non-refundable) or €315 with free cancellation."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌴",
+     "label": "Polished and lively",
+     "pop_html": "<strong>The vibe:</strong> Big-brand 5★ with a sports bar (Harbours), a bistro pub and 24/7 room service. Guests rate the location 9.6, joint highest on this page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with kids over 2 who want a kids' club, a children's pool and Dubai Marina Mall on the other side of a corridor.",
+    "skip_html": "if you travel with a baby: the hotel lists no cots. Jumeirah Living (#8) gives free cots and extra beds."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00 to 00:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€36 extra, or included on rates from €283 (non-refundable)."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beach a 5-minute stroll away."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Heated infinity pool on level 4 with poolside bar, plus a children's pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe City View Room 431 ft² (about 40 m²), king bed, balcony, walk-in shower."
+     }
+    ]
+   },
+   "price": {
+    "main": "€257",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€257"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_jw_marriott_marina&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjw-marriott-hotel-marina.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#3-jw-marriott-hotel-marina",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "beach",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best on the Beach",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "W Dubai - Mina Seyahi"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/04-w-mina-seyahi-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (W Hotels)",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=W+Dubai+Mina+Seyahi",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Mina Seyahi, Marina&#x27;s beach edge"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_w_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fw-dubai-mina-seyahi.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "W Dubai - Mina Seyahi"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.30",
+     "score": "4.3",
+     "meta": "2.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(2.9k+)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_w_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fw-dubai-mina-seyahi.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:30",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out between 12:00 and 12:30, the latest standard check-out on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "53 m², balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe King Room with Harbor View and Balcony, 570 ft² (about 53 m²), with walk-in shower and bath. The biggest regular hotel room of the ten."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Teens stay as kids",
+     "pop_html": "<strong>Kids and access:</strong> Children only pay as adults from 18, so teens count as children here. Free cots for under-2s, extra beds AED 125 a night. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beachfront",
+     "pop_html": "<strong>Beach:</strong> The only true beachfront hotel on this list, on the Jumeirah Beach coastline. Mina Seyahi Beach is 400 m away and Marina Beach under 1 km."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity pool, Palm view",
+     "pop_html": "<strong>Pool:</strong> Heated infinity pool with pool bar looking over Palm Jumeirah, and the WET Deck at Ginger Moon with live entertainment."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast or all-inclusive",
+     "pop_html": "<strong>Board:</strong> Breakfast €33 extra, or included from €287. It is also the only hotel here with all-inclusive rates, from €471 for two."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎶",
+     "label": "Party resort",
+     "pop_html": "<strong>The vibe:</strong> Billed as a dining and nightlife destination: 7 restaurants and bars including ATTIKO, Bussola and Fish Beach Taverna. Pets welcome (charges may apply)."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and friends who want the beach, an infinity pool facing the Palm and a nightlife scene on site, with a 53 m² balcony room for €248.",
+    "skip_html": "if you want a quiet stay: it is built around nightlife and live entertainment, and it scores 8.6 for location, the lowest here."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out 12:00 to 12:30."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€33 extra, included from €287; all-inclusive from €471."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beachfront; Mina Seyahi Beach 400 m, Marina Beach under 1 km."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated infinity pool with pool bar, overlooking Palm Jumeirah."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King or Twin with Harbor View and Balcony, 570 ft² (about 53 m²), bath and walk-in shower."
+     }
+    ]
+   },
+   "price": {
+    "main": "€248",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€248"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_w_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fw-dubai-mina-seyahi.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included and all-inclusive rates</b> available"
+    ],
+    "sublink": {
+     "url": "#4-w-dubai-mina-seyahi",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "couples",
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Views",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/05-ciel-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ciel Dubai Marina, Vignette Collection by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/05-ciel-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/05-ciel-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IHG (Vignette Collection)",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Ciel+Dubai+Marina+Vignette+Collection",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina, near Barasti Beach"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_ciel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvignette-collection-ciel-dubai-marina.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Ciel Dubai Marina, Vignette Collection by IHG"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "994 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(994)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_ciel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvignette-collection-ciel-dubai-marina.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. The hotel asks for your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "27 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe King Room, 291 ft² (about 27 m²), with walk-in shower, bidet and coffee maker. Premium King rooms are 334 ft², and an accessible Premium King is 484 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; club",
+     "pop_html": "<strong>Kids and access:</strong> Kids' club and indoor play area; children 12+ pay as adults, free cots for under-2s. Wheelchair accessible with grab rails and an emergency cord, plus a dedicated disability-access room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌇",
+     "label": "World&#x27;s tallest hotel",
+     "pop_html": "<strong>Views:</strong> Sold as the world's tallest hotel, with rooms facing the sea or the city and Tattu Sky Lounge for dinner high above the Marina."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "3 pools incl. rooftop",
+     "pop_html": "<strong>Pools:</strong> Three pools: outdoor, rooftop and infinity, with a pool bar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "8 min to Barasti",
+     "pop_html": "<strong>Beach:</strong> Barasti Beach is an 8-minute walk and The Walk at JBR 1.9 km."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥂",
+     "label": "Sky-high showpiece",
+     "pop_html": "<strong>The vibe:</strong> A showpiece tower with 8 restaurants and lounges (Tattu, Nuage, West 13, Koi House) and a spa with sauna. Built for the view and the photo."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a room and a rooftop pool high up in the world's tallest hotel for €191, with Barasti Beach 8 minutes away on foot.",
+    "skip_html": "if room size matters: the 27 m² Deluxe is the joint-smallest cheapest room on this page (with Vida, which adds a balcony for €18 less)."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Buffet with American, full English, Asian, vegetarian, vegan, halal and gluten-free options; price not shown on the rates."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Barasti Beach 8 minutes' walk; The Walk at JBR 1.9 km."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 pools: outdoor, rooftop and infinity, with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King 291 ft² (about 27 m²); Premium King 334 ft²; accessible Premium King 484 ft²."
+     }
+    ]
+   },
+   "price": {
+    "main": "€191",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€191"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_ciel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvignette-collection-ciel-dubai-marina.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#5-ciel-dubai-marina",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "apartments",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Suites",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Marriott Harbour Hotel And Suites"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/06-marriott-harbour-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/06-marriott-harbour-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy",
+    "🏨 4★ suites hotel",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Marriott+Harbour+Hotel+and+Suites",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_marriott_harbour&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdubai-marriott-harbour-and-suites.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Marriott Harbour Hotel And Suites"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "186 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(186)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_marriott_harbour&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdubai-marriott-harbour-and-suites.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "120 m² suite",
+     "pop_html": "<strong>Cheapest room:</strong> The renovated One-Bedroom Suite is 1,292 ft² (about 120 m²): separate bedroom, living room with 42-inch TV, full kitchen with dishwasher and washing machine, and a private balcony."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome but pay as adults from 6. Cots are free for under-2s; extra beds for ages 4–17 cost AED 100 a night. No minimum check-in age."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €236 rate includes breakfast (rated \"exceptional\"), with free cancellation and pay at the property. Otherwise breakfast is €29."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "360° Observatory",
+     "pop_html": "<strong>Dining:</strong> The Observatory Grill Room &amp; Bar has 360° views over Dubai Marina and Palm Jumeirah. Also The Croft (British), Counter Culture Café and Prime52 steakhouse."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated pool",
+     "pop_html": "<strong>Pool and wellness:</strong> Heated outdoor pool, spa with hot tub and sauna, and a fitness centre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Space to live",
+     "pop_html": "<strong>The vibe:</strong> A suites hotel for longer stays: you can cook, do laundry and spread out, then eat at the Observatory when you don't want to."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or longer stays who want a 120 m² one-bedroom suite with kitchen, washing machine and breakfast included for €236.",
+    "skip_html": "if you need strong Wi-Fi for work: guests score it 7.9, the lowest Wi-Fi mark here."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €236 rate; €29 otherwise."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One-Bedroom Suite 1,292 ft² (about 120 m²) with kitchen, washing machine, balcony; Two-Bedroom 1,722 ft² from €295."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa with hot tub, massage and sauna; fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€236",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€236"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_marriott_harbour&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdubai-marriott-harbour-and-suites.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast included on the lowest rate</b>",
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#6-dubai-marriott-harbour-suites",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "couples",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best 4★ Hotel",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Dubai Marina & Yacht Club"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/07-vida-marina-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/07-vida-marina-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Vida",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Vida+Dubai+Marina+and+Yacht+Club",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Hubob Street, Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_vida_marina&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-dubai-marina-yacht-club.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Vida Dubai Marina &amp; Yacht Club"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "3.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(3.6k+)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_vida_marina&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-dubai-marina-yacht-club.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Express check-in and check-out, and the hotel asks for your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "27 m², balcony",
+     "pop_html": "<strong>Cheapest room:</strong> City View Deluxe Room with Private Balcony, 291 ft² (about 27 m²), king or twin. Marina View rooms of the same size start at €211."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots 0–3",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome; cots are free up to age 3, but there are no extra beds. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐾",
+     "label": "Pets allowed",
+     "pop_html": "<strong>Pets:</strong> One of three hotels on this list that accept pets (charges may apply), with pet bowls available."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Metro access",
+     "pop_html": "<strong>Getting around:</strong> Metro access nearby; Marina Beach is a 15-minute walk (about 1.3 km)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast rates",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast-included rates start at €296 with free cancellation; guests rate breakfast \"fabulous\"."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌿",
+     "label": "Calm and stylish",
+     "pop_html": "<strong>The vibe:</strong> A calmer 4★ with one restaurant (Origins), a bar, year-round pool, hot tub and soundproof rooms. Location scored 9.6."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a stylish, well-run 4★ with a private balcony for €173, or anyone bringing a pet.",
+    "skip_html": "if you want a full resort: one restaurant, no spa listed, and the beach is a 15-minute walk."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; express check-in and check-out."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on rates from €296 (free cancellation)."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Marina Beach about 1.3 km, a 15-minute walk."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Year-round outdoor pool, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "City View or Marina View Deluxe with Private Balcony, 291 ft² (about 27 m²), king or twin."
+     }
+    ]
+   },
+   "price": {
+    "main": "€173",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€173"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_vida_marina&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-dubai-marina-yacht-club.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#7-vida-dubai-marina-yacht-club",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "apartments",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best Serviced Residence",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Living Marina Gate"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/08-jumeirah-living-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/08-jumeirah-living-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jumeirah",
+    "🏨 5★ serviced residences",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Living+Marina+Gate+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Marina Gate, Al Khayay Street"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_jumeirah_living&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-living-marina-gate.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jumeirah Living Marina Gate"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "1.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.3k+)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_jumeirah_living&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-living-marina-gate.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Quiet hours from 22:00 to 07:00."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "57 m² studio",
+     "pop_html": "<strong>Cheapest room:</strong> Executive Studio with Balcony, 614 ft² (about 57 m²): open-plan kitchen, washer and dryer, 55-inch TV and floor-to-ceiling windows."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free extra beds",
+     "pop_html": "<strong>Kids and access:</strong> Free cots up to age 3 and free extra beds for children up to 11, the most generous policy on this page. Kids' pool and recreation area. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "23 m infinity pool",
+     "pop_html": "<strong>Pool:</strong> A 23-metre, temperature-controlled infinity pool with Marina views, plus a kids' pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Metro, tram, water taxi",
+     "pop_html": "<strong>Getting around:</strong> Dubai Metro, tram and water taxi stations are about 1 km away; The Walk at JBR is under 1 km."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €22",
+     "pop_html": "<strong>Breakfast:</strong> €22 extra on the flexible rate, or continental breakfast included from €268 (non-refundable, but can be rescheduled)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Private apartment feel",
+     "pop_html": "<strong>The vibe:</strong> Only 104 suites with 24-hour Jumeirah service and a 3,700 ft² gym: more residence than hotel. Pets welcome (charges may apply)."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with young kids who want a 57 m² studio with kitchen, free extra beds for under-12s and an infinity pool, for €240.",
+    "skip_html": "if you want a lively hotel with several restaurants: there is one lounge and quiet hours from 22:00."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; quiet hours 22:00–07:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€22 extra, or continental breakfast included from €268 (non-refundable)."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "23 m temperature-controlled infinity pool, kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Executive Studio with Balcony 614 ft² (about 57 m²), kitchen, washer and dryer."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "3,700 ft² fitness centre with sauna and steam rooms."
+     }
+    ]
+   },
+   "price": {
+    "main": "€240",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€240"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_jumeirah_living&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-living-marina-gate.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#8-jumeirah-living-marina-gate",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "beach",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best Budget Hotel",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/09-first-collection-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/09-first-collection-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Tribute Portfolio)",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=The+First+Collection+Marina+Dubai+Tribute+Portfolio",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Seba Street, Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_first_collection&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwyndham-dubai-marina.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "The First Collection Marina, Dubai, a Tribute Portfolio Hotel"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.35",
+     "score": "4.3",
+     "meta": "10.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(10.6k+)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_first_collection&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwyndham-dubai-marina.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–00:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out from 05:00 to 12:00. Photo ID and credit card at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "49 m² suite",
+     "pop_html": "<strong>Cheapest room:</strong> The €96 rate is for a Grand Studio Suite with Soluna Access: 527 ft² (about 49 m²), king bed, city view. Standard Deluxe King rooms are 280 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "13+ pay as adults",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome; from 13 they pay as adults. Minimum check-in age 18. Accessible parking."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beach area + shuttle",
+     "pop_html": "<strong>Beach:</strong> Private beach area and a free shuttle are listed among the facilities, and some rates include Soluna or beach club access. Hidden Beach is a 17-minute walk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Rooftop pool with pool bar, plus a spa and fitness room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍔",
+     "label": "2 restaurants",
+     "pop_html": "<strong>Dining:</strong> The Blacksmith (American) and Alloro Ristorante (Italian), with halal, vegan and gluten-free options; breakfast in-room or buffet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💸",
+     "label": "Busy and good value",
+     "pop_html": "<strong>The vibe:</strong> A big 4★ with more guest reviews than any hotel here, and it gets the basics right: cleanliness and staff both score 9.0 or better."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for budget travellers who want a 49 m² suite, a rooftop pool and beach-club access for €96, about €1.95 per m².",
+    "skip_html": "if location matters most: it scores 9.0 for location, second lowest here, and the nearest beach listed (Hidden Beach) is a 17-minute walk."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00 to 00:00, check-out 05:00 to 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Buffet or in-room; price not shown on the rates."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach area and free shuttle listed; some rates include Soluna or beach club access; Hidden Beach 17 minutes' walk."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Rooftop pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Grand Studio Suite 527 ft² (about 49 m²) on the €96 rate; Deluxe King 280 ft²."
+     }
+    ]
+   },
+   "price": {
+    "main": "€96",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€96"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_first_collection&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwyndham-dubai-marina.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#9-the-first-collection-marina",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "apartments",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Cheapest Apartment",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "City Premiere Marina Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-marina/10-city-premiere-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-marina/10-city-premiere-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "City Premiere",
+    "🏨 5★ hotel apartments",
+    {
+     "url": "https://maps.google.com/?q=City+Premiere+Marina+Hotel+Apartments+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Near Dubai Marina Metro"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_city_premiere&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcity-premiere-marina-apartments.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "City Premiere Marina Hotel Apartments"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.30",
+     "score": "4.3",
+     "meta": "3.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(3.3k+)",
+       "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_city_premiere&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcity-premiere-marina-apartments.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out from 07:00 to 12:00. Every guest must show an original passport or UAE/GCC ID at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "83 m² 1-bed",
+     "pop_html": "<strong>Cheapest room:</strong> Standard One-Bedroom Apartment, 893 ft² (about 83 m²): living room, full kitchen with microwave and dining table, washing machine, bath and balcony."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, with free cots for under-2s and extra beds at AED 158 a night. Minimum check-in age is 21, the strictest here."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "750 m to metro",
+     "pop_html": "<strong>Getting around:</strong> Dubai Marina Metro Station is 750 m away and Marina Mall a 5-minute walk. Location scored 9.4."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Outdoor pool",
+     "pop_html": "<strong>Pool:</strong> Outdoor pool, sauna and fitness centre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Café Premiere",
+     "pop_html": "<strong>Dining:</strong> Café Premiere serves breakfast, lunch and dinner (American, Asian, European). Daily housekeeping and room service."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Practical base",
+     "pop_html": "<strong>The vibe:</strong> No-frills apartment block for self-caterers: lots of space, a kitchen and the metro close by, with few resort extras."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for self-caterers and longer stays who want an 83 m² one-bedroom apartment with kitchen and balcony, 750 m from the metro, for €95.",
+    "skip_html": "if anyone in your group is under 21 and checking in, or if you want hotel-style facilities: it is the plainest property here."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out 07:00 to 12:00; original passport or UAE/GCC ID for every guest."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Served at Café Premiere; price not shown on the rates."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool, sauna."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Standard One-Bedroom Apartment 893 ft² (about 83 m²), kitchen, washing machine, balcony."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Marina Mall 5 minutes' walk."
+     }
+    ]
+   },
+   "price": {
+    "main": "€95",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€95"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.marina_hotels_dubai_city_premiere&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcity-premiere-marina-apartments.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it"
+    ],
+    "sublink": {
+     "url": "#10-city-premiere-marina-apartments",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,5167 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "family",
+    "luxury"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Embassy Suites by Hilton Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/01-embassy-suites-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/01-embassy-suites-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Hilton",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Embassy+Suites+by+Hilton+Dubai+Business+Bay+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Marasi Drive, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_embassy_suites&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fembassy-suites-by-hilton-dubai-business-bay.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Embassy Suites by Hilton Dubai Business Bay"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(1k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_embassy_suites&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fembassy-suites-by-hilton-dubai-business-bay.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. The minimum check-in age is 18 and the hotel takes cards only, no cash."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "34 m² King Guest Room",
+     "pop_html": "<strong>Cheapest room:</strong> The €186 rate is the King Guest Room (366 ft², about 34 m²) with an extra-large double bed, city view, bath, minibar and coffee maker. Corner King Rooms with Burj Khalifa view start at €191."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; buffet + play areas",
+     "pop_html": "<strong>Families:</strong> Children of any age are welcome, cots are free for 0–2 years and an extra bed costs AED 120 a night from age 11. Indoor and outdoor play areas plus a children's buffet. Rooms are wheelchair accessible, with a Queen Room built for mobility access."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €186 card rate already includes breakfast for two, with free cancellation and pay at the property. Breakfast has fresh pastries, pancakes and fruit."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity pool",
+     "pop_html": "<strong>Pool and spa:</strong> Year-round outdoor infinity pool, spa and wellness centre with massage and sauna, and a fitness room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Burj Khalifa suites",
+     "pop_html": "<strong>Upgrade worth knowing:</strong> One-bedroom suites with two double beds and Burj Khalifa view (527 ft²) and Superior King Suites up to 743 ft² with a sofa bed in the living room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Polished family base",
+     "pop_html": "<strong>Vibe:</strong> A big-brand 5-star on Marasi Drive with 3 restaurants, free private parking and a 9.5 for comfort and staff."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and families who want breakfast, free cancellation and an infinity pool in one €186 rate from a 5-star with a 9.2 score.",
+    "skip_html": "if you want a kitchen: rooms have a minibar and coffee maker only, so look at #4 or #5."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00, minimum age 18."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €186 card rate."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor infinity pool, open all year."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "King Guest Room 366 ft² (about 34 m²); suites up to 743 ft²."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa and wellness centre, massage, sauna, fitness room."
+     }
+    ]
+   },
+   "price": {
+    "main": "€186",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€186"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_embassy_suites&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fembassy-suites-by-hilton-dubai-business-bay.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast-included rates</b> available",
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#1-embassy-suites-by-hilton-business-bay",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "budget",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Park Regis Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/02-park-regis-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/02-park-regis-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Park Regis",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Park+Regis+Business+Bay+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Park Lane Towers, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_park_regis&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fpark-regis-business-bay.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Park Regis Business Bay"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "3.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(3.5k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_park_regis&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fpark-regis-business-bay.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in 15:00 to midnight, check-out 08:00 to 12:00. Photo ID and a credit card at check-in, plus a refundable AED 200 (about €49) damage deposit. Cards only."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "30 m² canal view",
+     "pop_html": "<strong>Cheapest room:</strong> The €91 rate is a Standard Room Canal View (323 ft², about 30 m²) with an extra-large double bed, minibar and seating area. It bundles 20% off food and drink, 20% off laundry and 10% off the spa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids from 1 year",
+     "pop_html": "<strong>Families:</strong> Children older than 1 year are welcome; from 13 they are charged as adults. Extra beds AED 100 a night for ages 1–11. Wheelchair accessible with grab rails and a raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool",
+     "pop_html": "<strong>Pool and spa:</strong> Heated rooftop pool with a pool bar, plus a spa with sauna, steam room and massage."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €17",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast is €17, the cheapest add-on of any hotel here that shows a price. The Food Souk restaurant serves breakfast and lunch."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "3 km to Burj Khalifa",
+     "pop_html": "<strong>Distances:</strong> Burj Khalifa is 3 km away, The Dubai Fountain 3.1 km and Jumeirah Beach Park 3 km. Dubai International is 15 km; a paid airport shuttle is available."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Smart-money pick",
+     "pop_html": "<strong>Vibe:</strong> A 4-star that scores like a 5-star: 9.0 overall and 9.4 for staff, at half the price of the luxury picks."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a canal-view room, a rooftop pool and a 9.0 score for €91, with breakfast at €17.",
+    "skip_html": "if you want a big room, a bath or dinner on site: the standard room is 30 m² with a shower, and the Food Souk restaurant serves breakfast and lunch only."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–00:00, check-out 08:00–12:00, AED 200 refundable deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€17."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Standard Room Canal View 323 ft² (about 30 m²)."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, sauna, steam room, massage."
+     }
+    ]
+   },
+   "price": {
+    "main": "€91",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€91"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_park_regis&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fpark-regis-business-bay.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast from €17</b>"
+    ],
+    "sublink": {
+     "url": "#2-park-regis-business-bay",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "luxury",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "SLS Dubai Hotel & Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/03-sls-dubai-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/03-sls-dubai-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "SLS",
+    "🏨 5★ hotel &amp; residences",
+    {
+     "url": "https://maps.google.com/?q=SLS+Dubai+Hotel+&+Residences+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Marasi Drive, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_sls_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsls-dubai-residences.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "SLS Dubai Hotel &amp; Residences"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "3.8k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(3.8k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_sls_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsls-dubai-residences.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and credit card at check-in, and a refundable AED 750 (about €185) deposit on the card. Guests must be 18 to 90."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "46 m² with balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Signature King Room with balcony (the €212 rate) or Signature Duo Beds with balcony, both 495 ft² (about 46 m²), with walk-in shower and bath, soundproofing and minibar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids welcome",
+     "pop_html": "<strong>Families:</strong> Children of any age; from 12 they pay as adults. Free cots on request; extra beds AED 150 a night. Pets allowed on request."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "2 pools, rooftop infinity",
+     "pop_html": "<strong>Pools:</strong> Two pools including a rooftop infinity pool with pool bar, plus a hot tub. Yoga classes and wellness packages."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "7 restaurants",
+     "pop_html": "<strong>Dining:</strong> Seven restaurants on site including Fi'lia (Italian, Mediterranean) and Carna steakhouse, plus a rooftop bar. Breakfast is a buffet; breakfast-included and half-board rates exist."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Full spa",
+     "pop_html": "<strong>Spa:</strong> Spa and wellness centre with massage, steam room and hot tub."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Rooftop glamour",
+     "pop_html": "<strong>Vibe:</strong> Big views, a nightlife-ready rooftop and some of the largest entry rooms here, at a 9.3 location score."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the big-night version of Business Bay: 46 m² balcony rooms, a rooftop infinity pool and seven restaurants for €212.",
+    "skip_html": "if you need breakfast in the price: the €212 rate is room only, and the breakfast-included rate is non-refundable."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00, AED 750 card deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Buffet; breakfast-included rates available."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 pools incl. rooftop infinity pool with pool bar, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Signature rooms 495 ft² (about 46 m²) with balcony."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, massage, steam room, yoga classes."
+     }
+    ]
+   },
+   "price": {
+    "main": "€212",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€212"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_sls_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsls-dubai-residences.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#3-sls-dubai-hotel-residences",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "apartments",
+    "luxury",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Apartment Hotel",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "InterContinental Residences Dubai Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/04-ic-residences-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/04-ic-residences-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IHG",
+    "🏨 5★ hotel apartments",
+    {
+     "url": "https://maps.google.com/?q=InterContinental+Residences+Dubai+Business+Bay+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Marasi Drive, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_ic_residences&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fintercontinental-hotels-residences-dubai-business-bay-an-ihg.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "InterContinental Residences Dubai Business Bay"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.75",
+     "score": "4.8",
+     "meta": "503 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.8",
+       "count": "(503)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_ic_residences&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fintercontinental-hotels-residences-dubai-business-bay-an-ihg.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00, with private and express check-in. No age restriction for check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "48 m² studio + kitchen",
+     "pop_html": "<strong>Cheapest room:</strong> Studio King Room with Kitchenette and City View, 517 ft² (about 48 m²): stovetop, oven, fridge and kitchenware, plus a bathroom with bath, shower and bidet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool, free cots",
+     "pop_html": "<strong>Families:</strong> Children of any age; free cots for 0–2, extra beds AED 150 a night. Kids' pool. Wheelchair accessible with lower sink and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated rooftop infinity pool",
+     "pop_html": "<strong>Pool:</strong> Rooftop infinity pool, heated, with a pool bar. Sauna, garden and terrace."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €37",
+     "pop_html": "<strong>Breakfast:</strong> €37, or pick a breakfast-included rate (from €234 a night). The all-day Mediterranean restaurant does breakfast, lunch and dinner."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚲",
+     "label": "Free bikes",
+     "pop_html": "<strong>Extras:</strong> Free bicycles, airport shuttle, valet parking with EV charging."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Highest score here",
+     "pop_html": "<strong>Vibe:</strong> Polished residences with a 9.5 overall and 9.7 for cleanliness and comfort, the top marks of all ten."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for longer stays, families and anyone who wants a 48 m² studio with a real kitchen inside a 5-star with the highest guest score of the ten (9.5).",
+    "skip_html": "if you want a buzzy hotel with many restaurants: there is one all-day restaurant, so SLS (#3), also on Marasi Drive, suits nightlife better."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00, private check-in."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€37, or breakfast-included rates."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop infinity pool with pool bar, kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Studio King with Kitchenette 517 ft² (about 48 m²)."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Sauna, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€210",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€210"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_ic_residences&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fintercontinental-hotels-residences-dubai-business-bay-an-ihg.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#4-intercontinental-residences-business-bay",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "apartments",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Serviced Apartment",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lusso Hometels Missoni Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/05-lusso-missoni-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Lusso Hometels",
+    "🏨 4★ serviced apartments",
+    {
+     "url": "https://maps.google.com/?q=Urban+Oasis+by+Missoni+Business+Bay+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Urban Oasis by Missoni, Marasi Drive"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_lusso_missoni&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flusso-hometels-urban-oasis-by-missoni-business-bay-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Lusso Hometels Missoni Business Bay"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "504 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(504)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_lusso_missoni&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flusso-hometels-urban-oasis-by-missoni-business-bay-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in 15:00 to midnight (tell them your arrival time), check-out 09:00 to 12:00. AED 400 (about €99) damage deposit in cash on arrival, refunded at check-out."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "41 m² studio, balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Studio with Balcony, 441 ft² (about 41 m²), large double bed, city view, private kitchen, dishwasher, soundproofing. One-bedroom apartments are 807 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots, no extra beds",
+     "pop_html": "<strong>Families:</strong> Children of any age; free cots for 0–3. No extra beds, but there is a One-Bedroom Family Apartment. No parties, no smoking, no pets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop infinity pool",
+     "pop_html": "<strong>Pool:</strong> Heated rooftop infinity pool open all year, sun terrace, steam room and fitness room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧺",
+     "label": "Washer + dishwasher",
+     "pop_html": "<strong>Living:</strong> Washing machine, dishwasher, kitchenette and sofa bed, daily housekeeping, and a minimarket in the building."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🅿️",
+     "label": "Free parking",
+     "pop_html": "<strong>Extras:</strong> Free private parking on site; in-room breakfast (continental, Italian, American) to order."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Missoni-designed home",
+     "pop_html": "<strong>Vibe:</strong> A designer apartment tower with a 9.3 score and 9.3 for value, the best value score of the ten."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples staying 4+ nights who want a Missoni-designed studio with a balcony, washing machine and rooftop infinity pool for €129.",
+    "skip_html": "if you want a spa and a choice of restaurants: this is an apartment building with a steam room, a fitness room and in-room breakfast, not a full-service hotel."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–00:00 (advise arrival time), check-out 09:00–12:00, AED 400 cash deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "In-room breakfast: continental, Italian, American."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop infinity pool, year-round."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Studio with Balcony 441 ft² (about 41 m²); 1-bed 807 ft²."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Steam room, public bath, fitness room."
+     }
+    ]
+   },
+   "price": {
+    "main": "€129",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€129"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_lusso_missoni&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flusso-hometels-urban-oasis-by-missoni-business-bay-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it"
+    ],
+    "sublink": {
+     "url": "#5-lusso-hometels-missoni-business-bay",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "apartments",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Aykon City Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/06-damac-aykon-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/06-damac-aykon-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "DAMAC Maison",
+    "🏨 4★ hotel apartments",
+    {
+     "url": "https://maps.google.com/?q=DAMAC+Maison+Aykon+City+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 AYKON City, Sheikh Zayed Road"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_damac_aykon&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdamac-maison-aykon-city-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "DAMAC Maison Aykon City Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "9.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(9.7k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_damac_aykon&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdamac-maison-aykon-city-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in 15:00 to 23:30, check-out 12:00 to 12:30. AED 700 (about €173) damage deposit on your credit card, refunded within 14 days."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "38 m² studio + kitchenette",
+     "pop_html": "<strong>Cheapest room:</strong> Studio City View with kitchenette, 409 ft² (about 38 m²), large double bed, coffee machine. Canal-view and panorama-view studios are the same size; one-bedrooms are 667 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; club + games room",
+     "pop_html": "<strong>Families:</strong> Children of any age; free cots up to age 3, extra beds AED 180 a night. Kids' club, children's play room and a games room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "3 outdoor pools",
+     "pop_html": "<strong>Pools:</strong> Three outdoor pools open all year, the most of any property here."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎮",
+     "label": "Gaming studio option",
+     "pop_html": "<strong>Extras:</strong> A Studio Level Up rate includes free half-day gaming centre access. Spa and fitness centre on site."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "Sheikh Zayed Road",
+     "pop_html": "<strong>Location:</strong> At AYKON City on Sheikh Zayed Road, the edge of Business Bay. Free private parking; paid airport shuttle; 16 km to the airport."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Big family tower",
+     "pop_html": "<strong>Vibe:</strong> The most-reviewed property on this list, with a 9.0 score and 9.3 for cleanliness and free WiFi."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with kids who want a kitchenette studio, three pools and a kids' club for €130 a night.",
+    "skip_html": "if you want to walk the canal: AYKON City sits on Sheikh Zayed Road, not on Marasi Drive like #1, #3, #4, #5 and #7."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–23:30, check-out 12:00–12:30, AED 700 card deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Breakfast served at the international restaurant."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 outdoor pools, year-round."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Studio with kitchenette 409 ft² (about 38 m²)."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa and wellness centre, fitness room."
+     }
+    ]
+   },
+   "price": {
+    "main": "€130",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€130"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_damac_aykon&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdamac-maison-aykon-city-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#6-damac-maison-aykon-city",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "couples",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Boutique Hotel",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Indigo Dubai Downtown by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/07-indigo-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/07-indigo-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IHG",
+    "🏨 5★ boutique hotel",
+    {
+     "url": "https://maps.google.com/?q=Hotel+Indigo+Dubai+Downtown+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Marasi Drive, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_indigo&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Findigo-dubai-downtown.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Hotel Indigo Dubai Downtown by IHG"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "2.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(2.3k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_indigo&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Findigo-dubai-downtown.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00, photo ID and credit card required. Cards only, minimum age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "City or Downtown view",
+     "pop_html": "<strong>Cheapest room:</strong> Standard King Room with City View (from €109) or a twin room with Downtown view, both with a pool view, walk-in shower and minibar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Pets welcome",
+     "pop_html": "<strong>Families and pets:</strong> Children of any age; from 13 they pay as adults. Free cots for 0–6, extra beds AED 130 a night from 12. Pets are allowed (charges may apply), with pet basket and bowls. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €34",
+     "pop_html": "<strong>Breakfast:</strong> €34, or breakfast-included rates. Open Sesame serves Mediterranean and Middle Eastern food from breakfast to cocktails, with high tea."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Pool with a view",
+     "pop_html": "<strong>Pool and spa:</strong> Outdoor pool with a pool bar, a paid spa with steam room, massage and beauty treatments."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Colourful boutique",
+     "pop_html": "<strong>Vibe:</strong> Colourful interiors and a 9.4 for comfort and staff. Despite the name, it is on Marasi Drive in Business Bay."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a 5-star boutique hotel with character for €109, or anyone travelling with a pet (basket and bowls provided).",
+    "skip_html": "if breakfast must be cheap: at €34 it costs double Park Regis (#2)."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00, ID and card required."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€34, or breakfast-included rates."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Standard King with City View or twin with Downtown view."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Paid spa, steam room, massage, beauty services."
+     }
+    ]
+   },
+   "price": {
+    "main": "€109",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€109"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_indigo&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Findigo-dubai-downtown.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#7-hotel-indigo-dubai-downtown",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best for Beach Access",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canal Central Hotel Business Bay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/08-canal-central-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/08-canal-central-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Independent",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Canal+Central+Hotel+Business+Bay+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Abraj Street, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_canal_central&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcanal-central.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Canal Central Hotel Business Bay"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "7.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(7.3k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_canal_central&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcanal-central.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Superior + Palm beach",
+     "pop_html": "<strong>Cheapest room:</strong> Superior Room City View (double or twin) with bath, shower and bathrobes. The room rate includes free access to the hotel's private beach on Palm Jumeirah."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool + play area",
+     "pop_html": "<strong>Families:</strong> Children of any age; free cots for 0–3, extra beds AED 100 a night for ages 6–12 and AED 180 for adults. Kids' pool and indoor play area."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Free Palm beach access",
+     "pop_html": "<strong>Beach:</strong> Business Bay has no beach, but this room type comes with free access to the hotel's private beach on Palm Jumeirah."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "2 heated pools",
+     "pop_html": "<strong>Pools:</strong> Two outdoor pools with a view, one for kids, heated, with a pool bar. Spa, steam room and bicycle rental."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Family 5-star",
+     "pop_html": "<strong>Vibe:</strong> A 5-star with three restaurants, including Lilly's Social House, and a 9.4 for staff."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and beach lovers who want a 5-star base in Business Bay for €121 with free access to a private beach on the Palm.",
+    "skip_html": "if you want to walk to the sand: the free beach is on Palm Jumeirah, a drive away, and the listing names no shuttle to it."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00, minimum age 18."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental, full English and American; La Cruise serves breakfast."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Free access to the hotel's private beach on Palm Jumeirah with this room."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 heated outdoor pools incl. kids' pool, pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Superior Room City View, double or twin."
+     }
+    ]
+   },
+   "price": {
+    "main": "€121",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€121"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_canal_central&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcanal-central.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#8-canal-central-hotel-business-bay",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Cheapest Good Hotel",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Barceló Business Bay Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/09-barcelo-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/09-barcelo-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Barceló",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Barcelo+Business+Bay+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Asayel Street, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_barcelo&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbarcelo-business-bay-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Barceló Business Bay Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "2.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(2.9k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_barcelo&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbarcelo-business-bay-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in 15:00 to 23:00, check-out 06:00 to 12:00; early check-in and late check-out on request with the cheapest rate. Minimum check-in age 21."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "25 m² Deluxe Room",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Room, 269 ft² (about 25 m²), large double bed, pool, landmark and city views, soundproofing, minibar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Adults 21+ to check in",
+     "pop_html": "<strong>Families:</strong> Children of any age; free cots for 0–3, extra beds for adults AED 100 a night. The main guest must be 21. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚌",
+     "label": "Free Dubai Mall shuttle",
+     "pop_html": "<strong>Getting around:</strong> The rate includes complimentary shuttles to Dubai Mall and Kite Beach, plus 20% off food and drink and 10% off laundry."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Rooftop pool with sun loungers; fitness centre. No spa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Easy-going value",
+     "pop_html": "<strong>Vibe:</strong> Three restaurants and bars, including the Alphorn (pizza, German, grill) and Allegra Bar & Shisha, at the lowest price of the ten."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for budget travellers who want the cheapest room here (€86) with a rooftop pool and free shuttles to Dubai Mall and Kite Beach.",
+    "skip_html": "if you need space or are under 21: rooms are 25 m² and the main guest must be 21 to check in."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–23:00, check-out 06:00–12:00, minimum age 21."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental and American; price not shown on the cheapest rate."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Rooftop pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room 269 ft² (about 25 m²)."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Free shuttle to Dubai Mall and Kite Beach with the card rate."
+     }
+    ]
+   },
+   "price": {
+    "main": "€86",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€86"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_barcelo&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbarcelo-business-bay-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#9-barcel-business-bay",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "luxury",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Best for Design Lovers",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "ME by Meliá Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-business-bay-dubai/10-me-melia-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-business-bay-dubai/10-me-melia-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Meliá",
+    "🏨 5★ design hotel",
+    {
+     "url": "https://maps.google.com/?q=ME+Dubai+The+Opus+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 The Opus by Zaha Hadid, Business Bay"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_me_melia&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fme-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "ME by Meliá Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "1.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(1.9k+)",
+       "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_me_melia&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fme-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in 15:00 to 22:00 (tell them your arrival time), check-out 06:00 to 12:00. AED 500 (about €123) card deposit, refunded at check-out."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "47 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Always ME, 47 m², king bed, city and landmark view, rain shower and bathtub, sound system. A Burj Khalifa view version is available."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "No extra beds",
+     "pop_html": "<strong>Families:</strong> Children welcome, but only cots for under-1s; no extra beds. Pets allowed on request. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏛️",
+     "label": "Zaha Hadid&#x27;s Opus",
+     "pop_html": "<strong>The building:</strong> The hotel is inside The Opus, designed by Zaha Hadid."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍣",
+     "label": "6 restaurants incl. Roka",
+     "pop_html": "<strong>Dining:</strong> Six venues including Roka (Japanese), The MAINE Land Brasserie and Central Cosmo Tapas & Bar. Breakfast is à la carte."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "2.4 km to Dubai Mall",
+     "pop_html": "<strong>Distances:</strong> Burj Khalifa 2 km, The Dubai Fountain 1.7 km, Dubai Mall 2.4 km, airport 15 km (paid shuttle)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Architecture splurge",
+     "pop_html": "<strong>Vibe:</strong> For guests who want to stay inside a landmark, with a heated outdoor pool, spa and 9.5 for WiFi."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for design lovers who want to sleep inside Zaha Hadid's Opus in a 47 m² room, 1.7 km from The Dubai Fountain.",
+    "skip_html": "if value matters: at €290 it is the priciest here and scores 8.8, below SLS (#3) at €212."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–22:00 (advise arrival), check-out 06:00–12:00, AED 500 card deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "À la carte."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Always ME, 47 m²."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, massage, sauna, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€290",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€290"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.business_bay_hotels_dubai_me_melia&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fme-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#10-me-by-meli-dubai-the-opus",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

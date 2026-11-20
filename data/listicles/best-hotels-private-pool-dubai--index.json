@@ -1,0 +1,5185 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "escape",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Meliá Desert Palm, member of Meliá Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/01-melia-desert-palm-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Meliá Collection",
+    "🏨 5★ resort, pool villas",
+    {
+     "url": "https://maps.google.com/?q=Melia+Desert+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Polo estate, Al Awir Road (Warsan 2)"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_melia_desert_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmelia-desert-palm-member-of-melia-collection.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Meliá Desert Palm, member of Meliá Collection"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "978 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(978)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_melia_desert_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmelia-desert-palm-member-of-melia-collection.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Bring photo ID and a credit card: an AED 1,000 (about €247) refundable deposit is taken by card on arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "198 m² pool villa",
+     "pop_html": "<strong>Your villa:</strong> The One-Bedroom Villa with Private Pool is 2,131 ft² (about 198 m²), with a separate living room, one bathroom and an extra-large double bed. At about €2.40 per m², that is the most space for your money on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "No cots or extra beds",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, but there are no cots or extra beds, so the one-bedroom villa is really for two. Minimum check-in age 18; the resort is wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Own pool + infinity pool",
+     "pop_html": "<strong>Pools:</strong> Your villa has its own pool, and the resort adds an outdoor infinity pool. Villas also offer in-villa spa treatments and an in-villa BBQ with a personal chef on request."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐎",
+     "label": "160-acre polo estate",
+     "pop_html": "<strong>Setting:</strong> A championship polo field, polo and riding lessons (book ahead), tennis and a jogging and cycling track, with views of Burj Khalifa and the skyline from the restaurants."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "SAMĀNA Spa",
+     "pop_html": "<strong>Spa:</strong> A water circuit with steam room, sauna, ice room, cold pool and heated stone beds, plus couples' treatment suites and a Thai massage suite."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌿",
+     "label": "Quiet country estate",
+     "pop_html": "<strong>The vibe:</strong> Green lawns, horses and art from the owner's private collection, 20 minutes from Dubai Mall. Staff score 9.6 and cleanliness 9.5."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a big villa with its own pool, a serious spa and green polo fields for under €500 a night at the member price, 15 minutes from the airport.",
+    "skip_html": "if you want sand and sea: this is an inland estate, so book Nikki Beach (#4) or One&Only The Palm (#3) instead."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. Photo ID, credit card and an AED 1,000 refundable deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not shown as included in the €481 villa rate; guests rate breakfast exceptional."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Private villa pool plus the resort's outdoor infinity pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One-Bedroom Villa with Private Pool, 2,131 ft² (about 198 m²), living room, extra-large double bed."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "SAMĀNA Spa: steam room, sauna, ice room, cold pool, heated stone beds, couples' suites."
+     }
+    ]
+   },
+   "price": {
+    "main": "€481",
+    "sub": "from, per night, 2 adults, member price",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults, member price",
+      "price": "€481"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_melia_desert_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmelia-desert-palm-member-of-melia-collection.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Price for 2 adults, 1 night</b>",
+     "<b>Free on-site parking</b>"
+    ],
+    "sublink": {
+     "url": "#1-melia-desert-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "city",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE, Jumeirah Beach Residence"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/02-five-luxe-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/02-five-luxe-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "FIVE",
+    "🏨 5★ hotel, suites with pool",
+    {
+     "url": "https://maps.google.com/?q=FIVE+LUXE+JBR+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Beach Walk, Jumeirah Beach Residence"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_five_luxe&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-luxe-llc.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "FIVE LUXE, Jumeirah Beach Residence"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "11.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(11.6k+)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_five_luxe&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-luxe-llc.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to 18:00 and check-out from 08:00 to 12:00. An AED 1,000 (about €247) refundable deposit is taken by card on arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "97 m² suite with pool",
+     "pop_html": "<strong>Your suite:</strong> The 1 Bedroom Skyline Suite with Pool is a 1,044 ft² (about 97 m²) apartment-style suite with one bedroom, a living room, a kitchen and an extra-large double bed. The listing names a pool with the suite but does not say it is private, so ask the hotel before booking."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Accessible rooms",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome and pay as adults from 13; extra beds for ages 6+ cost AED 200 a night. Wheelchair accessible with grab rails, a raised toilet and a lower sink. Check-in age 18+."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity + plunge pools",
+     "pop_html": "<strong>Pools:</strong> Besides the pool that comes with the suite, the hotel has a year-round outdoor infinity pool with a pool bar, a plunge pool and a shallow end, and a hot tub."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "1.2 km to Marina Beach",
+     "pop_html": "<strong>Beach:</strong> On JBR's Beach Walk, 1.2 km (a 14-minute walk) from Marina Beach, with Dubai Marina on your doorstep. Location scores 9.6, the best on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Very good breakfast",
+     "pop_html": "<strong>Dining:</strong> Continental, full English, Asian and American breakfasts; French, American, Japanese and Mediterranean cooking later, plus a bar and coffee shop."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌇",
+     "label": "Sea-view city resort",
+     "pop_html": "<strong>The vibe:</strong> A big, polished resort with sea views and balconies, in the middle of the JBR and Marina scene. The most-reviewed hotel on this page: 11,584 reviews at 9.4."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a suite with a pool, a kitchen and Dubai Marina nightlife at JBR for €440, with free cancellation on the suite rate.",
+    "skip_html": "if you want to step from your room onto the sand: Marina Beach is 1.2 km away, so book Nikki Beach (#4) instead."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–18:00, check-out 08:00–12:00. AED 1,000 refundable deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental, full English, Asian and American; rated very good by guests."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Marina Beach 1.2 km, about a 14-minute walk."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Suite listed with a pool (private not stated) plus outdoor infinity pool with pool bar, plunge pool and hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "1 Bedroom Skyline Suite with Pool, 1,044 ft² (about 97 m²), living room, kitchen."
+     }
+    ]
+   },
+   "price": {
+    "main": "€440",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€440"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_five_luxe&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-luxe-llc.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on the pool-suite rate",
+     "<b>Free private parking</b>"
+    ],
+    "sublink": {
+     "url": "#2-five-luxe-jbr",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "beach"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/03-one-only-palm-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/03-one-only-palm-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "One&amp;Only",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=One&Only+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm Jumeirah"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_one_only_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "One&amp;Only The Palm Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "461 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(461)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_one_only_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out until 12:00. Photo ID and a credit card at check-in; cash is not accepted."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "120 m² beachfront suite",
+     "pop_html": "<strong>Your suite:</strong> The Beachfront Junior Suite with Pool is 1,292 ft² (about 120 m²), with a private pool, a sea-view balcony and a bathroom with a bath. The rate includes waterpark access."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Check-in age 21",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome and pay as adults from 12; cots are free for under-4s and extra beds for 4–16 cost AED 250 a night. The strictest check-in age here: 21. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Rate:</strong> The €3,259 pool-suite rate includes breakfast, free cancellation and nothing to pay until you arrive."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private sandy beach",
+     "pop_html": "<strong>Beach:</strong> A private beach on the Palm, gardens, Andalusian architecture and three pools, including an infinity pool with a pool bar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⭐",
+     "label": "Two-Michelin-star STAY",
+     "pop_html": "<strong>Dining:</strong> Yannick Alléno runs the kitchens: French at STAY, Mediterranean seafood at 101, breakfasts and Italian at ZEST."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💎",
+     "label": "Boutique and romantic",
+     "pop_html": "<strong>The vibe:</strong> A small, secluded resort for couples, with comfort scored 9.7 and staff 9.6; only Al Marmoom's 9.8 is higher here."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a once-in-a-lifetime couple's trip: a beachfront suite with its own pool, breakfast and two-Michelin-star dining on the Palm.",
+    "skip_html": "if €3,259 a night is more than you want to spend: Nikki Beach (#4) gives you a beach villa with private pool and breakfast for €1,036."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to midnight, check-out until 12:00. Photo ID and credit card."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €3,259 pool-suite rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private sandy beach on the resort."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Private suite pool plus 3 resort pools incl. infinity pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Beachfront Junior Suite with Pool, 1,292 ft² (about 120 m²), sea-view balcony; Executive Suite with Pool 1,615 ft²."
+     }
+    ]
+   },
+   "price": {
+    "main": "€3259",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€3259"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_one_only_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast</b> included",
+     "<b>Free cancellation</b> on the pool-suite rate",
+     "<b>No prepayment: pay at the property</b>"
+    ],
+    "sublink": {
+     "url": "#3-one-only-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "beach"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Beach Villa",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/04-nikki-beach-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/04-nikki-beach-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Nikki Beach",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Nikki+Beach+Resort+&+Spa+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pearl Jumeira island"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_nikki_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fnikki-beach-resort-amp-spa-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Nikki Beach Resort &amp; Spa Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "1.8k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.8k+)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_nikki_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fnikki-beach-resort-amp-spa-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "118 m² pool villa",
+     "pop_html": "<strong>Your villa:</strong> The One-Bedroom Villa with Private Pool is 1,270 ft² (about 118 m²), with one bedroom, two bathrooms and an extra-large double bed. Breakfast is included at €1,036."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots and beds under 6",
+     "pop_html": "<strong>Kids and access:</strong> Cots are free for under-4s and extra beds free for ages 4–5; AED 150 a night for 6–12 and AED 300 for 13+. There is a Kids' Playroom."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "450 m private beach",
+     "pop_html": "<strong>Beach:</strong> A 450 m private beach facing the Gulf on Pearl Jumeira island, with free access to the outdoor pools and the Nikki Beach Club."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "5 restaurants",
+     "pop_html": "<strong>Dining:</strong> Soul Lounge, Café Nikki, Bungalo34, the Beach Club restaurant and seasonal Maison Mer, with produce from an on-site hydroponic farm."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "15 min to DXB",
+     "pop_html": "<strong>Location:</strong> Close to Dubai Mall and Downtown and 15 minutes from Dubai International, far closer to the city than the Palm resorts."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌴",
+     "label": "Beach-club glamour",
+     "pop_html": "<strong>The vibe:</strong> A beach-club resort with a Nikki Beach playlist in every room and weekly beach yoga and fitness events in season. Guest score 9.1."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a villa with its own pool steps from a private beach, breakfast included, at a third of One&Only's price.",
+    "skip_html": "if you want a secluded hideaway: the Nikki Beach Club is part of the resort. One&Only (#3) or Meliá (#1) are quieter picks."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €1,036 villa rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "450 m private beach and Nikki Beach Club."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Private villa pool plus free access to the resort's outdoor pools."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One-Bedroom Villa with Private Pool, 1,270 ft² (about 118 m²), 2 bathrooms."
+     }
+    ]
+   },
+   "price": {
+    "main": "€1036",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€1036"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_nikki_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fnikki-beach-resort-amp-spa-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast</b> included",
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Free private parking</b>"
+    ],
+    "sublink": {
+     "url": "#4-nikki-beach-resort-spa",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "city",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Cheapest Private Pool",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/05-al-bandar-rotana-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Rotana",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Al+Bandar+Rotana+Dubai+Creek",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Baniyas Road, Dubai Creek (Deira)"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_bandar_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-bandar-rotana.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Al Bandar Rotana, Dubai Creek"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.30",
+     "score": "4.3",
+     "meta": "3.1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(3.1k+)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_bandar_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-bandar-rotana.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, one of the earliest here, and check-out from 11:30 to 12:00. Photo ID, credit card and an AED 500 (about €123) refundable deposit."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Suite with private pool",
+     "pop_html": "<strong>Your suite:</strong> The Suite with Private Pool has an extra-large double bed and creek and city views, and the rate comes with 25% off food and drink in the hotel."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Cots are free for under-3s; extra beds cost AED 120 a night and children pay as adults from 12. Wheelchair accessible; check-in age 18+."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €32",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast is €32 extra where it is not included; guests rate it good."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍺",
+     "label": "5 creekside venues",
+     "pop_html": "<strong>Dining:</strong> Morgan's gastropub, Gusto Italian, Salt & Pepper, Vanilla Lobby Lounge and The Deck Pool Lounge, all with terraces over Dubai Creek."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "Minutes from DXB",
+     "pop_html": "<strong>Location:</strong> On the edge of Dubai Creek, minutes by road from Dubai International, Dubai World Trade Centre, the souks and the Creek Golf & Yacht Club."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Old-Dubai waterfront",
+     "pop_html": "<strong>The vibe:</strong> A modern business-and-leisure hotel in the city's original heartland, with a rooftop pool and pool bar. Value scored 8.7."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone who wants a hotel suite with its own pool at the lowest price here, €429, minutes from the airport for a stopover or short break.",
+    "skip_html": "if you want a beach or the newer Dubai skyline on your doorstep: the Creek is old Dubai, far from the coast. FIVE LUXE (#2) costs €11 more at JBR."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00, check-out 11:30–12:00. AED 500 refundable deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€32 extra; included on some rates."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Private suite pool plus outdoor rooftop pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Suite with Private Pool, extra-large double bed, 25% food and drink discount."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Bodylines Fitness & Wellness Club: gym, sauna, steam, massage."
+     }
+    ]
+   },
+   "price": {
+    "main": "€429",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€429"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_bandar_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-bandar-rotana.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>25% off food and drink on the pool-suite rate</b>",
+     "<b>Free private parking</b>"
+    ],
+    "sublink": {
+     "url": "#5-al-bandar-rotana",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "city"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best City Suite",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Anantara Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/06-anantara-downtown-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Anantara",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Anantara+Downtown+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Business Bay, near Downtown"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_anantara_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-downtown-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Anantara Downtown Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "1.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.7k+)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_anantara_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-downtown-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card at check-in; tell the hotel your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "235 m² Royal Suite",
+     "pop_html": "<strong>Your suite:</strong> The Anantara Royal Suite with Pool is 2,530 ft² (about 235 m²) on the top floors: master bedroom with a study, living room, dining room and a fully equipped kitchenette."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Extra beds AED 100",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome and pay as adults from 12; extra beds for 11+ cost AED 100 a night, but there are no cots. Wheelchair accessible; check-in age 18+."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Balcony plunge pool",
+     "pop_html": "<strong>Pool:</strong> The living room opens onto a balcony with a private plunge pool. Downstairs there is a heated rooftop pool with a shallow end and pool bar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Minutes from Dubai Mall",
+     "pop_html": "<strong>Location:</strong> On Downtown Burj Khalifa Street in Business Bay, minutes from Dubai Mall and DIFC; Dubai International is 18 km away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✅",
+     "label": "Free cancellation",
+     "pop_html": "<strong>Rate:</strong> The €1,076 Royal Suite rate came with free cancellation, at 40% off the hotel's standard price for the night."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌃",
+     "label": "Skyline penthouse",
+     "pop_html": "<strong>The vibe:</strong> A sleek city hotel with floor-to-ceiling windows and sweeping skyline views; comfort scores 9.4."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a city break with a top-floor suite, a plunge pool on your balcony and Dubai Mall minutes away, with free cancellation.",
+    "skip_html": "if you want a full-size pool to swim in: a balcony plunge pool is for cooling off. Meliá (#1) has a proper villa pool for €481 (member price)."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. Photo ID and credit card."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not shown as included at €1,076; rated fabulous by guests."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Private balcony plunge pool plus heated rooftop pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Anantara Royal Suite with Pool, 2,530 ft² (about 235 m²), study, dining room, kitchenette."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, steam room, massage, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€1076",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€1076"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_anantara_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fanantara-downtown-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on the pool-suite rate",
+     "<b>Free private parking</b>"
+    ],
+    "sublink": {
+     "url": "#6-anantara-downtown-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "beach",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/07-jumeirah-beach-hotel-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jumeirah",
+    "🏨 5★ beach resort, villas",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Beach+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jumeirah Beach Road, Umm Suqeim"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jumeirah Beach Hotel Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "3.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(3.5k+)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00, with two-way airport transfers included on the villa rate. No minimum check-in age."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "130 m² Al Bahar Villa",
+     "pop_html": "<strong>Your villa:</strong> The One Bedroom Al Bahar Villa with Private Pool is 1,399 ft² (about 130 m²), with a living room, an extra-large double bed and a sofa bed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; club + Wild Wadi",
+     "pop_html": "<strong>Kids and access:</strong> No age limits, free cots, extra beds AED 200 a night for under-18s, a kids' club and a kids' pool. The villa rate includes daily Wild Wadi Water Park access. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Breakfast + dinner",
+     "pop_html": "<strong>What&#x27;s included:</strong> Breakfast in the villa, dinner, afternoon tea, evening drinks and canapés, butler service and airport transfers, with free cancellation."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach area",
+     "pop_html": "<strong>Beach:</strong> A private beach area by the resort, Jumeira Public Beach a six-minute walk away, and four pools including a kids' pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧘",
+     "label": "Spa and yoga",
+     "pop_html": "<strong>Wellness:</strong> A spa with sauna and hot tub, wellness packages, a fitness centre and yoga classes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Classic family resort",
+     "pop_html": "<strong>The vibe:</strong> A classic beachfront family resort with sea and landmark views and a 9.5 location score, the joint second-best here."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or couples who want a private-pool villa where almost everything is included: two meals, butler, transfers and daily Wild Wadi.",
+    "skip_html": "if you are two adults who will eat out: you pay €2,107 for inclusions you may not use. Nikki Beach (#4) is €1,071 cheaper."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. Two-way airport transfers included on the villa rate."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included (in-villa), plus dinner, afternoon tea and evening drinks."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach area; Jumeira Public Beach a six-minute walk."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Private villa pool plus 4 resort pools incl. kids' pool and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One Bedroom Al Bahar Villa with Private Pool, 1,399 ft² (about 130 m²), living room, sofa bed."
+     }
+    ]
+   },
+   "price": {
+    "main": "€2107",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€2107"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast and dinner</b> included",
+     "<b>Free cancellation</b> on the villa rate",
+     "<b>Airport transfers</b> included"
+    ],
+    "sublink": {
+     "url": "#7-jumeirah-beach-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "escape",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best Desert Stay",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Marmoom Dome Luxury Desert Experiential Stay"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/08-al-marmoom-dome-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "independent",
+    "🏨 5★ desert lodge, domes",
+    {
+     "url": "https://maps.google.com/?q=Al+Marmoom+Dome+Luxury+Desert+Experiential+Stay+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Marmoom Oasis desert reserve"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_marmoom_dome&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-marmoom-oasis-luxury-camping-amp-bedouin-experience.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Al Marmoom Dome Luxury Desert Experiential Stay"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "199 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(199)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_marmoom_dome&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-marmoom-oasis-luxury-camping-amp-bedouin-experience.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to 23:30, check-out from 12:00 to 12:30, with private check-in. Tell the lodge your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "62 m² dome",
+     "pop_html": "<strong>Your dome:</strong> The Dome is 667 ft² (about 62 m²) with a double bed, a sofa bed, a bathroom with a bath and walk-in shower, a private entrance and a terrace with lake views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free extra beds 4–11",
+     "pop_html": "<strong>Kids and access:</strong> No minimum check-in age, free cots for under-4s and free extra beds for ages 4–11; children pay as adults from 13. Indoor and outdoor play areas and family rooms."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Private pool",
+     "pop_html": "<strong>Pool:</strong> The dome is listed with a private pool, with lake, garden and pool views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Rate:</strong> The €837 dome rate includes breakfast, which guests rate exceptional, and free cancellation. Half-board, full-board and all-inclusive versions are also sold."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐎",
+     "label": "Horse riding nearby",
+     "pop_html": "<strong>Activities:</strong> Horse riding nearby, with outdoor fireplace, barbecue facilities and a sun terrace at the lodge. Location 9.5, comfort and staff 9.8."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏜️",
+     "label": "Off-grid desert dome",
+     "pop_html": "<strong>The vibe:</strong> A small lodge out in the Al Marmoom desert reserve, about 25 miles from the centre: quiet nights and big skies."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples or small families who want a night in the Al Marmoom reserve in a dome with its own pool and breakfast, instead of a resort tower.",
+    "skip_html": "if you want the beach or city in the same trip: the lodge is 25 miles out. Pair a night here with a city hotel instead of a full stay."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–23:30, check-out 12:00–12:30, private check-in."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €837 dome rate; half board, full board and all-inclusive also sold."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Private pool with a view at the dome."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Dome, 667 ft² (about 62 m²), double bed and sofa bed, bath and walk-in shower, lake-view terrace."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Al Marmoom Oasis, about 25 miles from the centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€837",
+    "sub": "from, per night, 2 adults, member price",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults, member price",
+      "price": "€837"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_marmoom_dome&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-marmoom-oasis-luxury-camping-amp-bedouin-experience.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast</b> included",
+     "<b>Free cancellation</b> on the dome rate",
+     "<b>Free parking</b>"
+    ],
+    "sublink": {
+     "url": "#8-al-marmoom-dome",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "city",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best for Longer Stays",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Bandar Arjaan by Rotana, Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/09-al-bandar-arjaan-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Rotana (Arjaan)",
+    "🏨 5★ hotel apartments",
+    {
+     "url": "https://maps.google.com/?q=Al+Bandar+Arjaan+by+Rotana+Dubai+Creek",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Baniyas Road, Dubai Creek (Deira)"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_bandar_arjaan&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-bandar-arjaan-by-rotana.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Al Bandar Arjaan by Rotana, Dubai Creek"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.25",
+     "score": "4.2",
+     "meta": "1.1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(1.1k+)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_bandar_arjaan&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-bandar-arjaan-by-rotana.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, check-out until 12:00. Photo ID and a credit card at check-in; minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "90 m² 1-bed apartment",
+     "pop_html": "<strong>Your apartment:</strong> The One Bedroom Apartment with Private Pool is 969 ft² (about 90 m²) with a kitchen, one bathroom and an extra-large double bed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Free cots for under-3s; extra beds for 12+ cost AED 120 a night. Wheelchair accessible, with an emergency cord in the bathroom."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Rate:</strong> The €456 pool-apartment rate includes breakfast, which guests rate superb, and 25% off food and drink. Breakfast is €32 on rates without it."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Shares the Rotana&#x27;s venues",
+     "pop_html": "<strong>Dining:</strong> Connected to the five-star Al Bandar Rotana, so you get its five venues, including Morgan's gastropub and Gusto Italian, plus in-room dining."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool too",
+     "pop_html": "<strong>Pools:</strong> Besides the apartment's own pool, there is a rooftop pool with a pool bar and the Bodylines gym, sauna and steam rooms."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Home-style creekside",
+     "pop_html": "<strong>The vibe:</strong> A calm hotel-apartment block on Dubai Creek built for long-stay visitors, minutes by road from Dubai International."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for longer stays or self-caterers: a 90 m² apartment with a kitchen, its own pool and breakfast included for €456.",
+    "skip_html": "if you want a beach or a buzzing area: this is a quiet creekside base. FIVE LUXE (#2) at JBR is €16 cheaper."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00, check-out until 12:00. Photo ID and credit card."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €456 pool-apartment rate; €32 otherwise."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Private apartment pool plus rooftop pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One Bedroom Apartment with Private Pool, 969 ft² (about 90 m²), kitchen."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Baniyas Road on Dubai Creek, Deira, connected to Al Bandar Rotana."
+     }
+    ]
+   },
+   "price": {
+    "main": "€456",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€456"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_al_bandar_arjaan&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-bandar-arjaan-by-rotana.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast</b> included",
+     "<b>25% off food and drink</b>",
+     "<b>Free private parking</b>"
+    ],
+    "sublink": {
+     "url": "#9-al-bandar-arjaan",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "beach",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Best for Groups",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Zabeel Saray Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-private-pool-dubai/10-zabeel-saray-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jumeirah",
+    "🏨 5★ beach resort, Royal Villas",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Zabeel+Saray+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 West Crescent, Palm Jumeirah"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_zabeel_saray&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-zabeel-saray.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jumeirah Zabeel Saray Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.30",
+     "score": "4.3",
+     "meta": "2.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(2.5k+)",
+       "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_zabeel_saray&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-zabeel-saray.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card; tell the resort your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "461 m² 4-bed villa",
+     "pop_html": "<strong>Your villa:</strong> The Four Bedroom Royal Lagoon Pool access Villa is 4,962 ft² (about 461 m²) with four bedrooms, four bathrooms, a kitchen and five beds."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; and teens&#x27; club",
+     "pop_html": "<strong>Kids and access:</strong> Free cots for under-4s, extra beds AED 250 a night from age 3, and a kids' and teens' club. Wheelchair accessible; check-in age 18+."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Royal Villa pools",
+     "pop_html": "<strong>Pool:</strong> The 38 Royal Villas come with private pools and 24-hour butler service, and you have direct access to the resort pool and private beach."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "In-villa breakfast",
+     "pop_html": "<strong>Rate:</strong> Daily in-villa breakfast, butler service and a complimentary soft-drinks minibar, with free cancellation and nothing to pay until arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐶",
+     "label": "Pets allowed",
+     "pop_html": "<strong>Pets:</strong> The only property on this page that accepts pets; charges may apply, and pet baskets and bowls are provided."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏰",
+     "label": "Ottoman palace",
+     "pop_html": "<strong>The vibe:</strong> Grand Ottoman-inspired architecture on the Palm's West Crescent and the 8,200 m² Talise Ottoman Spa. Parts of the resort are under renovation; the Royal Villas stay open."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or groups who want a four-bedroom Palm villa with pool access, a butler and the beach, at about €465 per bedroom.",
+    "skip_html": "if you are a couple: you pay for four bedrooms. One&Only (#3) or Nikki Beach (#4) suit two people better."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. Photo ID and credit card."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Daily in-villa breakfast included on the villa rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach; Zenzi Beach dining beside the Royal Villas."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Villa listed with pool access (private pool not confirmed), plus the resort's temperature-controlled infinity pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Four Bedroom Royal Lagoon Pool access Villa, 4,962 ft² (about 461 m²), 4 bathrooms, kitchen."
+     }
+    ]
+   },
+   "price": {
+    "main": "€1859",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€1859"
+     }
+    ],
+    "note": "Cheapest room or villa sold with a pool, for 2 adults on 13–14 January 2027. Dates, unit type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.private_pool_hotels_dubai_zabeel_saray&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-zabeel-saray.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast</b> included",
+     "<b>Free cancellation</b> on the villa rate",
+     "<b>No prepayment: pay at the property</b>"
+    ],
+    "sublink": {
+     "url": "#10-jumeirah-zabeel-saray",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

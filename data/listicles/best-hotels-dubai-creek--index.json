@@ -1,0 +1,5182 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "deira",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/01-movenpick-creek-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/01-movenpick-creek-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Mövenpick",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Mövenpick+Dubai+Creek+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Banyas Street, Deira creekside"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_movenpick_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmovenpick-dubai-creek.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Mövenpick Dubai Creek"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "7.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(7.9k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_movenpick_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmovenpick-dubai-creek.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in runs from 15:00 to midnight, check-out from 11:30 to 12:00. An AED 500 (about €123) refundable cash deposit is taken on arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "45 m² deluxe king",
+     "pop_html": "<strong>Cheapest room:</strong> The €86 rate is a Deluxe king room of 484 ft² (about 45 m²) with creek or city skyline views, a marble bathroom and Mövenpick's Serenity Bed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome. Cots are free for 0–2 years, extra beds cost AED 150 a night from age 3, and children 12+ are charged as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool + bar",
+     "pop_html": "<strong>Pool:</strong> Outdoor rooftop pool with the Skyview Pool Bar, which serves drinks and light bites with panoramic views over the Creek and the city."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €22",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast at The Great Oaks costs €22 on room-only rates. Breakfast-included rates start at €116 a night and half board at €145."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Spa + valet",
+     "pop_html": "<strong>Extras:</strong> Spa and wellness centre with massage, a fitness centre, and complimentary valet parking. An airport shuttle is available on request."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Creek-view 5★ value",
+     "pop_html": "<strong>Vibe:</strong> A full-service 5-star on the busy Deira side of the Creek, 10 minutes by car from the gold and textile markets, at a mid-range price."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the best all-round Creek stay: a 5-star with a rooftop pool over the water, a 9.2 score and the joint-highest value score here (9.1), for €86 a night.",
+    "skip_html": "if you want a beach or a resort-style pool deck: for that, Creek Harbour (#2 or #4) costs €62–96 more."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 00:00; check-out 11:30 to 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€22 on room-only rates; breakfast-included rates from €116."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor rooftop pool with the Skyview Pool Bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe king room, 484 ft² (about 45 m²); twin rooms 420 ft²."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "Dubai International Airport 5 km, by metro or taxi; shuttle on request."
+     }
+    ]
+   },
+   "price": {
+    "main": "€86",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€86"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_movenpick_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmovenpick-dubai-creek.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#1-m-venpick-dubai-creek",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "harbour"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Highest Rated",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/02-vida-creek-beach-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/02-vida-creek-beach-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Vida Hotels",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Vida+Creek+Beach+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Creek Beach, Dubai Creek Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_vida_creek_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-creek-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Vida Creek Beach Hotel"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "2.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(2.3k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_vida_creek_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-creek-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are required at check-in, and the hotel asks for your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "40 m² with balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Room Twin, 431 ft² (about 40 m²), with a balcony and terrace, city or courtyard views and soundproofing. Lagoon View rooms cost from €162."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool, cots free",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, cots are free up to 3 years and extra beds cost AED 150 a night from 12. Wheelchair accessible, with grab rails and a raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beachfront",
+     "pop_html": "<strong>Beach:</strong> The hotel is listed as beachfront on Creek Beach, the only hotel here with the beach as its main draw."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity pool",
+     "pop_html": "<strong>Pool:</strong> Year-round outdoor infinity pool, a separate kids' pool, a hot tub and a sun terrace."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Exceptional breakfast",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast scores as exceptional, with continental, American, Asian and full English options at Origins, the hotel's all-day restaurant."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Beach-and-pool new town",
+     "pop_html": "<strong>Vibe:</strong> A modern, family-friendly hotel in the new Creek Harbour district, 0.7 miles from Dubai Festival City, with the beach a few steps away."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and couples who want a beach and an infinity pool without leaving the Creek: it has the top score on this page, 9.3, and a 9.4 for location.",
+    "skip_html": "if you want old Dubai on foot: Creek Harbour is a new district, and the souks are on the other side of the water."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental, American, Asian, full English; rated exceptional."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Listed as beachfront on Creek Beach."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor infinity pool, kids' pool, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room 431 ft² (about 40 m²) with balcony; Premier Room 527 ft²."
+     }
+    ]
+   },
+   "price": {
+    "main": "€148",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€148"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_vida_creek_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-creek-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#2-vida-creek-beach-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "burdubai"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/03-raffles-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/03-raffles-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/03-raffles-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Raffles",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Raffles+Dubai+Wafi+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Wafi, Oud Metha"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_raffles&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fraffles-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Raffles Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "2.2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(2.2k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_raffles&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fraffles-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out by 12:00. Photo ID and a credit card are needed, and the hotel asks for your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "70 m² + terrace",
+     "pop_html": "<strong>Cheapest room:</strong> Signature Twin Room of 753 ft² (about 70 m²) with a private balcony or terrace, garden and city views, coffee machine and a walk-in shower."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free, beds AED 400",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, cots are free for 0–2, but extra beds cost AED 400 a night from 12, and 12+ pay as adults. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛎️",
+     "label": "Butler for every room",
+     "pop_html": "<strong>Service:</strong> Butler service is available for all rooms, plus an in-room digital system to run your stay from the TV or iPad."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "2 pools + spa",
+     "pop_html": "<strong>Pools and spa:</strong> Outdoor pool, rooftop and kids' pool areas, and a large spa with saunas, steam rooms, hot tub and massage."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Next to Wafi mall",
+     "pop_html": "<strong>Location:</strong> The pyramid-shaped hotel adjoins Wafi mall, has metro access, and the airport is a 15-minute drive."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Pyramid landmark",
+     "pop_html": "<strong>Vibe:</strong> Grand and theatrical, with handcrafted decor, afternoon tea at Raffles Salon and TOMO Japanese among 7 dining outlets."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a special-occasion stay: €233 gets a 70 m² room with its own terrace, butler service and a 9.2 score, the biggest standard room on this page.",
+    "skip_html": "if you want to be on the water: Wafi is inland on the Bur Dubai side, and the Creek is not outside the window."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 00:00; check-out by 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Room-only cheapest rate; breakfast-and-dinner rates from €370."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 pools: outdoor, rooftop and kids' areas."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Signature Room with Terrace or Twin, 753 ft² (about 70 m²)."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa with saunas, steam rooms, hot tub, massage."
+     }
+    ]
+   },
+   "price": {
+    "main": "€233",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€233"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_raffles&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fraffles-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Butler service for all rooms</b>"
+    ],
+    "sublink": {
+     "url": "#3-raffles-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "harbour"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Creek Harbour 5★",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/04-address-creek-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/04-address-creek-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Address Hotels",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Address+Creek+Harbour+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Creek Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_address_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-grand-creek-harbour.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Address Creek Harbour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "3.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(3.5k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_address_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-grand-creek-harbour.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00, with private and express check-in. Photo ID and a credit card are required."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "40 m² city view",
+     "pop_html": "<strong>Cheapest room:</strong> City View Deluxe Room King, 431 ft² (about 40 m²), bath and shower, soundproofing. Creek View rooms of the same size cost extra, and Premier rooms with a private balcony are 484 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool, cots free",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, cots are free up to 3, extra beds AED 300 a night from 12. No kids' club listed; kids' pool, child-friendly buffet and entertainment staff."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity pool + beach",
+     "pop_html": "<strong>Pool and beach:</strong> Outdoor infinity pool with a pool bar, and beach access listed among the top facilities."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €38",
+     "pop_html": "<strong>Breakfast:</strong> €38 on room-only rates. Club rates include breakfast, afternoon tea and evening canapés."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Spa + sauna",
+     "pop_html": "<strong>Wellness:</strong> Spa and wellness centre with massage, sauna and a fitness room; wellness packages available."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Polished new-town 5★",
+     "pop_html": "<strong>Vibe:</strong> Sleek 5-star in the Creek Harbour towers, 0.6 miles from Dubai Festival City and close to an ice rink."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a full 5-star in the new Creek Harbour district: infinity pool, beach access, spa and a 9.2 location score for €182.",
+    "skip_html": "if breakfast matters to your budget: it costs €38 on top, the most expensive breakfast on this page."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€38 on room-only rates; club rates include breakfast, afternoon tea and canapés."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beach access listed among top facilities."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor infinity pool with pool bar; kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "City View Deluxe King, 431 ft² (about 40 m²); Creek View rooms same size, higher rate."
+     }
+    ]
+   },
+   "price": {
+    "main": "€182",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€182"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_address_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-grand-creek-harbour.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#4-address-creek-harbour",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "burdubai",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best for Old Dubai",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Canopy by Hilton Dubai Al Seef"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/05-canopy-al-seef-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/05-canopy-al-seef-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Hilton",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Canopy+by+Hilton+Dubai+Al+Seef",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Seef, Bur Dubai creekside"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_canopy_al_seef&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcanopy-by-hilton-dubai-al-seef.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Canopy by Hilton Dubai Al Seef"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "1.1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(1.1k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_canopy_al_seef&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcanopy-by-hilton-dubai-al-seef.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to 23:30, check-out by 12:00. Photo ID and a credit card are required at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "35 m² king",
+     "pop_html": "<strong>Cheapest room:</strong> King Room of 377 ft² (about 35 m²) with a work desk, Nespresso machine and organic toiletries. A mobility-accessible King Room of the same size is available."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, cots are free for 0–2, extra beds AED 105 a night from 13. Wheelchair accessible with an emergency cord in the bathroom."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop infinity pool",
+     "pop_html": "<strong>Pool:</strong> Heated rooftop infinity pool with a pool bar, plus sauna, steam room, massage and a gym."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €19",
+     "pop_html": "<strong>Breakfast:</strong> €19 on the cheapest rate; breakfast-included rates from €112 and half board from €129."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Greek + all-day",
+     "pop_html": "<strong>Dining:</strong> NYON for all-day international food and SKAFOS for Greek, Mediterranean and seafood."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Heritage quarter base",
+     "pop_html": "<strong>Vibe:</strong> A stylish 200-room hotel in Al Seef, the most culturally vibrant part of the creekside, aimed at travellers who like to explore the neighbourhood."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for staying in the heritage quarter of the Creek itself: a rooftop infinity pool and a 9.2 location score in Al Seef for €95.",
+    "skip_html": "if you need a beach or kids' facilities: there is no kids' pool or beach here."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 23:30; check-out by 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€19 on room-only rates; included rates from €112."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop infinity pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "King Room, 377 ft² (about 35 m²); mobility-accessible King Room available."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Al Seef Street, Umm Hurair 1, on the Bur Dubai bank; Burj Khalifa and Dubai Mall 10 km."
+     }
+    ]
+   },
+   "price": {
+    "main": "€95",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€95"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_canopy_al_seef&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcanopy-by-hilton-dubai-al-seef.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#5-canopy-by-hilton-al-seef",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "burdubai"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Breakfast Deal",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai The Obelisk"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Sofitel",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Sofitel+Dubai+The+Obelisk+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Wafi, Oud Metha"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_sofitel_obelisk&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-wafi.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Sofitel Dubai The Obelisk"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "7.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(7.7k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_sofitel_obelisk&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-wafi.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out by 12:00."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "44 m² deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Room Twin Beds, 474 ft² (about 44 m²), with bath and shower, bathrobes, a seating area and city views. King Studios add a kitchenette and washing machine."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "5+ pay as adults",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome but count as adults from age 5, and extra beds cost AED 200 a night at any age. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €156 rate includes breakfast, with continental, American, Asian and full English options."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Heated rooftop pool with a shallow end and a pool bar, a kids' pool, a hot tub and a spa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "5 restaurants",
+     "pop_html": "<strong>Dining:</strong> Brasserie Boulud (French), an Asian restaurant and bar, Bijou Patisserie for breakfast and high tea, and more."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Big-brand Wafi 5★",
+     "pop_html": "<strong>Vibe:</strong> A 5-star tower by Wafi with metro access, 7 km from the airport and 2.4 miles from Dubai Festival City."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a 5-star with breakfast already in the price: €156 including breakfast, a 9.1 score and a rooftop pool, with metro access.",
+    "skip_html": "if you travel with children over 4: they are charged as adults and extra beds cost AED 200 a night."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 00:00; check-out by 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €156 rate."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop pool, pool bar, kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room, 474 ft² (about 44 m²); Luxury King 592 ft²; King Studio with kitchenette."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa and wellness centre, hot tub, massage, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€156",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€156"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_sofitel_obelisk&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-wafi.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast included in this rate</b>",
+     "<b>Free cancellation</b> on rates that show it"
+    ],
+    "sublink": {
+     "url": "#6-sofitel-dubai-the-obelisk",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "deira",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Budget",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jannah Dubai Creek Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/07-jannah-creek-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/07-jannah-creek-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jannah Hotels",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Jannah+Dubai+Creek+Hotel+Deira+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Qigga Al Butain, Deira"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_jannah_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjannah-creekside.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jannah Dubai Creek Hotel"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "2.8k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(2.8k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_jannah_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjannah-creekside.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, an hour earlier than most here; check-out until 12:00. Photo ID and a credit card are required."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "29 m² deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe King or Twin Room of 312 ft² (about 29 m²) with city view, soundproofing and a minibar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, cots are free for 0–2, extra beds AED 90 a night from 12, the cheapest extra bed on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €12",
+     "pop_html": "<strong>Breakfast:</strong> €12 on room-only rates; breakfast-included rates from €91. Continental and à la carte with pastries, cheese and juice."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Pool + spa",
+     "pop_html": "<strong>Pool and spa:</strong> Year-round outdoor pool, spa, sauna, steam room, hot tub and gym, unusual at this price."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "Airport 3 km",
+     "pop_html": "<strong>Getting there:</strong> Dubai International Airport is 3 km away, and there is free private parking with valet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Smart budget 4★",
+     "pop_html": "<strong>Vibe:</strong> A friendly 4-star in Deira (formerly Edge Creekside Hotel) with an Asian restaurant, Halo Halo, and a 9.3 cleanliness score."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the lowest price with a high score: €66 for a 4-star with a pool and spa, rated 9.0, 3 km from the airport.",
+    "skip_html": "if you want space or Creek views: the 29 m² room is the smallest here and the outlook is city."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€12 on room-only rates; included rates from €91."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Year-round outdoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King or Twin, 312 ft² (about 29 m²)."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, sauna, steam room, hot tub, massage."
+     }
+    ]
+   },
+   "price": {
+    "main": "€66",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€66"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_jannah_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjannah-creekside.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#7-jannah-dubai-creek-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "burdubai",
+    "kitchen"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best Suites",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Rotana",
+    "🏨 5★ suite hotel",
+    {
+     "url": "https://maps.google.com/?q=Al+Jaddaf+Rotana+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Jaddaf"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_jaddaf_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-jaddaf-rotana-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Al Jaddaf Rotana Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "2.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(2.5k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_jaddaf_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-jaddaf-rotana-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, check-out until 12:00."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "80 m² 1-bed suite",
+     "pop_html": "<strong>Cheapest unit:</strong> One Bedroom Suite with city view: 861 ft² (about 80 m²), separate bedroom, living room, 2 bathrooms, full kitchen and washing machine."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Under-3s free",
+     "pop_html": "<strong>Kids and access:</strong> Cots and extra beds are free for 0–2, extra beds AED 100 a night from 3, and only guests 18+ pay adult rates. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Metro 5 min walk",
+     "pop_html": "<strong>Getting around:</strong> Al Jaddaf Metro Station is a 5-minute walk, with easy reach of Downtown, Dubai Mall, the Dubai Frame and Festival City."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Pool + sauna",
+     "pop_html": "<strong>Facilities:</strong> Outdoor pool with the Aquarius pool bar, gym, sauna and steam rooms, spa and an airport shuttle."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €30",
+     "pop_html": "<strong>Breakfast:</strong> €30 on room-only rates at TIMO, which serves breakfast, brunch, lunch and dinner."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Apartment-size 5★",
+     "pop_html": "<strong>Vibe:</strong> 318 suites with kitchens, built for longer stays; certified with the Dubai Sustainable Tourism Silver Stamp and Green Key."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or long stays who want a real one-bedroom suite with a kitchen: 80 m² and a 9.2 score for €167, 5 minutes on foot from the metro.",
+    "skip_html": "if you want the Creek on your doorstep: Al Jaddaf is at the inland end of the Bur Dubai bank."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€30 on room-only rates; included rates available."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One Bedroom Suite, 861 ft² (about 80 m²), kitchen, 2 bathrooms; Twin rooms 646 ft² with kitchen."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, massage, sauna, steam rooms."
+     }
+    ]
+   },
+   "price": {
+    "main": "€167",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€167"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_jaddaf_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-jaddaf-rotana-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#8-al-jaddaf-rotana-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "burdubai",
+    "kitchen"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best Apartment",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hyatt Regency Creek Heights Residences"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Hyatt",
+    "🏨 5★ serviced apartments",
+    {
+     "url": "https://maps.google.com/?q=Hyatt+Regency+Creek+Heights+Residences+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Healthcare City"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_hyatt_creek_heights&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhyatt-regency-creek-heights-residences.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Hyatt Regency Creek Heights Residences"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "4.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(4.7k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_hyatt_creek_heights&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhyatt-regency-creek-heights-residences.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–19:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in only from 15:00 to 19:00, check-out from 06:00 to 11:00. Tell the property your arrival time; an AED 200 refundable deposit is taken."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "58 m² studio",
+     "pop_html": "<strong>Cheapest unit:</strong> Studio with Kitchen, 624 ft² (about 58 m²), king or twin beds, dishwasher, oven, washing machine, and river, landmark and city views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, cots are free up to 3, extra beds AED 150 a night. Children 12+ are charged as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Metro 5 min walk",
+     "pop_html": "<strong>Getting around:</strong> The metro station is 5 minutes on foot, Wafi mall a 7-minute walk, and the airport 4 km away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Pool + spa",
+     "pop_html": "<strong>Facilities:</strong> Outdoor pool with pool bar, spa, hot tub, sauna, massage and a fitness centre; a mini mart in the residence tower."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "4 restaurants",
+     "pop_html": "<strong>Dining:</strong> Four restaurants on site, including Sufra (Indian and Mediterranean), La Tablita (Mexican) and Market 24."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Home with hotel backup",
+     "pop_html": "<strong>Vibe:</strong> Self-contained apartments attached to a full Hyatt Regency, for travellers who want to cook but still have restaurants downstairs."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers who want a kitchen and a washing machine with 5-star facilities: a 58 m² studio with river views for €136, 5 minutes from the metro.",
+    "skip_html": "if you land late: check-in is only between 15:00 and 19:00."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 19:00; check-out 06:00 to 11:00."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool with shallow end and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Studio with Kitchen, 624 ft² (about 58 m²); one-bedroom apartments 1,119 ft²."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "Dubai International Airport 4 km."
+     },
+     {
+      "q": "Is it near the metro?",
+      "a": "Station 5 minutes on foot; Wafi mall 7 minutes."
+     }
+    ]
+   },
+   "price": {
+    "main": "€136",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€136"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_hyatt_creek_heights&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhyatt-regency-creek-heights-residences.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#9-hyatt-regency-creek-heights-residences",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "harbour"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Cheapest Creek Harbour",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Harbour"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Vida Hotels",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Vida+Creek+Harbour+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Creek Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_vida_creek_harbour&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-harbour-point.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Vida Creek Harbour"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(5k+)",
+       "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_vida_creek_harbour&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-harbour-point.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are required, and the hotel asks for your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "32 m² city view",
+     "pop_html": "<strong>Cheapest room:</strong> City View Deluxe Room, 344 ft² (about 32 m²), king or twin beds, minibar and kettle."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free, no extra beds",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome and cots are free up to 3, but the hotel has no extra beds at all."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐾",
+     "label": "Pets allowed",
+     "pop_html": "<strong>Pets:</strong> The only hotel in this comparison that accepts pets; charges may apply and pet bowls are provided."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €27",
+     "pop_html": "<strong>Breakfast:</strong> €27 on room-only rates, or breakfast-included rates from €183."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Outdoor pool",
+     "pop_html": "<strong>Facilities:</strong> Outdoor pool with sun loungers, fitness centre, a shuttle service and three restaurants including Stage 2 and The Courtyard."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Budget Creek Harbour 4★",
+     "pop_html": "<strong>Vibe:</strong> A modern hotel in the Creek Harbour towers, 0.8 miles from Dubai Festival City, with a 9.3 location score."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the cheapest way into Creek Harbour: €108 a night with a 9.3 location score, three restaurants and a shuttle, and the only pet-friendly hotel here.",
+    "skip_html": "if you need an extra bed for a child: there are none, so book Vida Creek Beach (#2) or Address (#4) instead."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€27 on room-only rates; included rates from €183."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool with sun loungers."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "City View Deluxe Room, 344 ft² (about 32 m²)."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Shuttle service; 0.8 miles from Dubai Festival City; Dubai Mall 10 km."
+     }
+    ]
+   },
+   "price": {
+    "main": "€108",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€108"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.creek_hotels_dubai_vida_creek_harbour&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-harbour-point.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#10-vida-creek-harbour",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

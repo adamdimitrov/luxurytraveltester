@@ -1,0 +1,5187 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "beach",
+    "couples",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/01-sofitel-jbr-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Sofitel",
+    "🏨 5★ beachfront hotel",
+    {
+     "url": "https://maps.google.com/?q=Sofitel+Dubai+Jumeirah+Beach+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 The Walk, JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_sofitel_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-jumeirah-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Sofitel Dubai Jumeirah Beach"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "9.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(9.9k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_sofitel_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-jumeirah-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. The hotel asks you to tell it your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "377 ft² + balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Superior Twin with two single beds, a balcony with a partial sea view, Sofitel MyBed and a Bose sound system. The same size comes as a Superior King."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free kids&#x27; beds",
+     "pop_html": "<strong>Kids and beds:</strong> Children of any age are welcome and both cots (0–3) and extra beds (any age) are free on request, subject to availability. Children 13 and over pay as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beachfront on The Walk",
+     "pop_html": "<strong>Location:</strong> On The Walk at JBR, steps from The Beach mall, a 5-minute walk to Dubai Marina and 500 metres from the JBR 2 tram stop."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated pool + lounge",
+     "pop_html": "<strong>Pool:</strong> Heated outdoor pool with a pool bar, plus the Infini Pool Lounge overlooking the sea for drinks, finger food and shisha."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "10 restaurants",
+     "pop_html": "<strong>Dining:</strong> Ten venues on site including the A.O.C. French brasserie and international buffet, Plantation Restaurant and Terrace, and Cafe Concierge."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Polished, central",
+     "pop_html": "<strong>Vibe:</strong> A 5-star tower on The Walk at JBR: beach, restaurants and the tram all on foot, with free valet parking if you drive."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the best all-round JBR stay: 5-star, beachfront on The Walk, a 9.2 score and a sea-view balcony room for €174.",
+    "skip_html": "if you want a large resort garden and several pools: The Ritz-Carlton (#4) or Le Royal Meridien (#6) give you that."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beachfront hotel on The Walk at JBR."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool with pool bar; Infini Pool Lounge overlooking the sea."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Superior Twin or King, 377 ft², balcony with partial sea view."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "JBR 2 tram stop 500 m; Dubai Marina a 5-minute walk; Mall of the Emirates about 15 minutes by car."
+     }
+    ]
+   },
+   "price": {
+    "main": "€174",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€174"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_sofitel_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-jumeirah-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#1-sofitel-dubai-jumeirah-beach",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "couples",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value 5-Star",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mövenpick Hotel Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/02-movenpick-jbr-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Mövenpick",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Movenpick+Hotel+Jumeirah+Beach+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 JBR, 500 m from Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_movenpick_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmovenpick-jumeirah-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Mövenpick Hotel Jumeirah Beach"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "4.2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(4.2k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_movenpick_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmovenpick-jumeirah-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, an hour earlier than most JBR hotels here, check-out until 12:00. Photo ID and a credit card are needed at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "376 ft² + balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Superior King with balcony and city view, bath and shower. Some of the 297 rooms and suites have partial sea views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free · step-free",
+     "pop_html": "<strong>Kids and access:</strong> Free cots for ages 0–3, but no extra beds. Wheelchair accessible with lower sinks, raised toilets and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥐",
+     "label": "Breakfast €20",
+     "pop_html": "<strong>Breakfast:</strong> Add breakfast for €20 on the flexible rate, or pick a breakfast-included rate, from €150 non-refundable."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧖",
+     "label": "Spa, sauna, pool",
+     "pop_html": "<strong>Wellness:</strong> Outdoor pool with pool bar, spa with massage, sauna and steam room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "5 venues",
+     "pop_html": "<strong>Dining:</strong> New York Soul, The Talk buffet with daily theme nights, West Beach Bistro & Sports Lounge, the pool bar and Falls Lobby Lounge."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Smart, good value",
+     "pop_html": "<strong>Vibe:</strong> A modern 5-star within walking distance of the beach, with a 9.1 score at the lowest 5-star price on this list."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the cheapest 5-star room on this list, €136, with a 9.1 score, and a 500 m walk to Dubai Marina.",
+    "skip_html": "if you want to walk out of the lobby onto the sand: it is within walking distance of the beach, not on it. Sofitel (#1) is €38 more and beachfront."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€20 extra, or breakfast-included rates from €150."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Within walking distance of the beach, not beachfront."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Superior King or Twin with balcony, 376 ft²."
+     }
+    ]
+   },
+   "price": {
+    "main": "€136",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€136"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_movenpick_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmovenpick-jumeirah-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#2-m-venpick-hotel-jumeirah-beach",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "beach",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Highest-Rated",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "FIVE LUXE"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/03-five-luxe-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/03-five-luxe-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "FIVE Hotels",
+    "🏨 5★ beach hotel",
+    {
+     "url": "https://maps.google.com/?q=FIVE+LUXE+JBR+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Beach Walk, JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_five_luxe&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-luxe-llc.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "FIVE LUXE"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "11.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(11.6k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_five_luxe&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-luxe-llc.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–18:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in only between 15:00 and 18:00, check-out 08:00–12:00. Late arrivals should contact the hotel first."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "657 ft² room",
+     "pop_html": "<strong>Cheapest room:</strong> The Superior Room is 657 ft² with a walk-in shower, a bath, streaming TV and city views: the biggest standard hotel room of the 10 (only the DoubleTree suite and the Suha apartment are bigger)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Extra bed AED 200",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome; extra beds for 6+ cost AED 200 a night. The cot policy is contradictory (free cots for 0–3 are listed, but also \"no cots available\"), so ask before booking with a baby. Wheelchair accessible with grab rails and raised toilets."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity pool + bar",
+     "pop_html": "<strong>Pools:</strong> Infinity pool with plunge pool, shallow end and pool bar, plus a hot tub."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍸",
+     "label": "6 restaurants",
+     "pop_html": "<strong>Dining:</strong> Ronin (Japanese), Tete a Tete (French), Paradiso (Spanish), Goose Island Tap House, Playa Pacha and Cielo."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧖",
+     "label": "Spa + yoga",
+     "pop_html": "<strong>Wellness:</strong> Spa and wellness centre with massage, hot tub and steam room, a fitness centre and yoga classes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Pool and dining",
+     "pop_html": "<strong>Vibe:</strong> An infinity pool with a pool bar, a spa with yoga, and six restaurants and bars from Japanese to Spanish: the JBR pick for couples who want to eat and drink well without leaving the hotel. Parties and events are not allowed."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the highest-scoring hotel in JBR (9.4) and the biggest standard hotel room, 657 ft², with a beach, pool bar and six restaurants on site.",
+    "skip_html": "if you arrive after 18:00 or travel with a baby: check-in closes at 18:00 and cot availability is unclear."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–18:00; check-out 08:00–12:00."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beachfront, on the Beach Walk at JBR."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor infinity pool with plunge pool, shallow end and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Superior Room, 657 ft², walk-in shower and bath, city view."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa with massage, hot tub, steam room; yoga classes."
+     }
+    ]
+   },
+   "price": {
+    "main": "€266",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€266"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_five_luxe&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffive-luxe-llc.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it"
+    ],
+    "sublink": {
+     "url": "#3-five-luxe-jbr",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "beach",
+    "family",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "💎 #4 Most Luxurious",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Ritz-Carlton, Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/04-ritz-carlton-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/04-ritz-carlton-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=The+Ritz-Carlton+Dubai+JBR",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Beachfront, JBR Walk"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_ritz_carlton&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-ritz-carlton-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "The Ritz-Carlton, Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "1.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.4k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_ritz_carlton&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-ritz-carlton-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "538 ft² + balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Room with king bed and garden view, sea-oriented, with a balcony over the gardens and pools, rain shower and separate bathtub."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Ritz Kids club",
+     "pop_html": "<strong>Kids and access:</strong> Ritz Kids runs daily supervised activities (crafts, story time, cooking). Cots free for 0–2, extra beds free for 12+. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Beach:</strong> An extensive private beach along the JBR Walk looking at Ain Dubai, with Tamoka restaurant on the sand."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "6 pools",
+     "pop_html": "<strong>Pools:</strong> Six pools for adults and children, indoor and outdoor, including a kids' pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧖",
+     "label": "Ritz-Carlton Spa",
+     "pop_html": "<strong>Spa:</strong> Signature treatments, a gym, steam rooms and hot and cold plunge pools."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Garden resort",
+     "pop_html": "<strong>Vibe:</strong> Gardens, fountains and six pools, with every room sea-oriented and the JBR towers a 5-minute stroll away."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a proper resort on JBR beach: private beach, six pools, a kids' club and garden rooms of 538 ft², with breakfast-included rates.",
+    "skip_html": "if you mainly want to be on The Walk: you pay €620 for the resort, and the Sofitel (#1) is on the same beach for €174."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Breakfast-included rates available."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach along the JBR Walk."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "6 pools, indoor and outdoor, kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room, 538 ft², king bed, garden view, balcony."
+     }
+    ]
+   },
+   "price": {
+    "main": "€620",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€620"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_ritz_carlton&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-ritz-carlton-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#4-the-ritz-carlton-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "beach",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/05-hilton-jumeirah-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Hilton",
+    "🏨 5★ beach hotel",
+    {
+     "url": "https://maps.google.com/?q=Hilton+Dubai+Jumeirah+JBR",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 The Walk, JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_hilton_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhilton-dubai-jumeirah.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Hilton Dubai Jumeirah"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "3.8k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(3.8k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_hilton_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhilton-dubai-jumeirah.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are needed at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "409 ft² + breakfast",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe King, 409 ft², with marble bathroom and a balcony subject to availability. The €217 rate includes breakfast."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; club + playground",
+     "pop_html": "<strong>Kids and access:</strong> Kids' club and a beachside playground; cots free for 0–2, extra beds AED 200 a night. Lead guest must be 21. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Beach:</strong> Private beach on The Walk with water sports straight from the sand."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Family + adults pools",
+     "pop_html": "<strong>Pools:</strong> Separate family and adults-only pools next to the beach, heated, with a pool bar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "12 restaurants &amp; bars",
+     "pop_html": "<strong>Dining:</strong> Villa Verano (coastal Italian), McGettigan's sports bar, Trader Vic's and MarBar rooftop tapas, plus all-day dining."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Busy family beach",
+     "pop_html": "<strong>Vibe:</strong> A big, lively beach hotel right on The Walk, with cafés, shops and beach clubs outside the door."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a JBR beach hotel with a kids' club, a family pool and breakfast included, at €217 a night.",
+    "skip_html": "if the lead guest is under 21: the minimum check-in age here is 21."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00; minimum age 21."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €217 rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach on The Walk, water sports."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Family pool and adults-only pool, heated, pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King, 409 ft², marble bathroom."
+     }
+    ]
+   },
+   "price": {
+    "main": "€217",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€217"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_hilton_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhilton-dubai-jumeirah.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast</b> included",
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#5-hilton-dubai-jumeirah",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "beach",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Resort & Spa",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/06-le-royal-meridien-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Le+Royal+Meridien+Beach+Resort+and+Spa+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Mamsha St, a short walk to JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_le_royal_meridien&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-royal-meridien-beach-resort-spa-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Le Royal Meridien Beach Resort &amp; Spa Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "1.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(1.3k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_le_royal_meridien&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-royal-meridien-beach-resort-spa-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, check-out until 12:00. Photo ID and a credit card are needed at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "3 beds + balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Room with land view and balcony, with two single beds and an extra-large double, so three can sleep in one room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Extra bed AED 360",
+     "pop_html": "<strong>Kids and beds:</strong> Cots free for 0–2; extra beds for 12+ cost AED 360 a night. Children 12 and over pay as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧖",
+     "label": "Roman spa, 5 hammam pools",
+     "pop_html": "<strong>Spa:</strong> A Roman-themed spa with saunas, steam room and five hammam pools; reflexology, facials and aromatherapy."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "3 pools + beach",
+     "pop_html": "<strong>Pools and beach:</strong> Three outdoor pools including an infinity pool and pool bar, on a beachfront with water sports."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "14 restaurants &amp; bars",
+     "pop_html": "<strong>Dining:</strong> Maya by Richard Sandoval (modern Mexican), Zengo, Rhodes Twenty 10, Indya by Vineet, Brasserie 2.0 and more; 24-hour room service."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Classic resort",
+     "pop_html": "<strong>Vibe:</strong> A beach resort with gardens on Al Mamsha Street, a short walk from JBR and The Walk."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a full beach resort with a big spa and 14 places to eat, rated 9.3, a short walk from The Walk.",
+    "skip_html": "if you want to step straight out onto The Walk: it sits at the Al Mamsha end, a short walk away. Sofitel (#1) is on The Walk for €99 less."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Breakfast-included rates from €312."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beachfront overlooking the Arabian Gulf, water sports."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 outdoor pools incl. infinity pool and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room with land view and balcony, 2 singles + 1 extra-large double."
+     }
+    ]
+   },
+   "price": {
+    "main": "€273",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€273"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_le_royal_meridien&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-royal-meridien-beach-resort-spa-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#6-le-royal-meridien-beach-resort",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "beach",
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Biggest Rooms for the Money",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Amwaj Rotana, Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/07-amwaj-rotana-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Rotana",
+    "🏨 5★ beach hotel",
+    {
+     "url": "https://maps.google.com/?q=Amwaj+Rotana+Jumeirah+Beach+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 The Walk, JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_amwaj_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Famwaj-rotana-resort.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Amwaj Rotana, Jumeirah Beach"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.35",
+     "score": "4.3",
+     "meta": "4.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(4.4k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_amwaj_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Famwaj-rotana-resort.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, check-out until 12:00. Photo ID and a credit card are needed at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "452 ft² sea view",
+     "pop_html": "<strong>Cheapest room:</strong> Sea View Room with balcony, 42 m² (452 ft²), king bed and bathtub, with partial views of the sea and Palm Jumeirah."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool + slide",
+     "pop_html": "<strong>Kids and beds:</strong> Temperature-controlled kids' pool with a water slide; the Splashpad water park is a 5-minute walk. Cots free 0–3, extra beds AED 216."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "100 steps to the beach",
+     "pop_html": "<strong>Beach:</strong> Direct access to Jumeirah Beach, about 100 steps from the hotel, with The Beach and its water sports at the door."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚋",
+     "label": "Tram 3 min",
+     "pop_html": "<strong>Getting around:</strong> JBR 2 tram stop a 3-minute walk, Jumeirah Lakes Towers metro close by, and a free shuttle to the big malls."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "4 dining concepts",
+     "pop_html": "<strong>Dining:</strong> Italian, Japanese, American, British and international, including Benihana and Rosso, with live entertainment and theme nights."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Fun, family-friendly",
+     "pop_html": "<strong>Vibe:</strong> A sociable tower hotel on The Walk with happy hours, theme nights and the beach in front."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the most room per euro on JBR: a 452 ft² sea-view balcony room for €150, 100 steps from the beach, with a kids' pool and slide.",
+    "skip_html": "if a 9+ score matters: it rates 8.7, below Mövenpick (#2), which costs €14 less but is not on the beach."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out until 12:00."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Direct access to Jumeirah Beach, about 100 steps."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool; kids' pool with water slide."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Sea View Room with balcony, 42 m² (452 ft²), king or twin."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "JBR 2 tram a 3-minute walk; free shuttle to major malls; Reel Cinemas a 7-minute walk."
+     }
+    ]
+   },
+   "price": {
+    "main": "€150",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€150"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_amwaj_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Famwaj-rotana-resort.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Sea-view balcony room at the lowest rate</b>"
+    ],
+    "sublink": {
+     "url": "#7-amwaj-rotana-jumeirah-beach",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "beach",
+    "space",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best Suites",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DoubleTree by Hilton Dubai Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/08-doubletree-jbr-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Hilton",
+    "🏨 4★ all-suite hotel",
+    {
+     "url": "https://maps.google.com/?q=DoubleTree+by+Hilton+Dubai+Jumeirah+Beach",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 The Walk, JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_doubletree_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdoubletree-by-hilton.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "DoubleTree by Hilton Dubai Jumeirah Beach"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "1.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.4k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_doubletree_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdoubletree-by-hilton.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–00:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 until midnight, check-out until 12:00. A DoubleTree cookie on arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "835 ft² 1-bed suite",
+     "pop_html": "<strong>Cheapest unit:</strong> One-Bedroom Suite with city view: separate living room with sofa bed, double bed and balcony. The kitchen version is 922 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool · pets OK",
+     "pop_html": "<strong>Kids, access, pets:</strong> Kids' pool, free cots for 0–2, extra adult beds AED 150. Wheelchair accessible. Pets allowed on request, charges may apply."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach access",
+     "pop_html": "<strong>Beach:</strong> Private access to the beach with beach cabanas, plus a private pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity pool + spa",
+     "pop_html": "<strong>Pools and spa:</strong> Infinity and plunge pools, Areia pool bar, and a Wellness Spa with sauna, steam room and hot tub. 24-hour gym."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚋",
+     "label": "Tram 5 min",
+     "pop_html": "<strong>Getting around:</strong> JBR 2 tram a 5-minute walk; Ibn Battuta Mall and Mall of the Emirates about 10 minutes by car; both airports about 30 minutes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Apartment-style",
+     "pop_html": "<strong>Vibe:</strong> All suites with a living room and balcony, on The Walk by The Beach mall: for families who need a door between parents and kids."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or longer stays that want a one-bedroom suite with a living room and sofa bed on The Walk, 835 ft², for €232.",
+    "skip_html": "if two adults just need a room: the Sofitel (#1) is €58 cheaper and 5-star."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–00:00; check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Breakfast-included rates from €257 (2 adults)."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach access with cabanas."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Infinity pool, plunge pool, kids' pool, private pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "All suites; One-Bedroom Suite 835 ft² with living room and sofa bed."
+     }
+    ]
+   },
+   "price": {
+    "main": "€232",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€232"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_doubletree_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdoubletree-by-hilton.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#8-doubletree-jumeirah-beach",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "💶 #9 Best Budget",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/09-ramada-jbr-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/09-ramada-jbr-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Wyndham",
+    "🏨 4★ hotel &amp; suites",
+    {
+     "url": "https://maps.google.com/?q=Ramada+Hotel+Suites+by+Wyndham+Dubai+JBR",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 JBR strip, by Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_ramada_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Framada-hotel-and-suites-by-wyndham-dubai-jbr.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Ramada Hotel, Suites and Apartments by Wyndham Dubai JBR"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "5.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(5.5k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_ramada_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Framada-hotel-and-suites-by-wyndham-dubai-jbr.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in 15:00–15:30 as listed, check-out 12:00–12:30; tell the hotel your arrival time. Photo ID and a credit card needed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "484 ft² room",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Twin or King with city view, 484 ft², with coffee-making facilities, robes and slippers. One-bedroom suites with kitchenette are 1,076 ft² from €143."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "pop_html": "<strong>Kids and beds:</strong> Children of any age welcome, free cots for 0–2, extra beds AED 150 a night. Children 13+ pay as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥐",
+     "label": "Breakfast €25",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast is €25 extra, served at the all-day Flavors restaurant. Room service 24 hours."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated pool + spa",
+     "pop_html": "<strong>Pool and spa:</strong> Heated outdoor pool with pool bar, sun loungers, and a spa with hot tub, sauna and massage."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💳",
+     "label": "Cards only",
+     "pop_html": "<strong>Payment:</strong> Cash is not accepted. Rates exclude 5% VAT, a AED 15 tourism fee per night and a 7% municipality fee."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "No-frills, central",
+     "pop_html": "<strong>Vibe:</strong> A practical tower on the main JBR strip between The Walk and Dubai Marina with views of the Arabian Gulf."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the cheapest room on this list, €116 for 484 ft², or a 1,076 ft² one-bedroom suite with kitchenette from €143.",
+    "skip_html": "if you want a beach of your own: it has sun loungers and a pool, not a private beach. Amwaj Rotana (#7) is €34 more and on the beach."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–15:30 as listed; check-out 12:00–12:30."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€25 extra."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "No private beach; sun loungers at the pool."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Twin or King, 484 ft², city view; One-Bedroom Suite 1,076 ft² with kitchenette."
+     }
+    ]
+   },
+   "price": {
+    "main": "€116",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€116"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_ramada_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Framada-hotel-and-suites-by-wyndham-dubai-jbr.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it"
+    ],
+    "sublink": {
+     "url": "#9-ramada-by-wyndham-dubai-jbr",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "space",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏠 #10 Best Apartment",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Suha JBR"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-jbr-dubai/10-suha-jbr-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-jbr-dubai/10-suha-jbr-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Independent",
+    "🏨 5★ hotel apartments",
+    {
+     "url": "https://maps.google.com/?q=Suha+JBR+Hotel+Apartments+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Sadaf 3, overlooking The Walk"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_suha_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsuha-hotel-apartments.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Suha JBR"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "1.2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(1.2k+)",
+       "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_suha_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsuha-hotel-apartments.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–00:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 until midnight, check-out by 12:00. 24-hour front desk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "678 ft² 1-bed flat",
+     "pop_html": "<strong>Cheapest unit:</strong> Deluxe One-Bedroom Apartment, 678 ft², with private kitchen, living room, city and pool views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and beds:</strong> Children of any age welcome; cots and extra beds for babies free on request."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥐",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €143 rate is a members' price (free sign-in) and includes breakfast. Without signing in it costs more, and Mövenpick's €150 breakfast rate is then the cheaper breakfast deal."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Rooftop outdoor pool with sun loungers above The Walk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚶",
+     "label": "10 min to the beach",
+     "pop_html": "<strong>Location:</strong> About a 10-minute walk to the beach, under 5 minutes to Dubai Marina, overlooking the 1.7 km Walk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Self-catering",
+     "pop_html": "<strong>Vibe:</strong> An apartment hotel with daily housekeeping: your own kitchen and living room, with a hotel front desk downstairs."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples or small families who want a 678 ft² apartment with a kitchen and breakfast included, from €143 at the member price.",
+    "skip_html": "if you want a beach on the doorstep or a full-service hotel: it is a 10-minute walk to the sand and is under phased renovation."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00–00:00; check-out by 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €143 member rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "About a 10-minute walk."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Rooftop outdoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe One-Bedroom Apartment, 678 ft², private kitchen."
+     }
+    ]
+   },
+   "price": {
+    "main": "€143",
+    "sub": "from, per night, 2 adults, member price",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults, member price",
+      "price": "€143"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.jbr_hotels_dubai_suha_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsuha-hotel-apartments.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast</b> included",
+     "<b>Kitchen in every apartment</b>"
+    ],
+    "sublink": {
+     "url": "#10-suha-jbr",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

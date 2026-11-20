@@ -94,6 +94,23 @@ QUESTIONS = [
     ("What to bring", "What should I bring?"),
     ("Accessibility", "How accessible is it?"),
     ("Languages", "Which languages are offered?"),
+    # hotels
+    ("Check-in", "What are the check-in and check-out times?"),
+    ("Breakfast", "Is breakfast included?"),
+    ("Beach", "Does it have a beach?"),
+    ("Pools", "What pools are there?"),
+    ("Pool", "What is the pool like?"),
+    ("Rooms", "What are the rooms like?"),
+    ("Spa", "Is there a spa?"),
+    ("Kids' club", "Is there a kids' club?"),
+    ("Getting there", "How do I get there?"),
+    ("Airport", "How far is the airport?"),
+    ("Metro", "Is it near the metro?"),
+    ("Parking", "Is there parking?"),
+    ("Restaurants", "Where can I eat?"),
+    ("Dining", "Where can I eat?"),
+    ("Policies", "What are the house rules?"),
+    ("Pets", "Are pets allowed?"),
 ]
 QMAP = dict(QUESTIONS)
 QORDER = [k for k, _ in QUESTIONS]
@@ -176,7 +193,11 @@ def card(n, it, spec, live):
                   ["sizes", SIZES], ["src", LAZY], ["width", "800"]]
         photos.append(at)
     link = live["link"]
-    gyg = {"kind": "link", "site": "GetYourGuide", "score": f"{it['rating']:.1f}", "count": f"({compact(it['reviews'])})",
+    hotel = spec.get("partner") == "booking"
+    site = "Booking.com" if hotel else "GetYourGuide"
+    if hotel:
+        it["rating"] = round(float(it["rating10"]) / 2, 2)
+    gyg = {"kind": "link", "site": site, "score": f"{it['rating']:.1f}", "count": f"({compact(it['reviews'])})",
            "url": link, "rel": REL, "target": "_blank"}
     pills = []
     for p in it["pills"][:8]:
@@ -185,6 +206,8 @@ def card(n, it, spec, live):
                       "pop_html": f'<strong>{E(p["lead"])}</strong> {p["body"]}{note}'})
     rows = [{"label": "Starting price", "small": E(it.get("price_unit", "per person")), "price": money(it["price"])}]
     note = "The price depends on the date and the option you pick. Final price shown before you pay."
+    if hotel:
+        note = spec.get("price_note", "Lowest nightly rate on the booking page for the date in the guide. Dates, room type and board change it; the final price is shown before you pay.")
     if it.get("price_was") and float(it["price_was"]) > float(it["price"]):
         pct = round((1 - float(it["price"]) / float(it["price_was"])) * 100)
         rows.append({"label": "Price before the current discount", "small": f"−{pct}%", "price": f"<s>{money(it['price_was'])}</s>"})
@@ -193,12 +216,12 @@ def card(n, it, spec, live):
         "cats": it["cat"].split(),
         "gallery": {"rank": {"text": it["rank_tag"], "medal": it["rank_class"]}, "photos": photos,
                     "thumbs": [{"src": thumb(spec["slug"], s)} for s in it["photos"]]},
-        "kicker": [E(it["operator"]), f"⏱️ {E(it['duration'])}",
+        "kicker": [E(it["operator"]), f"{'🏨' if hotel else '⏱️'} {E(it['duration'])}",
                    {"url": "https://maps.google.com/?q=" + it["map_q"].replace(" ", "+"), "rel": "noopener noreferrer",
                     "target": "_blank", "onclick": "event.stopPropagation()", "map": f"📍 {E(it['place'])}"}],
         "title": {"url": link, "rel": REL, "target": "_blank", "text": E(it["title"])},
         "reviews": {"ratings": {"stars": f"{it['rating']:.2f}", "score": f"{it['rating']:.1f}",
-                                "meta": f"{compact(it['reviews'])} reviews · 1 site", "heading": "Rating on GetYourGuide",
+                                "meta": f"{compact(it['reviews'])} reviews · 1 site", "heading": f"Rating on {site}",
                                 "sites": [gyg]}},
         "pills": pills,
         "best_for": {"pick_html": it["pick"], "skip_html": it["skip"]},
@@ -206,7 +229,7 @@ def card(n, it, spec, live):
         "price": {"main": money(it["price"]), "sub": "from, " + E(it.get("price_unit", "per person")),
                   "_heading": "Price", "rows": rows, "note": note},
         "cta": {"btn": {"url": link, "rel": REL, "target": "_blank", "text": "Check Availability →"},
-                "via": "Booked securely via GetYourGuide",
+                "via": f"Booked securely via {site}",
                 "trust": [trust_line(t) for t in it.get("trust", [])],
                 "sublink": {"url": live["sublink"], "text": "Read Review ↓"}},
     }
@@ -260,7 +283,10 @@ def convert(slug):
     spec = json.loads((ROOT / "scripts" / "articles" / f"{slug}.json").read_text())
     t = page.read_text(encoding="utf-8")
     ref = REF.read_text(encoding="utf-8")
-    if "/css/listicle-cards.css" in t:
+    # New pages are built (build_article.py) in the already converted desert shell: head CSS and
+    # runtime scripts are in place, only the cards, filter box, UI strings and FAQ still need converting.
+    new_shell = "/css/listicle-cards.css" in t
+    if new_shell and '<span class="ltt-filter-label">Filters:</span>' not in t:
         sys.exit(f"  ! {slug} is already converted")
 
     live = live_cards(t)
@@ -276,25 +302,33 @@ def convert(slug):
             probs.append("photos differ")
         if lv["cat"] != it["cat"]:
             probs.append("cats differ")
-        if "mkt_cmp=true" not in lv["link"] or f"cmp={spec['cmp']}" not in lv["link"]:
+        if spec.get("partner") == "booking":
+            if "tp.media/r?" not in lv["link"] or "campaign_id=84" not in lv["link"]:
+                probs.append("link tags")
+        elif "mkt_cmp=true" not in lv["link"] or f"cmp={spec['cmp']}" not in lv["link"]:
             probs.append("link tags")
         if probs:
             sys.exit(f"  ! {slug} card {n}: " + "; ".join(probs))
 
-    data = {"format": 1, "icons": json.loads((ROOT / "data/listicles/best-desert-safaris-dubai--index.json").read_text())["icons"],
+    icons = json.loads((ROOT / "data/listicles/best-desert-safaris-dubai--index.json").read_text())["icons"]
+    if spec.get("partner") == "booking":
+        icons = {"Booking.com": json.loads((ROOT / "data/listicles/best-palm-jumeirah-hotels-dubai.json").read_text())["icons"]["Booking.com"]}
+    data = {"format": 1, "icons": icons,
             "cards": [card(n, it, spec, lv) for n, (it, lv) in enumerate(zip(spec["items"], live), 1)]}
     (ROOT / "data/listicles" / f"{slug}--index.json").write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n")
 
     # head CSS
-    a, b = block(t, "style", "bpa-lang-css"), block(t, "style", "bpa-card2-css")
-    if t[a.end():b.start()].strip():
-        sys.exit("  ! bpa-lang-css and bpa-card2-css not adjacent")
-    r1 = re.search(r'<link rel="stylesheet" href="/css/listicle-base.css[^>]*>', ref).group(0)
-    r2 = re.search(r'<link rel="stylesheet" href="/css/listicle-cards.css[^>]*>', ref).group(0)
-    t = t[:a.start()] + r1 + "\n" + r2 + block(ref, "style", "cd-trust-css").group(0) + t[b.end():]
+    if not new_shell:
+        a, b = block(t, "style", "bpa-lang-css"), block(t, "style", "bpa-card2-css")
+        if t[a.end():b.start()].strip():
+            sys.exit("  ! bpa-lang-css and bpa-card2-css not adjacent")
+        r1 = re.search(r'<link rel="stylesheet" href="/css/listicle-base.css[^>]*>', ref).group(0)
+        r2 = re.search(r'<link rel="stylesheet" href="/css/listicle-cards.css[^>]*>', ref).group(0)
+        t = t[:a.start()] + r1 + "\n" + r2 + block(ref, "style", "cd-trust-css").group(0) + t[b.end():]
 
     # filters
-    box, mini = filter_box(spec, ROWS[slug])
+    rows = ROWS.get(slug) or [(r["label"], r["cats"]) for r in spec["filter_rows"]]
+    box, mini = filter_box(spec, rows)
     m = re.search(r'<div class="ltt-integrated-filter-bar">\n<span class="ltt-filter-label">Filters:</span>\n'
                   r'<div class="ltt-integrated-pills">.*?</div>\n</div>', t, re.S)
     t = t[:m.start()] + box + t[m.end():]
@@ -304,18 +338,27 @@ def convert(slug):
     t = t.replace('<div class="bpa-deck-wrap" id="ltt-cards-deck">', '<div class="bpa-deck-wrap" id="ltt-cards-deck">\n' + mini + "\n", 1)
 
     # sticky trust
-    t = t.replace('<span class="hybrid-active-trust">🛡️ Free 24h Cancel</span>',
-                  '<span class="hybrid-active-trust" id="sticky-trust">Free cancellation</span>', 1)
+    sticky = f'<span class="hybrid-active-trust" id="sticky-trust">{E(spec.get("sticky_trust", "Free cancellation"))}</span>'
+    if new_shell:
+        t = re.sub(r'<span class="hybrid-active-trust" id="sticky-trust">.*?</span>', lambda _: sticky, t, count=1)
+    else:
+        t = t.replace('<span class="hybrid-active-trust">🛡️ Free 24h Cancel</span>', sticky, 1)
 
     # scripts
-    js = block(t, "script", "bpa-lang-js")
     ui = {"showing": f"Showing <b>{{shown}}</b> of {{total}} {spec['things'].lower()}",
           "mini_count": f"<b>{{shown}}</b> of {{total}} {spec['things'].lower()}",
           "breakdown_filtered": f"Showing {{shown}} of {{total}} {spec['things'].lower()} matching your filters"}
-    tags = re.search(r'<script src="/js/listicle-lang.js.*?<script src="/js/listicle-peek.js[^>]*></script>', ref, re.S).group(0)
-    helpers = "".join(block(ref, "script", i).group(0) for i in ("pdd-hover-js", "cd-sticky-trust-js", "ltt-sticky-price-js"))
-    t = (t[:js.start()] + '<script type="application/json" id="listicle-ui">' + json.dumps(ui, ensure_ascii=False)
-         + "</script>" + tags + helpers + t[js.end():])
+    ui_tag = '<script type="application/json" id="listicle-ui">' + json.dumps(ui, ensure_ascii=False) + "</script>"
+    if new_shell:
+        t, n = re.subn(r'<script (?:type="application/json" id="listicle-ui"|id="listicle-ui" type="application/json")>.*?</script>',
+                       lambda _: ui_tag, t, count=1, flags=re.S)
+        if n != 1:
+            sys.exit(f"  ! {slug}: listicle-ui strings not found")
+    else:
+        js = block(t, "script", "bpa-lang-js")
+        tags = re.search(r'<script src="/js/listicle-lang.js.*?<script src="/js/listicle-peek.js[^>]*></script>', ref, re.S).group(0)
+        helpers = "".join(block(ref, "script", i).group(0) for i in ("pdd-hover-js", "cd-sticky-trust-js", "ltt-sticky-price-js"))
+        t = t[:js.start()] + ui_tag + tags + helpers + t[js.end():]
 
     # JSON-LD: card questions join the page FAQ
     m = block(t, "script", "ltt-schema-jsonld")

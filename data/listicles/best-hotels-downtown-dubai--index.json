@@ -1,0 +1,5186 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "luxury"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Kempinski The Boulevard Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/01-kempinski-boulevard-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Kempinski",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Kempinski+The+Boulevard+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Mohammed Bin Rashid Boulevard"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_kempinski_boulevard&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fkempinski-the-boulevard-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Kempinski The Boulevard Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "4.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(4.9k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_kempinski_boulevard&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fkempinski-the-boulevard-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. Photo ID and a credit card are needed at check-in, and the hotel asks you to tell it your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "47 m² with balcony",
+     "pop_html": "<strong>Cheapest room:</strong> The €459 Deluxe King (or twin) is 506 ft², about 47 m², with a balcony and a bath. The Grand Premier Burj View twin is 581 ft² (54 m²) from €546."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids welcome · cots free",
+     "pop_html": "<strong>Families:</strong> Children of any age are welcome; from 13 they are charged as adults. Cots for 0–2 year olds are free on request. Family rooms and interconnecting rooms are available, and the hotel lists accessible valet parking."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "2 outdoor pools",
+     "pop_html": "<strong>Pools:</strong> Two outdoor pools open all year, one of them on the roof with loungers, plus a sun terrace."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Spa, sauna, steam",
+     "pop_html": "<strong>Wellness:</strong> A paid spa and wellness centre with sauna and steam room, and a fitness centre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥐",
+     "label": "French brasserie",
+     "pop_html": "<strong>Dining:</strong> La Brasserie Sur Le Boulevard (French, breakfast to dinner) and the Lobby Lounge with high tea, both with halal options. Breakfast-included rates are sold for this date."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Grand-hotel style",
+     "pop_html": "<strong>Vibe:</strong> Chandeliered lobby and a French brasserie, on the Boulevard close to Burj Khalifa and Dubai Mall. Pick it for couples who want the highest score in Downtown."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the best-reviewed hotel in Downtown (9.4) with a balcony room, two pools and a 9.7 location score, and can spend about €460 a night.",
+    "skip_html": "if you want to look straight at the fountain from bed: Palace Downtown (#3) and Address Dubai Mall (#5) sell fountain-view rooms."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; photo ID and credit card at check-in."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental buffet with local specialities; breakfast-included rates available."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 outdoor pools, open all year, one on the roof."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King or twin, 506 ft² (47 m²) with balcony; Burj View twin 581 ft² from €546."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Paid spa and wellness centre, sauna, steam room, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€459",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€459"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_kempinski_boulevard&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fkempinski-the-boulevard-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#1-kempinski-the-boulevard",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/02-hotel-boulevard-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Autograph Collection",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Hotel+Boulevard+Autograph+Collection+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Old Town, Mohammed Bin Rashid Boulevard"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_hotel_boulevard&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhotel-boulevard-autograph-collection.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Hotel Boulevard, Autograph Collection, Downtown Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "3.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(3.7k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_hotel_boulevard&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhotel-boulevard-autograph-collection.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–00:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> Check-in runs from 15:00 to midnight, check-out until 12:00. Photo ID and a credit card are needed, and the hotel wants your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "32 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> The €222 Deluxe King or Twin is 344 ft², about 32 m², with a minibar. Every room at the hotel has a balcony with city or pool views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "No cots or extra beds",
+     "pop_html": "<strong>Families:</strong> Children of any age are welcome, but from 12 they pay as adults and the hotel has no cots or extra beds. Best for couples or two friends."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €31",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast costs €31 on the cheapest rate; breakfast-included rates start at €249 a night."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Outdoor pool",
+     "pop_html": "<strong>Pool:</strong> An outdoor pool with sun terrace and loungers, plus a fitness room. There is no spa here."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐕",
+     "label": "Pets allowed",
+     "pop_html": "<strong>Pets:</strong> The only hotel of the 10 that accepts pets (charges may apply). Bicycle rental is offered too."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎨",
+     "label": "Boutique, arty",
+     "pop_html": "<strong>Vibe:</strong> A smaller 4★ in the Old Town part of the Boulevard, every room with a balcony. Two restaurants: Canvas (Middle Eastern) and Collage (international)."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a 9.3-rated hotel with a 9.7 location score for €222, about half the price of the Boulevard 5-stars.",
+    "skip_html": "if you travel with a baby or a third person: there are no cots or extra beds."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00 to 00:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€31 per stay on the cheapest rate; included on rates from €249."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool with sun terrace."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King or Twin, 344 ft² (32 m²); every room has a balcony."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "Dubai International is 14 km away; airport shuttle offered."
+     }
+    ]
+   },
+   "price": {
+    "main": "€222",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€222"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_hotel_boulevard&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhotel-boulevard-autograph-collection.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#2-hotel-boulevard-autograph-collection",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "luxury"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best Fountain Views",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Palace Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/03-palace-downtown-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/03-palace-downtown-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Palace",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Palace+Downtown+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Burj Lake, by Souk Al Bahar"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_palace_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-palace-the-old-town.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Palace Downtown"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "3.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(3.4k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_palace_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-palace-the-old-town.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. Photo ID and a credit card are needed at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Lake View Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> The €436 Deluxe Lake View room has Arabian décor and an in-room iPad. The Deluxe Fountain View room (549 ft², 51 m²) starts at €576; a 70 m² Junior Suite with balcony from €579."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots, no extra beds",
+     "pop_html": "<strong>Families:</strong> Children of any age welcome, cots free for 0–3 year olds, but no extra beds. The Palace Suites add a free bed for under-12s."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛲",
+     "label": "Fountain on the doorstep",
+     "pop_html": "<strong>Position:</strong> The hotel overlooks the Dubai Fountain and the lake around Burj Khalifa, a 5-minute walk from Dubai Mall and Souk Al Bahar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧖",
+     "label": "Hammam spa",
+     "pop_html": "<strong>Wellness:</strong> Arabian-style spa with hammam, monsoon showers, hot tub and steam rooms, plus a gym with a personal trainer."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "6 restaurants",
+     "pop_html": "<strong>Dining:</strong> Six venues, from Thiptara (Thai, romantic) to Ewaan (Middle Eastern buffet, breakfast to dinner) and high tea at Al Bayt."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Arabian palace",
+     "pop_html": "<strong>Vibe:</strong> Built as a traditional Arabian palace, with a palm-fringed pool and Arabian décor in every room, overlooking the fountain and Burj Lake."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a special-occasion stay where the Dubai Fountain is the view: book the Fountain View room (from €576) and you watch the shows from your room.",
+    "skip_html": "if value matters: its 8.4 value score is among the lowest here, and the cheapest €436 room faces the lake, not the fountain."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Rated very good (continental, Asian, American); served at Ewaan."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Palm-fringed outdoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Lake View from €436; Fountain View Deluxe 549 ft² (51 m²) from €576."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Arabian spa with hammam, hot tub, sauna and steam rooms."
+     }
+    ]
+   },
+   "price": {
+    "main": "€436",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€436"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_palace_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-palace-the-old-town.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#3-palace-downtown",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "apartment",
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Wyndham Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/04-wyndham-downtown-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Wyndham",
+    "🏨 5★ suite hotel",
+    {
+     "url": "https://maps.google.com/?q=Wyndham+Downtown+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Next to Dubai Opera"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_wyndham_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Framada-downtown-burj-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Wyndham Downtown Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(9k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_wyndham_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Framada-downtown-burj-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. No minimum check-in age. Cards only (no cash), and an AED 300 (about €74) cash damage deposit is taken on arrival and refunded at check-out."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "75 m² 1-bed suite",
+     "pop_html": "<strong>Cheapest room:</strong> The €139 rate is a One-Bedroom King Suite with balcony and Boulevard view, 807 ft² (75 m²), with a full kitchen, dishwasher and a hot tub. A Family Twin version has 2 single beds."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool + play areas",
+     "pop_html": "<strong>Families:</strong> Kids' pool, indoor and outdoor play areas, interconnecting rooms and free cots for 0–2s; extra beds AED 150 a night from age 3. Wheelchair-accessible rooms with grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Free mall, metro, beach shuttle",
+     "pop_html": "<strong>Transfers:</strong> Free shuttle to Dubai Mall, the metro and Jumeirah Beach Park. On foot it is a 10-minute walk to Dubai Mall and Souk Al Bahar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "25% off food &amp; drink",
+     "pop_html": "<strong>Meals:</strong> The €139 suite rate includes 25% off food and drink. Breakfast-included rates start at €231; half and full board are sold too."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated pool, gym, steam",
+     "pop_html": "<strong>Facilities:</strong> Temperature-controlled outdoor pool, gym, steam room, massage and a badminton court."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Apartment-style",
+     "pop_html": "<strong>Vibe:</strong> 181 suites from 60 m² with kitchens and laundry. Overlooks Burj Khalifa and the fountain from the Opera end of the Boulevard."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or longer stays: €139 buys a 75 m² one-bedroom suite with a kitchen, a kids' pool and a free shuttle to Dubai Mall and the beach.",
+    "skip_html": "if you want to walk out of the lobby into Dubai Mall: it is a 10-minute walk, or take the shuttle."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; no minimum age."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not in the €139 rate (25% off food and drink); included on rates from €231."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Temperature-controlled outdoor pool and kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One-Bedroom King Suite, 807 ft² (75 m²), kitchen, balcony, Boulevard view."
+     },
+     {
+      "q": "Is there a kids' club?",
+      "a": "No kids' club listed; indoor and outdoor children's play areas."
+     }
+    ]
+   },
+   "price": {
+    "main": "€139",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€139"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_wyndham_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Framada-downtown-burj-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#4-wyndham-downtown-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "luxury",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best for Dubai Mall",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Dubai Mall"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/05-address-dubai-mall-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Address Hotels",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Address+Dubai+Mall",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Linked to Dubai Mall"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_address_dubai_mall&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-fountain-views.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Address Dubai Mall"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "2.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(2.3k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_address_dubai_mall&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-fountain-views.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. Photo ID and a credit card at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "50 m² high floor",
+     "pop_html": "<strong>Cheapest room:</strong> The €412 Deluxe City Skyline View room is 538 ft² (50 m²) on a high floor. The Deluxe Burj Khalifa and Fountain View room with balcony is next up; Club rooms add a lounge serving lunch, afternoon tea and dinner."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool, free cots",
+     "pop_html": "<strong>Families:</strong> Children of any age welcome, free cots for 0–3s, a kids' pool and a children's playroom. Adult extra beds cost AED 350 a night."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌉",
+     "label": "Bridge into Dubai Mall",
+     "pop_html": "<strong>Position:</strong> A link bridge connects the hotel directly into Dubai Mall; Souk Al Bahar is walkable and Burj Khalifa is listed 2 km away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "3 pools",
+     "pop_html": "<strong>Pools:</strong> Three outdoor pools including a kids' pool, plus sauna, steam room and spa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥐",
+     "label": "4 restaurants",
+     "pop_html": "<strong>Dining:</strong> The Restaurant (international, breakfast to dinner), The Pâtisserie, The Café and The Pool Lounge. Continental breakfast every morning."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Shop-and-stay",
+     "pop_html": "<strong>Vibe:</strong> Polished high-rise for people who will spend half the trip in Dubai Mall and want to drop bags in the room between shops."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for shoppers and families who want to walk from the room into Dubai Mall without crossing a road, with three pools to come back to.",
+    "skip_html": "if value for money matters: it scores 8.3, the lowest of the 10, and Wyndham (#4) or DAMAC (#7) cost about a third as much."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental breakfast each morning."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 outdoor pools incl. kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe City Skyline View, 538 ft² (50 m²), high floor."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Link bridge directly into Dubai Mall; Souk Al Bahar walkable."
+     }
+    ]
+   },
+   "price": {
+    "main": "€412",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€412"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_address_dubai_mall&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-fountain-views.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#5-address-dubai-mall",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "luxury",
+    "metro"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Rooftop Pool",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Sky View, Downtown Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/06-address-sky-view-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/06-address-sky-view-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Address Hotels",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Address+Sky+View+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Mohammed Bin Rashid Boulevard"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_address_sky_view&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-sky-view.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Address Sky View, Downtown Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "2.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(2.9k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_address_sky_view&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-sky-view.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. Photo ID and a credit card at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "63 m² Premier",
+     "pop_html": "<strong>Cheapest room:</strong> The €456 Premier Room is 678 ft² (63 m²) with skyline views and access to the Level 54 infinity pool. The Burj Khalifa View version (700 ft², 65 m²) adds a balcony and dressing area."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; play area",
+     "pop_html": "<strong>Families:</strong> Children of any age welcome, free cots for 0–3s, an indoor play area and a pool with a shallow end. No extra beds."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Level 54 infinity pool",
+     "pop_html": "<strong>Pools:</strong> Two pools: an outdoor pool and the rooftop infinity pool on level 54, included with these Premier rooms."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €41",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast is €41 on rates that do not include it; continental, American, Asian, vegan, halal and gluten-free options."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍸",
+     "label": "6 venues incl. CÉ LA VI",
+     "pop_html": "<strong>Dining:</strong> Six restaurants and bars, including CÉ LA VI (Asian, cocktails) and Amelia (Japanese-Peruvian). Free bicycles, spa, sauna and steam room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌃",
+     "label": "Sky-high, social",
+     "pop_html": "<strong>Vibe:</strong> Rooftop bars, a level 54 pool and big skyline views from a glass tower. Listed with metro access."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the infinity-pool-over-Burj-Khalifa photo and big 63 m² rooms, with rooftop dining and bars in the same building.",
+    "skip_html": "if you want breakfast in the price: it is €41 extra, and guests score value for money 8.7."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€41 on room-only rates; breakfast-included rates available."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Outdoor pool plus the Level 54 rooftop infinity pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Premier Room, 678 ft² (63 m²), city view; Burj Khalifa View 700 ft² with balcony."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, massage, sauna, steam room, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€456",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€456"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_address_sky_view&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-sky-view.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#6-address-sky-view",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "apartment",
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Budget Apartment",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "DAMAC Maison Mall Street"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/07-damac-mall-street-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/07-damac-mall-street-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "DAMAC Maison",
+    "🏨 5★ hotel apartments",
+    {
+     "url": "https://maps.google.com/?q=DAMAC+Maison+Mall+Street+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Mohammed Bin Rashid Boulevard"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_damac_mall_street&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdamac-maison-the-summit.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "DAMAC Maison Mall Street"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "4.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(4.4k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_damac_mall_street&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdamac-maison-the-summit.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–23:30 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> Check-in 15:00 to 23:30, check-out 06:00 to 12:00. An AED 1,000 (about €247) damage deposit goes on your credit card on arrival and is refunded after inspection."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "70 m² with kitchenette",
+     "pop_html": "<strong>Cheapest room:</strong> The €137 City View Deluxe King is 753 ft² (70 m²) with a kitchenette, balcony and pool and city views. One-bedroom suites (77 m²) from €204, two-bedroom (130 m²) from €344."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool, free cots",
+     "pop_html": "<strong>Families:</strong> Children of any age welcome, free cots up to age 3, extra beds AED 180 a night. Two- and three-bedroom units suit bigger families."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌇",
+     "label": "Burj or fountain balconies",
+     "pop_html": "<strong>Views:</strong> Every apartment has a balcony overlooking Burj Khalifa, the city or the Dubai Fountain, depending on the unit."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "2 pools + spa",
+     "pop_html": "<strong>Facilities:</strong> Outdoor pool and kids' pool, gym, hot tub and sauna; massages cost extra. Mocktails at the bar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☕",
+     "label": "Maison Cafe",
+     "pop_html": "<strong>Dining:</strong> Maison Cafe and Maison Lounge (international), continental breakfast, room service."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏢",
+     "label": "Self-catering",
+     "pop_html": "<strong>Vibe:</strong> A serviced-apartment tower on the Boulevard: hotel front desk and pool, home-style space. Location score 9.7."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the cheapest bed on the Boulevard itself: €137 for a 70 m² unit with a kitchenette and balcony, rated 9.0 with a 9.7 location score.",
+    "skip_html": "if you dislike deposits: AED 1,000 (about €247) is blocked on your card at check-in."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00 to 23:30, check-out 06:00 to 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental breakfast available."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Outdoor pool and kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "City View Deluxe King, 753 ft² (70 m²), kitchenette, balcony."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, hot tub, sauna; massages at extra cost."
+     }
+    ]
+   },
+   "price": {
+    "main": "€137",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€137"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_damac_mall_street&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fdamac-maison-the-summit.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#7-damac-maison-mall-street",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "luxury"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best for Dining & Nightlife",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "The Dubai EDITION"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/08-dubai-edition-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/08-dubai-edition-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "EDITION",
+    "🏨 5★ design hotel",
+    {
+     "url": "https://maps.google.com/?q=The+Dubai+EDITION",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_dubai_edition&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-downtown-dubai-edition.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "The Dubai EDITION"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "2.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(2.5k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_dubai_edition&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-downtown-dubai-edition.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. Photo ID and a credit card at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "42 m² with balcony",
+     "pop_html": "<strong>Cheapest room:</strong> The €324 Guest King Room with Balcony is 452 ft² (42 m²), soundproofed, with city views and a walk-in shower. Also sold with two queen beds."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Accessible rooms",
+     "pop_html": "<strong>Access &amp; kids:</strong> Wheelchair accessible with grab rails and raised toilets. Free cots for 0–2s; extra beds from age 12 cost AED 280 a night."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Outdoor rooftop pool with skyline views; spa with steam room, sauna and massage."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍝",
+     "label": "5 restaurants",
+     "pop_html": "<strong>Dining:</strong> Duomo (Italian), Ken by Kamatsuda (Japanese), Masti (Indian), Hush by Blackstar (dinner and cocktails) and Thia Skylounge for brunch. Live music."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €30",
+     "pop_html": "<strong>Breakfast:</strong> €30 on room-only rates; breakfast-included rates from €362."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🖤",
+     "label": "Design-led",
+     "pop_html": "<strong>Vibe:</strong> Spiral staircase and plants in the lobby, a rooftop pool and Thia Skylounge, with live music at dinner: built around eating and drinking out."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a design hotel with five restaurants and a rooftop pool at €324, about €130 less than the Boulevard icons.",
+    "skip_html": "if you need flexibility at the lowest price: the €324 rate shows no free cancellation; flexible rates start at €372."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€30 on room-only rates; included on rates from €362."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor rooftop pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Guest King with Balcony, 452 ft² (42 m²), city view, soundproofed."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, steam room, sauna, massage, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€324",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€324"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_dubai_edition&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-downtown-dubai-edition.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#8-the-dubai-edition",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "luxury",
+    "budget",
+    "metro"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best by the Metro",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sofitel Dubai Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/09-sofitel-downtown-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Sofitel",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Sofitel+Dubai+Downtown",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Sheikh Zayed Road, by Burj Khalifa metro"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_sofitel_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-downtown.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Sofitel Dubai Downtown"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "3.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(3.5k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_sofitel_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-downtown.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. Photo ID and a credit card at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Luxury King",
+     "pop_html": "<strong>Cheapest room:</strong> The €244 Luxury King (high floor) or Luxury Twin has a walk-in shower plus bath, soundproof walls, bathrobes and a minibar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "All rooms accessible",
+     "pop_html": "<strong>Access &amp; kids:</strong> All units are listed as wheelchair accessible. Free cots for 0–3s; extra beds AED 200 a night; children 12+ charged as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Beside the metro",
+     "pop_html": "<strong>Position:</strong> On Sheikh Zayed Road beside Burj Khalifa metro station, a short walk to Dubai Mall and about 10 minutes to Burj Khalifa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "5th-floor pool terrace",
+     "pop_html": "<strong>Pool:</strong> Outdoor pool on the 5th floor with lawn, poolside bar and loungers facing the Downtown towers. Spa with sauna and massage."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €25",
+     "pop_html": "<strong>Breakfast:</strong> €25 on room-only rates, the cheapest hotel breakfast here; breakfast-included rates from €271."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥖",
+     "label": "French, business-smart",
+     "pop_html": "<strong>Vibe:</strong> French cuisine at L'Apero, La Patisserie for pastries, a ballroom and meeting rooms. Polished and practical."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers using the metro: a 5-star beside Burj Khalifa metro station for €244, with the cheapest breakfast of the 10 (€25).",
+    "skip_html": "if you want to be on the Boulevard with fountain views: it is on the Sheikh Zayed Road edge of Downtown."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€25 on room-only rates; included on rates from €271."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "5th-floor outdoor pool terrace with poolside bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Luxury King or Twin with walk-in shower and bath."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa, sauna, massage, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€244",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€244"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_sofitel_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsofitel-dubai-downtown.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#9-sofitel-dubai-downtown",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "budget",
+    "metro",
+    "apartment"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Cheapest Near Downtown",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Leva Hotel and Suites, Opposite Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-downtown-dubai/10-leva-downtown-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-downtown-dubai/10-leva-downtown-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Leva Hotels",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Leva+Hotel+and+Suites+Opposite+Downtown+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Sheikh Zayed Road, facing Downtown"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_leva_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fleva-apartments.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Leva Hotel and Suites, Opposite Downtown"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "6.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(6.4k+)",
+       "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_leva_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fleva-apartments.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "pop_html": "<strong>Check-in:</strong> From 15:00, check-out until 12:00. Photo ID and a credit card at check-in; minimum age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "36 m² with kitchenette",
+     "pop_html": "<strong>Cheapest room:</strong> The €95 Deluxe King or Twin is 388 ft² (36 m²) with a kitchenette. A Burj Khalifa King Studio of the same size is €113."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Accessible rooms",
+     "pop_html": "<strong>Access &amp; kids:</strong> Deluxe Accessible rooms, grab rails and Braille visual aids. Cots: the policy lists both free cots for 0–3 and \"no cots available\", so ask before booking; extra beds from age 12 cost AED 250 a night."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "5 min to the metro",
+     "pop_html": "<strong>Getting around:</strong> 5 minutes' walk to Dubai Mall/Burj Khalifa metro station, 7 minutes to Business Bay station, 1 km to Dubai Mall and Burj Khalifa, 1.5 km to City Walk."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Heated rooftop pool with shallow end and pool bar; spa with sauna, steam room and massage."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥐",
+     "label": "Sven&#x27;s Bakers Kitchen",
+     "pop_html": "<strong>Dining:</strong> One all-day restaurant in the lobby, Sven's Bakers Kitchen; continental and American breakfast."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💼",
+     "label": "Smart budget",
+     "pop_html": "<strong>Vibe:</strong> 178 contemporary rooms and suites across Sheikh Zayed Road from Downtown. Staff speak English, German, French, Arabic, Hindi and Tagalog."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the lowest price near Burj Khalifa: €95 for a 9.0-rated room with a kitchenette, 5 minutes' walk from the metro and 1 km from Dubai Mall.",
+    "skip_html": "if you want to walk out onto the Boulevard: Leva is across Sheikh Zayed Road (address Al Wasl / City Walk), not in Downtown itself."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Continental and American."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King or Twin, 388 ft² (36 m²), kitchenette."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "1 km to Dubai Mall and Burj Khalifa; 1.5 km to City Walk."
+     }
+    ]
+   },
+   "price": {
+    "main": "€95",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€95"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.downtown_hotels_dubai_leva_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fleva-apartments.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it"
+    ],
+    "sublink": {
+     "url": "#10-leva-hotel-and-suites",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

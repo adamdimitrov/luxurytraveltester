@@ -1,0 +1,5190 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "beach",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/01-banyan-tree-bluewaters-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Banyan Tree",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Banyan+Tree+Dubai+at+Bluewaters",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Bluewaters Island, facing JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_banyan_tree_bluewaters&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbanyan-tree-dubai-at-bluewaters.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Banyan Tree Dubai at Bluewaters"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.75",
+     "score": "4.8",
+     "meta": "1.1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.8",
+       "count": "(1.1k+)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_banyan_tree_bluewaters&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbanyan-tree-dubai-at-bluewaters.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are asked for at check-in, and the resort wants your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "54 m² Bliss room",
+     "pop_html": "<strong>Cheapest room:</strong> The Bliss room is 581 ft² (about 54 m²) with a king bed, a balcony, a bath plus separate shower, a minibar, a coffee machine and yukata robes, and fruit is laid out for guests."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids pay as adults 7+",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome, but from age 7 they are charged as adults; extra beds for 7+ are free. Minimum check-in age 18. Wheelchair accessible, with an emergency cord in the bathroom."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "500 m private beach",
+     "pop_html": "<strong>Beach:</strong> 500 metres of private beachfront on the Gulf side of Bluewaters, with Ain Dubai behind you and JBR and Dubai Marina across the water. Marina Beach is 1.4 km away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €570 rate already includes breakfast, with free cancellation and nothing to pay upfront. Half board (breakfast and dinner) starts at €657."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🥢",
+     "label": "Demon Duck, Alizée",
+     "pop_html": "<strong>Dining:</strong> Demon Duck by Alvin Leung (Chinese), French Alizée and all-day Tocha, plus the Banyan Tree Spa with sauna and steam room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌿",
+     "label": "Calm island resort",
+     "pop_html": "<strong>The vibe:</strong> Asian-styled, low-key and close to the city: guests score it 9.6 for location, facilities and cleanliness and 9.7 for comfort."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a beach resort with the joint-highest score of the ten (9.5), breakfast included at €570 and JBR a short hop away.",
+    "skip_html": "if you travel with kids: children pay as adults from 7 and there is no kids' club in the listing, so Four Seasons (#4) or Jumeirah Beach Hotel (#9) fit better."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. Photo ID and credit card at check-in."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €570 rate; breakfast and dinner from €657."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "500 m private beachfront on Bluewaters Island."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool with shallow end."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Bliss room 581 ft² (about 54 m²), king bed, balcony, bath and shower."
+     }
+    ]
+   },
+   "price": {
+    "main": "€570",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€570"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_banyan_tree_bluewaters&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbanyan-tree-dubai-at-bluewaters.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#1-banyan-tree-bluewaters",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "beach",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Most Iconic",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis The Royal"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/02-atlantis-the-royal-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Atlantis",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Atlantis+The+Royal+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm Jumeirah crescent"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_atlantis_the_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Atlantis The Royal"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "5.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(5.6k+)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_atlantis_the_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Cash is not accepted, so bring a card."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "55 m², balcony",
+     "pop_html": "<strong>Cheapest room:</strong> The Seascape King Room is 592 ft² (about 55 m²) with a balcony over the Arabian Sea and a bath. Every standard room on the rate list is the same size, sea or Palm view."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Check-in age 21",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome and cots for 0–3 are free, but there are no extra beds at all and the minimum check-in age is 21, the strictest rule on this page alongside One&amp;Only (#8)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "16 restaurants",
+     "pop_html": "<strong>Dining:</strong> 16 restaurants and bars, 7 of them run by celebrity chefs and 1 with a Michelin star: Dinner by Heston Blumenthal, Nobu by the Beach, Estiatorio Milos, La Mar, Ling Ling and CARBONE among them."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Sky pool + beach",
+     "pop_html": "<strong>Pools and beach:</strong> A rooftop sky pool, infinity and plunge pools, a private beach and beach clubs. Signature Penthouses add private pools."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "Next to Aquaventure",
+     "pop_html": "<strong>Next door:</strong> Right beside Atlantis, The Palm and Aquaventure World, with the Skyblaze fountain show and nightclubs on site."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Big, glossy, buzzing",
+     "pop_html": "<strong>The vibe:</strong> Dubai's statement resort of the moment: 9.6 for cleanliness and comfort, 9.5 for facilities, but only 8.7 for value for money."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and groups of adults who want Dubai's showpiece resort: a sky pool, a private beach and 16 restaurants, with breakfast in the €746 rate.",
+    "skip_html": "if you have teenagers who need an extra bed (none available), or you want a quiet resort: Banyan Tree (#1) is €176 cheaper and calmer."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; cash not accepted."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €746 rate; breakfast and dinner from €898."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach and beach clubs."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 pools: rooftop sky pool, infinity and plunge pools."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Seascape King Room 592 ft² (about 55 m²), balcony, bath."
+     }
+    ]
+   },
+   "price": {
+    "main": "€746",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€746"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_atlantis_the_royal&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-royal-atlantis.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#2-atlantis-the-royal",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "city",
+    "couples",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best City Hotel",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Waldorf Astoria Dubai International Financial Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/03-waldorf-astoria-difc-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Waldorf Astoria",
+    "🏨 5★ city hotel",
+    {
+     "url": "https://maps.google.com/?q=Waldorf+Astoria+Dubai+International+Financial+Centre",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 DIFC, Trade Centre"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_waldorf_astoria_difc&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-international-financial-centre.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Waldorf Astoria Dubai International Financial Centre"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.75",
+     "score": "4.8",
+     "meta": "780 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.8",
+       "count": "(780)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_waldorf_astoria_difc&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-international-financial-centre.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are needed, and the hotel asks for your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "49 m² Deluxe King",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe King Room with City View, 527 ft² (49 m²), with its own entrance area and walnut accents. A mobility-accessible Deluxe Queen is 570 ft² (53 m²) at the same price."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Teens stay as kids",
+     "pop_html": "<strong>Kids and access:</strong> Children only pay as adults from 18. Cots are free for 0–2, extra beds AED 200 a night from age 3. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "1 metro stop to Burj",
+     "pop_html": "<strong>Location:</strong> One metro stop from Dubai Mall, Burj Khalifa and Downtown. Dubai Mall is 2.3 km by road and Dubai International Airport 11 km."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Heated rooftop pool with pool bar and the St. Trop lounge, with whirlpool, timber decking and skyline views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast from €483",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast-included rates start at €483, with free cancellation and pay at the property, €53 above the room-only €430."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎻",
+     "label": "Polished and quiet",
+     "pop_html": "<strong>The vibe:</strong> Bull and Bear steakhouse, the Cigar Lounge and Peacock Alley with piano and cello. Guests give 9.8 for staff, cleanliness and comfort, the top marks on this page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and business travellers who want the best-reviewed city hotel on this page, one metro stop from Burj Khalifa, for €430.",
+    "skip_html": "if you want a beach: there is none, and the rooftop pool is the only water. Banyan Tree (#1) or Le Royal Meridien (#10) are the beach picks."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not in the €430 rate; included on rates from €483 with free cancellation."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "No beach."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King City View 527 ft² (49 m²); mobility-accessible Deluxe Queen 570 ft²."
+     }
+    ]
+   },
+   "price": {
+    "main": "€430",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€430"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_waldorf_astoria_difc&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fwaldorf-astoria-dubai-international-financial-centre.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#3-waldorf-astoria-difc",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "beach",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Biggest Rooms on the Beach",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/04-four-seasons-jumeirah-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Four Seasons",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Four+Seasons+Resort+Dubai+at+Jumeirah+Beach",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jumeirah Beach Road, Jumeirah"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_four_seasons_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffour-seasons-resort-dubai-at-jumeirah-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Four Seasons Resort Dubai at Jumeirah Beach"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "945 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(945)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_four_seasons_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffour-seasons-resort-dubai-at-jumeirah-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. There is no minimum check-in age."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "70 m², balcony",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe City View Room with King Bed, 753 ft² (70 m²), with a balcony, a 55-inch TV and a bathroom with a deep soaking tub, rain shower and a mirror with built-in TV."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free extra beds 3–17",
+     "pop_html": "<strong>Kids and access:</strong> Children pay as adults only from 18, cots are free for 0–2 and extra beds are free for 3–17. Programmes for younger guests, PlayStation or Xbox on request. Wheelchair accessible, with grab rails and a raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Beach:</strong> Beachfront with a private beach, cabanas and day villas for in-house guests, plus 2 outdoor pools and an indoor pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍸",
+     "label": "Mercury Rooftop",
+     "pop_html": "<strong>Dining:</strong> Mercury Rooftop on the sixth floor looks at Burj Khalifa and the skyline; Sea Fu (seafood), Jou Jou Brasserie and Hendricks bar overlooking the sea."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎾",
+     "label": "Tennis and padel",
+     "pop_html": "<strong>Sport:</strong> A tennis court, a padel court and a jogging track by the beach, plus the spa and fitness centre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌅",
+     "label": "Classic beach resort",
+     "pop_html": "<strong>The vibe:</strong> Arabic-touched modern design, a beach in front and Burj Khalifa 15 minutes' drive away. Staff, cleanliness and comfort all score 9.7."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and couples who want the biggest standard room on the beach (70 m²), free extra beds for kids up to 17 and Downtown 15 minutes away.",
+    "skip_html": "if €868 before breakfast is too much: Banyan Tree (#1) is €298 cheaper with breakfast, and Jumeirah Beach Hotel (#9) is €347 cheaper with kids' club access included."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; no minimum check-in age."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not part of the €868 headline rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach, cabanas and day villas."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 outdoor pools and an indoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe City View King 753 ft² (70 m²), balcony, soaking tub and rain shower."
+     }
+    ]
+   },
+   "price": {
+    "main": "€868",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€868"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_four_seasons_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffour-seasons-resort-dubai-at-jumeirah-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#4-four-seasons-jumeirah-beach",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "city",
+    "couples",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Value Luxury",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Raffles Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/05-raffles-dubai-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/05-raffles-dubai-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Raffles",
+    "🏨 5★ city hotel",
+    {
+     "url": "https://maps.google.com/?q=Raffles+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Wafi, Bur Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_raffles_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fraffles-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Raffles Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "2.2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(2.2k+)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_raffles_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fraffles-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00–00:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out until 12:00. Photo ID and a credit card are needed, and the hotel wants your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "70 m² with terrace",
+     "pop_html": "<strong>Cheapest room:</strong> The Signature Room is 753 ft² (70 m²) with a terrace, city and garden views and a luxury bathroom. The €233 rate was a Black Friday deal; free cancellation is listed on the €403 breakfast-and-dinner rate."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome and pay as adults from 12. Cots free for 0–2, extra beds AED 400 a night from 12. Wheelchair accessible, with grab rails and a lower sink."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🤵",
+     "label": "Butler for every room",
+     "pop_html": "<strong>Service:</strong> Butler service is available for all rooms, and rooms run on an in-room digital system via the TV or an iPad."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop and kids&#x27; pools",
+     "pop_html": "<strong>Pools and spa:</strong> Two pools (an outdoor rooftop pool and a shallow kids' pool), a spa with saunas and steam rooms, and a large gym."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍣",
+     "label": "7 dining outlets",
+     "pop_html": "<strong>Dining:</strong> Seven outlets including TOMO (Japanese) and Raffles Salon for afternoon tea; Azur and Solo Italian are the main restaurants. Wafi Mall is next door."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🔺",
+     "label": "Pyramid landmark",
+     "pop_html": "<strong>The vibe:</strong> A pyramid-shaped landmark with handcrafted ornaments and rich fabrics, in Bur Dubai with metro access. Staff score 9.5, value for money 9.0."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want true 5★ luxury on a budget: a 70 m² room with a terrace and butler service for €233, the cheapest hotel on this page.",
+    "skip_html": "if you want the beach or the Downtown skyline outside your window: Raffles is in Bur Dubai, by Wafi Mall."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00 to 00:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not in the €233 rate; breakfast and dinner from €370."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "No beach."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Outdoor rooftop pool and kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Signature Room with Terrace 753 ft² (70 m²), balcony, city or garden view."
+     }
+    ]
+   },
+   "price": {
+    "main": "€233",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€233"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_raffles_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fraffles-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-and-dinner rates</b> available"
+    ],
+    "sublink": {
+     "url": "#5-raffles-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "beach",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Arabian Palace",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Al Qasr Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/06-jumeirah-al-qasr-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jumeirah",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Al+Qasr+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Madinat Jumeirah, Al Sufouh"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_jumeirah_al_qasr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-qasr-madinat-jumeirah.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jumeirah Al Qasr Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "1.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(1.4k+)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_jumeirah_al_qasr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-qasr-madinat-jumeirah.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out between 07:00 and 12:00."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Deluxe Arabian Room",
+     "pop_html": "<strong>Cheapest room:</strong> The Deluxe Arabian Room sleeps up to four, with a private balcony and a marble bathroom with walk-in shower. The Lagoon version is 592 ft² (55 m²) from €1,066."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free beds to 11",
+     "pop_html": "<strong>Kids and access:</strong> Free cots and extra beds for 0–3, free extra beds for 4–11, and the supervised Jumeirah Circle kids' club with family pools. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Wild Wadi included",
+     "pop_html": "<strong>Included:</strong> Unlimited complimentary Wild Wadi Waterpark access; stay 3 nights or more and you also get one visit to Dubai Parks and Resorts."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "2 km private beach",
+     "pop_html": "<strong>Beach:</strong> Two kilometres of private beach on the Gulf, two heated outdoor pools including an infinity pool, and the Talise spa with overwater treatment rooms."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €1,041 rate includes breakfast, with free cancellation and no prepayment. Half board starts at €1,165."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Arabian palace",
+     "pop_html": "<strong>The vibe:</strong> A palace-style hotel in the Madinat Jumeirah resort, with 8 restaurants (Pierchic, Al Nafoorah, Pai Thai, The Hide) and shuttles to Souk Madinat Jumeirah. Location scores 9.6."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and couples who want the classic Arabian palace on the beach, with breakfast, Wild Wadi and a kids' club all included in the rate.",
+    "skip_html": "if you are watching the budget: this is the most expensive hotel on the page at €1,041. Jumeirah Beach Hotel (#9) is next door with Wild Wadi included for €521."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00 to 00:00, check-out 07:00 to 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €1,041 rate; breakfast and dinner from €1,165."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "2 km private beach."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 heated outdoor pools incl. an infinity pool, plus family pools."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Arabian Room for up to 4, balcony, marble bathroom; Lagoon Room 592 ft² (55 m²)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€1041",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€1041"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_jumeirah_al_qasr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-qasr-madinat-jumeirah.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#6-jumeirah-al-qasr",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "city",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Burj Khalifa Views",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Downtown"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/07-address-downtown-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/07-address-downtown-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Address Hotels + Resorts",
+    "🏨 5★ city hotel",
+    {
+     "url": "https://maps.google.com/?q=Address+Downtown+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Downtown, by The Dubai Mall"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_address_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-address-downtown-burj-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Address Downtown"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "2.2k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(2.2k+)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_address_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-address-downtown-burj-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are needed, and the hotel wants your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "55 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Downtown View Room, 592 ft² (55 m²), king bed, skyline or Business Bay views, a dressing area with Hollywood mirrors, an L-shaped sofa and a marble bathroom with bathtub and rain shower."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Qix kids&#x27; club",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, with activities at the Qix club. Cots free for 0–3, extra beds AED 250 a night from 12. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "On the Dubai Fountain",
+     "pop_html": "<strong>Location:</strong> A 63-level, 302-metre tower overlooking The Dubai Mall, next to Souk Al Bahar and very near The Dubai Fountain. Location scores 9.6."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €40",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast is €40 on the flexible rate. Free-cancellation rates start at €805 and breakfast-included rates at €861."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Outdoor pool, spa",
+     "pop_html": "<strong>Pool and spa:</strong> An outdoor pool facing the towers, a spa with 9 treatment rooms and a Technogym centre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌃",
+     "label": "Downtown glamour",
+     "pop_html": "<strong>The vibe:</strong> 220 rooms, a cigar lounge and The Restaurant for high tea, in the middle of Downtown's sights. Value for money scores 8.3, the lowest here."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for first-timers who want to walk out of the lobby to The Dubai Mall, Burj Khalifa and The Dubai Fountain, with a 55 m² room.",
+    "skip_html": "if value matters: Waldorf Astoria DIFC (#3) is one metro stop away, €173 cheaper and scores 9.5 against 9.0."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€40 extra; included on rates from €861."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "No beach."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Downtown View Room 592 ft² (55 m²), king bed."
+     }
+    ]
+   },
+   "price": {
+    "main": "€603",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€603"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_address_downtown&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fthe-address-downtown-burj-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#7-address-downtown",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "beach",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Most Exclusive",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "One&Only The Palm Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/08-one-and-only-the-palm-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "One&amp;Only",
+    "🏨 5★ boutique beach resort",
+    {
+     "url": "https://maps.google.com/?q=One&Only+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm Jumeirah"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_one_and_only_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "One&amp;Only The Palm Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "461 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(461)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_one_and_only_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out until 12:00. Photo ID and a credit card at check-in; cash is not accepted."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "65 m², balcony",
+     "pop_html": "<strong>Cheapest room:</strong> The Palm Manor Premier King Room is 700 ft² (65 m²) with a balcony over the gardens and a bath. Beachfront Junior Suites (100 m², sea view) start at €2,102."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Check-in age 21",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome and pay as adults from 12; cots for 0–3 on request, no extra beds. Minimum check-in age 21. Wheelchair accessible, with grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⭐",
+     "label": "Two-Michelin STAY",
+     "pop_html": "<strong>Dining:</strong> Yannick Alléno runs the kitchens: two-Michelin-star STAY (French), ZEST for breakfast and Italian classics, and 101 for sundowners and Mediterranean seafood."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private sandy beach",
+     "pop_html": "<strong>Beach and pools:</strong> A private sandy beach and 3 pools, including an infinity pool with a shallow end and a pool bar. The room rate includes waterpark access."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €1,030 rate includes breakfast, with free cancellation and nothing to pay until you arrive."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌙",
+     "label": "Romantic and private",
+     "pop_html": "<strong>The vibe:</strong> A boutique resort in Andalusian style, named the Middle East's #1 resort in the Condé Nast Traveller Readers' Choice Awards 2024. Comfort scores 9.7."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples on a honeymoon or anniversary who want privacy, a two-Michelin-star dinner on site and breakfast in a €1,030 rate.",
+    "skip_html": "if you want buzz and dozens of restaurants: Atlantis The Royal (#2) on the same island has 16 for €284 less."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "15:00 to 00:00, check-out until 12:00; cash not accepted."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €1,030 rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private sandy beach."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 pools incl. an infinity pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Palm Manor Premier King 700 ft² (65 m²), balcony, bath; Beachfront Junior Suite 1,076 ft² from €2,102."
+     }
+    ]
+   },
+   "price": {
+    "main": "€1030",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€1030"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_one_and_only_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fone-only-the-palm-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#8-one-only-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "beach",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/09-jumeirah-beach-hotel-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jumeirah",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Beach+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jumeirah Beach Road, Umm Suqeim"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jumeirah Beach Hotel Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "3.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(3.5k+)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are needed; no minimum check-in age."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Ocean View Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> The Ocean View Deluxe Room has a king bed, a bath and shower, soundproofing and a pool view. A Family Deluxe Room with Murphy wall beds is €545."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; club in the rate",
+     "pop_html": "<strong>Kids and access:</strong> Kids' club access is built into the room rate. Cots are free for 0–2, extra beds AED 200 per child a night. Wheelchair accessible, with grab rails and a raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Daily Wild Wadi",
+     "pop_html": "<strong>Included:</strong> The room rates include daily Wild Wadi Waterpark access, and the €521 rate adds breakfast and free cancellation."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "4 pools",
+     "pop_html": "<strong>Pools and beach:</strong> Four pools, including a kids' pool and a pool bar, a private beach area, and Jumeira Public Beach a six-minute walk away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "7 restaurants",
+     "pop_html": "<strong>Dining:</strong> Seven venues including Dhow and Anchor (British), Nuska Beach (Mediterranean), Bahia Bar (Spanish), Fika and Pearl Lounge for high tea."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏄",
+     "label": "Lively family resort",
+     "pop_html": "<strong>The vibe:</strong> Busy and beachy, with yoga classes, a fitness centre, sauna and hot tub, and families everywhere. Location scores 9.5, overall 8.9."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a luxury beach resort where breakfast, the kids' club and daily Wild Wadi are all in a €521 rate.",
+    "skip_html": "if you want a quiet adults' escape: this is the liveliest resort on the list. Banyan Tree (#1) or One&Only (#8) are calmer."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; no minimum check-in age."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €521 rate; breakfast and dinner from €595."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach area; Jumeira Public Beach 6 minutes' walk."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "4 pools incl. a kids' pool and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Ocean View Deluxe Room, king bed, bath and shower; Family Deluxe with Murphy beds from €545."
+     }
+    ]
+   },
+   "price": {
+    "main": "€521",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€521"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#9-jumeirah-beach-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "beach",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Best-Value Beach Resort",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Royal Meridien Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-01-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-02-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-03-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-04-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-05-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-06-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-07-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-08-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-09-t.avif"
+     },
+     {
+      "src": "/assets/best-luxury-hotels-dubai/10-le-royal-meridien-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Le Méridien",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Le+Royal+Meridien+Beach+Resort+and+Spa+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 JBR, Dubai Marina end"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_le_royal_meridien&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-royal-meridien-beach-resort-spa-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Le Royal Meridien Beach Resort &amp; Spa Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "1.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(1.3k+)",
+       "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_le_royal_meridien&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-royal-meridien-beach-resort-spa-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, the earliest on this page, check-out until 12:00. Photo ID and a credit card are needed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Balcony room",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Room with Land View and Balcony, with bath, shower and bathrobes. The Sea View version is 377 ft² (35 m²) from €337 with breakfast."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children pay as adults from 12. Cots free for 0–2; extra beds AED 360 a night from 12. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €312 rate includes breakfast, with free cancellation and pay at the property. Half board is €421."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beachfront, 3 pools",
+     "pop_html": "<strong>Beach and pools:</strong> Beachfront on the Gulf with water sports, an infinity pool, a pool bar and 3 pools in all, a short walk from JBR."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧖",
+     "label": "Roman spa, 5 hammams",
+     "pop_html": "<strong>Spa:</strong> A Roman-themed spa with saunas and 5 hammam pools, plus reflexology, facials and aromatherapy."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌮",
+     "label": "Big, social resort",
+     "pop_html": "<strong>The vibe:</strong> 14 restaurants and bars, including Maya by Richard Sandoval, Rhodes Twenty 10 and Indya by Vineet. Staff and facilities score 9.6, cleanliness 9.7."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and friends who want a real 5★ beach resort with breakfast for €312, the cheapest beachfront stay on this page.",
+    "skip_html": "if you want a big room: the sea-view Deluxe is 35 m², half the size of Raffles (#5) or Four Seasons (#4)."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included in the €312 rate; breakfast and dinner from €421."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beachfront, water sports."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 pools incl. an infinity pool and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room with Land View and Balcony; Sea View Deluxe 377 ft² (35 m²)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€312",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€312"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.luxury_hotels_dubai_le_royal_meridien&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-royal-meridien-beach-resort-spa-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#10-le-royal-meridien-beach-resort",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

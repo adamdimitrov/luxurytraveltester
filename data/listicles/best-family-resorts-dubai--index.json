@@ -1,0 +1,5118 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "waterpark",
+    "beach",
+    "kidsclub"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Atlantis, The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/01-atlantis-the-palm-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/01-atlantis-the-palm-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Atlantis Resorts",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Atlantis+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm Jumeirah crescent"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_atlantis_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Atlantis, The Palm"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "18.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(18.7k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_atlantis_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Every guest must show an original passport or Emirates ID at check-in, plus a credit card."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "45 m² Ocean King",
+     "pop_html": "<strong>Cheapest room:</strong> Ocean King Room, 484 ft² (about 45 m²), extra-large double bed, seating area and balcony with sea views. Every room has a balcony; some have a large terrace or a spa bath."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots, no extra beds",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome and cots for 0–3 are free, but there are no extra beds, and rates are for two adults (an extra adult costs a supplement). Accessible parking is available."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💦",
+     "label": "Aquaventure included",
+     "pop_html": "<strong>Waterpark:</strong> Free daily entry to Aquaventure World, with the Tower of Neptune and Tower of Poseidon slides, plus the Lost World Aquarium. Younger kids get a separate water playground."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧸",
+     "label": "Supervised kids&#x27; club",
+     "pop_html": "<strong>Kids&#x27; club:</strong> Fully supervised kids' club with a daily programme. Wavehouse adds a four-lane bowling alley, a wave machine and a play area for children and adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "16 restaurants",
+     "pop_html": "<strong>Dining:</strong> Nobu, Hakkasan, Ossiano, Bread Street Kitchen and Ayamna, plus family-friendly Shawafel, The Edge and Bread Street Kitchen."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Full-day resort",
+     "pop_html": "<strong>The vibe:</strong> A full-day resort on its own beach. Guests score comfort 9.6 and cleanliness 9.5; some areas are undergoing enhancement work during this period."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want the waterpark, aquarium and kids' club included in one beachfront stay, from €381 a night for the room.",
+    "skip_html": "if you are four in one room and need an extra bed: Atlantis has none, so look at Le Meridien (#2) or Lapita (#3), which sell four-person rates."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. Original passport or Emirates ID required for every guest."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private sandy beach on the Palm crescent."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 outdoor pools (infinity, heated, pool bar), plus Aquaventure World included daily."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Ocean King Room 484 ft² (about 45 m²) with balcony and sea views; Palm King from €409."
+     },
+     {
+      "q": "Is there a kids' club?",
+      "a": "Fully supervised kids' club with daily programmes, plus a water playground for younger guests."
+     }
+    ]
+   },
+   "price": {
+    "main": "€381",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€381"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_atlantis_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fatlantis-the-palm.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Waterpark access</b> included"
+    ],
+    "sublink": {
+     "url": "#1-atlantis-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "waterpark",
+    "beach",
+    "kidsclub",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value Waterpark Resort",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/02-le-meridien-mina-seyahi-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Le Méridien)",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Le+Meridien+Mina+Seyahi+Beach+Resort+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Sufouh beach, Mina Seyahi"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_le_meridien_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-mina-seyahi-beach-resort-marina.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Le Meridien Mina Seyahi Beach Resort &amp; Waterpark"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.25",
+     "score": "4.2",
+     "meta": "2.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(2.4k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_le_meridien_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-mina-seyahi-beach-resort-marina.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. The cheapest rate has free cancellation and no prepayment."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "32 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Skyline View, 344 ft² (about 32 m²), king bed and bath, with Marina skyline views. A King &amp; Single version (323 ft²) starts at €285 with breakfast."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Rates for 3 and 4",
+     "pop_html": "<strong>Kids and access:</strong> The Deluxe room sells rates for three (€297) and four guests (€359), breakfast €33. Cots for 0–2 are free, extra beds AED 125 a night, and guests 18+ pay as adults. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💦",
+     "label": "Unlimited Jungle Bay",
+     "pop_html": "<strong>Waterpark:</strong> Every room includes unlimited access to Jungle Bay waterpark, with slides and a wave pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧸",
+     "label": "Kids&#x27; club + 2 kids&#x27; pools",
+     "pop_html": "<strong>Kids&#x27; club:</strong> Le Meridien Family Kids Club runs activity programmes and beach games, with two separate kids' pools among the resort's four pools."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "1,200 m beach",
+     "pop_html": "<strong>Beach:</strong> A 1,200-metre sandy beach, a water sports centre and Barasti Bar with live entertainment in the evening."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌴",
+     "label": "Beach, pools, Barasti",
+     "pop_html": "<strong>The vibe:</strong> Lush gardens, four pools and Barasti Bar with live entertainment; staff score 9.0. An all-inclusive rate for two starts at €458."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a waterpark, kids' club and a long beach in the room price without paying Atlantis rates, from €235 a night.",
+    "skip_html": "if the guest score matters: 8.5 trails Atlantis (9.2) and Hilton Palm (9.0), and the cheapest room is only 32 m²."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not listed on the €235 rate; included on rates from €275 a night for two; €33 on the three- and four-guest room-only rates."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "1,200 m sandy beach with water sports centre."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "4 pools (outdoor, kids', rooftop, infinity) plus unlimited Jungle Bay waterpark."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Skyline View 344 ft² (about 32 m²), king bed and bath; rates for 3 guests from €297 and 4 from €359."
+     }
+    ]
+   },
+   "price": {
+    "main": "€235",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€235"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_le_meridien_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-mina-seyahi-beach-resort-marina.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Waterpark access</b> included"
+    ],
+    "sublink": {
+     "url": "#2-le-meridien-mina-seyahi",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "themepark",
+    "kidsclub",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best Theme-Park Hotel",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/03-lapita-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Lapita, Dubai Parks and Resorts, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/03-lapita-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/03-lapita-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Autograph Collection)",
+    "🏨 5★ resort",
+    {
+     "url": "https://maps.google.com/?q=Lapita+Dubai+Parks+and+Resorts",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_lapita&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flapita-dubai-parks-and-resorts-autograph-collection.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Lapita, Dubai Parks and Resorts, Autograph Collection"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "2.8k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(2.8k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_lapita&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flapita-dubai-parks-and-resorts-autograph-collection.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Breakfast-included rates have free cancellation until 10 January 2027."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "37 m² with balcony",
+     "pop_html": "<strong>Cheapest room:</strong> King Room, Garden View, 398 ft² (about 37 m²), with balcony and minibar. The room rate includes theme-park access, beach access at Sheraton JBR and a shuttle to Mall of the Emirates and Dubai Mall."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "4-person rooms €297",
+     "pop_html": "<strong>Kids and access:</strong> Two-double rooms sell four-guest rates from €297 with breakfast. Cots for 0–2 are free, extra beds AED 150 a night. Wheelchair accessible with grab rails and a raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎢",
+     "label": "Parks on foot",
+     "pop_html": "<strong>Theme parks:</strong> LEGOLAND Dubai, LEGOLAND Water Park, MOTIONGATE, Real Madrid World and Riverland are a short walk away, with more than 100 rides between them."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧸",
+     "label": "Kids Club + Tiki House",
+     "pop_html": "<strong>Kids&#x27; club:</strong> Children's activities at the Kids Club and Tiki House, and three pools including a kids' pool with a shallow end."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍕",
+     "label": "6 restaurants",
+     "pop_html": "<strong>Dining:</strong> Kalea (Polynesian-themed all-day dining), Hikina (modern Asian), Kahuna Pizzeria, ARI pool bar and Daily Scoop ice cream."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌺",
+     "label": "Polynesian theme",
+     "pop_html": "<strong>The vibe:</strong> 504 rooms, suites and villas, each with a balcony or terrace. Staff score 9.1, cleanliness and comfort 9.0."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families planning LEGOLAND or MOTIONGATE days who want a 5★ pool resort with theme-park access in the room rate, from €235 a night.",
+    "skip_html": "if you want the beach outside your door: the sand is at Sheraton JBR, and the parks sit out at Dubai World Central."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on two-double rates from €297 for four guests or €310 for two."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Free beach access at Sheraton JBR, included in the room rate."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 outdoor pools incl. kids' pool with shallow end and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "King Room, Garden View, 398 ft² (about 37 m²) with balcony; two-double rooms for up to 4."
+     }
+    ]
+   },
+   "price": {
+    "main": "€235",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€235"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_lapita&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flapita-dubai-parks-and-resorts-autograph-collection.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available",
+     "<b>Theme-park access in the room rate</b>"
+    ],
+    "sublink": {
+     "url": "#3-lapita-dubai-parks-and-resorts",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "waterpark",
+    "beach",
+    "kidsclub"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Beach and Waterpark",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Beach Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/04-jumeirah-beach-hotel-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jumeirah",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Beach+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jumeirah Beach Road, Umm Suqeim"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jumeirah Beach Hotel Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "3.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(3.5k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. No minimum check-in age, and free cancellation runs until 23 December 2026 on breakfast rates."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Ocean View Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Ocean View Deluxe Room with an extra-large double bed, bath, shower and pool views. Kids' club access and daily Wild Wadi entry are part of the room rate."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Family room, Murphy beds",
+     "pop_html": "<strong>Kids and access:</strong> The Ocean View Family Deluxe Room adds two Murphy wall beds (€545 with breakfast for two adults). Cots for 0–2 are free; extra beds AED 200 per child a night. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💦",
+     "label": "Daily Wild Wadi",
+     "pop_html": "<strong>Waterpark:</strong> Daily Wild Wadi Water Park access is included on every room on the list, not just selected rates."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧸",
+     "label": "Kids&#x27; club included",
+     "pop_html": "<strong>Kids&#x27; club:</strong> Kids' club access is written into each room rate, with four pools including a kids' pool and a shallow end."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beachfront, 9.5 location",
+     "pop_html": "<strong>Beach:</strong> Private beach area, with Jumeira Public Beach a six-minute walk. Location scores 9.5, the highest here."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⛵",
+     "label": "Beachfront Jumeirah",
+     "pop_html": "<strong>The vibe:</strong> Beachfront Jumeirah resort with seven restaurants and bars, a spa and yoga classes. Comfort scores 9.4."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a beachfront resort where kids' club and daily Wild Wadi entry are built into every room rate, from €471 a night.",
+    "skip_html": "if budget matters: Le Meridien (#2) gives you a beach, kids' club and waterpark for €236 less."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; no minimum check-in age."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on rates from €521 a night for two."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach area; Jumeira Public Beach a 6-minute walk."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "4 outdoor pools incl. kids' pool, shallow end and pool bar; daily Wild Wadi access included."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Ocean View Deluxe (extra-large double); Ocean View Family Deluxe with 2 Murphy wall beds from €545 with breakfast."
+     }
+    ]
+   },
+   "price": {
+    "main": "€471",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€471"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_jumeirah_beach_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fjumeirah-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available",
+     "<b>Kids&#x27; club and waterpark in the rate</b>"
+    ],
+    "sublink": {
+     "url": "#4-jumeirah-beach-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "beach",
+    "kidsclub"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Kids' Club on the Beach",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Hilton Dubai Palm Jumeirah"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/05-hilton-palm-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/05-hilton-palm-09-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Hilton",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Hilton+Dubai+Palm+Jumeirah",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm West Beach, Palm Jumeirah"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_hilton_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhilton-dubai-palm-jumeirah.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Hilton Dubai Palm Jumeirah"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "7.1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(7.1k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_hilton_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhilton-dubai-palm-jumeirah.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. The hotel asks for your arrival time; breakfast rates have free cancellation and no prepayment."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "40 m², 2 double beds",
+     "pop_html": "<strong>Cheapest room:</strong> Premium Double Room, 431 ft² (about 40 m²), two double beds, sea view and balcony. Every room has a balcony or terrace facing the Gulf or the Marina skyline."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots 0–3",
+     "pop_html": "<strong>Kids and access:</strong> Cots for 0–3 are free; extra beds AED 150 a night; guests 18+ pay as adults. Wheelchair accessible with grab rails and a raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏴‍☠️",
+     "label": "Pirate&#x27;s Kids Club",
+     "pop_html": "<strong>Kids&#x27; club:</strong> Toys, films on a big screen, sandcastles in the outdoor play area and a shaded kids' pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Beach:</strong> Private beach on Palm West Beach with an ocean-view pool; The Walk at JBR is 3.4 km and Aquaventure 4 km away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast +€29",
+     "pop_html": "<strong>Breakfast:</strong> Included on rates from €283, and €300 with dinner too. Breakfast is rated 'fabulous' by guests."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌅",
+     "label": "9 places to eat",
+     "pop_html": "<strong>The vibe:</strong> Nine restaurants and bars, including Trader Vic's, Claw BBQ, Barfly by Buddha-Bar and McGettigan's with live bands and DJs. Staff and comfort score 9.3."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families with younger kids who want a beach, a kids' club and a room with two double beds for €254, plus a 9.0 guest score.",
+    "skip_html": "if you want a waterpark in the price: Aquaventure is a 4 km drive and not included, so book Atlantis (#1) or Le Meridien (#2)."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on rates from €283 a night for two."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach on Palm West Beach."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Ocean-view outdoor pool plus the kids' pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Premium Double Room 431 ft² (about 40 m²), 2 double beds, sea view and balcony."
+     }
+    ]
+   },
+   "price": {
+    "main": "€254",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€254"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_hilton_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhilton-dubai-palm-jumeirah.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#5-hilton-dubai-palm-jumeirah",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "waterpark"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best City Waterpark Resort",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Grand Hyatt Dubai Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/06-grand-hyatt-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/06-grand-hyatt-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Hyatt",
+    "🏨 5★ city resort",
+    {
+     "url": "https://maps.google.com/?q=Grand+Hyatt+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Oud Metha, near Wafi Mall"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_grand_hyatt&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fgrand-hyatt-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Grand Hyatt Dubai Resort &amp; Waterpark"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.35",
+     "score": "4.3",
+     "meta": "6.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(6.6k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_grand_hyatt&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fgrand-hyatt-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, an hour earlier than most resorts here, and check-out until 12:00. A refundable AED 1,000 cash deposit is taken on arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "39 m² King or Twin",
+     "pop_html": "<strong>Cheapest room:</strong> King or Twin Room, 420 ft² (about 39 m²), Italian marble bathroom and work area. Connecting Grand rooms can be requested, subject to availability."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "12+ pay as adults",
+     "pop_html": "<strong>Kids and access:</strong> Free cots for 0–3; extra beds AED 150 a night for any age; children 12 and over are charged as adults. Accessible parking."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💦",
+     "label": "On-site waterpark",
+     "pop_html": "<strong>Waterpark:</strong> The Grand Hyatt Dubai Waterpark is on site, and access is included on eligible rate plans, so check the rate before you book."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Indoor + outdoor pools",
+     "pop_html": "<strong>Pools:</strong> An extensive outdoor pool area and an indoor pool, plus a tropical indoor garden atrium with streams and bridges."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍜",
+     "label": "11 restaurants",
+     "pop_html": "<strong>Dining:</strong> Awtar, Andiamo!, Peppercrab, iZ, Wox and a sushi bar, serving Indian, Japanese and Singaporean food among others, with open kitchens and terraces."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Resort in the city",
+     "pop_html": "<strong>The vibe:</strong> A 710-room resort 15 minutes by car from Burj Khalifa and Dubai Mall, with the Ahasees Spa. Comfort scores 9.2."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a waterpark resort near Downtown and the Creek rather than on the beach, from €286 a night.",
+    "skip_html": "if you want sand: there is no beach, and waterpark access is only included on eligible rates."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00, check-out until 12:00; AED 1,000 cash deposit on arrival."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "None; this is a city resort."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Outdoor pool area and indoor pool, plus the Grand Hyatt Dubai Waterpark (included on eligible rates)."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "King or Twin Room 420 ft² (about 39 m²); connecting Grand rooms on request."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Ahasees Spa with steam, sauna, whirlpools and 9 treatment suites."
+     }
+    ]
+   },
+   "price": {
+    "main": "€286",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€286"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_grand_hyatt&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fgrand-hyatt-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#6-grand-hyatt-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Family Suites",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Jaddaf Rotana Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/07-al-jaddaf-rotana-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Rotana",
+    "🏨 5★ suite hotel",
+    {
+     "url": "https://maps.google.com/?q=Al+Jaddaf+Rotana+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Al Jaddaf, by the metro"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_al_jaddaf_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-jaddaf-rotana-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Al Jaddaf Rotana Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.60",
+     "score": "4.6",
+     "meta": "2.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.6",
+       "count": "(2.5k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_al_jaddaf_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-jaddaf-rotana-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00 and check-out until 12:00. The lowest suite rate has free cancellation and no prepayment."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "80 m² suite + kitchen",
+     "pop_html": "<strong>Cheapest room:</strong> One Bedroom Suite, 861 ft² (about 80 m²): separate bedroom, living room, two bathrooms, full kitchen with oven and a washing machine."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free extra bed under 3",
+     "pop_html": "<strong>Kids and access:</strong> Cots and extra beds are free for 0–2; extra beds AED 100 a night from age 3, the cheapest on this page. Guests 18+ pay as adults. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "2-bedroom from €248",
+     "pop_html": "<strong>Bigger suites:</strong> Two Bedroom Suites (a double plus two singles, two bathrooms, dishwasher) start at €248 a night, or €429 with breakfast."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "5 min to metro",
+     "pop_html": "<strong>Getting around:</strong> Al Jaddaf Metro Station is a 5-minute walk, with Downtown, Dubai Mall, Dubai Frame and Festival City within easy reach."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Pool, no kids&#x27; club",
+     "pop_html": "<strong>Facilities:</strong> Outdoor pool with pool bar, gym, sauna and steam room. There is no kids' club or beach listed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Suite hotel 5★",
+     "pop_html": "<strong>The vibe:</strong> 318 suites built for longer stays. Staff score 9.5 and comfort 9.4, among the highest on the page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want space and a kitchen for less than a beach resort room: an 80 m² suite with two bathrooms from €167 a night.",
+    "skip_html": "if the holiday is about pools and kids' clubs: there is one pool and no kids' club or beach."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€30 on some suite rates; included on rates from €248 (60 m² twin room with kitchen)."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "None."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor pool with pool bar; gym, sauna and steam room."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "One Bedroom Suite 861 ft² (about 80 m²), 2 bathrooms, kitchen, washing machine; Two Bedroom Suites from €248."
+     }
+    ]
+   },
+   "price": {
+    "main": "€167",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€167"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_al_jaddaf_rotana&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fal-jaddaf-rotana-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#7-al-jaddaf-rotana-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "themepark",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Best Budget",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Rove At The Park"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/08-rove-at-the-park-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/08-rove-at-the-park-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Rove Hotels",
+    "🏨 3★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Rove+At+The+Park+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_rove_at_the_park&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frove-at-the-parks.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Rove At The Park"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.50",
+     "score": "4.5",
+     "meta": "4.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(4.7k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_rove_at_the_park&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frove-at-the-parks.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 16:00, out 14:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 16:00, but check-out runs until 14:00, the latest on this page, which helps on a park day."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "23 m² Rover Room",
+     "pop_html": "<strong>Cheapest room:</strong> Rover Room, 248 ft² (about 23 m²), with a large double or two single beds, city view and flat-screen TV."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Interconnecting rooms",
+     "pop_html": "<strong>Kids and access:</strong> Family and interconnected rooms are available, but there are no extra beds and the rates shown sleep up to three. Children of any age are welcome. Wheelchair accessible with a raised toilet and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "Park-ticket rooms €190",
+     "pop_html": "<strong>Theme parks:</strong> Rover Rooms with Dubai Parks and Resorts tickets start at €190 for up to three; a 46 m² Family Interconnecting room with tickets is €358, also priced for up to three."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎮",
+     "label": "Play area + games room",
+     "pop_html": "<strong>For kids:</strong> Indoor play area, games room and a year-round outdoor saltwater pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍕",
+     "label": "The Daily, all day",
+     "pop_html": "<strong>Dining:</strong> One family-friendly restaurant, The Daily, with brunch, lunch and dinner and halal and vegetarian options. Breakfast is rated 'very good'."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎨",
+     "label": "3★ by the parks",
+     "pop_html": "<strong>The vibe:</strong> A 3★ hotel at Dubai Parks and Resorts, near LEGOLAND and Bollywood Parks. Value for money scores 9.1, the best on the page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families on a budget doing LEGOLAND or MOTIONGATE who want a clean, well-rated bed by the parks, from €76 a night.",
+    "skip_html": "if you want a resort: one pool, one restaurant, no kids' club, and a 23 m² room is tight for four."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 16:00, check-out until 14:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on ticket rates from €213 for up to three."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Year-round outdoor saltwater pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Rover Room 248 ft² (about 23 m²); Family Interconnecting Rover Room 495 ft² (about 46 m²) with park tickets €358."
+     },
+     {
+      "q": "Is there a kids' club?",
+      "a": "None listed; indoor play area and games room."
+     }
+    ]
+   },
+   "price": {
+    "main": "€76",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€76"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_rove_at_the_park&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Frove-at-the-parks.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Theme-park ticket rates</b> available"
+    ],
+    "sublink": {
+     "url": "#8-rove-at-the-park",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "beach",
+    "waterpark",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best Half Board Deal",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Centara Mirage Beach Resort Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/09-centara-mirage-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/09-centara-mirage-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Centara",
+    "🏨 4★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Centara+Mirage+Beach+Resort+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Islands"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_centara_mirage&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcentara-mirage-beach-resort-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Centara Mirage Beach Resort Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.10",
+     "score": "4.1",
+     "meta": "7.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.1",
+       "count": "(7.3k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_centara_mirage&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcentara-mirage-beach-resort-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to 23:00, check-out 08:00–12:00. An AED 500 cash deposit is taken on arrival and refunded at check-out."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "36 m², 2 double beds",
+     "pop_html": "<strong>Cheapest room:</strong> Family Room with two double beds, 388 ft² (about 36 m²) and a balcony, at €238 for two adults including breakfast and dinner (non-refundable)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Family + children&#x27;s rooms",
+     "pop_html": "<strong>Kids and access:</strong> Family rooms and children's rooms are offered; cots for 0–2 are free, but there are no extra beds. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💦",
+     "label": "Waterpark + 7 pools",
+     "pop_html": "<strong>Pools:</strong> Seven pools including a kids' pool, an infinity pool and a plunge pool, plus a waterpark on site (the rates do not say whether entry is included)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Half board at €238",
+     "pop_html": "<strong>Dining:</strong> The cheapest rate already includes breakfast and dinner. Five restaurants include Suan Bua, Uno Mas, Sheesh and Sands."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Beach:</strong> Direct beachfront access and a private beach area on Dubai Islands, 11 km from Dubai International Airport."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎈",
+     "label": "Pools + waterpark",
+     "pop_html": "<strong>The vibe:</strong> Seven pools, a waterpark, family rooms and children's rooms. Facilities and staff score 8.7."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want beach, pools and a waterpark with breakfast and dinner included, in a 2-double room for €238.",
+    "skip_html": "if you need flexibility: the €238 half board rate is non-refundable, and free-cancellation rates start at €297."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 23:00, check-out 08:00–12:00; AED 500 cash deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Breakfast and dinner included at €238 (Family Room, non-refundable); breakfast-only rates from €297."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach area with direct beachfront access."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "7 pools incl. kids' pool, infinity and plunge pool, plus a waterpark."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Family Room, 2 double beds, 388 ft² (about 36 m²), balcony."
+     }
+    ]
+   },
+   "price": {
+    "main": "€238",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€238"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_centara_mirage&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcentara-mirage-beach-resort-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#9-centara-mirage-beach-resort",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "themepark",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Best for LEGO Fans",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "LEGOLAND Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-family-resorts-dubai/10-legoland-hotel-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-01-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-02-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-03-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-04-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-05-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-06-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-07-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-08-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-09-t.avif"
+     },
+     {
+      "src": "/assets/best-family-resorts-dubai/10-legoland-hotel-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "LEGOLAND Hotels",
+    "🏨 4★ themed hotel",
+    {
+     "url": "https://maps.google.com/?q=LEGOLAND+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Parks and Resorts"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.family_resorts_dubai_legoland_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flegoland-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "LEGOLAND Hotel Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "3.90",
+     "score": "3.9",
+     "meta": "6.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "3.9",
+       "count": "(6.3k+)",
+       "url": "https://tp.media/r?marker=404154.family_resorts_dubai_legoland_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flegoland-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 11:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 11:00, the earliest on this page. The hotel asks for your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "34 m² themed rooms",
+     "pop_html": "<strong>Rooms:</strong> The €248 Kingdom or Adventure Themed Room is 366 ft² (about 34 m²) with a double bed plus a bunk bed for the kids. The €140 run-of-house rate is a room assigned on arrival with one single bed, so it is not a family option."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Bunk beds, no extra beds",
+     "pop_html": "<strong>Kids and access:</strong> Themed rooms have a double bed and a bunk bed; the €248 is priced for two adults, so add the children to the search. There are no extra beds, and cots for 0–2 are free. Wheelchair accessible with grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎟️",
+     "label": "Park + breakfast included",
+     "pop_html": "<strong>Theme parks:</strong> The €248 themed rate includes complimentary park access, breakfast, creative workshops, an in-room treasure hunt and kids' activities; €313 adds dinner, with free cancellation and pay at the property."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧱",
+     "label": "Play areas",
+     "pop_html": "<strong>For kids:</strong> Indoor and outdoor play areas, a children's playground, a child-friendly buffet and a year-round outdoor pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍔",
+     "label": "Bricks Family Restaurant",
+     "pop_html": "<strong>Dining:</strong> Two venues: Bricks Family Restaurant and Skyline Lounge, both international."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏰",
+     "label": "LEGO-themed rooms",
+     "pop_html": "<strong>The vibe:</strong> Themed rooms, LEGO workshops and a treasure hunt for children; staff score 8.5, but the overall guest score (7.8) is the lowest here."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for LEGO-loving kids who want a themed room with a bunk bed, with park access and breakfast in the €248 themed rate.",
+    "skip_html": "if you care more about the hotel than the theme: Lapita (#3) next door scores 8.8 and Rove (#8) scores 9.0."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 11:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €248 themed rate with park access."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Year-round outdoor pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Kingdom or Adventure Themed Room 366 ft² (about 34 m²) with double bed and bunk bed from €248; run-of-house room with one single bed €140."
+     },
+     {
+      "q": "Is there a kids' club?",
+      "a": "No kids' club listed; creative workshops and kids' activities on themed rates, indoor and outdoor play areas."
+     }
+    ]
+   },
+   "price": {
+    "main": "€248",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€248"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.family_resorts_dubai_legoland_hotel&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Flegoland-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Theme-park access on themed rates</b>"
+    ],
+    "sublink": {
+     "url": "#10-legoland-hotel-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

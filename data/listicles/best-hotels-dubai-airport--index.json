@@ -1,0 +1,5189 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "shuttle",
+    "metro",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Premier Inn Dubai International Airport"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/01-premier-inn-dxb-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Premier Inn (Emirates Group)",
+    "🏨 3★ airport hotel",
+    {
+     "url": "https://maps.google.com/?q=Premier+Inn+Dubai+International+Airport+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Garhoud, opposite Terminal 3"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_premier_inn_dxb&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fpremier-inn-dubai-international-airport.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Premier Inn Dubai International Airport"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.35",
+     "score": "4.3",
+     "meta": "22.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(22.5k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_premier_inn_dxb&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fpremier-inn-dubai-international-airport.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Out from 01:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in runs 14:00–23:30 and check-out from 01:00 to 12:00, so a red-eye departure fits without paying for a second night. Tell the hotel your arrival time in advance; photo ID and a credit card are asked for at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "24 m² New Style",
+     "pop_html": "<strong>Cheapest room:</strong> The non-smoking New Style Double (258 ft², extra-large double bed) is soundproofed, with a 43-inch smart TV, work desk and an en-suite shower. A Family Room of the same size adds a sofa bed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome and cots for under-2s are always available free. There are no extra beds. Wheelchair accessible, with a lower sink, raised toilet and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Shuttle every 30 min",
+     "pop_html": "<strong>Airport transfer:</strong> Free shuttle bus between the hotel and Terminal 3 every 30 minutes; it also drops off at Terminal 1 but does not pick up there. The hotel is 0.5 miles from the airport, on 52B Street opposite Terminal 3."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop pool",
+     "pop_html": "<strong>Pool:</strong> Heated rooftop pool and hot tub on a sun terrace with views of Downtown Dubai and the airport, plus a 24-hour gym."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "☕",
+     "label": "24-hour Costa",
+     "pop_html": "<strong>Food and drink:</strong> Nuevo serves all-day Mediterranean-style dining, Mr Toad's Pub & Kitchen covers evenings, and the lobby Costa Coffee is open 24 hours. Breakfast is €14, or included on rates from €100."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "Layover favourite",
+     "pop_html": "<strong>The vibe:</strong> A busy, efficient transit hotel with a 24-hour front desk. Guests score it 9.0 for value, 9.1 for cleanliness and 9.1 for location, across more than 22,000 reviews."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a layover, a late arrival or a dawn flight: the cheapest bed on this page at €52, opposite Terminal 3, with a free shuttle every 30 minutes and check-out from 01:00.",
+    "skip_html": "if you land at Terminal 1 and want a pick-up (the shuttle only drops off there) or want a resort pool day: take Le Méridien (#2)."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "14:00–23:30; check-out 01:00–12:00. Photo ID and credit card at check-in; tell the hotel your arrival time."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€14, or included on rates from €100 a night."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop pool and hot tub with city and airport views."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "New Style Double, 258 ft² (about 24 m²), soundproofed, 43-inch smart TV."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "0.5 miles from DXB, opposite Terminal 3; free shuttle to Terminal 3 every 30 minutes (drop-off only at Terminal 1)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€52",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€52"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_premier_inn_dxb&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fpremier-inn-dubai-international-airport.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#1-premier-inn-dubai-airport",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "metro",
+    "luxury"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best 5★ by the Airport",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Méridien Dubai Hotel & Conference Centre"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/02-le-meridien-dubai-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Le Méridien)",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Le+Meridien+Dubai+Hotel+and+Conference+Centre+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Airport Road, Garhoud"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_le_meridien_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Le Méridien Dubai Hotel &amp; Conference Centre"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "6.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(6.4k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_le_meridien_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Standard hotel hours: check-in from 15:00, check-out until 12:00. Photo ID and a credit card are required at check-in. No late check-out is listed, so plan an evening departure around the 12:00 rule."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "32 m² garden view",
+     "pop_html": "<strong>Cheapest room:</strong> The Deluxe garden-view room (344 ft², extra-large double) has a patio, a bathtub, a coffee and espresso machine and floor-to-ceiling windows. Bathrooms have rainforest showers."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome; 12 and over pay as adults. Cots for under-2s are free, extra beds for 13–17 cost AED 100 a night. Wheelchair accessible, with a lower sink and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "5 pools",
+     "pop_html": "<strong>Pools:</strong> Five heated outdoor pools set in landscaped gardens, plus a hot tub, sauna and the Natural Elements Spa and fitness centre overlooking the pools."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "12 restaurants",
+     "pop_html": "<strong>Dining:</strong> Casa Mia (wood-fired pizza), Kiku (teppanyaki at your table), Yalumba, Seafood Market, Mahec (Indian) and more. Breakfast is €32, or included on rates from €186."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "0.5 mi from DXB",
+     "pop_html": "<strong>Location:</strong> On Airport Road in Garhoud, 0.5 miles from the airport, with metro access. Deira City Centre mall is 2 km away and the Gold Souk 8 km. No airport shuttle is listed, so budget a short taxi."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌴",
+     "label": "Garden resort",
+     "pop_html": "<strong>The vibe:</strong> A garden resort with a conference centre rather than a transit tower. Guests score comfort and staff 9.2."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a long layover or first night where you want a proper five-star: five pools, 12 restaurants and gardens, 0.5 miles from the airport, from €161.",
+    "skip_html": "if you need a free airport shuttle or an early check-out deal: Premier Inn (#1) and Holiday Inn Express (#3) are as close for a third of the price."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00. Photo ID and credit card required."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€32, or included on rates from €186 a night."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "5 heated outdoor pools, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe garden view, 344 ft² (about 32 m²), patio, bathtub, coffee machine."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Natural Elements Spa, sauna, fitness centre."
+     }
+    ]
+   },
+   "price": {
+    "main": "€161",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€161"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_le_meridien_dubai&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#2-le-meridien-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "shuttle",
+    "metro",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best with Breakfast",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn Express Dubai Airport by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/03-holiday-inn-express-dxb-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IHG",
+    "🏨 3★ airport hotel",
+    {
+     "url": "https://maps.google.com/?q=Holiday+Inn+Express+Dubai+Airport+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Airport Road, Garhoud"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_holiday_inn_express_dxb&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fholiday-inn-express-dubai-airport.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Holiday Inn Express Dubai Airport by IHG"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "3.90",
+     "score": "3.9",
+     "meta": "13k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "3.9",
+       "count": "(13k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_holiday_inn_express_dxb&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fholiday-inn-express-dubai-airport.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Out until 14:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00 and check-out from 12:00 to 14:00, the latest listed check-out of the ten. That extra two hours helps with afternoon departures."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "24 m² Standard",
+     "pop_html": "<strong>Cheapest room:</strong> Standard Room (258 ft²) with two singles or one double, soundproofing, minibar, work desk and tea and coffee facilities."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age welcome, 13 and over pay as adults. Cots for 0–3 are free; extra beds cost AED 100 a night. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €66 rate already includes a hot buffet breakfast (rated \"very good\" by guests). Refundable breakfast rates start at €74."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Free shuttle",
+     "pop_html": "<strong>Airport transfer:</strong> Opposite Terminal 3, 0.5 miles from the airport, with a free airport shuttle listed and transfers on request."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Emirates Metro",
+     "pop_html": "<strong>Metro:</strong> A short walk to Emirates Metro Station. Deira City Centre is 3 km and Dubai Creek Golf and Yacht Club 2.6 km away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍺",
+     "label": "No-frills transit",
+     "pop_html": "<strong>The vibe:</strong> Simple rooms, the Great Room restaurant and a bar with draught beer. Guests score staff 8.6 and location 8.7; the overall score is 7.8."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a budget stopover where breakfast and a late check-out matter: €66 with breakfast included, opposite Terminal 3, check-out until 14:00.",
+    "skip_html": "if you care more about comfort scores or a pool: Premier Inn (#1) is next door, scores 8.7 and costs €14 less before breakfast."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out 12:00–14:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €66 rate; refundable breakfast rates from €74."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Standard Room 258 ft² (about 24 m²), soundproofed."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa and wellness centre, sauna, fitness centre."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "0.5 miles from DXB, opposite Terminal 3; free airport shuttle listed."
+     }
+    ]
+   },
+   "price": {
+    "main": "€66",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€66"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_holiday_inn_express_dxb&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fholiday-inn-express-dubai-airport.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#3-holiday-inn-express-dubai-airport",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "shuttle",
+    "metro",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Pool for a Layover",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Millennium Airport Hotel Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/04-millennium-airport-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/04-millennium-airport-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Millennium Hotels",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Millennium+Airport+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Casablanca Street, Al Garhoud"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_millennium_airport&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmillennium-dubai-airport.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Millennium Airport Hotel Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.25",
+     "score": "4.2",
+     "meta": "6.7k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(6.7k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_millennium_airport&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmillennium-dubai-airport.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00, an hour earlier than most here, and check-out until 12:00. Tell the hotel your arrival time; photo ID and a credit card are required."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "38 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> The Deluxe Twin (409 ft²) has a bath, city view, minibar and soundproofing, and the rate includes the shuttle to Terminals 1 and 3 plus 20% off the hotel's own restaurants."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "21+ to check in",
+     "pop_html": "<strong>Kids and access:</strong> Children are welcome (12 and over pay as adults) and cots for babies under 1 are free, but the lead guest must be 21. Wheelchair accessible, with a raised toilet and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "Free T1 &amp; T3 shuttle",
+     "pop_html": "<strong>Airport transfer:</strong> 2 km from Dubai International, with a free shuttle to Terminal 1 and Terminal 3. Metro access is listed too."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Garden pool",
+     "pop_html": "<strong>Pool:</strong> Heated outdoor pool with a shallow end and pool bar, a garden and a sun terrace, plus a spa and fitness centre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍻",
+     "label": "9 restaurants",
+     "pop_html": "<strong>Dining:</strong> Biggles Pub, Da Vinci's (Italian), Fujiya (Japanese), Cactus Jacks (Tex-Mex) and Loumi (all-day). Breakfast is €20, or included on rates from €152."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌿",
+     "label": "Classic stopover",
+     "pop_html": "<strong>The vibe:</strong> An established airport hotel with pubs and a garden pool, scored 9.0 for location and 8.9 for comfort and staff."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a long layover on a mid-range budget: a 38 m² room, a garden pool, nine restaurants and a free shuttle to both Terminal 1 and Terminal 3, from €94.",
+    "skip_html": "if anyone in your party under 21 is booking the room, or you need a refundable rate at the lowest price."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out until 12:00. Photo ID and credit card; tell the hotel your arrival time."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€20, or included on rates from €152 a night."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool with shallow end and pool bar, garden."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Twin 409 ft² (about 38 m²) with bath."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "2 km from DXB; free shuttle to Terminals 1 and 3."
+     }
+    ]
+   },
+   "price": {
+    "main": "€94",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€94"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_millennium_airport&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmillennium-dubai-airport.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast-included rates</b> available",
+     "<b>Free cancellation</b> on rates that show it"
+    ],
+    "sublink": {
+     "url": "#4-millennium-airport-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "shuttle",
+    "metro"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best for Metro & Mall",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Aloft by Marriott Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/05-aloft-dubai-creek-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Aloft)",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Aloft+Dubai+Creek+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Baniyas Road, by City Centre Deira"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_aloft_dubai_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faloft-city-centre-deira-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Aloft by Marriott Dubai Creek"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.35",
+     "score": "4.3",
+     "meta": "3.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(3.3k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_aloft_dubai_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faloft-city-centre-deira-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00, with a 24-hour front desk. Photo ID and a credit card are required, and the hotel asks for your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "30 m² Aloft Room",
+     "pop_html": "<strong>Cheapest room:</strong> The Aloft Room (323 ft², king or twin) has a city or pool view, the brand's signature bed, a walk-in shower and Bliss amenities."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots always free",
+     "pop_html": "<strong>Kids and access:</strong> Cots for under-2s are always available free; extra beds for 12+ cost AED 150 a night. Wheelchair accessible, with a lower sink, raised toilet and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚐",
+     "label": "T3 shuttle",
+     "pop_html": "<strong>Airport transfer:</strong> Scheduled shuttle to DXB Terminal 3. The hotel is 1.6 miles from the airport (3.6 km by its own description)."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Next to City Centre Deira",
+     "pop_html": "<strong>Location:</strong> Steps from City Centre Deira mall, with metro access and creek views. Guests rate the location 9.3, the highest location score on this page."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♾️",
+     "label": "Infinity pool",
+     "pop_html": "<strong>Pool and food:</strong> Outdoor infinity pool with pool bar; Re:fuel is a grab-and-go pantry, plus The Canteen, Han Shi Fu (Chinese), Salties Creek and the W XYZ bar. Breakfast €17."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎧",
+     "label": "Young and lively",
+     "pop_html": "<strong>The vibe:</strong> Bright design, the Re:mix lounge and W XYZ bar, for travellers who want a city base rather than a quiet airport hotel."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a short Dubai stay where you want the metro, a mall and a T3 shuttle on the doorstep: free cancellation from €124, location score 9.3.",
+    "skip_html": "if you just need a bed for a few hours by the terminal: Premier Inn (#1) is closer and €72 cheaper."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00. 24-hour front desk."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€17, or included on rates from €149 a night."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor infinity pool with pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Aloft Room 323 ft² (about 30 m²), king or twin, walk-in shower."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "1.6 miles from DXB; scheduled shuttle to Terminal 3."
+     }
+    ]
+   },
+   "price": {
+    "main": "€124",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€124"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_aloft_dubai_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faloft-city-centre-deira-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#5-aloft-dubai-creek",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Value 4★",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Royal Continental Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/06-royal-continental-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/06-royal-continental-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "independent",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Royal+Continental+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Port Saeed, next to Deira City Centre"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_royal_continental&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Froyal-continental.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Royal Continental Hotel"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(3k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_royal_continental&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Froyal-continental.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 and check-out until 12:00. You need to tell the hotel your arrival time in advance, useful to know for a late landing."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "29 m² Superior",
+     "pop_html": "<strong>Cheapest room:</strong> The Superior King or Twin (312 ft²) has a pool or city view, minibar and kettle. Junior Suites (570 ft²) and 624 ft² family interconnecting rooms are also listed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome. Cots for under-2s are free, extra beds AED 150 a night. Wheelchair accessible, with a lower sink, raised toilet and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "2 km to DXB",
+     "pop_html": "<strong>Airport:</strong> 1.3 miles from the airport by the search distance (2 km by the hotel's own description). No shuttle is listed, so plan a short taxi."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated pool + hammam",
+     "pop_html": "<strong>Pool and spa:</strong> Heated outdoor pool with a shallow end, a spa with a hammam and couples massage, and a fitness centre."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "0.5 km to the mall",
+     "pop_html": "<strong>Location:</strong> On 27th Street in Port Saeed, 0.5 km from Deira City Centre mall; the Oasis restaurant serves breakfast, lunch and dinner."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💶",
+     "label": "Quiet value",
+     "pop_html": "<strong>The vibe:</strong> A straightforward 4★ with an 8.8 guest score and 9.2 for staff, at a 3★ price."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for the best score per euro near the airport: an 8.8-rated 4★ with a heated pool and hammam, 2 km from DXB, from €65 with free cancellation.",
+    "skip_html": "if you want a free shuttle or to walk to the terminal: the Garhoud hotels (#1, #3, #4) are closer and run one."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00. Tell the hotel your arrival time."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool with shallow end."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Superior King or Twin 312 ft² (about 29 m²); Junior Suite 570 ft²; family interconnecting 624 ft²."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Spa with hammam and couples massage, fitness centre."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "27th Street, Port Saeed; Deira City Centre 0.5 km, Twin Towers Shopping Centre 3.1 km."
+     }
+    ]
+   },
+   "price": {
+    "main": "€65",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€65"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_royal_continental&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Froyal-continental.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#6-royal-continental-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Holiday Inn & Suites Dubai Festival City by IHG"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/07-holiday-inn-festival-city-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IHG",
+    "🏨 4★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Holiday+Inn+and+Suites+Dubai+Festival+City+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Gateway Avenue, Dubai Festival City"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_holiday_inn_festival_city&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fholiday-inn-dubai-festival-city.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Holiday Inn &amp; Suites Dubai Festival City by IHG"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.35",
+     "score": "4.3",
+     "meta": "4.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(4.3k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_holiday_inn_festival_city&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fholiday-inn-dubai-festival-city.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00, with a 24-hour front desk. Photo ID and a credit card are required and the hotel asks for your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "28 m² + family suites",
+     "pop_html": "<strong>Rooms:</strong> The Standard Room is 301 ft² with a bath, double or twin beds. The hotel also offers Family Suites, and selected rooms have a seating area."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids eat free",
+     "pop_html": "<strong>Kids and access:</strong> Children eat free with one paying adult. Cots for 0–3 are free; extra beds for 0–16 cost AED 184 a night. Wheelchair accessible, with a raised toilet and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "3 km to DXB",
+     "pop_html": "<strong>Airport:</strong> 1.9 miles from the airport by the search distance (3 km per the hotel). No shuttle is listed; it is a short taxi ride."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Kids&#x27; pool",
+     "pop_html": "<strong>Pools:</strong> Two heated outdoor pools including a kids' pool, with a pool bar and city views."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Mall connected",
+     "pop_html": "<strong>On the doorstep:</strong> Directly connected to Dubai Festival City Mall (500 shops, restaurants and family entertainment) and the IMAGINE water and laser show; IKEA is walkable."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎈",
+     "label": "Family friendly",
+     "pop_html": "<strong>The vibe:</strong> Family-focused and practical, with a superb-rated breakfast and a 9.2 staff score."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families arriving or leaving via DXB: kids eat free, a kids' pool, family suites and a mall with the IMAGINE show next door, 3 km from the airport, from €149.",
+    "skip_html": "if you are travelling as a couple on a tight budget or need a shuttle: Premier Inn (#1) or Millennium (#4) suit better."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00. 24-hour front desk."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€19, or included on rates from €160; kids eat free with a paying adult."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 heated outdoor pools incl. kids' pool, pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Standard Room 301 ft² (about 28 m²); Family Suites available."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Gateway Avenue, directly connected to Dubai Festival City Mall."
+     }
+    ]
+   },
+   "price": {
+    "main": "€149",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€149"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_holiday_inn_festival_city&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fholiday-inn-dubai-festival-city.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#7-holiday-inn-suites-festival-city",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "luxury",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Highest Guest Score",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Marriott Marquis Dubai Creek"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/08-marriott-marquis-creek-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Marriott+Marquis+Dubai+Creek+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jewel of the Creek, Port Saeed"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_marriott_marquis_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmarriott-marquis-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Marriott Marquis Dubai Creek"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.45",
+     "score": "4.5",
+     "meta": "1.9k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.9k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_marriott_marquis_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmarriott-marquis-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 and check-out until 12:00. There is no minimum age for check-in, unlike every other hotel here. Cash is not accepted."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Deluxe city view",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe King or Twin with city view, bathrobes, walk-in shower, bath and bidet, streaming TV and soundproof walls."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age welcome, free cots, extra beds AED 150 a night, a kids' pool and a family-friendly restaurant. All units are wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "3 km to DXB",
+     "pop_html": "<strong>Airport:</strong> 1.9 miles from the airport by the search distance (3 km per the hotel). Room rates include a free daily shuttle to DCC Mall and Kite Beach, not to the airport."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Heated pool + spa",
+     "pop_html": "<strong>Pool and spa:</strong> Heated outdoor pool with a shallow end and pool bar, hot tub, sauna and spa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍸",
+     "label": "4 restaurants",
+     "pop_html": "<strong>Dining:</strong> Creek Kitchen (all-day), The Copperhead, Ruby Ru by IRIS and BBQ Bros. Breakfast is €36, or included on refundable rates from €221."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🐾",
+     "label": "Pet friendly",
+     "pop_html": "<strong>The vibe:</strong> A creekside 5★ with the page's top guest score (8.9) and pets allowed on request (charges may apply)."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a first or last night in Dubai in a polished 5★: the highest guest score on this page (8.9), free cancellation, pets on request, 3 km from DXB, from €197.",
+    "skip_html": "if you need to be at the terminal fast or on a budget: Le Méridien (#2) is a 5★ for €36 less and closer."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00. No minimum check-in age."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€36, or included on refundable rates from €221 a night."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Free daily shuttle to Kite Beach and DCC Mall included in room rates."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool with shallow end and pool bar, kids' pool, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King or Twin, city view, bath and walk-in shower."
+     }
+    ]
+   },
+   "price": {
+    "main": "€197",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€197"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_marriott_marquis_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmarriott-marquis-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#8-marriott-marquis-dubai-creek",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "metro",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best for Space",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Flora Creek Deluxe Hotel Apartments"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/09-flora-creek-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/09-flora-creek-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "independent",
+    "🏨 4★ hotel apartments",
+    {
+     "url": "https://maps.google.com/?q=Flora+Creek+Deluxe+Hotel+Apartments+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Port Saeed, near Deira City Centre"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_flora_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fflora-creek-apartments.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Flora Creek Deluxe Hotel Apartments"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.35",
+     "score": "4.3",
+     "meta": "3.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(3.6k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_flora_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fflora-creek-apartments.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 14:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 14:00 and check-out until 12:00, with a 24-hour front desk. Tell the hotel your arrival time; an AED 300 cash deposit is taken on arrival and refunded at check-out."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "69 m² studio",
+     "pop_html": "<strong>Cheapest unit:</strong> The Studio Apartment is 743 ft² with a full kitchen, balcony and creek or landmark views. One-bedroom apartments are 840 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Cots for 0–3 are free; extra beds cost AED 75 for 4–11 and AED 125 for 12+. Wheelchair accessible, with grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚇",
+     "label": "Metro 5 min walk",
+     "pop_html": "<strong>Getting around:</strong> Deira City Centre mall and metro station are a 5-minute walk; the airport is about 10 minutes' drive (1.8 miles). No shuttle is listed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Indoor pool",
+     "pop_html": "<strong>Pool and spa:</strong> Temperature-controlled indoor pool, gym, sauna and steam bath; the Serenity Spa gives guests 10% off."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Olive Tree buffet",
+     "pop_html": "<strong>Dining:</strong> Olive Tree serves a daily breakfast buffet plus à la carte lunch and dinner; The West End Cafe does drinks and snacks."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏠",
+     "label": "Home base",
+     "pop_html": "<strong>The vibe:</strong> Serviced apartments with daily housekeeping, made for longer stays or families who want to cook."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or longer stays that want room to spread out: a 69 m² studio with a kitchen and balcony, 5 minutes' walk from the metro, from €115 at the member price with free cancellation.",
+    "skip_html": "if it is one night between flights: you are paying for a kitchen you will not use, and Premier Inn (#1) is closer."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 14:00; check-out until 12:00. 24-hour front desk; AED 300 cash deposit."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Indoor temperature-controlled pool."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Studio Apartment 743 ft² (about 69 m²) with kitchen and balcony; one-bedroom 840 ft²."
+     },
+     {
+      "q": "Is there a spa?",
+      "a": "Serenity Spa (10% guest discount), sauna, steam room, gym."
+     },
+     {
+      "q": "How far is the airport?",
+      "a": "1.8 miles from DXB, about 10 minutes' drive; no shuttle listed."
+     }
+    ]
+   },
+   "price": {
+    "main": "€115",
+    "sub": "from, per night, 2 adults, member price",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults, member price",
+      "price": "€115"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_flora_creek&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fflora-creek-apartments.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#9-flora-creek-apartments",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "luxury",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Best Creek Views",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Crowne Plaza Dubai Festival City"
+      ],
+      [
+       "data-src",
+       "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-01-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-02-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-03-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-04-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-05-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-06-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-07-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-08-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-09-t.avif"
+     },
+     {
+      "src": "/assets/best-hotels-dubai-airport/10-crowne-plaza-festival-city-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "IHG",
+    "🏨 5★ hotel",
+    {
+     "url": "https://maps.google.com/?q=Crowne+Plaza+Dubai+Festival+City+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Festival City, on Dubai Creek"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_crowne_plaza_festival_city&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcrowne-plaza-dubai-festival-city.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Crowne Plaza Dubai Festival City"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.30",
+     "score": "4.3",
+     "meta": "4.8k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.3",
+       "count": "(4.8k+)",
+       "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_crowne_plaza_festival_city&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcrowne-plaza-dubai-festival-city.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 and check-out until 12:00. Photo ID and a credit card are required and the hotel asks for your arrival time. The whole building is non-smoking."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "34 m² waterfront",
+     "pop_html": "<strong>Cheapest room:</strong> The Standard Twin with Waterfront View (366 ft²) looks over the creek, with a seating area, desk, bath and shower."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free kids&#x27; beds",
+     "pop_html": "<strong>Kids and access:</strong> Cots and extra beds are free for children up to 12; from 13 an extra bed is AED 150 a night. There is a kids' pool."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "2 km to DXB",
+     "pop_html": "<strong>Airport:</strong> Just 2 km from Dubai International by the hotel's description. No shuttle is listed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "2 pools",
+     "pop_html": "<strong>Pools and spa:</strong> Heated outdoor pool and kids' pool with a pool bar, hot tub, sauna and steam room, plus a wellness centre and gym."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛍️",
+     "label": "Mall access",
+     "pop_html": "<strong>On the doorstep:</strong> Direct access to Dubai Festival City Mall and its 500 shops and the IMAGINE show. Zaytoun serves Mediterranean all-day dining; there is also a Belgian Cafe. Breakfast €28."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Skyline views",
+     "pop_html": "<strong>The vibe:</strong> A non-smoking 5★ on the creek with skyline views, rated 9.2 for location."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a 5★ with free extra beds for kids under 13, creek views and the Festival City Mall next door, 2 km from the airport.",
+    "skip_html": "if price matters: at €278 it is the most expensive here, and Holiday Inn &amp; Suites (#7) shares the mall for €129 less."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00; check-out until 12:00. Photo ID and credit card required."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "€28, or included on rates from €330."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Heated outdoor pool and kids' pool, pool bar, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Standard Twin with Waterfront View, 366 ft² (about 34 m²)."
+     },
+     {
+      "q": "How do I get there?",
+      "a": "Dubai Festival City, direct access to Dubai Festival City Mall."
+     }
+    ]
+   },
+   "price": {
+    "main": "€278",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€278"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.airport_hotels_dubai_crowne_plaza_festival_city&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fcrowne-plaza-dubai-festival-city.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#10-crowne-plaza-festival-city",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}

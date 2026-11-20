@@ -1,0 +1,5191 @@
+{
+ "format": 1,
+ "icons": {
+  "Booking.com": "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "breakfast",
+    "luxury",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Banyan Tree Dubai at Bluewaters"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/01-banyan-tree-bluewaters-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Banyan Tree",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Banyan+Tree+Dubai+at+Bluewaters",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Bluewaters Island"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_banyan_tree_bluewaters&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbanyan-tree-dubai-at-bluewaters.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Banyan Tree Dubai at Bluewaters"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.75",
+     "score": "4.8",
+     "meta": "1.1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.8",
+       "count": "(1.1k+)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_banyan_tree_bluewaters&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbanyan-tree-dubai-at-bluewaters.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are asked for at check-in, and the resort wants your arrival time in advance."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "54 m² Bliss room",
+     "pop_html": "<strong>Cheapest room:</strong> The Bliss room (581 ft², king bed) has a balcony, a bath and a separate shower, with a yukata and fruit laid out for guests. Breakfast is included at the €570 rate."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids 7+ pay adult",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, but from 7 years they are charged as adults; extra beds for 7+ are free. No kids' club is listed. Wheelchair accessible, with an emergency cord in the bathroom."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "500 m private beach",
+     "pop_html": "<strong>Beach:</strong> 500 metres of private beachfront on Bluewaters Island, facing the Gulf with Ain Dubai behind. JBR and Dubai Marina are across the bridge, Marina Beach is 1.4 km away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "Demon Duck + 2 more",
+     "pop_html": "<strong>Dining:</strong> Demon Duck by Alvin Leung (Chinese), Alizée (French) and Tocha (international, also high tea). A breakfast-and-dinner rate for the Bliss room is €657."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Banyan Tree Spa",
+     "pop_html": "<strong>Spa and pool:</strong> The signature Banyan Tree Spa with sauna and steam room, plus a heated outdoor pool with a shallow end set in gardens."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Island resort",
+     "pop_html": "<strong>The vibe:</strong> Asian-styled rooms in natural materials, lush gardens and an island position across the bridge from JBR. Guests score comfort 9.7 and location 9.6, among the top marks here."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the joint best-reviewed beach resort on this list (9.5), a 500 m private beach and breakfast included at €570 a night.",
+    "skip_html": "if you travel with children over 6: they pay adult rates and no kids' club is listed, so Le Meridien (#4) or Four Seasons (#3) suit families better."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. Photo ID and credit card at check-in."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €570 Bliss room rate; breakfast and dinner from €657."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "500 m private beachfront on Bluewaters Island."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated outdoor pool with shallow end."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Bliss room 581 ft² (about 54 m²), king bed, balcony, bath and shower."
+     }
+    ]
+   },
+   "price": {
+    "main": "€570",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€570"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_banyan_tree_bluewaters&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fbanyan-tree-dubai-at-bluewaters.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#1-banyan-tree-bluewaters",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "breakfast",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Value on the Sand",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Sheraton Jumeirah Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/02-sheraton-jbr-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/02-sheraton-jbr-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Sheraton)",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Sheraton+Jumeirah+Beach+Resort+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 JBR, Al Sufouh Road"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_sheraton_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsheraton-jumeirah-beach-resort-towers.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Sheraton Jumeirah Beach Resort"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.40",
+     "score": "4.4",
+     "meta": "894 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.4",
+       "count": "(894)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_sheraton_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsheraton-jumeirah-beach-resort-towers.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. A refundable AED 1,000 damage deposit (about €247) is collected in cash on arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "36 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe King or Twin Room with JBR view (388 ft²), with private beach access written into the room name. Rooms were newly renovated, along with the lobby and Club Lounge."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome; from 12 they pay as adults. Cots are free, extra beds AED 150 a night. Wheelchair accessible, with a raised toilet and grab rails."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private white beach",
+     "pop_html": "<strong>Beach:</strong> The resort sits on a private white-sand beach at the Marina end of JBR, steps from The Walk, with Bliss Lounge for cocktails by the sand."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €231 rate includes breakfast (rated \"fabulous\"), free cancellation and pay at the property. Breakfast and dinner costs €275."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "5 restaurants",
+     "pop_html": "<strong>Dining:</strong> Seafield Mediterranean Eatery, Peacock (Chinese), Al Hadiqa (Levantine), & More lounge for high tea and Black Goose Sports Bar."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌴",
+     "label": "Beach resort at JBR",
+     "pop_html": "<strong>The vibe:</strong> A full-service beach resort with a large pool and sun terrace, squash courts and a spa with sauna and steam room. Location scores 9.3."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples and friends who want a real private beach at JBR with breakfast included for €231, the lowest breakfast-included price on this list.",
+    "skip_html": "if room size matters: the 36 m² Deluxe is one of the smallest rooms here; Habtoor Grand (#8) gives 40 m² for less, without breakfast in the rate."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00. AED 1,000 refundable cash deposit."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €231 rate; breakfast and dinner €275."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private white-sand beach."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Large outdoor pool with sun terrace and pool bar."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe King or Twin, JBR view, 388 ft² (about 36 m²)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€231",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€231"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_sheraton_jbr&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fsheraton-jumeirah-beach-resort-towers.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#2-sheraton-jumeirah-beach-resort",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "luxury",
+    "family",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Most Luxurious",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Four Seasons Resort Dubai at Jumeirah Beach"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/03-four-seasons-jumeirah-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Four Seasons",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Four+Seasons+Resort+Dubai+at+Jumeirah+Beach",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Jumeirah Beach, Jumeirah Road"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_four_seasons_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffour-seasons-resort-dubai-at-jumeirah-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Four Seasons Resort Dubai at Jumeirah Beach"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "945 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(945)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_four_seasons_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffour-seasons-resort-dubai-at-jumeirah-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Unlike most resorts here there is no minimum check-in age."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "70 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe City View Room (753 ft², king bed) with balcony, the biggest entry room on this list. Bathrooms have a deep soaking tub, rain shower and a mirror with built-in TV."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free beds to 17",
+     "pop_html": "<strong>Kids and access:</strong> Special programmes for younger guests; free cots for 0–2 and free extra beds for 3–17. PlayStation or Xbox on request. Wheelchair accessible, with lower sink and raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach",
+     "pop_html": "<strong>Beach:</strong> A private beach on Jumeirah Beach with cabanas and day villas for in-house guests, plus a jogging track close to the sand."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "3 pools",
+     "pop_html": "<strong>Pools:</strong> Two outdoor pools and an indoor pool, a hot tub and a lavish spa, plus tennis and padel courts."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍸",
+     "label": "Mercury Rooftop",
+     "pop_html": "<strong>Dining:</strong> Sea Fu (seafood), Jou Jou Brasserie, Shai Salon and Mercury Rooftop on the sixth floor, facing Burj Khalifa. Hendricks bar overlooks the sea."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Beach near Downtown",
+     "pop_html": "<strong>The vibe:</strong> Modern rooms with Arabic touches on a beach 15 minutes' drive from Burj Khalifa. Guests score cleanliness, comfort and staff 9.7, among the highest on the page."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and couples who want the most space (70 m² rooms), three pools and a beach close to Downtown, and are happy to pay €868 a night.",
+    "skip_html": "if you want breakfast included: the €868 rate does not show it, while Banyan Tree (#1) includes it for €570."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; no minimum check-in age."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not shown on the €868 rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach with cabanas and day villas."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 outdoor pools and 1 indoor pool, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe City View Room 753 ft² (about 70 m²), king bed, balcony."
+     }
+    ]
+   },
+   "price": {
+    "main": "€868",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€868"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_four_seasons_jumeirah&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Ffour-seasons-resort-dubai-at-jumeirah-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#3-four-seasons-jumeirah-beach",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "breakfast",
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best for Families",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Le Meridien Mina Seyahi Beach Resort & Waterpark"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/04-le-meridien-mina-seyahi-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Le Méridien)",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Le+Meridien+Mina+Seyahi+Beach+Resort+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Mina Seyahi, Al Sufouh"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_le_meridien_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-mina-seyahi-beach-resort-marina.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Le Meridien Mina Seyahi Beach Resort &amp; Waterpark"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.25",
+     "score": "4.2",
+     "meta": "2.4k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(2.4k+)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_le_meridien_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-mina-seyahi-beach-resort-marina.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Minimum check-in age is 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "32 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Skyline View with king bed (344 ft²), facing the Marina skyline, with a bath. Unlimited Jungle Bay waterpark access comes with the room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; club",
+     "pop_html": "<strong>Kids and access:</strong> Le Meridien Family Kids Club runs activity programmes and beach games, with 2 separate kids' pools. Cots are free; extra beds AED 125 a night. Wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "1,200 m beach",
+     "pop_html": "<strong>Beach:</strong> A 1,200-metre sandy beach, the longest on this list, with a water sports centre. Barasti beach bar with live entertainment is on site."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Jungle Bay waterpark",
+     "pop_html": "<strong>Pools:</strong> 4 pools (outdoor, kids', rooftop and infinity) plus Jungle Bay waterpark with slides and a wave pool, free for room guests."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Board:</strong> The €275 rate includes breakfast. Breakfast and dinner is €344, all-inclusive €458; breakfast alone is €33 on some room-only rates."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎉",
+     "label": "Family beach resort",
+     "pop_html": "<strong>The vibe:</strong> Lush gardens, five places to eat and drink (Latest Recipe, Barasti, Horizon, Fish, Bounty Beets) and live entertainment at Barasti in the evening."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families who want a kids' club, two kids' pools, a free waterpark and a 1.2 km beach, with breakfast included for €275.",
+    "skip_html": "if you want a bigger room or a higher score: the entry room is 32 m² and guests score it 8.5; Banyan Tree (#1) gives 54 m² and 9.5."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €275 rate; €33 on room-only rates; half board €344, all-inclusive €458."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "1,200 m sandy beach, water sports centre."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "4 pools (outdoor, kids', rooftop, infinity) plus Jungle Bay waterpark."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Skyline View, king bed, 344 ft² (about 32 m²)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€275",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€275"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_le_meridien_mina_seyahi&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fle-meridien-mina-seyahi-beach-resort-marina.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#4-le-meridien-mina-seyahi",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "breakfast",
+    "luxury",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Best Madinat Jumeirah Stay",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Jumeirah Mina Al Salam Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/05-mina-al-salam-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/05-mina-al-salam-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Jumeirah",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Jumeirah+Mina+Al+Salam+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Madinat Jumeirah, Umm Suqeim"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_mina_al_salam&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmina-a-salam-madinat-jumeirah.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Jumeirah Mina Al Salam Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "1.5k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.5k+)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_mina_al_salam&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmina-a-salam-madinat-jumeirah.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 until midnight, check-out until 12:00. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "50 m² Ocean Room",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Ocean Room (538 ft²) with a king bed plus sofa bed, a sea-view terrace and walk-in shower. Daily Wild Wadi waterpark access is part of the room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free beds to 11",
+     "pop_html": "<strong>Kids and access:</strong> Cots and extra beds are free for children up to 11. The supervised Jumeirah Circle kids' club is at sister hotel Jumeirah Al Qasr, with family pools across the resort."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "2 km private beach",
+     "pop_html": "<strong>Beach:</strong> Steps from the two kilometres of private beach shared by the Madinat Jumeirah resort, with gardens and waterways between the hotels."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Unlimited Wild Wadi",
+     "pop_html": "<strong>Extras:</strong> Unlimited free Wild Wadi Waterpark access; stays of three nights or more add one visit to Dubai Parks and Resorts. Talise spa has overwater treatment rooms."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Board:</strong> The €967 rate includes breakfast (rated \"exceptional\"); breakfast and dinner is €1,091. A 10% service charge, 5% VAT, a 7% municipality fee and the AED 20 tourism fee are added on top."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕌",
+     "label": "Arabian waterside",
+     "pop_html": "<strong>The vibe:</strong> Arabian-style rooms with private balconies over sea or gardens, 2 pools including a heated rooftop pool, and 6 restaurants such as Cala Vista and Margaux. Location 9.6."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and couples who want the Madinat Jumeirah setting, unlimited Wild Wadi, a 2 km beach and breakfast in one €967 rate.",
+    "skip_html": "if you are watching the budget: Le Meridien (#4) gives a kids' club, waterpark and breakfast for €275."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 00:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €967 rate; breakfast and dinner €1,091."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "2 km private beach of the Madinat Jumeirah resort."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "2 pools incl. heated rooftop pool with pool bar; family pools across the resort."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Ocean Room 538 ft² (about 50 m²), king plus sofa bed, sea-view terrace."
+     }
+    ]
+   },
+   "price": {
+    "main": "€967",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€967"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_mina_al_salam&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmina-a-salam-madinat-jumeirah.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#5-jumeirah-mina-al-salam",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "breakfast",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best Infinity Pool",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Address Beach Resort"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/06-address-beach-resort-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/06-address-beach-resort-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Address Hotels",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Address+Beach+Resort+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 The Walk, JBR"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_address_beach_resort&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-jumeirah-resort.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Address Beach Resort"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.70",
+     "score": "4.7",
+     "meta": "3.1k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(3.1k+)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_address_beach_resort&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-jumeirah-resort.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "2PM in, 2PM out",
+     "pop_html": "<strong>Check-in and out:</strong> Standard check-in is from 15:00 and check-out until 12:00, but the €474 package moves both to 14:00. Photo ID and a credit card at check-in."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Deal package",
+     "pop_html": "<strong>Cheapest room:</strong> The €474 rate is a limited-time deal package with daily breakfast, a floating breakfast once per stay and infinity pool access. Deluxe Marina City View rooms with balcony are 614 ft²."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Splash pad",
+     "pop_html": "<strong>Kids and access:</strong> Kids Splash Pad and a kids' pool; cots free, extra beds AED 400 a night. The sky pool is open to all ages until 11:30, then 16+ only. All units are wheelchair accessible."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "World&#x27;s highest pool",
+     "pop_html": "<strong>Pools:</strong> 4 open-air pools, including the record-holding outdoor infinity pool about 294 m up, with views of Bluewaters, Ain Dubai, the Palm and the Marina."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beachfront at JBR",
+     "pop_html": "<strong>Beach:</strong> Beachfront at the JBR end, with direct access to The Walk; The Beach Grill restaurant sits by the sand."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "9 restaurants",
+     "pop_html": "<strong>Dining:</strong> ZETA Seventy Seven, Mott 32, Pepe Cucina, OSH DEL MAR, The Beach Grill and more, plus The Spa at Address on the 75th floor."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Twin-tower resort",
+     "pop_html": "<strong>The vibe:</strong> Two 77-storey towers joined by a sky bridge, with The Walk at JBR at the door and a spa on the 75th floor. Comfort 9.7."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the world's highest infinity pool, nine restaurants and The Walk at JBR outside, with breakfast and 2PM check-out for €474.",
+    "skip_html": "if you travel with young children who want the sky pool after 11:30 (16+ only), or want the beach without a city tower: Banyan Tree (#1) is on an island."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00; 14:00 in and out on the €474 package."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €474 package."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Beachfront at JBR; Marina Beach 300 m."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "4 open-air pools incl. the infinity pool about 294 m up; kids' pool and splash pad."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Marina City View Room with balcony 614 ft² (about 57 m²)."
+     }
+    ]
+   },
+   "price": {
+    "main": "€474",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€474"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_address_beach_resort&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Faddress-jumeirah-resort.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#6-address-beach-resort",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "breakfast",
+    "couples"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Beach Club",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Nikki Beach Resort & Spa Dubai"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/07-nikki-beach-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/07-nikki-beach-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Nikki Beach",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Nikki+Beach+Resort+&+Spa+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Pearl Jumeira island"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_nikki_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fnikki-beach-resort-amp-spa-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Nikki Beach Resort &amp; Spa Dubai"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "1.8k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.5",
+       "count": "(1.8k+)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_nikki_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fnikki-beach-resort-amp-spa-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Minimum check-in age 18."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "55 m² Covet",
+     "pop_html": "<strong>Cheapest room:</strong> Covet King or Twin Room (592 ft²) with balcony and city view, walk-in closet, MyBar and a surround-sound system. 89 rooms, 29 suites and 15 villas in total."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; playroom",
+     "pop_html": "<strong>Kids and access:</strong> A Kids' Playroom is included. Cots free to 3, extra beds free for 4–5, AED 150 for 6–12 and AED 300 from 13, when children pay as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "450 m private beach",
+     "pop_html": "<strong>Beach:</strong> 450 m of private beach on Pearl Jumeira island with open Gulf views, and free access to the Nikki Beach Club."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "pop_html": "<strong>Breakfast:</strong> The €434 rate includes breakfast, rated \"exceptional\", with free cancellation until 14:00 on arrival day and pay at the property."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💆",
+     "label": "Longevity spa",
+     "pop_html": "<strong>Wellness:</strong> Nikki Spa adds ice baths and IV drips to classic treatments; Tone Gym is free, and there is seasonal beach yoga."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎶",
+     "label": "Beach-club resort",
+     "pop_html": "<strong>The vibe:</strong> Built around the Nikki Beach Club, with a house playlist on every room's sound system, five venues including Café Nikki and Soul Lounge, a hydroponic farm and Green Key certification."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the Nikki Beach Club on the doorstep, a 55 m² room and breakfast for €434, 15 minutes from Dubai International.",
+    "skip_html": "if you want a bigger room and three pools: Four Seasons (#3) on the same coast gives 70 m²."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Included on the €434 rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "450 m private beach, free Nikki Beach Club access."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "Outdoor pools."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Covet King or Twin Room 592 ft² (about 55 m²), balcony, city view."
+     }
+    ]
+   },
+   "price": {
+    "main": "€434",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€434"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_nikki_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fnikki-beach-resort-amp-spa-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>",
+     "<b>Breakfast-included rates</b> available"
+    ],
+    "sublink": {
+     "url": "#7-nikki-beach-resort-dubai",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #8 Cheapest 5★ on JBR Beach",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Al Habtoor Grand Resort, Autograph Collection"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/08-habtoor-grand-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/08-habtoor-grand-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Marriott Bonvoy (Autograph Collection)",
+    "🏨 5★ beach resort",
+    {
+     "url": "https://maps.google.com/?q=Al+Habtoor+Grand+Resort+Autograph+Collection+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 JBR, Al Falea Street"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_habtoor_grand&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhabtoor-grand-resort-spa.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Al Habtoor Grand Resort, Autograph Collection"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.15",
+     "score": "4.2",
+     "meta": "2.6k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.2",
+       "count": "(2.6k+)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_habtoor_grand&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhabtoor-grand-resort-spa.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and credit card at check-in; tell the hotel your arrival time."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "40 m² Tower room",
+     "pop_html": "<strong>Cheapest room:</strong> Tower Partial Sea View Room, 40 m², king or twins, with private beach access, 20% off food and drink, 30% off the spa and 50% off laundry."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; slides",
+     "pop_html": "<strong>Kids and access:</strong> Adult and children's slides, a kids' water splash and a kids' pool. Cots free, extra beds AED 150 a night; children 12+ pay as adults."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Private beach area",
+     "pop_html": "<strong>Beach:</strong> A private beach area on JBR with Al Manara Beach Bar and O Beach, walking distance to Dubai Marina and close to Ain Dubai and Skydive Dubai."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "3 pools + slides",
+     "pop_html": "<strong>Pools:</strong> 3 pools: outdoor, kids' and infinity, with a pool bar and water slides."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍳",
+     "label": "Breakfast €33",
+     "pop_html": "<strong>Breakfast:</strong> Breakfast is not listed with the €191 deal; it costs €33 on the standard room rate, and the standard breakfast-included rate is €245, non-refundable and paid before arrival."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎡",
+     "label": "13 places to eat",
+     "pop_html": "<strong>The vibe:</strong> A large resort with 13 restaurants and bars, from The Underground Pub to the Grand Grill, plus adult and kids' slides. Location scores 8.9."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families on a budget who want a 5★ resort on the JBR beach with slides, three pools and a 40 m² room from €191.",
+    "skip_html": "if you want breakfast and flexible terms: its standard breakfast rate is €245 and non-refundable, while the Sheraton (#2) includes both for €231."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not listed with the €191 deal; €33 on the standard rate; standard breakfast-included rate €245 (non-refundable)."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach area on JBR."
+     },
+     {
+      "q": "What pools are there?",
+      "a": "3 pools (outdoor, kids', infinity), pool bar, adult and kids' slides."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Tower Partial Sea View Room, 40 m², king or twins."
+     }
+    ]
+   },
+   "price": {
+    "main": "€191",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€191"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_habtoor_grand&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fhabtoor-grand-resort-spa.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Breakfast-included rates</b> available",
+     "<b>Private beach access on the cheapest room</b>"
+    ],
+    "sublink": {
+     "url": "#8-al-habtoor-grand-resort",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "couples",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #9 Best Budget on the Palm",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Mileo Hotel The Palm"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/09-mileo-the-palm-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/09-mileo-the-palm-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "independent",
+    "🏨 5★ hotel, private beach 200 m away",
+    {
+     "url": "https://maps.google.com/?q=Mileo+Hotel+The+Palm+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Palm Jumeirah"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_mileo_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmileo-amp-apartment-dubai.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Mileo Hotel The Palm"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.75",
+     "score": "4.8",
+     "meta": "980 reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.8",
+       "count": "(980)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_mileo_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmileo-amp-apartment-dubai.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "Out until 13:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00 to midnight, check-out from 12:00 to 13:00. Express check-in and out; cash is not accepted."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "Room with kitchen",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Seaside King Room with Beach Access, with a full kitchen (stovetop, fridge, microwave), bath and separate shower."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Free cots",
+     "pop_html": "<strong>Kids and access:</strong> Children of any age are welcome, 12+ pay as adults. Cots are free, extra beds AED 200 a night. Wheelchair accessible, with lower sink and raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Beach 200 m away",
+     "pop_html": "<strong>Beach:</strong> Free private beach access at Mileo Beach, 200 m from the hotel, rather than sand at the door. Palm West Beach is a few minutes away."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Rooftop infinity pool",
+     "pop_html": "<strong>Pool:</strong> Heated rooftop infinity pool with a shallow end and skyline views, plus spa, sauna and steam room."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🍽️",
+     "label": "6 restaurants",
+     "pop_html": "<strong>Dining:</strong> AYA Rooftop, AY Restaurant, AKA Lounge & Sushi Bar, Matcha 16, Papagalos and Fanzone Sport Bar. Breakfast is not shown in the €165 rate."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💎",
+     "label": "Top-scored value",
+     "pop_html": "<strong>The vibe:</strong> A modern hotel rather than a resort, with guest scores of 9.8 for comfort and 9.5 for value for money, the best value score here."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want a Palm Jumeirah address, a 9.5-rated hotel and free private beach access 200 m away for €165 a night.",
+    "skip_html": "if you want to walk from the pool straight onto the sand: the beach is 200 m away; for Palm resorts on the beach see our Palm hotel comparison."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00 to 00:00, check-out 12:00 to 13:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not shown on the €165 rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Free private beach access at Mileo Beach, 200 m away."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Heated rooftop infinity pool with shallow end."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Seaside King Room with Beach Access, full kitchen, bath and shower."
+     }
+    ]
+   },
+   "price": {
+    "main": "€165",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€165"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_mileo_the_palm&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fmileo-amp-apartment-dubai.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#9-mileo-hotel-the-palm",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-10",
+   "cats": [
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #10 Cheapest Beach Hotel",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Vida Creek Beach Hotel"
+      ],
+      [
+       "data-src",
+       "/assets/best-beach-resorts-dubai/10-vida-creek-beach-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-01-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-02-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-03-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-04-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-05-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-06-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-07-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-08-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-09-t.avif"
+     },
+     {
+      "src": "/assets/best-beach-resorts-dubai/10-vida-creek-beach-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Vida Hotels",
+    "🏨 4★ beach hotel",
+    {
+     "url": "https://maps.google.com/?q=Vida+Creek+Beach+Hotel+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Creek Harbour"
+    }
+   ],
+   "title": {
+    "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_vida_creek_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-creek-beach.en-gb.html&campaign_id=84",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Vida Creek Beach Hotel"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.65",
+     "score": "4.7",
+     "meta": "2.3k+ reviews · 1 site",
+     "heading": "Rating on Booking.com",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "Booking.com",
+       "score": "4.7",
+       "count": "(2.3k+)",
+       "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_vida_creek_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-creek-beach.en-gb.html&campaign_id=84",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "In 15:00, out 12:00",
+     "pop_html": "<strong>Check-in and out:</strong> Check-in from 15:00, check-out until 12:00. Photo ID and credit card at check-in; cash is not accepted and parties are not allowed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🛏️",
+     "label": "40 m² Deluxe",
+     "pop_html": "<strong>Cheapest room:</strong> Deluxe Room King or Twin (431 ft²) with balcony and terrace. Lagoon View rooms cost €162."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids&#x27; pool",
+     "pop_html": "<strong>Kids and access:</strong> Family rooms and a kids' pool; cots free for 0–3, extra beds for 12+ AED 150 a night. Wheelchair accessible, with lower sink and raised toilet."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏖️",
+     "label": "Creek beachfront",
+     "pop_html": "<strong>Beach:</strong> A beachfront hotel with a private beach at Dubai Creek Harbour, inland on the creek rather than on the open Gulf."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏊",
+     "label": "Infinity pool",
+     "pop_html": "<strong>Pool:</strong> Year-round outdoor infinity pool, hot tub, sun terrace and fitness centre; bicycles for rent."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✈️",
+     "label": "10 km to DXB",
+     "pop_html": "<strong>Location:</strong> 10 km from Dubai International, the closest to the airport on this list, and near Dubai Creek Harbour and Burj Khalifa."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌿",
+     "label": "9.3-rated 4★",
+     "pop_html": "<strong>The vibe:</strong> A modern 4★ hotel with one restaurant (Origins) and an \"exceptional\" breakfast rating, scoring 9.5 for comfort and 9.1 for value."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a short stay or a stopover near the airport when you want a private beach and a 9.3-rated hotel for €148.",
+    "skip_html": "if the beach is the holiday: this is a creek beach, not the Gulf, with one restaurant; pick Sheraton (#2) on JBR."
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What are the check-in and check-out times?",
+      "a": "From 15:00, check-out until 12:00."
+     },
+     {
+      "q": "Is breakfast included?",
+      "a": "Not shown on the €148 rate."
+     },
+     {
+      "q": "Does it have a beach?",
+      "a": "Private beach at Dubai Creek Harbour."
+     },
+     {
+      "q": "What is the pool like?",
+      "a": "Outdoor infinity pool, kids' pool, hot tub."
+     },
+     {
+      "q": "What are the rooms like?",
+      "a": "Deluxe Room King or Twin 431 ft² (about 40 m²), balcony, terrace."
+     }
+    ]
+   },
+   "price": {
+    "main": "€148",
+    "sub": "from, per night, 2 adults",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per night, 2 adults",
+      "price": "€148"
+     }
+    ],
+    "note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://tp.media/r?marker=404154.beach_resorts_dubai_vida_creek_beach&trs=404826&p=2076&u=https%3A%2F%2Fwww.booking.com%2Fhotel%2Fae%2Fvida-creek-beach.en-gb.html&campaign_id=84",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via Booking.com",
+    "trust": [
+     "<b>Free cancellation</b> on rates that show it",
+     "<b>No prepayment on some rates</b>"
+    ],
+    "sublink": {
+     "url": "#10-vida-creek-beach-hotel",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
