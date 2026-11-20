@@ -1,368 +1,608 @@
 {
-  "lang": "en",
-  "master": "best-desert-safaris-dubai/index.html",
-  "brand": {
-    "name": "LUXURY TRAVEL TESTER",
-    "href": "/",
-    "aria": "Luxury Travel Tester Homepage",
-    "emblem": "<span class=\"ltt-brand-emblem\">\n<svg fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"20\">\n<circle cx=\"12\" cy=\"12\" r=\"10\"></circle>\n<polygon points=\"16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76\"></polygon>\n</svg>\n</span>"
-  },
-  "nav_label": "Primary Navigation",
-  "nav": [
+ "lang": "en",
+ "master": "best-desert-safaris-dubai/index.html",
+ "brand": {
+  "name": "LUXURY TRAVEL TESTER",
+  "href": "/",
+  "aria": "Luxury Travel Tester Homepage",
+  "emblem": "<span class=\"ltt-brand-emblem\">\n<svg fill=\"none\" height=\"20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"20\">\n<circle cx=\"12\" cy=\"12\" r=\"10\"></circle>\n<polygon points=\"16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76\"></polygon>\n</svg>\n</span>"
+ },
+ "nav_label": "Primary Navigation",
+ "nav": [
+  {
+   "type": "dropdown",
+   "label": "Destinations",
+   "id": "lttDestinationsDropdown",
+   "columns": [
     {
-      "type": "dropdown",
-      "label": "Destinations",
-      "id": "lttDestinationsDropdown",
-      "columns": [
+     "groups": [
+      {
+       "head": "DUBAI & UAE",
+       "items": [
         {
-          "groups": [
-            {
-              "head": "DUBAI & UAE",
-              "items": [
-                {
-                  "href": "/best-desert-safaris-dubai",
-                  "active": true,
-                  "icon": "🏜️",
-                  "title": "Dubai Desert Safaris",
-                  "desc": "10 tested camps, dune bashing & VIP suites"
-                },
-                {
-                  "href": "/best-desert-safari-dubai",
-                  "icon": "🏆",
-                  "title": "Best Desert Safari: My Pick",
-                  "desc": "The one I would book after testing 8"
-                },
-                {
-                  "href": "/best-palm-jumeirah-hotels-dubai",
-                  "icon": "🏨",
-                  "title": "Dubai Palm Hotels",
-                  "desc": "10 luxury resorts & private beach reviews"
-                },
-                {
-                  "href": "/best-palm-jumeirah-hotel-dubai",
-                  "icon": "🏆",
-                  "title": "Best Palm Hotel: My Pick",
-                  "desc": "The one I would book after staying at 5"
-                }
-              ]
-            }
-          ]
+         "href": "/best-desert-safaris-dubai",
+         "active": true,
+         "icon": "🏜️",
+         "title": "Dubai Desert Safaris",
+         "desc": "10 tested camps, dune bashing & VIP suites"
         },
         {
-          "groups": [
-            {
-              "head": "DUBAI EXPERIENCES",
-              "subitems": [
-                {
-                  "href": "/best-water-parks-dubai",
-                  "label": "💦 Water Parks",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-burj-khalifa-tickets",
-                  "label": "🏙️ Burj Khalifa Tickets",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-adrenaline-experiences-dubai",
-                  "label": "🪂 Skydive & Adrenaline",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-hot-air-balloon-dubai",
-                  "label": "🎈 Hot Air Balloon Rides",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-helicopter-tours-dubai",
-                  "label": "🚁 Helicopter Tours",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-scuba-diving-dubai",
-                  "label": "🤿 Scuba Diving",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-dinner-cruises-dubai",
-                  "label": "🍽️ Dinner Cruises",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-dune-buggy-tours-dubai",
-                  "label": "🏎️ Dune Buggy Tours",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-dubai-city-tours",
-                  "label": "🗺️ City Tours",
-                  "_fmt": {"0": {"p": ""}}
-                },
-                {
-                  "href": "/best-jet-ski-tours-dubai",
-                  "label": "🌊 Jet Ski Tours",
-                  "_fmt": {"0": {"p": ""}}
-                }
-              ],
-              "_fmt": {"0": {"p": ""}, "1": {"e": "", "p": ""}}
-            }
-          ],
-          "attrs": {
-            "id": "ltt-mega-experiences"
-          },
-          "_fmt": {"0": {"e": "", "p": ""}}
+         "href": "/best-desert-safari-dubai",
+         "icon": "🏆",
+         "title": "Best Desert Safari: My Pick",
+         "desc": "The one I would book after testing 8"
         },
         {
-          "groups": [
-            {
-              "head": "HOTEL REVIEWS",
-              "subitems": [
-                {
-                  "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
-                  "label": "Atlantis The Royal Review"
-                },
-                {
-                  "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
-                  "label": "Atlantis The Palm Review"
-                },
-                {
-                  "href": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
-                  "label": "Anantara The Palm Review"
-                }
-              ]
-            },
-            {
-              "head": "TRAVEL STATISTICS",
-              "subitems": [
-                {
-                  "href": "/dubai-tourism-statistics",
-                  "label": "📊 Dubai Tourism Statistics"
-                },
-                {
-                  "href": "/abu-dhabi-tourism-statistics",
-                  "label": "📊 Abu Dhabi Tourism Statistics"
-                },
-                {
-                  "href": "/uae-tourism-statistics",
-                  "label": "📊 UAE Tourism Statistics"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "link",
-      "label": "Desert Safaris",
-      "href": "/best-desert-safaris-dubai",
-      "active": true
-    },
-    {
-      "type": "link",
-      "label": "Palm Hotels",
-      "href": "/best-palm-jumeirah-hotels-dubai"
-    },
-    {
-      "type": "link",
-      "label": "About",
-      "href": "/about"
-    },
-    {
-      "type": "link",
-      "label": "Contact",
-      "href": "/contact"
-    }
-  ],
-  "search": {
-    "label": "Search",
-    "placeholder": "Search safaris, hotels and tours"
-  },
-  "hamburger": {
-    "label": "Toggle Menu"
-  },
-  "drawer": [
-    {
-      "type": "section",
-      "groups": [
+         "href": "/best-palm-jumeirah-hotels-dubai",
+         "icon": "🏨",
+         "title": "Dubai Palm Hotels",
+         "desc": "10 luxury resorts & private beach reviews"
+        },
         {
-          "head": "Destinations & Guides",
-          "items": [
-            {
-              "href": "/best-desert-safaris-dubai",
-              "title": "🏜️ Dubai Desert Safaris",
-              "tag": "TOP PICK",
-              "tag_attrs": {
-                "style": "font-size:10px; font-weight:800; background:#d97706; color:#fff; padding:2px 7px; border-radius:9999px;"
-              }
-            },
-            {
-              "href": "/best-desert-safari-dubai",
-              "title": "🏆 Best Desert Safari: My Pick"
-            },
-            {
-              "href": "/best-palm-jumeirah-hotels-dubai",
-              "title": "🏨 Dubai Palm Hotels"
-            },
-            {
-              "href": "/best-palm-jumeirah-hotel-dubai",
-              "title": "🏆 Best Palm Jumeirah Hotel: My Pick"
-            }
-          ]
+         "href": "/best-palm-jumeirah-hotel-dubai",
+         "icon": "🏆",
+         "title": "Best Palm Hotel: My Pick",
+         "desc": "The one I would book after staying at 5"
         }
-      ]
+       ]
+      }
+     ]
     },
     {
-      "type": "section",
-      "groups": [
+     "groups": [
+      {
+       "head": "DUBAI EXPERIENCES",
+       "subitems": [
         {
-          "head": "Dubai Experiences",
-          "items": [
-            {
-              "href": "/best-water-parks-dubai",
-              "title": "💦 Water Parks",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-burj-khalifa-tickets",
-              "title": "🏙️ Burj Khalifa Tickets",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-adrenaline-experiences-dubai",
-              "title": "🪂 Skydive & Adrenaline",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-hot-air-balloon-dubai",
-              "title": "🎈 Hot Air Balloon Rides",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-helicopter-tours-dubai",
-              "title": "🚁 Helicopter Tours",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-scuba-diving-dubai",
-              "title": "🤿 Scuba Diving",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-dinner-cruises-dubai",
-              "title": "🍽️ Dinner Cruises",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-dune-buggy-tours-dubai",
-              "title": "🏎️ Dune Buggy Tours",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-dubai-city-tours",
-              "title": "🗺️ City Tours",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            },
-            {
-              "href": "/best-jet-ski-tours-dubai",
-              "title": "🌊 Jet Ski Tours",
-              "_fmt": {"0": {"e": "", "p": ""}, "0.0": {"p": ""}}
-            }
-          ],
-          "_fmt": {"0": {"p": ""}}
+         "href": "/best-water-parks-dubai",
+         "label": "💦 Water Parks",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-burj-khalifa-tickets",
+         "label": "🏙️ Burj Khalifa Tickets",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-adrenaline-experiences-dubai",
+         "label": "🪂 Skydive & Adrenaline",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-hot-air-balloon-dubai",
+         "label": "🎈 Hot Air Balloon Rides",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-helicopter-tours-dubai",
+         "label": "🚁 Helicopter Tours",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-scuba-diving-dubai",
+         "label": "🤿 Scuba Diving",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-dinner-cruises-dubai",
+         "label": "🍽️ Dinner Cruises",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-dune-buggy-tours-dubai",
+         "label": "🏎️ Dune Buggy Tours",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-dubai-city-tours",
+         "label": "🗺️ City Tours",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
+        },
+        {
+         "href": "/best-jet-ski-tours-dubai",
+         "label": "🌊 Jet Ski Tours",
+         "_fmt": {
+          "0": {
+           "p": ""
+          }
+         }
         }
-      ],
-      "attrs": {
-        "id": "ltt-mobile-experiences"
+       ],
+       "_fmt": {
+        "0": {
+         "p": ""
+        },
+        "1": {
+         "e": "",
+         "p": ""
+        }
+       }
+      }
+     ],
+     "attrs": {
+      "id": "ltt-mega-experiences"
+     },
+     "_fmt": {
+      "0": {
+       "e": "",
+       "p": ""
+      }
+     }
+    },
+    {
+     "groups": [
+      {
+       "head": "DUBAI HOTELS",
+       "subitems": [
+        {
+         "href": "/best-luxury-hotels-dubai",
+         "label": "💎 Luxury Hotels"
+        },
+        {
+         "href": "/best-beach-resorts-dubai",
+         "label": "🏖️ Beach Resorts"
+        },
+        {
+         "href": "/best-family-resorts-dubai",
+         "label": "👨‍👩‍👧 Family Resorts"
+        },
+        {
+         "href": "/best-hotels-dubai-marina",
+         "label": "⛵ Dubai Marina Hotels"
+        },
+        {
+         "href": "/best-hotels-downtown-dubai",
+         "label": "🏙️ Downtown Hotels"
+        },
+        {
+         "href": "/best-hotels-jbr-dubai",
+         "label": "🌊 JBR Hotels"
+        },
+        {
+         "href": "/best-hotels-business-bay-dubai",
+         "label": "🏢 Business Bay Hotels"
+        },
+        {
+         "href": "/best-hotels-dubai-creek",
+         "label": "🛶 Creek & Deira Hotels"
+        },
+        {
+         "href": "/best-hotels-dubai-airport",
+         "label": "✈️ Airport Hotels"
+        },
+        {
+         "href": "/best-hotels-private-pool-dubai",
+         "label": "🏊 Private Pool Hotels"
+        }
+       ]
       },
-      "_fmt": {"0": {"e": "", "p": ""}}
-    },
-    {
-      "type": "section",
-      "groups": [
+      {
+       "head": "HOTEL REVIEWS",
+       "subitems": [
         {
-          "head": "Featured Hotel Reviews",
-          "items": [
-            {
-              "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
-              "title": "👑 Atlantis The Royal"
-            },
-            {
-              "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
-              "title": "🌊 Atlantis The Palm"
-            },
-            {
-              "href": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
-              "title": "🌿 Anantara The Palm"
-            },
-            {
-              "href": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
-              "title": "🍸 FIVE Palm Jumeirah"
-            },
-            {
-              "href": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
-              "title": "🏖️ Rixos The Palm"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "section",
-      "groups": [
+         "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+         "label": "Atlantis The Royal Review"
+        },
         {
-          "head": "Editorial",
-          "items": [
-            {
-              "href": "/about",
-              "title": "📖 About & Testing Standards"
-            },
-            {
-              "href": "/contact",
-              "title": "✉️ Contact Editorial Desk"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "section",
-      "groups": [
+         "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+         "label": "Atlantis The Palm Review"
+        },
         {
-          "head": "Travel Statistics",
-          "items": [
-            {
-              "href": "/dubai-tourism-statistics",
-              "title": "📊 Dubai Tourism Statistics"
-            },
-            {
-              "href": "/abu-dhabi-tourism-statistics",
-              "title": "📊 Abu Dhabi Tourism Statistics"
-            },
-            {
-              "href": "/uae-tourism-statistics",
-              "title": "📊 UAE Tourism Statistics"
-            }
-          ]
+         "href": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+         "label": "Anantara The Palm Review"
         }
-      ]
+       ]
+      },
+      {
+       "head": "TRAVEL STATISTICS",
+       "subitems": [
+        {
+         "href": "/dubai-tourism-statistics",
+         "label": "📊 Dubai Tourism Statistics"
+        },
+        {
+         "href": "/abu-dhabi-tourism-statistics",
+         "label": "📊 Abu Dhabi Tourism Statistics"
+        },
+        {
+         "href": "/uae-tourism-statistics",
+         "label": "📊 UAE Tourism Statistics"
+        }
+       ]
+      }
+     ]
     }
-  ],
-  "after": [
-    {
-      "raw": "<style id=\"ltt-search-btn-styles\">\n.ltt-search-btn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;padding:0;border-radius:9999px;border:1px solid #cbd5e1;background:#f8fafc;color:#0f172a;cursor:pointer;flex-shrink:0;transition:all .2s cubic-bezier(.16,1,.3,1)}\n.ltt-search-btn:hover,.ltt-search-btn:focus-visible{background:#fff;border-color:#dfa732;box-shadow:0 4px 12px rgba(223,167,50,.18);outline:none}\n.ltt-search-btn svg{color:#64748b}.ltt-search-btn:hover svg{color:#9f6e0d}\n@media (max-width:991px){.ltt-search-btn{width:42px;height:42px;border-radius:10px;border-color:#e2e8f0;background:transparent}}\n@media (max-width:420px){.ltt-search-btn{width:36px;height:36px}.ltt-nav-right{gap:8px!important}.ltt-brand{font-size:13px!important;letter-spacing:.02em!important;gap:8px!important}}\n</style>"
-    },
-    {
-      "raw": "<script defer=\"\" src=\"/js/site-search.js?v=20261113a\"></script>"
-    }
-  ],
-  "icons": {
-    "chevron": "<svg class=\"ltt-chevron\" fill=\"none\" height=\"12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.5\" viewbox=\"0 0 24 24\" width=\"12\">\n<polyline points=\"6 9 12 15 18 9\"></polyline>\n</svg>",
-    "search": "<svg aria-hidden=\"true\" fill=\"none\" height=\"17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.2\" viewbox=\"0 0 24 24\" width=\"17\"><circle cx=\"11\" cy=\"11\" r=\"7\"></circle><line x1=\"21\" x2=\"16.65\" y1=\"21\" y2=\"16.65\"></line></svg>"
+   ]
   },
-  "layout": {
-    "nav_button": "b",
-    "mega_item": "b",
-    "mega_item_body": "b"
+  {
+   "type": "link",
+   "label": "Desert Safaris",
+   "href": "/best-desert-safaris-dubai",
+   "active": true
+  },
+  {
+   "type": "link",
+   "label": "Palm Hotels",
+   "href": "/best-palm-jumeirah-hotels-dubai"
+  },
+  {
+   "type": "link",
+   "label": "About",
+   "href": "/about"
+  },
+  {
+   "type": "link",
+   "label": "Contact",
+   "href": "/contact"
   }
+ ],
+ "search": {
+  "label": "Search",
+  "placeholder": "Search safaris, hotels and tours"
+ },
+ "hamburger": {
+  "label": "Toggle Menu"
+ },
+ "drawer": [
+  {
+   "type": "section",
+   "groups": [
+    {
+     "head": "Destinations & Guides",
+     "items": [
+      {
+       "href": "/best-desert-safaris-dubai",
+       "title": "🏜️ Dubai Desert Safaris",
+       "tag": "TOP PICK",
+       "tag_attrs": {
+        "style": "font-size:10px; font-weight:800; background:#d97706; color:#fff; padding:2px 7px; border-radius:9999px;"
+       }
+      },
+      {
+       "href": "/best-desert-safari-dubai",
+       "title": "🏆 Best Desert Safari: My Pick"
+      },
+      {
+       "href": "/best-palm-jumeirah-hotels-dubai",
+       "title": "🏨 Dubai Palm Hotels"
+      },
+      {
+       "href": "/best-palm-jumeirah-hotel-dubai",
+       "title": "🏆 Best Palm Jumeirah Hotel: My Pick"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "groups": [
+    {
+     "head": "Dubai Experiences",
+     "items": [
+      {
+       "href": "/best-water-parks-dubai",
+       "title": "💦 Water Parks",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-burj-khalifa-tickets",
+       "title": "🏙️ Burj Khalifa Tickets",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-adrenaline-experiences-dubai",
+       "title": "🪂 Skydive & Adrenaline",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-hot-air-balloon-dubai",
+       "title": "🎈 Hot Air Balloon Rides",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-helicopter-tours-dubai",
+       "title": "🚁 Helicopter Tours",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-scuba-diving-dubai",
+       "title": "🤿 Scuba Diving",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-dinner-cruises-dubai",
+       "title": "🍽️ Dinner Cruises",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-dune-buggy-tours-dubai",
+       "title": "🏎️ Dune Buggy Tours",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-dubai-city-tours",
+       "title": "🗺️ City Tours",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      },
+      {
+       "href": "/best-jet-ski-tours-dubai",
+       "title": "🌊 Jet Ski Tours",
+       "_fmt": {
+        "0": {
+         "e": "",
+         "p": ""
+        },
+        "0.0": {
+         "p": ""
+        }
+       }
+      }
+     ],
+     "_fmt": {
+      "0": {
+       "p": ""
+      }
+     }
+    }
+   ],
+   "attrs": {
+    "id": "ltt-mobile-experiences"
+   },
+   "_fmt": {
+    "0": {
+     "e": "",
+     "p": ""
+    }
+   }
+  },
+  {
+   "type": "section",
+   "groups": [
+    {
+     "head": "Dubai Hotels",
+     "items": [
+      {
+       "href": "/best-luxury-hotels-dubai",
+       "title": "💎 Luxury Hotels"
+      },
+      {
+       "href": "/best-beach-resorts-dubai",
+       "title": "🏖️ Beach Resorts"
+      },
+      {
+       "href": "/best-family-resorts-dubai",
+       "title": "👨‍👩‍👧 Family Resorts"
+      },
+      {
+       "href": "/best-hotels-dubai-marina",
+       "title": "⛵ Dubai Marina Hotels"
+      },
+      {
+       "href": "/best-hotels-downtown-dubai",
+       "title": "🏙️ Downtown Hotels"
+      },
+      {
+       "href": "/best-hotels-jbr-dubai",
+       "title": "🌊 JBR Hotels"
+      },
+      {
+       "href": "/best-hotels-business-bay-dubai",
+       "title": "🏢 Business Bay Hotels"
+      },
+      {
+       "href": "/best-hotels-dubai-creek",
+       "title": "🛶 Creek & Deira Hotels"
+      },
+      {
+       "href": "/best-hotels-dubai-airport",
+       "title": "✈️ Airport Hotels"
+      },
+      {
+       "href": "/best-hotels-private-pool-dubai",
+       "title": "🏊 Private Pool Hotels"
+      }
+     ]
+    }
+   ],
+   "attrs": {
+    "id": "ltt-mobile-hotels"
+   }
+  },
+  {
+   "type": "section",
+   "groups": [
+    {
+     "head": "Featured Hotel Reviews",
+     "items": [
+      {
+       "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-royal-dubai-review",
+       "title": "👑 Atlantis The Royal"
+      },
+      {
+       "href": "/best-palm-jumeirah-hotels-dubai/atlantis-the-palm-dubai-review",
+       "title": "🌊 Atlantis The Palm"
+      },
+      {
+       "href": "/best-palm-jumeirah-hotels-dubai/anantara-the-palm-dubai-review",
+       "title": "🌿 Anantara The Palm"
+      },
+      {
+       "href": "/best-palm-jumeirah-hotels-dubai/five-palm-jumeirah-dubai-review",
+       "title": "🍸 FIVE Palm Jumeirah"
+      },
+      {
+       "href": "/best-palm-jumeirah-hotels-dubai/rixos-the-palm-dubai-review",
+       "title": "🏖️ Rixos The Palm"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "groups": [
+    {
+     "head": "Editorial",
+     "items": [
+      {
+       "href": "/about",
+       "title": "📖 About & Testing Standards"
+      },
+      {
+       "href": "/contact",
+       "title": "✉️ Contact Editorial Desk"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "section",
+   "groups": [
+    {
+     "head": "Travel Statistics",
+     "items": [
+      {
+       "href": "/dubai-tourism-statistics",
+       "title": "📊 Dubai Tourism Statistics"
+      },
+      {
+       "href": "/abu-dhabi-tourism-statistics",
+       "title": "📊 Abu Dhabi Tourism Statistics"
+      },
+      {
+       "href": "/uae-tourism-statistics",
+       "title": "📊 UAE Tourism Statistics"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "after": [
+  {
+   "raw": "<style id=\"ltt-search-btn-styles\">\n.ltt-search-btn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;padding:0;border-radius:9999px;border:1px solid #cbd5e1;background:#f8fafc;color:#0f172a;cursor:pointer;flex-shrink:0;transition:all .2s cubic-bezier(.16,1,.3,1)}\n.ltt-search-btn:hover,.ltt-search-btn:focus-visible{background:#fff;border-color:#dfa732;box-shadow:0 4px 12px rgba(223,167,50,.18);outline:none}\n.ltt-search-btn svg{color:#64748b}.ltt-search-btn:hover svg{color:#9f6e0d}\n@media (max-width:991px){.ltt-search-btn{width:42px;height:42px;border-radius:10px;border-color:#e2e8f0;background:transparent}}\n@media (max-width:420px){.ltt-search-btn{width:36px;height:36px}.ltt-nav-right{gap:8px!important}.ltt-brand{font-size:13px!important;letter-spacing:.02em!important;gap:8px!important}}\n</style>"
+  },
+  {
+   "raw": "<script defer=\"\" src=\"/js/site-search.js?v=20261113a\"></script>"
+  }
+ ],
+ "icons": {
+  "chevron": "<svg class=\"ltt-chevron\" fill=\"none\" height=\"12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.5\" viewbox=\"0 0 24 24\" width=\"12\">\n<polyline points=\"6 9 12 15 18 9\"></polyline>\n</svg>",
+  "search": "<svg aria-hidden=\"true\" fill=\"none\" height=\"17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.2\" viewbox=\"0 0 24 24\" width=\"17\"><circle cx=\"11\" cy=\"11\" r=\"7\"></circle><line x1=\"21\" x2=\"16.65\" y1=\"21\" y2=\"16.65\"></line></svg>"
+ },
+ "layout": {
+  "nav_button": "b",
+  "mega_item": "b",
+  "mega_item_body": "b"
+ }
 }

@@ -1,0 +1,1613 @@
+{
+ "slug": "best-hotels-dubai-creek",
+ "partner": "booking",
+ "allow_safari_words": true,
+ "cmp": "creek_hotels_dubai",
+ "title_tag": "10 Best Dubai Creek & Deira Hotels (2026): Prices Compared",
+ "meta_description": "Dubai Creek hotels from €66 in Deira to €233 at Raffles. Deira, Al Seef, Wafi and Creek Harbour compared on price, score, pool, breakfast and metro.",
+ "h1": "10 Best Hotels on Dubai Creek (2026)",
+ "h1_main": "10 Best Hotels on Dubai Creek in 2026",
+ "h1_muted": "(Deira, Al Seef and Creek Harbour Compared)",
+ "breadcrumb": "Best Hotels on Dubai Creek",
+ "kicker_badge": "✓ 2026 Side-by-Side Comparison",
+ "author_role": "10 Creek hotels compared on nightly price, score, room size, pool, breakfast and metro",
+ "lead": [
+  "<strong>For most people the best Dubai Creek hotel is Mövenpick Dubai Creek in Deira: a 5-star with a rooftop pool over the water for €86 a night.</strong> On a tighter budget, Jannah in Deira scores 9.0 for €66. If you want a beach and an infinity pool, cross to Creek Harbour, where Vida Creek Beach costs €148, and for old Dubai on foot, Canopy by Hilton in Al Seef is €95.",
+  "We lined up 10 hotels across all three sides of the Creek (Deira, the Bur Dubai bank from Al Seef to Al Jaddaf, and Creek Harbour) and compared them on the price for the same night, guest and location scores, room size, pool or beach, breakfast cost and metro access. Use the filters to pick a side or a budget, or jump to the comparison table."
+ ],
+ "filter_all_label": "All Hotels",
+ "filters": [
+  {
+   "cat": "deira",
+   "label": "🕌 Deira side"
+  },
+  {
+   "cat": "burdubai",
+   "label": "🏛️ Bur Dubai side"
+  },
+  {
+   "cat": "harbour",
+   "label": "🏙️ Creek Harbour"
+  },
+  {
+   "cat": "budget",
+   "label": "💶 Under €100"
+  },
+  {
+   "cat": "kitchen",
+   "label": "🍳 Suites & kitchens"
+  }
+ ],
+ "filter_rows": [
+  {
+   "label": "Side of the Creek",
+   "cats": [
+    "deira",
+    "burdubai",
+    "harbour"
+   ]
+  },
+  {
+   "label": "Budget & style",
+   "cats": [
+    "budget",
+    "kitchen"
+   ]
+  }
+ ],
+ "sticky_trust": "No booking fee",
+ "price_note": "Lowest nightly rate for 2 adults on 13–14 January 2027. Dates, room type and board change it; taxes and the Dubai tourism fee are added at booking.",
+ "breakdown_title": "Detailed Breakdown: 10 Best Hotels on Dubai Creek",
+ "things": "Creek Hotels",
+ "sheet_label": "a Dubai Creek Hotel",
+ "items": [
+  {
+   "rank_tag": "🏆 #1 Best Overall",
+   "rank_class": "bpa-gold",
+   "cat": "deira budget",
+   "operator": "Mövenpick",
+   "duration": "5★ hotel",
+   "place": "Banyas Street, Deira creekside",
+   "map_q": "Mövenpick Dubai Creek Dubai",
+   "title": "Mövenpick Dubai Creek",
+   "short_title": "Mövenpick Dubai Creek",
+   "link": "https://www.booking.com/hotel/ae/movenpick-dubai-creek.en-gb.html",
+   "rating10": 9.2,
+   "reviews": 7882,
+   "price": 86,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670241.jpg?k=2918b7cd65cc6a3c79a2fbbd8894975776d1b1e4dddf97e0eb4ae37dbc50a78d",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/930994170.jpg?k=71bd86cd214a78bbb0f8f0b5fa903213414a8722470914db260d8f206b40ef11",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670239.jpg?k=ce19e83b1d010d863cc0a932167c047ffca42ea536a158706404a72ce80da786",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670250.jpg?k=1bd1aa99ef9ecbfbb8d67c09ac8cad0258057ac2e0951f8b66a5dc4aa9de576a",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670242.jpg?k=97ee1814ce6cbc7353771a9786275f31744a4c7bbed9f1aebc72beb7d12b3c86",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670256.jpg?k=953a5b021a7693e9005ceb6b4c4d50f5f25f82299e2d8807dc4154136fabc170",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670268.jpg?k=135f249d652b1180786e34787ff03ffcf97256c5455ee13ee9c5b0ded5e638cd",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670275.jpg?k=fd2ab39304307f483b68692017a3c36cf754d95a805524fd794085fe0f965a4c",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670266.jpg?k=09a0d67e582de61d0c571c5e9e018d78f8a8b47786c7363d91aebb7ead357b39",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914670280.jpg?k=f8c8f03c8d38de8819db6b7618a8785f139255eff8bfde4976bccd2e6cd2fd2d"
+   ],
+   "photo_slug": "movenpick-creek",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in runs from 15:00 to midnight, check-out from 11:30 to 12:00. An AED 500 (about €123) refundable cash deposit is taken on arrival.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "45 m² deluxe king",
+     "lead": "Cheapest room:",
+     "body": "The €86 rate is a Deluxe king room of 484 ft² (about 45 m²) with creek or city skyline views, a marble bathroom and Mövenpick's Serenity Bed."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome. Cots are free for 0–2 years, extra beds cost AED 150 a night from age 3, and children 12+ are charged as adults.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🏊",
+     "label": "Rooftop pool + bar",
+     "lead": "Pool:",
+     "body": "Outdoor rooftop pool with the Skyview Pool Bar, which serves drinks and light bites with panoramic views over the Creek and the city."
+    },
+    {
+     "emoji": "🍳",
+     "label": "Breakfast €22",
+     "lead": "Breakfast:",
+     "body": "Breakfast at The Great Oaks costs €22 on room-only rates. Breakfast-included rates start at €116 a night and half board at €145."
+    },
+    {
+     "emoji": "💆",
+     "label": "Spa + valet",
+     "lead": "Extras:",
+     "body": "Spa and wellness centre with massage, a fitness centre, and complimentary valet parking. An airport shuttle is available on request."
+    },
+    {
+     "emoji": "✨",
+     "label": "Creek-view 5★ value",
+     "lead": "Vibe:",
+     "body": "A full-service 5-star on the busy Deira side of the Creek, 10 minutes by car from the gold and textile markets, at a mid-range price.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for the best all-round Creek stay: a 5-star with a rooftop pool over the water, a 9.2 score and the joint-highest value score here (9.1), for €86 a night.",
+   "skip": "if you want a beach or a resort-style pool deck: for that, Creek Harbour (#2 or #4) costs €62–96 more.",
+   "pros": [
+    "€86 for a 5-star with a 9.2 score",
+    "Rooftop pool and bar with Creek and skyline views",
+    "Largest cheapest room under €100: 484 ft² (about 45 m²)",
+    "Free valet parking, airport 5 km away",
+    "Staff score 9.5"
+   ],
+   "cons": [
+    "No beach: the pool deck is on the roof",
+    "AED 500 cash deposit at check-in",
+    "Breakfast adds €22 on the cheapest rate",
+    "Children 12+ count as adults"
+   ],
+   "review": [
+    "Mövenpick Dubai Creek wins because nothing else on this list gives you as much hotel for the money. <strong>€86 a night buys a 5-star room of about 45 m²</strong> on Banyas Street, right on the Deira bank, with a <strong>9.2 guest score</strong> and a 9.1 for value. At that price it undercuts every other 5-star here by €50 or more.",
+    "The pool is on the roof, with the Skyview Pool Bar looking out over the Creek and the city skyline. Rooms face either the Creek or the city, and there are four places to eat, from The Great Oaks for breakfast to Buonissimo for wood-fired pizza. Spa, gym and free valet parking complete a full 5-star package.",
+    "It suits couples and first-timers who want the old-Dubai side of the Creek, the gold and textile markets 10 minutes away by car, and Dubai International Airport only 5 km away by metro or taxi. Compared with Jannah (#7), you pay €20 more for a bigger room, a rooftop pool and a much broader restaurant line-up.",
+    "Catches: the cheapest rate is room only (breakfast €22), the tourism fee of AED 20 a night plus 5% VAT and a 7% municipality fee come on top, and there is a refundable AED 500 cash deposit on arrival."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00 to 00:00; check-out 11:30 to 12:00"
+    ],
+    [
+     "Rooms",
+     "Deluxe king room, 484 ft² (about 45 m²); twin rooms 420 ft²"
+    ],
+    [
+     "Breakfast",
+     "€22 on room-only rates; breakfast-included rates from €116"
+    ],
+    [
+     "Pool",
+     "Outdoor rooftop pool with the Skyview Pool Bar"
+    ],
+    [
+     "Airport",
+     "Dubai International Airport 5 km, by metro or taxi; shuttle on request"
+    ],
+    [
+     "Parking",
+     "Complimentary valet parking"
+    ],
+    [
+     "Dining",
+     "4 venues: The Great Oaks, Buonissimo Italian, Sky Social, The Lounge"
+    ],
+    [
+     "Policies",
+     "AED 500 refundable cash deposit; minimum check-in age 18; pets not allowed"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates",
+    "Breakfast-included rates available"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-01.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-02.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-03.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-04.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-05.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-06.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-07.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-08.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-09.avif",
+    "/assets/best-hotels-dubai-creek/01-movenpick-creek-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "🥈 #2 Highest Rated",
+   "rank_class": "bpa-silver",
+   "cat": "harbour",
+   "operator": "Vida Hotels",
+   "duration": "4★ hotel",
+   "place": "Creek Beach, Dubai Creek Harbour",
+   "map_q": "Vida Creek Beach Hotel Dubai",
+   "title": "Vida Creek Beach Hotel",
+   "short_title": "Vida Creek Beach Hotel",
+   "link": "https://www.booking.com/hotel/ae/vida-creek-beach.en-gb.html",
+   "rating10": 9.3,
+   "reviews": 2284,
+   "price": 148,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/525350379.jpg?k=888415cc52bbb4306a46dfaa1de84a104ac7ee950bf63c2c025bc8e95bf3485a",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491237235.jpg?k=0cdca9b7459c2155ff2e30b85f30adffc955108f9fe2810b2f789138173833f0",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491237254.jpg?k=0ab0ae97aaf4bd5db58e0a29dc6f5ac3dc3ff901ab2c8a750fad7bd24139eccd",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491237644.jpg?k=a43ae83c2a286ffa0ad92a9f0e3394c1e99d364b4ba1f29654351e30f73ebb1f",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491237588.jpg?k=fa8ffcb670a588432f4a7dedfbbe710db97b3983f350aeb5e0e18b9a389df030",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491238694.jpg?k=d79ca0782ff0144a0e3d79747ff61187ab4f620b812d1c2cd79e05ac011f9eb7",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491237265.jpg?k=d884c28071abeafce471a64b4fc0f488657dd078aee4728656f39991d5818678",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497116366.jpg?k=3829fe30ddc3e711951b7ff060efbc33228401a45bf33d22e6f3f24fd7d67bc7",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497120367.jpg?k=6d38add2f92899ad0d6c99da593caf73d789909d159ed88d4c5c9ce61886a5d9",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/491239077.jpg?k=bc179f57e42c510fb37ff2dce5a037d3b6fbdd9347783bb485b37e52e0aaffa0"
+   ],
+   "photo_slug": "vida-creek-beach",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are required at check-in, and the hotel asks for your arrival time in advance.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "40 m² with balcony",
+     "lead": "Cheapest room:",
+     "body": "Deluxe Room Twin, 431 ft² (about 40 m²), with a balcony and terrace, city or courtyard views and soundproofing. Lagoon View rooms cost from €162."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids' pool, cots free",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome, cots are free up to 3 years and extra beds cost AED 150 a night from 12. Wheelchair accessible, with grab rails and a raised toilet.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🏖️",
+     "label": "Beachfront",
+     "lead": "Beach:",
+     "body": "The hotel is listed as beachfront on Creek Beach, the only hotel here with the beach as its main draw."
+    },
+    {
+     "emoji": "🏊",
+     "label": "Infinity pool",
+     "lead": "Pool:",
+     "body": "Year-round outdoor infinity pool, a separate kids' pool, a hot tub and a sun terrace."
+    },
+    {
+     "emoji": "🍳",
+     "label": "Exceptional breakfast",
+     "lead": "Breakfast:",
+     "body": "Breakfast scores as exceptional, with continental, American, Asian and full English options at Origins, the hotel's all-day restaurant."
+    },
+    {
+     "emoji": "✨",
+     "label": "Beach-and-pool new town",
+     "lead": "Vibe:",
+     "body": "A modern, family-friendly hotel in the new Creek Harbour district, 0.7 miles from Dubai Festival City, with the beach a few steps away.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for families and couples who want a beach and an infinity pool without leaving the Creek: it has the top score on this page, 9.3, and a 9.4 for location.",
+   "skip": "if you want old Dubai on foot: Creek Harbour is a new district, and the souks are on the other side of the water.",
+   "pros": [
+    "Highest guest score on the page: 9.3",
+    "Beachfront, infinity pool and kids' pool",
+    "Cheapest room has a balcony and terrace",
+    "Location 9.4, cleanliness and comfort 9.5",
+    "Free private parking and valet"
+   ],
+   "cons": [
+    "€148 is a 5-star price for a 4-star",
+    "One restaurant on site",
+    "Extra beds from age 12 cost AED 150 a night",
+    "Far from the Deira souks"
+   ],
+   "review": [
+    "If the deciding question is \"where can we swim\", this is the answer. Vida Creek Beach is the only hotel in the comparison that is <strong>listed as beachfront</strong>, and it adds an <strong>infinity pool, a kids' pool and a hot tub</strong>. Guests rate it <strong>9.3</strong>, the highest on this page, with 9.5 for cleanliness, comfort and staff.",
+    "€148 buys a Deluxe Room of 431 ft² (about 40 m²) with a balcony and terrace. Lagoon View rooms start at €162. Breakfast is rated exceptional and covers continental, American, Asian and full English plates at Origins, the single all-day restaurant.",
+    "Against its sister Vida Creek Harbour (#10), you pay €40 more for the beach, bigger rooms with balconies and a higher score. Against Address Creek Harbour (#4), you save €34 and keep the beach, but give up the 5-star spa and the club lounge.",
+    "Catches: it is a 4-star at near 5-star money, there is only one restaurant, and the old souks and Al Seef are a drive away across the Creek. Taxes and charges come on top of the nightly rate."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00; check-out until 12:00"
+    ],
+    [
+     "Rooms",
+     "Deluxe Room 431 ft² (about 40 m²) with balcony; Premier Room 527 ft²"
+    ],
+    [
+     "Beach",
+     "Listed as beachfront on Creek Beach"
+    ],
+    [
+     "Pool",
+     "Outdoor infinity pool, kids' pool, hot tub"
+    ],
+    [
+     "Breakfast",
+     "Continental, American, Asian, full English; rated exceptional"
+    ],
+    [
+     "Airport",
+     "Dubai International Airport 10 km"
+    ],
+    [
+     "Parking",
+     "Free private parking, valet, garage, EV charging"
+    ],
+    [
+     "Pets",
+     "Pets are not allowed"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-01.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-02.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-03.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-04.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-05.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-06.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-07.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-08.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-09.avif",
+    "/assets/best-hotels-dubai-creek/02-vida-creek-beach-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "🥉 #3 Most Luxurious",
+   "rank_class": "bpa-bronze",
+   "cat": "burdubai",
+   "operator": "Raffles",
+   "duration": "5★ hotel",
+   "place": "Wafi, Oud Metha",
+   "map_q": "Raffles Dubai Wafi Dubai",
+   "title": "Raffles Dubai",
+   "short_title": "Raffles Dubai",
+   "link": "https://www.booking.com/hotel/ae/raffles-dubai.en-gb.html",
+   "rating10": 9.2,
+   "reviews": 2234,
+   "price": 233,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963480.jpg?k=936ae2222b705e717b49da6f65b4cb0100980bb5cfb3bbefdaa1f8feffc84cda",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/935864214.jpg?k=97b9efb0574c6314167fa75e5219cc8dd9612e028165f4c669d7e517864644de",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963497.jpg?k=35887b02563ddb5c77261a87b4e1752e3c5aa43b24c69f4ced2727eb473497ab",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963508.jpg?k=4bafda4bbbde3e33a1eafc382ecb6d18c62a219235bf95c0c64032b33fb12139",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963504.jpg?k=83744b732d3cd0173268e9dca0f61f5ae3cc944a40e3152d0beab5c8c88ef1e0",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963496.jpg?k=08f68fda614a0469741c848d3a61dafa38486838225b6af1ceacafe3c3eedab7",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963513.jpg?k=5580206a74259575ed124af4625088110871c65c1447a8b24c8db6ef41be02c0",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963492.jpg?k=0b8e3423dce1571393816f258cea5b4e6cf00c1fffeebf36f7a1634243157ddf",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963539.jpg?k=d43bf3f9b5665730cb18cdaebdf8b4f666e7f5369c53c5de6a0d610be69eaa04",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/914963546.jpg?k=3c9b0ef2bba7afac79faa5e44c1dd3615ee13cf6f51af15ac8d1fe4a0890877a"
+   ],
+   "photo_slug": "raffles",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 15:00 to midnight, check-out by 12:00. Photo ID and a credit card are needed, and the hotel asks for your arrival time.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "70 m² + terrace",
+     "lead": "Cheapest room:",
+     "body": "Signature Twin Room of 753 ft² (about 70 m²) with a private balcony or terrace, garden and city views, coffee machine and a walk-in shower."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free, beds AED 400",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome, cots are free for 0–2, but extra beds cost AED 400 a night from 12, and 12+ pay as adults. Wheelchair accessible.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🛎️",
+     "label": "Butler for every room",
+     "lead": "Service:",
+     "body": "Butler service is available for all rooms, plus an in-room digital system to run your stay from the TV or iPad."
+    },
+    {
+     "emoji": "🏊",
+     "label": "2 pools + spa",
+     "lead": "Pools and spa:",
+     "body": "Outdoor pool, rooftop and kids' pool areas, and a large spa with saunas, steam rooms, hot tub and massage."
+    },
+    {
+     "emoji": "🛍️",
+     "label": "Next to Wafi mall",
+     "lead": "Location:",
+     "body": "The pyramid-shaped hotel adjoins Wafi mall, has metro access, and the airport is a 15-minute drive."
+    },
+    {
+     "emoji": "✨",
+     "label": "Pyramid landmark",
+     "lead": "Vibe:",
+     "body": "Grand and theatrical, with handcrafted decor, afternoon tea at Raffles Salon and TOMO Japanese among 7 dining outlets.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for a special-occasion stay: €233 gets a 70 m² room with its own terrace, butler service and a 9.2 score, the biggest standard room on this page.",
+   "skip": "if you want to be on the water: Wafi is inland on the Bur Dubai side, and the Creek is not outside the window.",
+   "pros": [
+    "Biggest standard room here: 753 ft² (about 70 m²)",
+    "Private balcony or terrace in every room",
+    "Butler service for all rooms",
+    "Large spa with saunas and steam rooms",
+    "Adjoins Wafi mall, metro access"
+   ],
+   "cons": [
+    "Most expensive hotel on the page",
+    "Extra beds cost AED 400 a night",
+    "No Creek view from an inland site",
+    "Half-board rates jump to €370+"
+   ],
+   "review": [
+    "Raffles is the splurge on this list and it earns the price with space. <strong>€233 buys a 753 ft² (about 70 m²) Signature room</strong> with its own terrace, the largest standard room in the comparison, and <strong>butler service is available for every room</strong>. Guests score it 9.2, with 9.5 for cleanliness, comfort and staff.",
+    "The building is the pyramid by Wafi mall on the Bur Dubai side of the Creek. Inside you get a large spa with saunas and steam rooms, an outdoor pool, 7 dining outlets including the Japanese restaurant TOMO, and afternoon tea at Raffles Salon. The metro is close and the airport is 15 minutes by car.",
+    "Compared with Sofitel The Obelisk (#6), also at Wafi, you pay €77 more per night for a room about 26 m² larger with a terrace and butler service. Sofitel's €156 rate includes breakfast; at Raffles the cheapest rate is room only, and rates with breakfast and dinner start at €370.",
+    "Catches: it is not a waterfront hotel, extra beds for over-12s are AED 400 a night, and the AED 20 tourism fee, 5% VAT and 7% municipality fee come on top."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00 to 00:00; check-out by 12:00"
+    ],
+    [
+     "Rooms",
+     "Signature Room with Terrace or Twin, 753 ft² (about 70 m²)"
+    ],
+    [
+     "Breakfast",
+     "Room-only cheapest rate; breakfast-and-dinner rates from €370"
+    ],
+    [
+     "Pools",
+     "2 pools: outdoor, rooftop and kids' areas"
+    ],
+    [
+     "Spa",
+     "Spa with saunas, steam rooms, hot tub, massage"
+    ],
+    [
+     "Getting there",
+     "Adjoins Wafi mall on Sheikh Rashid Road; metro access"
+    ],
+    [
+     "Airport",
+     "15-minute drive"
+    ],
+    [
+     "Dining",
+     "7 dining outlets including TOMO Japanese and Raffles Salon afternoon tea"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "Butler service for all rooms"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/03-raffles-01.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-02.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-03.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-04.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-05.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-06.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-07.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-08.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-09.avif",
+    "/assets/best-hotels-dubai-creek/03-raffles-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "⭐ #4 Best Creek Harbour 5★",
+   "rank_class": "bpa-accent",
+   "cat": "harbour",
+   "operator": "Address Hotels",
+   "duration": "5★ hotel",
+   "place": "Dubai Creek Harbour",
+   "map_q": "Address Creek Harbour Dubai",
+   "title": "Address Creek Harbour",
+   "short_title": "Address Creek Harbour",
+   "link": "https://www.booking.com/hotel/ae/address-grand-creek-harbour.en-gb.html",
+   "rating10": 9.0,
+   "reviews": 3500,
+   "price": 182,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421878993.jpg?k=a141ffa65049a130b9cd118d874615bef7fa69f18d4e8a30880fac154947c968",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/542554187.jpg?k=ccd97ca2c42216fa8f051efd9b3c8365d2cbc1e53b088418b9cc23489ccccb13",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407373766.jpg?k=1c25ff9018e12bad7377a1deefc339380950e9047a7e15f426095519c471359a",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407371504.jpg?k=1d179dd4c4e7b79b3060bd24dbc7340f41ac7a0f8fddbecf868a8e54a62c8dae",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/407373739.jpg?k=22860d5256a739fbfcdbf2335ac2fbb3912dc692132ddafc687d71657c5e86d0",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605124122.jpg?k=0a8f88269af70b03525e82284086a0b19ccb9a1aa2eb9bbe606c216a58d70fcd",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421879284.jpg?k=cc61f9ddd0118b82fb7699b2b6fa674e8cb8418dd8b3a518d137fd9e9d252851",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605124769.jpg?k=31772d64a5412d0b62ff889698b4cfec71b8841b0efc1b509e72a904f76d726e",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605124620.jpg?k=d2384d7d4b8a9c12aa5d36ac5eb2e5a58c3fad0879bf6e9779ca0a4a89bd6591",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/605125842.jpg?k=9b6c9b631cd631b4f99912413c964236a3e6ad7e1fb0ed9cca336ca7c4200321"
+   ],
+   "photo_slug": "address-creek",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 15:00, check-out until 12:00, with private and express check-in. Photo ID and a credit card are required.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "40 m² city view",
+     "lead": "Cheapest room:",
+     "body": "City View Deluxe Room King, 431 ft² (about 40 m²), bath and shower, soundproofing. Creek View rooms of the same size cost extra, and Premier rooms with a private balcony are 484 ft²."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Kids' pool, cots free",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome, cots are free up to 3, extra beds AED 300 a night from 12. No kids' club listed; kids' pool, child-friendly buffet and entertainment staff.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🏊",
+     "label": "Infinity pool + beach",
+     "lead": "Pool and beach:",
+     "body": "Outdoor infinity pool with a pool bar, and beach access listed among the top facilities."
+    },
+    {
+     "emoji": "🍳",
+     "label": "Breakfast €38",
+     "lead": "Breakfast:",
+     "body": "€38 on room-only rates. Club rates include breakfast, afternoon tea and evening canapés."
+    },
+    {
+     "emoji": "💆",
+     "label": "Spa + sauna",
+     "lead": "Wellness:",
+     "body": "Spa and wellness centre with massage, sauna and a fitness room; wellness packages available."
+    },
+    {
+     "emoji": "✨",
+     "label": "Polished new-town 5★",
+     "lead": "Vibe:",
+     "body": "Sleek 5-star in the Creek Harbour towers, 0.6 miles from Dubai Festival City and close to an ice rink.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for a full 5-star in the new Creek Harbour district: infinity pool, beach access, spa and a 9.2 location score for €182.",
+   "skip": "if breakfast matters to your budget: it costs €38 on top, the most expensive breakfast on this page.",
+   "pros": [
+    "Infinity pool and beach access",
+    "Location score 9.2",
+    "Kids' pool, entertainment staff, cots free to age 3",
+    "Club rates with afternoon tea and canapés",
+    "Spa, sauna and wellness packages"
+   ],
+   "cons": [
+    "Breakfast €38, the priciest here",
+    "Creek View rooms cost more than City View",
+    "Airport shuttle is paid",
+    "Extra beds AED 300 a night"
+   ],
+   "review": [
+    "Address Creek Harbour is the polished 5-star of the new side of the Creek. <strong>€182 gets a 40 m² City View king room</strong>, an <strong>infinity pool</strong>, beach access and a full spa with sauna. Guests give it 9.0 overall and <strong>9.2 for location</strong>.",
+    "Families get more here than at most city hotels: a kids' pool, a child-friendly buffet, entertainment staff and free cots up to age 3. Couples can book club rates that include breakfast, afternoon tea and evening canapés. The hotel sits 0.6 miles from Dubai Festival City and is 8 km from Dubai International Airport.",
+    "Versus Vida Creek Beach (#2), you pay €34 more for 5-star service, a spa and three restaurants, but the guest score is lower (9.0 vs 9.3) and the room is the same size. Versus Mövenpick (#1) in Deira, it costs more than double for the newer district, an infinity pool and beach access.",
+    "Catches: breakfast is €38 on room-only rates, the creek-facing rooms cost more than the city-facing ones, the airport shuttle is paid, and taxes plus the AED 20 tourism fee come on top."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00; check-out until 12:00"
+    ],
+    [
+     "Rooms",
+     "City View Deluxe King, 431 ft² (about 40 m²); Creek View rooms same size, higher rate"
+    ],
+    [
+     "Breakfast",
+     "€38 on room-only rates; club rates include breakfast, afternoon tea and canapés"
+    ],
+    [
+     "Pool",
+     "Outdoor infinity pool with pool bar; kids' pool"
+    ],
+    [
+     "Beach",
+     "Beach access listed among top facilities"
+    ],
+    [
+     "Spa",
+     "Spa and wellness centre, massage, sauna, fitness room"
+    ],
+    [
+     "Airport",
+     "Dubai International Airport 8 km; paid shuttle"
+    ],
+    [
+     "Kids' club",
+     "No kids' club listed; kids' pool, child-friendly buffet and entertainment staff"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/04-address-creek-01.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-02.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-03.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-04.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-05.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-06.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-07.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-08.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-09.avif",
+    "/assets/best-hotels-dubai-creek/04-address-creek-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "⭐ #5 Best for Old Dubai",
+   "rank_class": "bpa-accent",
+   "cat": "burdubai budget",
+   "operator": "Hilton",
+   "duration": "4★ hotel",
+   "place": "Al Seef, Bur Dubai creekside",
+   "map_q": "Canopy by Hilton Dubai Al Seef",
+   "title": "Canopy by Hilton Dubai Al Seef",
+   "short_title": "Canopy by Hilton Al Seef",
+   "link": "https://www.booking.com/hotel/ae/canopy-by-hilton-dubai-al-seef.en-gb.html",
+   "rating10": 8.8,
+   "reviews": 1139,
+   "price": 95,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225305.jpg?k=ed8c53f462adad4bae748e9bf27431165739d3868bc2847fb1819b1a4b44e81b",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225277.jpg?k=2b76719beda6479ffee78acbf63a5cc78ca11106efb54afa1685d56f2cdbf59f",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225280.jpg?k=a2a229ebec0eb4d780afacc0a861bc76feb6931da4b76e67c6c4de9221583383",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225437.jpg?k=6710838ba39e884af955d31863aff3a471494ff9730f208b4ca7c2a42400fe63",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225371.jpg?k=dca7170e3c9024fd0a9312a79ae653a49e2be2e8cc552fa7b73a2249346107bd",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225348.jpg?k=751ec1bf871c59650462653a0ac93f60c549b3772fba5cbb3eea10babc95f0e3",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225282.jpg?k=46b263dc609071edf90e9d993d6d8aef19e302f3d0ee7cddea42b63f8733add8",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/869217318.jpg?k=efc4d7c5bc8acd7aeccfa5d21351e2e468286f27189dac81f1aab1f6228e4086",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225310.jpg?k=2adb142d0e0e34f439207bf4104fd4c451504fd961f8f0920dc5e17ce5800b74",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/838225873.jpg?k=4c69d1de9bf4ecb190d698099fb2c6d308c87c2c090f707ffb10f2e151d06ec2"
+   ],
+   "photo_slug": "canopy-al-seef",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 15:00 to 23:30, check-out by 12:00. Photo ID and a credit card are required at check-in.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "35 m² king",
+     "lead": "Cheapest room:",
+     "body": "King Room of 377 ft² (about 35 m²) with a work desk, Nespresso machine and organic toiletries. A mobility-accessible King Room of the same size is available."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome, cots are free for 0–2, extra beds AED 105 a night from 13. Wheelchair accessible with an emergency cord in the bathroom.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🏊",
+     "label": "Rooftop infinity pool",
+     "lead": "Pool:",
+     "body": "Heated rooftop infinity pool with a pool bar, plus sauna, steam room, massage and a gym."
+    },
+    {
+     "emoji": "🍳",
+     "label": "Breakfast €19",
+     "lead": "Breakfast:",
+     "body": "€19 on the cheapest rate; breakfast-included rates from €112 and half board from €129."
+    },
+    {
+     "emoji": "🍽️",
+     "label": "Greek + all-day",
+     "lead": "Dining:",
+     "body": "NYON for all-day international food and SKAFOS for Greek, Mediterranean and seafood."
+    },
+    {
+     "emoji": "✨",
+     "label": "Heritage quarter base",
+     "lead": "Vibe:",
+     "body": "A stylish 200-room hotel in Al Seef, the most culturally vibrant part of the creekside, aimed at travellers who like to explore the neighbourhood.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for staying in the heritage quarter of the Creek itself: a rooftop infinity pool and a 9.2 location score in Al Seef for €95.",
+   "skip": "if you need a beach or kids' facilities: there is no kids' pool or beach here.",
+   "pros": [
+    "The only Al Seef hotel in the comparison",
+    "Location score 9.2",
+    "Heated rooftop infinity pool",
+    "Breakfast €19, one of the cheapest add-ons here",
+    "Free cancellation on most rates, pay at the property"
+   ],
+   "cons": [
+    "Smaller rooms than Mövenpick for €9 more",
+    "No kids' pool",
+    "Lowest review count of the ten",
+    "Burj Khalifa and Dubai Mall are 10 km away"
+   ],
+   "review": [
+    "Canopy is the pick if you came for the old creekside, not the new towers. It sits on Al Seef Street in Umm Hurair, the heritage stretch of the Bur Dubai bank, and guests give it <strong>9.2 for location</strong>. <strong>€95 buys a 35 m² King Room</strong> with a Nespresso machine and access to a heated rooftop infinity pool.",
+    "The hotel has 200 rooms and suites, two restaurants (NYON all day, SKAFOS for Greek and seafood), a sauna, steam room and gym. Breakfast is only €19 on the cheapest rate, and rates with breakfast included start at €112.",
+    "Against Mövenpick (#1) across the water in Deira, it costs €9 more for a smaller room and a lower score (8.8 vs 9.2), but you sleep in Al Seef rather than on the busy Deira waterfront. Against Jannah (#7), it is €29 more for a rooftop infinity pool and a better location score.",
+    "Catches: there is no beach or kids' pool, Downtown is about 10 km away, and the AED 15 tourism fee, 5% VAT and 7% municipality fee come on top."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00 to 23:30; check-out by 12:00"
+    ],
+    [
+     "Rooms",
+     "King Room, 377 ft² (about 35 m²); mobility-accessible King Room available"
+    ],
+    [
+     "Breakfast",
+     "€19 on room-only rates; included rates from €112"
+    ],
+    [
+     "Pool",
+     "Heated rooftop infinity pool with pool bar"
+    ],
+    [
+     "Getting there",
+     "Al Seef Street, Umm Hurair 1, on the Bur Dubai bank; Burj Khalifa and Dubai Mall 10 km"
+    ],
+    [
+     "Airport",
+     "Dubai International Airport 9 km"
+    ],
+    [
+     "Parking",
+     "Free on-site parking, valet, EV charging"
+    ],
+    [
+     "Pets",
+     "Pets are not allowed"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates",
+    "Breakfast-included rates available"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-01.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-02.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-03.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-04.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-05.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-06.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-07.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-08.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-09.avif",
+    "/assets/best-hotels-dubai-creek/05-canopy-al-seef-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "⭐ #6 Best Breakfast Deal",
+   "rank_class": "bpa-accent",
+   "cat": "burdubai",
+   "operator": "Sofitel",
+   "duration": "5★ hotel",
+   "place": "Wafi, Oud Metha",
+   "map_q": "Sofitel Dubai The Obelisk Dubai",
+   "title": "Sofitel Dubai The Obelisk",
+   "short_title": "Sofitel Dubai The Obelisk",
+   "link": "https://www.booking.com/hotel/ae/sofitel-dubai-wafi.en-gb.html",
+   "rating10": 9.1,
+   "reviews": 7663,
+   "price": 156,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/880131210.jpg?k=6a74858540957bce345dffe63c440daa3b0f8f89d48c5fd097be4f59141830f3",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/872987203.jpg?k=0381bdbe5d3ae54ba7539374d5ca82e63dc8d531706c5d46643254e5d27a1cae",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/896230206.jpg?k=b784f0e10fbc1d27b2d498143a100c6d07e56c6f410ebf28882f3ff1bac22d86",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/903077977.jpg?k=5d385ca3fafa33f16138d9f842d860c1e10602f740e06cd493332743d89ca9c8",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/882669461.jpg?k=d3bae53c5b507b74d1de1ca3d9df840348ec36515651408e96e224cd8c2ae0a0",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/880131213.jpg?k=a66ea5ab3633ca60ca5d0d080afcd87ceff4e826f654abab5b0523b7c91e194c",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/896230191.jpg?k=6b8b9bb7fad1339602a8bc6c84a028ae72477feef9769146ae782d43af626ace",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/896230217.jpg?k=50932a858e89569e61d05f4ff78c721f3c474523d0deddffa4c7932a417b03f5",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/827795098.jpg?k=a0e22cb04f577a422a1f74c24f8cebece4f78738a7d9906803f9aa5c61af36e4",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/933134098.jpg?k=54da38c8743240779c546c1126dedf309cd0b0e32e9b5daa42b9c908dac14b70"
+   ],
+   "photo_slug": "sofitel-obelisk",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 15:00 to midnight, check-out by 12:00.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "44 m² deluxe",
+     "lead": "Cheapest room:",
+     "body": "Deluxe Room Twin Beds, 474 ft² (about 44 m²), with bath and shower, bathrobes, a seating area and city views. King Studios add a kitchenette and washing machine."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "5+ pay as adults",
+     "lead": "Kids and access:",
+     "body": "Children are welcome but count as adults from age 5, and extra beds cost AED 200 a night at any age. Wheelchair accessible.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🍳",
+     "label": "Breakfast included",
+     "lead": "Breakfast:",
+     "body": "The €156 rate includes breakfast, with continental, American, Asian and full English options."
+    },
+    {
+     "emoji": "🏊",
+     "label": "Heated rooftop pool",
+     "lead": "Pool:",
+     "body": "Heated rooftop pool with a shallow end and a pool bar, a kids' pool, a hot tub and a spa."
+    },
+    {
+     "emoji": "🍽️",
+     "label": "5 restaurants",
+     "lead": "Dining:",
+     "body": "Brasserie Boulud (French), an Asian restaurant and bar, Bijou Patisserie for breakfast and high tea, and more."
+    },
+    {
+     "emoji": "✨",
+     "label": "Big-brand Wafi 5★",
+     "lead": "Vibe:",
+     "body": "A 5-star tower by Wafi with metro access, 7 km from the airport and 2.4 miles from Dubai Festival City.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for a 5-star with breakfast already in the price: €156 including breakfast, a 9.1 score and a rooftop pool, with metro access.",
+   "skip": "if you travel with children over 4: they are charged as adults and extra beds cost AED 200 a night.",
+   "pros": [
+    "Breakfast included in the €156 rate",
+    "Score 9.1 with comfort 9.5",
+    "Heated rooftop pool and a kids' pool",
+    "5 restaurants including Brasserie Boulud",
+    "Metro access, airport 7 km"
+   ],
+   "cons": [
+    "Children 5+ charged as adults",
+    "No free cots listed, extra beds AED 200",
+    "Inland at Wafi, no Creek view",
+    "Taxes and fees come on top"
+   ],
+   "review": [
+    "Sofitel The Obelisk is the best way to get breakfast without paying for it separately. <strong>The €156 rate already includes breakfast</strong>, in a 474 ft² (about 44 m²) Deluxe room, with a <strong>9.1 score</strong> and 9.5 for comfort. At Raffles (#3), also at Wafi, the cheapest rate is €77 more and has no breakfast.",
+    "The hotel stands by Wafi on Sheikh Rashid Road with metro access, 7 km from Dubai International Airport. There is a heated rooftop pool with a pool bar, a kids' pool, a hot tub and a spa, plus five restaurants including Brasserie Boulud and Bijou Patisserie.",
+    "Run the numbers against Mövenpick (#1): Mövenpick with breakfast included starts at €116, so Sofitel costs about €40 more for a similar-size room, a heated pool and a bigger restaurant choice, but on the inland Bur Dubai side rather than the water.",
+    "Catches: children count as adults from age 5 and extra beds are AED 200 a night, which makes it expensive for families. Taxes and the tourism fee are added at booking."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00 to 00:00; check-out by 12:00"
+    ],
+    [
+     "Rooms",
+     "Deluxe Room, 474 ft² (about 44 m²); Luxury King 592 ft²; King Studio with kitchenette"
+    ],
+    [
+     "Breakfast",
+     "Included in the €156 rate"
+    ],
+    [
+     "Pool",
+     "Heated rooftop pool, pool bar, kids' pool"
+    ],
+    [
+     "Spa",
+     "Spa and wellness centre, hot tub, massage, fitness centre"
+    ],
+    [
+     "Metro",
+     "Metro access from the hotel"
+    ],
+    [
+     "Airport",
+     "Dubai International Airport 7 km"
+    ],
+    [
+     "Policies",
+     "Children 5+ charged as adults; extra beds AED 200 a night; pets not allowed"
+    ]
+   ],
+   "trust": [
+    "Breakfast included in this rate",
+    "Free cancellation on rates that show it"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-01.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-02.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-03.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-04.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-05.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-06.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-07.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-08.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-09.avif",
+    "/assets/best-hotels-dubai-creek/06-sofitel-obelisk-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "⭐ #7 Best Budget",
+   "rank_class": "bpa-accent",
+   "cat": "deira budget",
+   "operator": "Jannah Hotels",
+   "duration": "4★ hotel",
+   "place": "Al Qigga Al Butain, Deira",
+   "map_q": "Jannah Dubai Creek Hotel Deira Dubai",
+   "title": "Jannah Dubai Creek Hotel",
+   "short_title": "Jannah Dubai Creek Hotel",
+   "link": "https://www.booking.com/hotel/ae/jannah-creekside.en-gb.html",
+   "rating10": 9.0,
+   "reviews": 2796,
+   "price": 66,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280792432.jpg?k=575fe3ab34447a25359c3fd473c7b76d6c0043005d976900b2787dd918d9183e",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276391490.jpg?k=6f5da513c6d4237af31afff44f2be5a13b911a37cb81d8baee1717026d8d5608",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257094472.jpg?k=f2c854a5d168f29c7d7874329d86e5523de12be6bfc858024dc57e0013c629ac",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257093035.jpg?k=103c24382560fcd0c8ee80670ed83c6db282aadee872d430836f7bebf05fe8af",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275670123.jpg?k=7249f2859ce3f462a962ef275238cfa32782068688db2868ce14492f343378b4",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268719180.jpg?k=b638ea4436f35bf83e3a6271b7542c1a0541f91831ba9911854322d8495112f8",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431914285.jpg?k=3dbe126fc1130442be6cfbce64bd89ec7c487ca4332332b9cbad527621ed2437",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/320289920.jpg?k=a6c2184b8b553485dda58d12ccb5bb3769645de969edadab0557dcfaa7faff59",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275590209.jpg?k=07fc887220b5204fdcbffc17bf081ccac795e086e79a12765e59f91e9067b489",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276390855.jpg?k=cdd3acc5a52a61a7e5d6052df38c3458fad61356365c753f9cd80543d9204b57"
+   ],
+   "photo_slug": "jannah-creek",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 14:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 14:00, an hour earlier than most here; check-out until 12:00. Photo ID and a credit card are required.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "29 m² deluxe",
+     "lead": "Cheapest room:",
+     "body": "Deluxe King or Twin Room of 312 ft² (about 29 m²) with city view, soundproofing and a minibar."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome, cots are free for 0–2, extra beds AED 90 a night from 12, the cheapest extra bed on this page.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🍳",
+     "label": "Breakfast €12",
+     "lead": "Breakfast:",
+     "body": "€12 on room-only rates; breakfast-included rates from €91. Continental and à la carte with pastries, cheese and juice."
+    },
+    {
+     "emoji": "🏊",
+     "label": "Pool + spa",
+     "lead": "Pool and spa:",
+     "body": "Year-round outdoor pool, spa, sauna, steam room, hot tub and gym, unusual at this price."
+    },
+    {
+     "emoji": "✈️",
+     "label": "Airport 3 km",
+     "lead": "Getting there:",
+     "body": "Dubai International Airport is 3 km away, and there is free private parking with valet."
+    },
+    {
+     "emoji": "✨",
+     "label": "Smart budget 4★",
+     "lead": "Vibe:",
+     "body": "A friendly 4-star in Deira (formerly Edge Creekside Hotel) with an Asian restaurant, Halo Halo, and a 9.3 cleanliness score.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for the lowest price with a high score: €66 for a 4-star with a pool and spa, rated 9.0, 3 km from the airport.",
+   "skip": "if you want space or Creek views: the 29 m² room is the smallest here and the outlook is city.",
+   "pros": [
+    "Cheapest hotel here at €66",
+    "Guest score 9.0, cleanliness 9.3",
+    "Pool, spa, sauna and hot tub",
+    "Breakfast only €12",
+    "Check-in from 14:00"
+   ],
+   "cons": [
+    "Smallest room here: 312 ft² (about 29 m²)",
+    "City view, not Creek view",
+    "One restaurant (Asian)",
+    "Some cheaper rates must be paid before arrival"
+   ],
+   "review": [
+    "Jannah Dubai Creek Hotel, the former Edge Creekside, is the budget answer on this page. <strong>€66 a night</strong> gets a 4-star room with a <strong>9.0 guest score</strong>, and the hotel still has an outdoor pool, spa, sauna, steam room and hot tub. Breakfast is only <strong>€12</strong> on top, the cheapest add-on on this page.",
+    "Rooms are compact at 312 ft² (about 29 m²) with city views and soundproofing. The airport is just 3 km away, which makes it a practical first or last night, and check-in starts at 14:00.",
+    "Mövenpick (#1) is the step up: €20 more gets a 5-star with 16 m² more room and a rooftop pool on the water. If €20 a night matters more than a view, Jannah is the better deal.",
+    "Catches: only one restaurant on site, no Creek outlook, and some of the cheaper refundable rates ask you to pay the hotel before arrival. The AED 15 tourism fee, 5% VAT and 7% municipality fee come on top."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 14:00; check-out until 12:00"
+    ],
+    [
+     "Rooms",
+     "Deluxe King or Twin, 312 ft² (about 29 m²)"
+    ],
+    [
+     "Breakfast",
+     "€12 on room-only rates; included rates from €91"
+    ],
+    [
+     "Pool",
+     "Year-round outdoor pool"
+    ],
+    [
+     "Spa",
+     "Spa, sauna, steam room, hot tub, massage"
+    ],
+    [
+     "Airport",
+     "Dubai International Airport 3 km"
+    ],
+    [
+     "Parking",
+     "Free private parking, valet, EV charging"
+    ],
+    [
+     "Dining",
+     "Halo Halo (Asian), halal and vegan options"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates",
+    "Breakfast-included rates available"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-01.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-02.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-03.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-04.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-05.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-06.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-07.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-08.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-09.avif",
+    "/assets/best-hotels-dubai-creek/07-jannah-creek-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "⭐ #8 Best Suites",
+   "rank_class": "bpa-accent",
+   "cat": "burdubai kitchen",
+   "operator": "Rotana",
+   "duration": "5★ suite hotel",
+   "place": "Al Jaddaf",
+   "map_q": "Al Jaddaf Rotana Dubai",
+   "title": "Al Jaddaf Rotana Dubai",
+   "short_title": "Al Jaddaf Rotana Dubai",
+   "link": "https://www.booking.com/hotel/ae/al-jaddaf-rotana-dubai.en-gb.html",
+   "rating10": 9.2,
+   "reviews": 2503,
+   "price": 167,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279298096.jpg?k=7049d49446815885346d4da3662821b08d95a4f05028b8ef464bd23b9c4581b6",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/271842908.jpg?k=063b9f519b1aabcdf1bbddc18342e01d5f65b8516dc0ddf7eae0e908581b6d73",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267637571.jpg?k=633504cec8a9be2c3b8f79a1b6de9888e46ceba54fee8fcdf24b8d8769ea60e5",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267862105.jpg?k=adb97ebbdc2eb4d5300f1df832429acd504936f90aaaaa2f4de5204ef9e4d462",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267862122.jpg?k=5ccf6b0482d9e33a5924a90cc947fc165daa9993af4a78d99fda0f9448d3e38a",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/267862102.jpg?k=aee85f21231d9061e8ae34c79d2eb5c8cbdc87f32bc376f64ab35c1373a12e61",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279298014.jpg?k=17a281c04360e7c19b8cf7d6e025fe016596575f6794fe707a23b497ffe2b4c4",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279298029.jpg?k=77c4307c4d8f4a314a680361b47a39bbe12ab0046d6879eaa5bc3880b06a62d4",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279298116.jpg?k=692ea1e8f7b5229d3729a442d4a7fd463032190fbeaeec85fd0c92f720cdd003",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279298145.jpg?k=15de3c5667510cab1948968abba2e998a8bf24f03cc80fcacc2bb21cc4c97a8e"
+   ],
+   "photo_slug": "jaddaf-rotana",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 14:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 14:00, check-out until 12:00.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "80 m² 1-bed suite",
+     "lead": "Cheapest unit:",
+     "body": "One Bedroom Suite with city view: 861 ft² (about 80 m²), separate bedroom, living room, 2 bathrooms, full kitchen and washing machine."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Under-3s free",
+     "lead": "Kids and access:",
+     "body": "Cots and extra beds are free for 0–2, extra beds AED 100 a night from 3, and only guests 18+ pay adult rates. Wheelchair accessible.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🚇",
+     "label": "Metro 5 min walk",
+     "lead": "Getting around:",
+     "body": "Al Jaddaf Metro Station is a 5-minute walk, with easy reach of Downtown, Dubai Mall, the Dubai Frame and Festival City."
+    },
+    {
+     "emoji": "🏊",
+     "label": "Pool + sauna",
+     "lead": "Facilities:",
+     "body": "Outdoor pool with the Aquarius pool bar, gym, sauna and steam rooms, spa and an airport shuttle."
+    },
+    {
+     "emoji": "🍳",
+     "label": "Breakfast €30",
+     "lead": "Breakfast:",
+     "body": "€30 on room-only rates at TIMO, which serves breakfast, brunch, lunch and dinner."
+    },
+    {
+     "emoji": "✨",
+     "label": "Apartment-size 5★",
+     "lead": "Vibe:",
+     "body": "318 suites with kitchens, built for longer stays; certified with the Dubai Sustainable Tourism Silver Stamp and Green Key.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for families or long stays who want a real one-bedroom suite with a kitchen: 80 m² and a 9.2 score for €167, 5 minutes on foot from the metro.",
+   "skip": "if you want the Creek on your doorstep: Al Jaddaf is at the inland end of the Bur Dubai bank.",
+   "pros": [
+    "80 m² one-bedroom suite with 2 bathrooms",
+    "Full kitchen and washing machine",
+    "Guest score 9.2, staff 9.5",
+    "Metro station 5 minutes on foot",
+    "Kids under 18 are not charged as adults"
+   ],
+   "cons": [
+    "Breakfast €30 on the cheapest rate",
+    "Tourism fee AED 40–60 on some larger units",
+    "No Creek view",
+    "Only one outdoor pool"
+   ],
+   "review": [
+    "Al Jaddaf Rotana is the space pick. <strong>€167 buys a one-bedroom suite of 861 ft² (about 80 m²)</strong> with a separate bedroom, living room, <strong>two bathrooms, a full kitchen and a washing machine</strong>. At about €2.09 per m², it is nearly as cheap per square metre as Mövenpick (#1), and guests rate it 9.2.",
+    "It is also one of the easiest bases for getting around: <strong>Al Jaddaf Metro Station is a 5-minute walk</strong>, and Downtown, the Dubai Frame and Festival City are close. On site there are three places to eat (TIMO, the Tea Room and the Aquarius pool bar), a pool, gym, sauna and steam rooms.",
+    "For families it beats the other 5-stars on policy: cots and extra beds are free under 3, extra beds are AED 100 from age 3, and only guests aged 18 and over pay adult rates. Against Hyatt Regency Creek Heights Residences (#9), you pay €31 more for a separate bedroom and 22 m² more space.",
+    "Catches: breakfast is €30 on room-only rates, the tourism fee can be AED 40–60 a night on the larger suites, and the Creek is not in view."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 14:00; check-out until 12:00"
+    ],
+    [
+     "Rooms",
+     "One Bedroom Suite, 861 ft² (about 80 m²), kitchen, 2 bathrooms; Twin rooms 646 ft² with kitchen"
+    ],
+    [
+     "Breakfast",
+     "€30 on room-only rates; included rates available"
+    ],
+    [
+     "Pool",
+     "Outdoor pool with pool bar"
+    ],
+    [
+     "Metro",
+     "Al Jaddaf Metro Station 5 minutes on foot"
+    ],
+    [
+     "Spa",
+     "Spa, massage, sauna, steam rooms"
+    ],
+    [
+     "Parking",
+     "Free on-site parking and valet"
+    ],
+    [
+     "Policies",
+     "Free cots and extra beds 0–2; extra beds AED 100 from 3; pets not allowed"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates",
+    "Breakfast-included rates available"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-01.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-02.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-03.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-04.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-05.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-06.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-07.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-08.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-09.avif",
+    "/assets/best-hotels-dubai-creek/08-jaddaf-rotana-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "⭐ #9 Best Apartment",
+   "rank_class": "bpa-accent",
+   "cat": "burdubai kitchen",
+   "operator": "Hyatt",
+   "duration": "5★ serviced apartments",
+   "place": "Dubai Healthcare City",
+   "map_q": "Hyatt Regency Creek Heights Residences Dubai",
+   "title": "Hyatt Regency Creek Heights Residences",
+   "short_title": "Hyatt Regency Creek Heights Residences",
+   "link": "https://www.booking.com/hotel/ae/hyatt-regency-creek-heights-residences.en-gb.html",
+   "rating10": 9.0,
+   "reviews": 4668,
+   "price": 136,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/611666555.jpg?k=af09b80f36b13e2d3c3961fea830b3294575399b0784a89ff0641a0b337a2025",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/47120721.jpg?k=38b5c5430c3bb2f3b3b8491277cf2415e2d403ebd743ccb004c65373b5104f10",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118529282.jpg?k=936a9149d2cc62932ba7de751ee536b99578daaf51e8fe43d9bfb5c9bacddc79",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118529390.jpg?k=0a3119514b06ef3bd72269c0009382851a689287fbe0cc34305b43748c40c7ac",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268916022.jpg?k=70666fc515cd8d2842a4f6df83876550c71ea9555565309fdb33a0b4784ff3f1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118529397.jpg?k=f1338aefd4e66c158a84a97393285733c296a2147f7fc1d5bd6b31676e6adf89",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672477041.jpg?k=1fed555730888aaa2bf3fa58df6bede597e6456ba5f4cf239edacd7532445b4d",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/672475640.jpg?k=4e2e1d64eca76787346c541833e44134ce2bf87effe139191f96be334fc90621",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269924016.jpg?k=d73b675cb97955de1d10470089696d5f4a474cb8d76b5cc31788fad120a967d1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/858520008.jpg?k=5c37d46b3d445abcb64ab914a554e5617efb4d5a268d67d8d7a1e080c291161c"
+   ],
+   "photo_slug": "hyatt-creek-heights",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00–19:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in only from 15:00 to 19:00, check-out from 06:00 to 11:00. Tell the property your arrival time; an AED 200 refundable deposit is taken.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "58 m² studio",
+     "lead": "Cheapest unit:",
+     "body": "Studio with Kitchen, 624 ft² (about 58 m²), king or twin beds, dishwasher, oven, washing machine, and river, landmark and city views."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome, cots are free up to 3, extra beds AED 150 a night. Children 12+ are charged as adults.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🚇",
+     "label": "Metro 5 min walk",
+     "lead": "Getting around:",
+     "body": "The metro station is 5 minutes on foot, Wafi mall a 7-minute walk, and the airport 4 km away."
+    },
+    {
+     "emoji": "🏊",
+     "label": "Pool + spa",
+     "lead": "Facilities:",
+     "body": "Outdoor pool with pool bar, spa, hot tub, sauna, massage and a fitness centre; a mini mart in the residence tower."
+    },
+    {
+     "emoji": "🍽️",
+     "label": "4 restaurants",
+     "lead": "Dining:",
+     "body": "Four restaurants on site, including Sufra (Indian and Mediterranean), La Tablita (Mexican) and Market 24."
+    },
+    {
+     "emoji": "✨",
+     "label": "Home with hotel backup",
+     "lead": "Vibe:",
+     "body": "Self-contained apartments attached to a full Hyatt Regency, for travellers who want to cook but still have restaurants downstairs.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for travellers who want a kitchen and a washing machine with 5-star facilities: a 58 m² studio with river views for €136, 5 minutes from the metro.",
+   "skip": "if you land late: check-in is only between 15:00 and 19:00.",
+   "pros": [
+    "58 m² studio with a full kitchen and dishwasher",
+    "River and landmark views listed",
+    "Metro 5 minutes and Wafi 7 minutes on foot",
+    "Attached to a Hyatt Regency hotel, 4 restaurants on site",
+    "Airport only 4 km"
+   ],
+   "cons": [
+    "Check-in window only 15:00–19:00",
+    "Check-out by 11:00",
+    "AED 200 deposit",
+    "Value score 8.7, the lowest of the ten"
+   ],
+   "review": [
+    "This is the apartment option for people who still want a hotel around them. <strong>€136 gets a 624 ft² (about 58 m²) studio</strong> with a <strong>full kitchen, dishwasher, oven and washing machine</strong>, and the studio comes with river, landmark and city views. The tower is attached to the Hyatt Regency Dubai Creek Heights hotel, and there are four restaurants on site plus an outdoor pool and spa.",
+    "Location works well for getting around without a car: <strong>the metro is a 5-minute walk</strong>, Wafi mall is 7 minutes on foot, and the airport is 4 km away. A mini mart in the tower helps if you plan to cook.",
+    "Compared with Al Jaddaf Rotana (#8), it is €31 cheaper for a studio rather than a separate-bedroom suite. Compared with a standard 5-star like Sofitel (#6), you get 14 m² more and your own kitchen, but no breakfast in the price.",
+    "Catches: check-in is only possible from 15:00 to 19:00 and check-out is by 11:00, there is an AED 200 refundable deposit, and its value-for-money score (8.7) is the lowest of the ten."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00 to 19:00; check-out 06:00 to 11:00"
+    ],
+    [
+     "Rooms",
+     "Studio with Kitchen, 624 ft² (about 58 m²); one-bedroom apartments 1,119 ft²"
+    ],
+    [
+     "Pool",
+     "Outdoor pool with shallow end and pool bar"
+    ],
+    [
+     "Metro",
+     "Station 5 minutes on foot; Wafi mall 7 minutes"
+    ],
+    [
+     "Airport",
+     "Dubai International Airport 4 km"
+    ],
+    [
+     "Parking",
+     "Free private parking and valet"
+    ],
+    [
+     "Dining",
+     "4 restaurants including Sufra and La Tablita; mini mart in the tower"
+    ],
+    [
+     "Policies",
+     "AED 200 refundable deposit; children 12+ charged as adults"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-01.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-02.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-03.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-04.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-05.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-06.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-07.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-08.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-09.avif",
+    "/assets/best-hotels-dubai-creek/09-hyatt-creek-heights-10.avif"
+   ]
+  },
+  {
+   "rank_tag": "⭐ #10 Cheapest Creek Harbour",
+   "rank_class": "bpa-accent",
+   "cat": "harbour",
+   "operator": "Vida Hotels",
+   "duration": "4★ hotel",
+   "place": "Dubai Creek Harbour",
+   "map_q": "Vida Creek Harbour Dubai",
+   "title": "Vida Creek Harbour",
+   "short_title": "Vida Creek Harbour",
+   "link": "https://www.booking.com/hotel/ae/vida-harbour-point.en-gb.html",
+   "rating10": 8.9,
+   "reviews": 5044,
+   "price": 108,
+   "price_was": null,
+   "price_unit": "per night, 2 adults",
+   "gallery": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220254185.jpg?k=4d666b49cef7e617c711b3f8eda9efe03719060c9b112b998fb048880fa87242",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268428960.jpg?k=a43b60669cc9642242cc9a55cf2be3da55e7dd946ad756284164071f79e3b03a",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220254182.jpg?k=4da9a72d212afd7d46c780ee477486b32bb87fe2e4f6b472735048a5966b4a9c",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/344547873.jpg?k=a99ff3e3293067afc14e2c1f2f9095af10aaddde6e4ba488dfbe75f4dd055f4c",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257854306.jpg?k=2fede5f5f923d3446018d2b27f9463d6651777dd9c04f8d58b19161a7a55b50b",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220254148.jpg?k=22c9bba19667c07162d4c0ea5e797dd6dffb64b600085d5a61d5a73f4e464817",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/218924001.jpg?k=0fd218a4cdbe5f10912215a22fdc2a8e00ba2b13b0cf14bc7d18af4da601ca70",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220266326.jpg?k=115b4a90f29ddc8b66beee5d4420bbf49327415b971253e5c92a1c9b9f9d730b",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/220269453.jpg?k=9f185030a2302a75f68f01b565a1f28f76c6b4fbae1bdd6cb268cadddcacffa6",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268427642.jpg?k=417a07b3ec795803f7c127e2d4ae7eae797eea8f5f141f84135adbfa46854196"
+   ],
+   "photo_slug": "vida-creek-harbour",
+   "pills": [
+    {
+     "emoji": "🕒",
+     "label": "In 15:00 · out 12:00",
+     "lead": "Check-in and out:",
+     "body": "Check-in from 15:00, check-out until 12:00. Photo ID and a credit card are required, and the hotel asks for your arrival time.",
+     "kind": "time"
+    },
+    {
+     "emoji": "🛏️",
+     "label": "32 m² city view",
+     "lead": "Cheapest room:",
+     "body": "City View Deluxe Room, 344 ft² (about 32 m²), king or twin beds, minibar and kettle."
+    },
+    {
+     "emoji": "👨‍👩‍👧",
+     "label": "Cots free, no extra beds",
+     "lead": "Kids and access:",
+     "body": "Children of any age are welcome and cots are free up to 3, but the hotel has no extra beds at all.",
+     "kind": "access"
+    },
+    {
+     "emoji": "🐾",
+     "label": "Pets allowed",
+     "lead": "Pets:",
+     "body": "The only hotel in this comparison that accepts pets; charges may apply and pet bowls are provided."
+    },
+    {
+     "emoji": "🍳",
+     "label": "Breakfast €27",
+     "lead": "Breakfast:",
+     "body": "€27 on room-only rates, or breakfast-included rates from €183."
+    },
+    {
+     "emoji": "🏊",
+     "label": "Outdoor pool",
+     "lead": "Facilities:",
+     "body": "Outdoor pool with sun loungers, fitness centre, a shuttle service and three restaurants including Stage 2 and The Courtyard."
+    },
+    {
+     "emoji": "✨",
+     "label": "Budget Creek Harbour 4★",
+     "lead": "Vibe:",
+     "body": "A modern hotel in the Creek Harbour towers, 0.8 miles from Dubai Festival City, with a 9.3 location score.",
+     "kind": "vibe"
+    }
+   ],
+   "pick": "for the cheapest way into Creek Harbour: €108 a night with a 9.3 location score, three restaurants and a shuttle, and the only pet-friendly hotel here.",
+   "skip": "if you need an extra bed for a child: there are none, so book Vida Creek Beach (#2) or Address (#4) instead.",
+   "pros": [
+    "Cheapest Creek Harbour hotel here at €108",
+    "Location score 9.3",
+    "Pets allowed",
+    "Three restaurants and a shuttle service",
+    "Free private parking"
+   ],
+   "cons": [
+    "Room is 32 m², small for the area",
+    "No extra beds",
+    "Breakfast €27 on the cheapest rate",
+    "No beach of its own listed"
+   ],
+   "review": [
+    "Vida Creek Harbour is the entry ticket to the new side of the Creek. <strong>€108 a night</strong> puts you in the Creek Harbour towers with a <strong>9.3 location score</strong>, 0.8 miles from Dubai Festival City, and a shuttle service. It undercuts its beach sister Vida Creek Beach (#2) by €40.",
+    "The trade-off is space and extras. The City View Deluxe room is 344 ft² (about 32 m²), there is an outdoor pool but no beach listed, and breakfast costs €27 on the cheapest rate. Three restaurants cover Middle Eastern, international and French food.",
+    "Two things make it stand out: it is <strong>the only pet-friendly hotel</strong> in the comparison, and guests give it a solid 8.9. It suits couples on a budget who want the new district rather than the Deira bustle.",
+    "Catches: no extra beds of any kind, Dubai Mall is about 10 km away, and the AED 15 tourism fee, 5% VAT and 7% municipality fee come on top."
+   ],
+   "facts": [
+    [
+     "Check-in",
+     "From 15:00; check-out until 12:00"
+    ],
+    [
+     "Rooms",
+     "City View Deluxe Room, 344 ft² (about 32 m²)"
+    ],
+    [
+     "Breakfast",
+     "€27 on room-only rates; included rates from €183"
+    ],
+    [
+     "Pool",
+     "Outdoor pool with sun loungers"
+    ],
+    [
+     "Getting there",
+     "Shuttle service; 0.8 miles from Dubai Festival City; Dubai Mall 10 km"
+    ],
+    [
+     "Parking",
+     "Free private parking, valet, garage"
+    ],
+    [
+     "Pets",
+     "Pets allowed, charges may apply"
+    ],
+    [
+     "Policies",
+     "No extra beds; free cots 0–3"
+    ]
+   ],
+   "trust": [
+    "Free cancellation on rates that show it",
+    "No prepayment on some rates",
+    "Breakfast-included rates available"
+   ],
+   "cancel": "Free cancellation on rates that show it",
+   "photos": [
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-01.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-02.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-03.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-04.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-05.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-06.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-07.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-08.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-09.avif",
+    "/assets/best-hotels-dubai-creek/10-vida-creek-harbour-10.avif"
+   ]
+  }
+ ],
+ "guide": [
+  {
+   "id": "compare",
+   "h2": "Dubai Creek Hotels Compared Side by Side",
+   "html": "<p>All ten are priced for the same weeknight for two adults, cheapest room. Eight of them (all but Mövenpick and Canopy) were limited-time deal rates that night, some at 50–65% off (Al Jaddaf Rotana, Hyatt), so expect those to rise when the deal ends. The column that changes the picture is <strong>€ per m²</strong>: the cheapest hotel is not the best value for space. Mövenpick (€1.91 per m²) and the Al Jaddaf Rotana suite (€2.09) give far more room per euro than Address Creek Harbour (€4.55).</p><div class=\"ltt-guide-tablewrap\"><table><thead><tr><th>Hotel</th><th>Side</th><th>Stars</th><th>Price/night</th><th>Score</th><th>Location score</th><th>Cheapest room</th><th>€ per m²</th><th>Pool / beach</th><th>Breakfast</th><th>Best for</th></tr></thead><tbody><tr><td><a href=\"#card-1\">#1 Mövenpick Dubai Creek</a></td><td>Deira</td><td>5★</td><td>€86</td><td>9.2</td><td>9.1</td><td>45 m²</td><td>€1.91</td><td>Rooftop pool</td><td>€22</td><td>Best all-rounder</td></tr><tr><td><a href=\"#card-2\">#2 Vida Creek Beach</a></td><td>Creek Harbour</td><td>4★</td><td>€148</td><td>9.3</td><td>9.4</td><td>40 m²</td><td>€3.70</td><td>Infinity pool + beachfront</td><td>Rated exceptional</td><td>Beach and families</td></tr><tr><td><a href=\"#card-3\">#3 Raffles Dubai</a></td><td>Wafi</td><td>5★</td><td>€233</td><td>9.2</td><td>9.1</td><td>70 m²</td><td>€3.33</td><td>2 pools + spa</td><td>Room only; half board €370+</td><td>Splurge, space</td></tr><tr><td><a href=\"#card-4\">#4 Address Creek Harbour</a></td><td>Creek Harbour</td><td>5★</td><td>€182</td><td>9.0</td><td>9.2</td><td>40 m²</td><td>€4.55</td><td>Infinity pool + beach</td><td>€38</td><td>5★ in the new town</td></tr><tr><td><a href=\"#card-5\">#5 Canopy by Hilton Al Seef</a></td><td>Al Seef</td><td>4★</td><td>€95</td><td>8.8</td><td>9.2</td><td>35 m²</td><td>€2.71</td><td>Rooftop infinity pool</td><td>€19</td><td>Heritage quarter</td></tr><tr><td><a href=\"#card-6\">#6 Sofitel The Obelisk</a></td><td>Wafi</td><td>5★</td><td>€156</td><td>9.1</td><td>9.0</td><td>44 m²</td><td>€3.55</td><td>Heated rooftop pool</td><td>Included</td><td>Breakfast in the price</td></tr><tr><td><a href=\"#card-7\">#7 Jannah Dubai Creek</a></td><td>Deira</td><td>4★</td><td>€66</td><td>9.0</td><td>8.9</td><td>29 m²</td><td>€2.28</td><td>Outdoor pool + spa</td><td>€12</td><td>Lowest price</td></tr><tr><td><a href=\"#card-8\">#8 Al Jaddaf Rotana</a></td><td>Al Jaddaf</td><td>5★</td><td>€167</td><td>9.2</td><td>9.1</td><td>80 m²</td><td>€2.09</td><td>Outdoor pool</td><td>€30</td><td>Suite with kitchen</td></tr><tr><td><a href=\"#card-9\">#9 Hyatt Creek Heights Residences</a></td><td>Healthcare City</td><td>5★</td><td>€136</td><td>9.0</td><td>8.9</td><td>58 m²</td><td>€2.34</td><td>Outdoor pool + spa</td><td>On site</td><td>Studio with kitchen</td></tr><tr><td><a href=\"#card-10\">#10 Vida Creek Harbour</a></td><td>Creek Harbour</td><td>4★</td><td>€108</td><td>8.9</td><td>9.3</td><td>32 m²</td><td>€3.38</td><td>Outdoor pool</td><td>€27</td><td>Cheapest Creek Harbour</td></tr></tbody></table></div><p>Breakfast swings the real price more than most people expect. At Address it adds €38 to the room-only rate; at Jannah it is €12; at Sofitel it is already in the €156. Over a three-night stay, the Address-to-Jannah gap alone is €78.</p>"
+  },
+  {
+   "id": "three-sides",
+   "h2": "Deira, Bur Dubai or Creek Harbour: the Three Sides of the Creek",
+   "html": "<p>\"Dubai Creek hotel\" covers three very different stays. Pick the side first, then the hotel.</p><h3>1. Deira (north-east bank): old Dubai, lowest prices, closest to the airport</h3><p>Deira is the busy trading side of the Creek. This is where the money goes furthest: <strong>Mövenpick Dubai Creek (#1) is a 5-star for €86</strong> and <strong>Jannah (#7) is €66</strong>. Both are 3–5 km from Dubai International Airport, and Mövenpick is about 10 minutes by car from the gold and textile markets. Choose Deira for value, souks and short airport transfers. If you only need a bed near the terminal, our <a href=\"/best-hotels-dubai-airport\">Dubai airport hotels comparison</a> covers that job directly.</p><h3>2. Bur Dubai side (south-west bank): Al Seef heritage, Wafi and the metro hotels</h3><p>The opposite bank runs from the restored Al Seef waterfront inland to Oud Metha (Wafi), Dubai Healthcare City and Al Jaddaf. <strong>Canopy by Hilton (#5) is the Al Seef pick</strong> at €95 with a 9.2 location score. Further inland, <strong>Raffles (#3) and Sofitel (#6)</strong> sit by Wafi mall with metro access, and the <strong>Hyatt residences (#9) and Al Jaddaf Rotana (#8)</strong> are both 5 minutes on foot from a metro station. This side suits travellers who want heritage streets or big rooms and the metro, rather than a beach.</p><h3>3. Dubai Creek Harbour (east bank, further upstream): new towers, pools and the beach</h3><p>Creek Harbour is the new waterfront district 0.6–0.8 miles from Dubai Festival City. Hotels here are modern and pool-focused: <strong>Vida Creek Beach (#2) is beachfront with an infinity pool</strong>, <strong>Address Creek Harbour (#4)</strong> adds a spa and beach access, and <strong>Vida Creek Harbour (#10)</strong> is the cheapest way in at €108. Prices start at €108 here versus €66–86 for the two Deira picks, and Dubai Mall is about 10 km away.</p>"
+  },
+  {
+   "id": "which",
+   "h2": "Which Dubai Creek Hotel Should You Book?",
+   "html": "<ul><li><strong>Best value overall:</strong> <a href=\"#card-1\">Mövenpick Dubai Creek</a>, €86 for a 5-star with a rooftop pool and a 9.2 score.</li><li><strong>Lowest price that still scores 9.0:</strong> <a href=\"#card-7\">Jannah Dubai Creek Hotel</a>, €66, plus €12 breakfast.</li><li><strong>Families who want to swim:</strong> <a href=\"#card-2\">Vida Creek Beach</a> (beachfront, kids' pool, 9.3) or <a href=\"#card-4\">Address Creek Harbour</a> (kids' pool, entertainment staff).</li><li><strong>Families who need space:</strong> <a href=\"#card-8\">Al Jaddaf Rotana</a>, an 80 m² suite with two bathrooms and a kitchen for €167; under-3s stay free and only 18+ pay adult rates.</li><li><strong>Old Dubai on foot:</strong> <a href=\"#card-5\">Canopy by Hilton Al Seef</a> on the Bur Dubai bank, or Mövenpick on the Deira bank, 10 minutes by car from the gold and textile markets.</li><li><strong>A special occasion:</strong> <a href=\"#card-3\">Raffles Dubai</a>, a 70 m² room with a terrace and butler service.</li><li><strong>Breakfast in the price:</strong> <a href=\"#card-6\">Sofitel The Obelisk</a>, €156 with breakfast included.</li><li><strong>Self-catering:</strong> <a href=\"#card-9\">Hyatt Regency Creek Heights Residences</a>, a 58 m² studio with a full kitchen, if you can arrive between 15:00 and 19:00.</li><li><strong>Travelling with a pet:</strong> <a href=\"#card-10\">Vida Creek Harbour</a> is the only one here that accepts pets.</li></ul><p>If you would rather be near Burj Khalifa than the Creek, see our <a href=\"/best-hotels-downtown-dubai\">Downtown Dubai hotels</a>; for the city's top 5-star resorts, see <a href=\"/best-luxury-hotels-dubai\">the best luxury hotels in Dubai</a>.</p>"
+  },
+  {
+   "id": "practical",
+   "h2": "Practical Tips: Fees, Getting Around and What Costs Extra",
+   "html": "<h3>What the nightly price does not include</h3><p>On the rates we compared, <strong>a 10% service charge, 5% VAT, a 7% municipality fee and the Dubai tourism fee are added</strong> to the nightly price. The tourism fee is <strong>AED 15 a night at the 4-star hotels</strong> here (Jannah, Canopy, Vida Creek Harbour) and <strong>AED 20 at the 5-stars</strong> (Mövenpick, Raffles, Address, Al Jaddaf Rotana), rising to AED 40–60 on Rotana's larger suites. Two hotels take a refundable deposit on arrival: AED 500 in cash at Mövenpick and AED 200 at the Hyatt residences.</p><h3>Getting around</h3><p>For the metro, the Bur Dubai side wins: Al Jaddaf Rotana and the Hyatt residences are each 5 minutes on foot from a station, and Raffles and Sofitel have metro access at Wafi. Deira is the side for the airport (Jannah 3 km, Mövenpick 5 km). Creek Harbour is the most car-dependent; Vida Creek Harbour runs a shuttle, and all three Creek Harbour hotels offer free parking.</p><h3>Kids, extra beds and arrival times</h3><p>Extra-bed charges range from AED 90 (Jannah) to AED 400 (Raffles) a night, Vida Creek Harbour has no extra beds at all, and Sofitel charges children as adults from age 5. Check the age rules on the card before you book. The Hyatt residences only check guests in from 15:00 to 19:00, so they are a poor match for late flights.</p><h3>What to do from the Creek</h3><p>A Creek hotel puts you close to old Dubai's sights. For an evening on the water, compare <a href=\"/best-dinner-cruises-dubai\">Dubai dinner cruises</a>; for a guided day through the old town and the new skyline, see <a href=\"/best-dubai-city-tours\">the best Dubai city tours</a>; and if Burj Khalifa is on your list, our <a href=\"/best-burj-khalifa-tickets\">Burj Khalifa ticket comparison</a> shows which time slot is worth paying for. For a day out of the city, compare <a href=\"/best-desert-safaris-dubai\">desert safaris</a> and check that pickup covers your side of the Creek.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is it better to stay in Deira or Bur Dubai?",
+   "a": "Stay in Deira for the lowest prices and the shortest airport transfer: Mövenpick Dubai Creek is a 5-star for €86 and 5 km from the airport. Stay on the Bur Dubai side for the Al Seef heritage quarter (Canopy by Hilton, €95) or for metro access and bigger rooms around Wafi and Al Jaddaf."
+  },
+  {
+   "q": "What is the best hotel on Dubai Creek?",
+   "a": "For most travellers, Mövenpick Dubai Creek: a 5-star on the Deira bank with a rooftop pool overlooking the Creek, a 9.2 guest score and a price of €86 a night. The highest-rated hotel in the comparison is Vida Creek Beach in Creek Harbour (9.3), at €148."
+  },
+  {
+   "q": "Are there Dubai Creek hotels with a beach?",
+   "a": "Yes, in Dubai Creek Harbour. Vida Creek Beach Hotel is listed as beachfront and has an infinity pool and kids' pool; Address Creek Harbour lists beach access with its infinity pool. The Deira and Bur Dubai hotels have pools only."
+  },
+  {
+   "q": "Which Creek hotels are closest to the airport?",
+   "a": "The Deira hotels. Jannah Dubai Creek Hotel is 3 km from Dubai International Airport and Mövenpick Dubai Creek 5 km, with an airport shuttle on request. The Hyatt Regency Creek Heights Residences in Healthcare City is 4 km away. For more options next to the terminal, see our <a href=\"/best-hotels-dubai-airport\">Dubai airport hotels</a> comparison."
+  },
+  {
+   "q": "Which Dubai Creek hotel is best for families?",
+   "a": "For space, Al Jaddaf Rotana: an 80 m² one-bedroom suite with two bathrooms and a kitchen for €167, free cots and extra beds under 3, and only guests 18+ charged as adults. For pools and a beach, Vida Creek Beach or Address Creek Harbour, both with kids' pools and free cots up to age 3."
+  },
+  {
+   "q": "How much is the Dubai tourism fee at Creek hotels?",
+   "a": "On the rates compared here it is AED 15 per night at the 4-star hotels and AED 20 at the 5-stars, up to AED 40–60 for larger suites at Al Jaddaf Rotana. It comes on top of the room price together with 5% VAT and a 7% municipality fee."
+  },
+  {
+   "q": "Is Dubai Creek Harbour a good place to stay?",
+   "a": "It is the best side of the Creek for pools and a beach and the newest hotels, with location scores of 9.2–9.4 for the three hotels here. It costs more than Deira (from €108 at Vida Creek Harbour versus €66–86 in Deira) and is about 10 km from Dubai Mall, so it suits a relaxed stay more than non-stop sightseeing."
+  }
+ ],
+ "methodology": "<p>We compared <strong>10 hotels on all three sides of Dubai Creek</strong>: Deira, the Bur Dubai bank (Al Seef, Wafi, Healthcare City, Al Jaddaf) and Dubai Creek Harbour. Each is priced at its lowest live nightly rate for two adults on the same weeknight, in euros, alongside the guest score and location score, the size of the cheapest room (converted to m² and € per m²), pool and beach, breakfast cost, check-in rules, child and extra-bed policies, metro and airport distances, and the taxes and tourism fee added at booking. Hotels outside the Creek area were left out.</p>"
+}

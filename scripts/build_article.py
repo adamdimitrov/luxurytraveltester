@@ -9,7 +9,7 @@ Spec format: see scripts/articles/README.md. Everything the reader sees comes fr
 spec; the shell only provides chrome and styles. Run scripts/sync_layout.py afterwards
 (menu/footer/search) and ~/.claude/skills/qc-article/qc_article.py.
 """
-import argparse, copy, datetime as dt, html, io, json, re, sys, urllib.request
+import argparse, copy, datetime as dt, html, io, json, re, sys, urllib.parse, urllib.request
 from pathlib import Path
 from bs4 import BeautifulSoup
 
@@ -23,6 +23,13 @@ CDN = "https://cdn.getyourguide.com/image/fit=crop,width=1200,height=800/tour_im
 LAZY = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
 SIZES = "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
 REL = 'rel="noopener nofollow sponsored" target="_blank"'
+TP_MARKER, TP_TRS = "404154", "404826"          # Travelpayouts account (same as the Palm hotels page)
+BOOKING_ICON = "/assets/cdn/67d02edca7795b0f57073b59/67ebc6e4524e14131c6f4322_booking-logo.avif"
+# Partner per spec ("partner": "booking" for hotel pages; default GetYourGuide).
+PARTNERS = {
+    "gyg": {"site": "GetYourGuide", "via": "Booked securely via GetYourGuide", "kicker": "⏱️", "perk_place": "Start", "perk_dur": "Duration"},
+    "booking": {"site": "Booking.com", "via": "Booked securely via Booking.com", "kicker": "🏨", "perk_place": "Area", "perk_dur": "Type"},
+}
 E = html.escape
 
 
@@ -34,6 +41,21 @@ def gyg_link(path_or_url, cmp):
     u = path_or_url if path_or_url.startswith("http") else "https://www.getyourguide.com" + path_or_url
     u = u.split("?")[0]
     return f"{u}?partner_id={GYG_PARTNER}&utm_medium=online_publisher&cmp={cmp}&mkt_cmp=true"
+
+
+def tp_booking_link(url, sub):
+    """Booking.com hotel URL -> Travelpayouts deep link (Booking.com program, campaign 84)."""
+    u = url.split("?")[0]
+    if not re.match(r"https://www\.booking\.com/hotel/ae/[a-z0-9-]+(\.en-gb)?\.html$", u):
+        sys.exit(f"not a Booking.com hotel URL: {url}")
+    if not u.endswith(".en-gb.html"):
+        u = u[:-5] + ".en-gb.html"
+    return (f"https://tp.media/r?marker={TP_MARKER}.{sub}&trs={TP_TRS}&p=2076&u="
+            + urllib.parse.quote(u, safe="") + "&campaign_id=84")
+
+
+def partner(spec):
+    return PARTNERS[spec.get("partner", "gyg")]
 
 
 def compact(n):
@@ -60,7 +82,8 @@ def fetch_photos(spec, slug):
             name = f"{n:02d}-{it['photo_slug']}-{k:02d}.avif"
             dst = out_dir / name
             if not dst.exists():
-                req = urllib.request.Request(CDN.format(h), headers={"User-Agent": "Mozilla/5.0"})
+                src = h if h.startswith("http") else CDN.format(h)
+                req = urllib.request.Request(src, headers={"User-Agent": "Mozilla/5.0"})
                 data = urllib.request.urlopen(req, timeout=30).read()
                 im = Image.open(io.BytesIO(data)).convert("RGB")
                 im.save(dst, "AVIF", quality=55)
@@ -82,11 +105,12 @@ def pill_html(p):
 
 
 def rating_html(it, gyg_icon):
+    site = it["_site"]
     return (f'<div class="bpa-summary-reviews bpa-rate"><details class="bpa-lang bpa-rate-more"><summary class="bpa-rate-sum">'
             f'<span class="bpa-stars" style="--r:{it["rating"]:.2f}" aria-hidden="true"></span><b class="bpa-rate-score">{it["rating"]:.1f}</b>'
             f'<span class="bpa-rate-meta">{compact(it["reviews"])} reviews · 1 site</span><span class="bpa-lang-chev" aria-hidden="true">▾</span></summary>'
-            f'<div class="bpa-lang-pop"><strong>Rating on GetYourGuide</strong><span class="bpa-rate-list"><a class="bpa-rev-badge is-link" href="{esc_attr(it["link"])}" {REL}>'
-            f'<img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="{gyg_icon}"/><span class="bpa-rev-site">GetYourGuide</span>'
+            f'<div class="bpa-lang-pop"><strong>Rating on {site}</strong><span class="bpa-rate-list"><a class="bpa-rev-badge is-link" href="{esc_attr(it["link"])}" {REL}>'
+            f'<img alt="{site}" class="bpa-rev-icon" loading="lazy" src="{gyg_icon}"/><span class="bpa-rev-site">{site}</span>'
             f'<span class="bpa-rev-score">{it["rating"]:.1f}</span><span class="bpa-rev-count">({compact(it["reviews"])})</span>'
             f'<span class="bpa-rev-go" aria-hidden="true">→</span></a></span></div></details></div>')
 
@@ -110,7 +134,7 @@ def slider_html(it, first_card):
 
 
 def kicker_html(it):
-    return (f'<div class="bpa-kicker">{E(it["operator"])} • ⏱️ {E(it["duration"])} • <a class="bpa-kicker-map-link" '
+    return (f'<div class="bpa-kicker">{E(it["operator"])} • {it["_kicker"]} {E(it["duration"])} • <a class="bpa-kicker-map-link" '
             f'href="https://maps.google.com/?q={esc_attr(it["map_q"].replace(" ", "+"))}" onclick="event.stopPropagation()" '
             f'rel="noopener noreferrer" target="_blank">📍 {E(it["place"])}</a></div>')
 
@@ -145,7 +169,7 @@ def card_html(n, it, gyg_icon):
 <div class="bpa-psub">{E(it.get("price_unit", "per person"))}</div>
 </div>
 <a class="bpa-btn" href="{esc_attr(it["link"])}" {REL}>Check Availability →</a>
-<div class="bpa-via">Booked securely via GetYourGuide</div>
+<div class="bpa-via">{it["_via"]}</div>
 <div class="bpa-trust2">{trust}</div>
 <a class="bpa-sublink" href="#{it["anchor"]}">Read Review ↓</a>
 </div>
@@ -160,7 +184,7 @@ def details_html(n, it, gyg_icon):
     review = "".join(f"<p>{p}</p>" for p in it["review"])
     perks = "".join(f'<span class="ltt-buy-perk">{p}</span>' for p in [
         "🛡️ " + E(it.get("cancel", "Free cancellation up to 24 hours before")),
-        f"📍 Start: <strong>{E(it['place'])}</strong>", f"⏱️ Duration: <strong>{E(it['duration'])}</strong>"])
+        f"📍 {it['_perk_place']}: <strong>{E(it['place'])}</strong>", f"{it['_kicker']} {it['_perk_dur']}: <strong>{E(it['duration'])}</strong>"])
     return f'''<details class="bpa-details-card" data-cat="{it["cat"]}" id="{it["anchor"]}" open="">
 <summary class="bpa-details-summary">
 <div class="bpa-details-summary-content">
@@ -170,7 +194,7 @@ def details_html(n, it, gyg_icon):
 </div>
 <h3 class="bpa-details-title">{E(it["title"])}</h3>
 <div class="bpa-reviews-line">
-<div class="bpa-summary-reviews"><div class="div-block-53"><a class="bpa-rev-badge" href="{esc_attr(it["link"])}" onclick="event.stopPropagation()" {REL}><img alt="GetYourGuide" class="bpa-rev-icon" loading="lazy" src="{gyg_icon}"/><span class="bpa-rev-score">{it["rating"]:.1f}</span><span class="bpa-rev-count">({compact(it["reviews"])})</span></a></div></div>
+<div class="bpa-summary-reviews"><div class="div-block-53"><a class="bpa-rev-badge" href="{esc_attr(it["link"])}" onclick="event.stopPropagation()" {REL}><img alt="{it["_site"]}" class="bpa-rev-icon" loading="lazy" src="{gyg_icon}"/><span class="bpa-rev-score">{it["rating"]:.1f}</span><span class="bpa-rev-count">({compact(it["reviews"])})</span></a></div></div>
 </div>
 </div>
 <div class="bpa-details-right">
@@ -287,13 +311,20 @@ def build(spec_path, photos):
         Path(spec_path).write_text(json.dumps(spec, indent=1, ensure_ascii=False))
     today = dt.date.today().isoformat()
     today_h = dt.date.today().strftime("%b %-d, %Y")
+    pt = partner(spec)
     for n, it in enumerate(spec["items"], 1):
         it.setdefault("anchor", f"{n}-" + re.sub(r"[^a-z0-9]+", "-", it["short_title"].lower()).strip("-")[:40])
-        if not it["link"].startswith("http") or "partner_id" not in it["link"]:
+        it.update(_site=pt["site"], _via=pt["via"], _kicker=pt["kicker"], _perk_place=pt["perk_place"], _perk_dur=pt["perk_dur"])
+        if spec.get("partner") == "booking":
+            # rating10 = Booking.com score out of 10; cards show it on the site's 5-point scale (as on the Palm page)
+            it["rating"] = round(float(it["rating10"]) / 2, 2)
+            if "tp.media" not in it["link"]:
+                it["link"] = tp_booking_link(it["link"], f'{spec.get("cmp", slug)}_{it["photo_slug"]}'.replace("-", "_"))
+        elif not it["link"].startswith("http") or "partner_id" not in it["link"]:
             it["link"] = gyg_link(it["link"], spec.get("cmp", slug))
     raw = SHELL.read_text(encoding="utf-8")
     s = BeautifulSoup(raw, "html.parser")
-    gyg_icon = s.select_one('img.bpa-rev-icon[alt="GetYourGuide"]')["src"]
+    gyg_icon = BOOKING_ICON if spec.get("partner") == "booking" else s.select_one('img.bpa-rev-icon[alt="GetYourGuide"]')["src"]
     url = f"{SITE}/{slug}"
 
     # head
