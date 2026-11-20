@@ -179,7 +179,7 @@ def card(n, it, spec, live):
     gyg = {"kind": "link", "site": "GetYourGuide", "score": f"{it['rating']:.1f}", "count": f"({compact(it['reviews'])})",
            "url": link, "rel": REL, "target": "_blank"}
     pills = []
-    for p in it["pills"][:4]:
+    for p in it["pills"][:8]:
         note = f'<span class="bpa-lang-note">{p["note"]}</span>' if p.get("note") else ""
         pills.append({"cls": "bpa-lang", "emoji": p["emoji"], "label": E(p["label"]),
                       "pop_html": f'<strong>{E(p["lead"])}</strong> {p["body"]}{note}'})

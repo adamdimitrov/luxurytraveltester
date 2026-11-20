@@ -31,7 +31,7 @@
     "rating": 4.52, "reviews": 14152, "price": 76.54, "price_was": null, "price_unit": "per person",
     "gallery": ["<64-hex>.jpg", …],           // GYG activityImage ids, 9-10; builder fills "photos"
     "photo_slug": "aquaventure",
-    "pills": [{"emoji": "🎢", "label": "105 slides", "lead": "What's inside:", "body": "…", "note": "optional source note"}],  // max 4, every pill adds facts
+    "pills": [{"emoji": "🎢", "label": "105 slides", "lead": "What's inside:", "body": "…", "note": "optional source note"}],  // 6-8 pills (two rows): time ("kind":"time"), languages, access & kids ("kind":"access"), what you get, vibe ("kind":"vibe"); every pill adds facts
     "pick": "for … (specific)", "skip": "if … (specific)",
     "pros": ["…"], "cons": ["…"],
     "review": ["html paragraph", "…"],        // original analysis, no invented experience
