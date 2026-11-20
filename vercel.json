@@ -2,6 +2,7 @@
   "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
+  "ignoreCommand": "git diff --quiet \"$VERCEL_GIT_PREVIOUS_SHA\" HEAD -- . ':!GEMINI.md' ':!*.py' ':!scripts/' ':(glob,exclude)test-*.html' ':!.DS_Store' ':!kit/' ':!kit.lock' ':!site.json' ':!CLAUDE.md' ':!drafts/' ':!data/menu/' ':!data/listicles/' || exit 1",
   "redirects": [
     {
       "source": "/best-helicopter-tours-new-york.md",
