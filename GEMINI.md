@@ -15,7 +15,7 @@
 - **XML Sitemap Architecture**:
   - Sitemap path: `sitemap.xml` (referenced in `robots.txt` via `Sitemap: https://luxurytraveltester.com/sitemap.xml`).
   - Automated generator: `scripts/generate_sitemap.py` (builds entries from each page's `<link rel="canonical">`).
-  - Canonical Scope: Only the English canonical URLs (currently **42**: home, 2 hub articles + their subpages, 2 one-pick verdict pages, 14 Dubai experience comparisons and 10 Dubai hotel comparisons (built from scripts/articles/*.json by scripts/build_article.py; hotel specs use "partner": "booking"), 3 tourism statistics pages (built from scripts/stats/*.py by scripts/build_stats.py, chart embeds under /embed/), about, contact, privacy). Update this count when pages are added or removed.
+  - Canonical Scope: Only the English canonical URLs (currently **43**: home, 2 hub articles + their subpages, 2 one-pick verdict pages, 15 Dubai experience comparisons and 10 Dubai hotel comparisons (built from scripts/articles/*.json by scripts/build_article.py; hotel specs use "partner": "booking"), 3 tourism statistics pages (built from scripts/stats/*.py by scripts/build_stats.py, chart embeds under /embed/), about, contact, privacy). Update this count when pages are added or removed.
   - No `xhtml:link` hreflang annotations; there are no alternate language versions.
   - Zero Non-Canonical Submissions: only declared canonical URLs belong in `sitemap.xml`.
 

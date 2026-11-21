@@ -1,0 +1,4463 @@
+{
+ "format": 1,
+ "icons": {
+  "GetYourGuide": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADEElEQVR4nMWXWUgVURjHfzOOXbeylBZarLAiyMiwJJOwyEhCSKjIiKggXwrqLQgEe+gp6Kl6iqKXIrAFIgsKSS1KElsoQ0oLrSQtxX3rmvH5zXV8uDpzzeUPl5lz7v+c/3fOt5wzBjYG96UwlTAKK4eepi1+DGiU1yn6NdqaGPbKfwLzp3QLdMELhnZgGsSHNU2mGVbIIwYGICwMfBEQGa19fb3Q0+X8N2kGGAasTobNmZC4BmLjtL+zDWo/wstiqH4Dg4PepxzUIHQfISvOPghZuRA7JzinuwMe34Z713VHPOhb3sw0YPdhyDkCVrj2+f9AV6e+R8dof9RMyDkK4TPgxkXw+12ntlwZ4tekjbAr1xGvfguPbkF9jbYXLYOs/coTZO6Bd+VQ+dw1JixXA2SC1AxdnaCmCi4XQEO9w6mvhU/v4eQ5NULclbZDjXCJB9PVAJls6SqnXVak4mLYyF9zE5QWObwliRARNQFBaFmwLg1i47VdVQGNP4Jz4+ZCcrq+93RCRYlbHBjuLpAJ2lshaQN8+wrNUkFHQcsveHLHaXuoCZYrQ4rNoVOa/1Jw2prhVcnok4dYiExPrED0B/w9gbBcGVJQbl6CjGyo+6yRHTBCUnQsTIgLLJvy+hkM+NUl4gpBQiIkrAg+rr8PPlQ43HEbEO6DA8dh5VqtfhdOawwI0nfC3rzg41qaoCBv9IwJKQYMM/i2BnbnP2C5Mv4OQG+3zQ6HuHmOIRVl0N4G/n5I2aL1IkSYrgzx4fcvTjt1G8yO1wCUM+HuVSgvBl9kyOLeDBAh8bkctQKp9Xln9LkwAVK3womzWifGAcuVIVstl4yyh3riCTZth/Xp0NUO0bP0vAgEniDgJg8wPbGkHBdegaf3NRMEIipCAXFx07Xz0FBHKLA8MztaVeDtCz1qFy+HMAvaWjTfSx9AU4Oegp3t0PrbtQYIvF/JRsaEzweRMeoeqZQjheT2FID73dAIPZFFVFwiOxIMIVxIBdP+XWDazzEO+UnDkKZpf6XmA3YOTQlEK1+0hyNmuj7P/wFtgwzE0AJjuwAAAABJRU5ErkJggg=="
+ },
+ "cards": [
+  {
+   "id": "card-1",
+   "cats": [
+    "pickup",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🏆 #1 Best Overall",
+     "medal": "bpa-gold"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "fetchpriority",
+       "high"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "eager"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/01-private-pickup-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-08-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-09-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/01-private-pickup-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Private photographer",
+    "⏱️ 1–3 hours",
+    {
+     "url": "https://maps.google.com/?q=Downtown+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai, locations of your choice"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/private-photoshoot-in-dubai-t482006/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Private Photoshoot with Hotel Pick-up and Drop-off"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.93",
+     "score": "4.9",
+     "meta": "70 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.9",
+       "count": "(70)",
+       "url": "https://www.getyourguide.com/dubai-l173/private-photoshoot-in-dubai-t482006/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "1–3 hours",
+     "pop_html": "<strong>Timing:</strong> The length follows the number of locations you book: 1, 2 or 3. Check availability for start times."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Your photographer directs the poses in English and helps you find your best angles."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Private, any group",
+     "pop_html": "<strong>Access &amp; kids:</strong> Private group only, so it is just you and your companions. No age limits are listed; bring a change of clothes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "~50 edited per spot",
+     "pop_html": "<strong>Photos:</strong> Around <strong>50 edited photos for 1 location, 100 for 2 and 150 for 3</strong>, shot on a Sony A7 IV and sent digitally after the shoot."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "Hotel pickup",
+     "pop_html": "<strong>Getting there:</strong> Pickup and drop-off at your accommodation in an air-conditioned car, which also takes you between the locations you choose."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👗",
+     "label": "Outfit changes",
+     "pop_html": "<strong>Looks:</strong> Change clothes between spots for several looks. A flying dress rental is listed at 200 AED per person."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✨",
+     "label": "Relaxed, guided",
+     "pop_html": "<strong>Vibe:</strong> Door to door and coached: the car takes you between your spots and the photographer handles the angles. Guide and transport both score 5.0/5 in guest ratings."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for solo travellers, couples and friends who want the most edited photos for the money, because €143 buys around 50 edited shots per location plus door-to-door transport",
+    "skip_html": "if you want a flying dress included in the price or video reels, or if you are 3+ people and want one group price"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Private photographer with a Sony A7 IV, hotel pickup and drop-off, around 50 edited photos per location."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "A change of clothes."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €143 per person. The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€143",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€143"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/private-photoshoot-in-dubai-t482006/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#1-private-photoshoot-pickup",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-2",
+   "cats": [
+    "dress",
+    "couple"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥈 #2 Best Flying Dress Shoot",
+     "medal": "bpa-silver"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/02-burj-flying-dress-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-08-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-09-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/02-burj-flying-dress-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Private videographer",
+    "⏱️ 1 hour",
+    {
+     "url": "https://maps.google.com/?q=Wings+of+Mexico+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Downtown Dubai, Burj Khalifa"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-flying-dress-videography-shoot-t812687/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Burj Khalifa Flying Dress Videography Shoot"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.49",
+     "score": "4.5",
+     "meta": "62 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(62)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-flying-dress-videography-shoot-t812687/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "1 hour",
+     "pop_html": "<strong>Timing:</strong> A 1-hour walk with 6 stops of about 10 minutes each: Burj Khalifa views, Dubai Mall Park Bridge, Burj Park, the Dandelion light sculpture, Burj Ceni and Dubai Opera."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "EN · RU · AR",
+     "pop_html": "<strong>Languages:</strong> Shoots run in English, Russian or Arabic."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Up to 2 people",
+     "pop_html": "<strong>Access &amp; kids:</strong> One price for up to 2 people. Not suitable for people with mobility impairments, as the route is on foot."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👗",
+     "label": "Flying dress included",
+     "pop_html": "<strong>The dress:</strong> Pick colour and size from a catalogue before the day; the dress is <strong>delivered to your hotel the day before</strong>. A second dress costs 350 AED."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🎬",
+     "label": "2 reels in 24 h",
+     "pop_html": "<strong>Video:</strong> One edited 20–25 second reel and one 7–10 second story clip, delivered within 24 hours, plus all raw photos and videos."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "20–25 edited photos",
+     "pop_html": "<strong>Photos:</strong> 20–25 edited photos on top of the video, so you get both formats from one hour."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💃",
+     "label": "Made for reels",
+     "pop_html": "<strong>Vibe:</strong> The dress needs someone to lift and throw it: bring a partner, or pay 200 AED for an assistant if you are solo. Guests rate the team 4.9/5."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples who want the classic flying dress shot with the Burj Khalifa behind them, because €211 for two covers the dress, 20–25 edited photos and two edited reels within a day",
+    "skip_html": "if you are travelling solo (the 200 AED assistant fee pushes it up), have limited mobility, or want desert dunes rather than skyscrapers"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "1-hour private videography and photo walk, 1 flying dress, 20–25 edited photos, 1 edited 20–25 s reel, 1 edited 7–10 s story clip, all raw photos and videos."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Wings of Mexico statue, Sheikh Mohammed bin Rashid Blvd, Downtown Dubai."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Comfortable shoes, sunglasses, a hat."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, Russian, Arabic."
+     }
+    ]
+   },
+   "price": {
+    "main": "€211",
+    "sub": "from, per group (up to 2)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (up to 2)",
+      "price": "€211"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-burj-khalifa-flying-dress-videography-shoot-t812687/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Flying dress</b> included"
+    ],
+    "sublink": {
+     "url": "#2-burj-flying-dress-video",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-3",
+   "cats": [
+    "dress",
+    "pickup",
+    "couple"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "🥉 #3 Best Desert Flying Dress",
+     "medal": "bpa-bronze"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Private Flying Dress Photography and Dune Drive Trip"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/03-desert-flying-dress-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Flying Dress Photography and Dune Drive Trip"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/03-desert-flying-dress-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Flying Dress Photography and Dune Drive Trip"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/03-desert-flying-dress-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Flying Dress Photography and Dune Drive Trip"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/03-desert-flying-dress-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Flying Dress Photography and Dune Drive Trip"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/03-desert-flying-dress-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Flying Dress Photography and Dune Drive Trip"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/03-desert-flying-dress-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/03-desert-flying-dress-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/03-desert-flying-dress-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/03-desert-flying-dress-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/03-desert-flying-dress-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/03-desert-flying-dress-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/03-desert-flying-dress-06-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Private photographer and driver",
+    "⏱️ 4 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+desert+conservation+reserve",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai desert"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-flying-dress-with-photography-and-dune-drive-t431810/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Private Flying Dress Photography and Dune Drive Trip"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.84",
+     "score": "4.8",
+     "meta": "36 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(36)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-flying-dress-with-photography-and-dune-drive-t431810/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "4-hour trip",
+     "pop_html": "<strong>Timing:</strong> About 4 hours door to door, of which the photo shoot itself is <strong>1 hour</strong>; the rest is the private drive out, the dune drive and the ride back."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Photographer and driver work in English."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Not for over-70s",
+     "pop_html": "<strong>Access &amp; kids:</strong> One price for up to 2 people. Not suitable for people over 70; no luggage or large bags."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👗",
+     "label": "Dress of your choice",
+     "pop_html": "<strong>The dress:</strong> One flying dress chosen from a catalogue of colours, styles and sizes sent after booking."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "20 retouched + 25",
+     "pop_html": "<strong>Photos:</strong> 20 retouched and 25 colour-corrected photos with unlimited usage rights. Previews within 5 days; finished photos within 7 days of picking your favourites."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚙",
+     "label": "Pickup + dune drive",
+     "pop_html": "<strong>Getting there:</strong> Private air-conditioned pickup from your hotel or chosen spot in Dubai, a drive through the dunes, and drop-off at the end."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏜️",
+     "label": "Golden dunes",
+     "pop_html": "<strong>Vibe:</strong> A desert outing and a shoot in one: golden dunes and open sky instead of glass towers. Guest ratings: 4.9/5 for the guide, 5.0/5 for transport."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples or two friends who want flying dress photos on the dunes and a desert outing in one, because €499 for two covers the dress, private transfers and 45 finished photos",
+    "skip_html": "if you need photos fast (finished files take about two weeks) or want a city skyline backdrop"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel or chosen-location pickup and drop-off, private photographer, 1-hour shoot, 1 flying dress of your choice, 20 retouched and 25 colour-corrected photos, unlimited image usage rights."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Who should not book it?",
+      "a": "People over 70."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €499 per group (up to 2). The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€499",
+    "sub": "from, per group (up to 2)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (up to 2)",
+      "price": "€499"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-flying-dress-with-photography-and-dune-drive-t431810/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#3-desert-flying-dress-dune-drive",
+     "text": "Read Review ↓"
+    }
+   },
+   "_photo_topup": {
+    "skip": "listing has only 6 photos (all used)"
+   }
+  },
+  {
+   "id": "card-4",
+   "cats": [
+    "couple",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #4 Best Value for Couples",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Burj Khalifa Private Couple & Pre-Wedding Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/04-burj-couple-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-08-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-09-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/04-burj-couple-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Private photographer",
+    "⏱️ 1–2 hours",
+    {
+     "url": "https://maps.google.com/?q=Wings+of+Mexico+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Downtown Dubai, Burj Khalifa"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-iconic-burj-khalifa-pre-wedding-photoshoot-t766835/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Burj Khalifa Private Couple &amp; Pre-Wedding Photoshoot"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.03",
+     "score": "4.0",
+     "meta": "12 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.0",
+       "count": "(12)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-iconic-burj-khalifa-pre-wedding-photoshoot-t766835/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "1 or 2 hours",
+     "pop_html": "<strong>Timing:</strong> Pick 1 hour around Wings of Mexico and nearby Burj Khalifa viewpoints, or 2 hours adding Burj Ceni, Dubai Mall Park Bridge and the Dandelion sculpture."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English, Hindi",
+     "pop_html": "<strong>Languages:</strong> Posing guidance in English or Hindi."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Up to 2 people",
+     "pop_html": "<strong>Access &amp; kids:</strong> Private, one price for up to 2 people. Outdoor, on foot; no luggage or large bags."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "25 or 30 edited",
+     "pop_html": "<strong>Photos:</strong> 1 hour: 25 edited high-resolution photos, no raw files. 2 hours: 30 edited photos <strong>plus all original raw files</strong>."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "⚡",
+     "label": "Delivered in 48 h",
+     "pop_html": "<strong>Delivery:</strong> Edited photos within 48 hours for both options; agree the selection and delivery contact with your photographer."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👔",
+     "label": "Your own outfit",
+     "pop_html": "<strong>Wear:</strong> Outfits, make-up and hair are not included, and nor are hotel transfers or Burj Khalifa tickets: the tower is the backdrop only."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💑",
+     "label": "Engagements, honeymoons",
+     "pop_html": "<strong>Vibe:</strong> Built for engagement, honeymoon and anniversary portraits, with natural posing guidance and no modelling experience needed."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for couples on a budget who want polished Burj Khalifa portraits fast, because €94 for two gets 25 edited photos within 48 hours",
+    "skip_html": "if you want hotel pickup, a flying dress or more than one district in a session"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Private outdoor shoot for up to 2 (1 or 2 hours), posing guidance, 25 edited photos (1 h) or 30 edited photos plus raw files (2 h), delivery within 48 hours."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Hotel pickup and drop-off, transport, Burj Khalifa admission, outfits, make-up and hairstyling, food and drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Wings of Mexico, Sheikh Mohammed bin Rashid Blvd, Downtown Dubai."
+     },
+     {
+      "q": "What should I bring?",
+      "a": "Comfortable shoes and clothes, sunglasses, water, sun protection."
+     }
+    ]
+   },
+   "price": {
+    "main": "€94",
+    "sub": "from, per group (up to 2)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (up to 2)",
+      "price": "€94"
+     },
+     {
+      "label": "Price before the current discount",
+      "small": "−40%",
+      "price": "<s>€156</s>"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-iconic-burj-khalifa-pre-wedding-photoshoot-t766835/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Photos within 48 hours</b>"
+    ],
+    "sublink": {
+     "url": "#4-burj-couple-photoshoot",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-5",
+   "cats": [
+    "budget",
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #5 Cheapest Private Shoot",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Private Photoshoot at the Burj Khalifa"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/05-picster-burj-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-08-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-09-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/05-picster-burj-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Picster",
+    "⏱️ 30 min–1.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Souk+Al+Bahar+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Downtown Dubai or Old Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-private-photoshoot-at-the-burj-khalifa-t1143361/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Private Photoshoot at the Burj Khalifa"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.55",
+     "score": "4.5",
+     "meta": "14 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.5",
+       "count": "(14)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-private-photoshoot-at-the-burj-khalifa-t1143361/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "30 min–1.5 h",
+     "pop_html": "<strong>Timing:</strong> Session length depends on the package you choose; check availability for start times."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Your photographer coaches poses in English; no modelling experience needed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Wheelchair-accessible",
+     "pop_html": "<strong>Access &amp; kids:</strong> Wheelchair-accessible and priced <strong>per group of up to 20</strong>, so it works for families."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "20, 50 or 75 edited",
+     "pop_html": "<strong>Photos:</strong> 20, 50 or 75 edited high-resolution photos depending on package, in a private online gallery <strong>within 48 hours</strong>."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🏙️",
+     "label": "Burj or Old Dubai",
+     "pop_html": "<strong>Locations:</strong> Burj Khalifa and Dubai Fountain backdrops, or Old Dubai with spice markets and wooden abras."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "➕",
+     "label": "Paid upgrades",
+     "pop_html": "<strong>Add-ons:</strong> Premium edits, extra photos, drone footage, flying dress hire and a sunset desert extension are optional extras."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👨‍👩‍👧",
+     "label": "Family-friendly",
+     "pop_html": "<strong>Vibe:</strong> Pitched at engagements, honeymoons, family trips and solo travellers. Guide and value score 4.2/5 in guest ratings."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families and groups who want a private shoot at the lowest entry price, because from €80 covers a group of up to 20 with edited photos in 48 hours",
+    "skip_html": "if you want a set number of photos at the headline price (€80 is the smallest package) or hotel transport"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Dedicated private photographer, guided route through photogenic spots, posing direction, high-resolution edited photos in an online gallery."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Souk Al Bahar, Sheikh Mohammed bin Rashid Blvd, Downtown Dubai."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €80 per group (up to 20). The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€80",
+    "sub": "from, per group (up to 20)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (up to 20)",
+      "price": "€80"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-private-photoshoot-at-the-burj-khalifa-t1143361/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#5-burj-old-dubai-photoshoot",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-6",
+   "cats": [
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #6 Best for Groups up to 6",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/06-pictrip-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Photo Shoot with a Personal Travel Photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/06-pictrip-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-08-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-09-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/06-pictrip-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Pictrip",
+    "⏱️ 1–2 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina or locations of your choice"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-personal-travel-photographer-t67694/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Photo Shoot with a Personal Travel Photographer"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.03",
+     "score": "4.0",
+     "meta": "54 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.0",
+       "count": "(54)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-personal-travel-photographer-t67694/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "1–2 hours",
+     "pop_html": "<strong>Timing:</strong> 1 or 2 hours depending on the option; the number of locations follows the option you book."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Photographers are local and share what they know about the city as you go, in English."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Wheelchair-accessible",
+     "pop_html": "<strong>Access &amp; kids:</strong> Wheelchair-accessible, private and priced <strong>per group of up to 6</strong>. Smart dress and comfortable shoes recommended."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "Your locations",
+     "pop_html": "<strong>Locations:</strong> Shoot locations are organised to your brief, and the number of spots follows the option you book; the listed meeting point is in Dubai Marina."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🖼️",
+     "label": "Gallery in 5 days",
+     "pop_html": "<strong>Delivery:</strong> Professionally edited photos in a password-protected online gallery within 5 working days, free to download."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🧭",
+     "label": "Local photographers",
+     "pop_html": "<strong>Planning:</strong> Photographers are hand-picked, experienced locals who share what they know about the city; you get confirmation of the details once the shoot is organised."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📷",
+     "label": "Candid style",
+     "pop_html": "<strong>Vibe:</strong> Contemporary, candid photos rather than stiff poses. Guide scores 4.5/5, value 4.4/5."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for families or friend groups of up to 6 who want one price and a photographer who plans the spots around them, because €263 covers the whole group",
+    "skip_html": "if you need to know the exact number of edited photos before booking, or want them within 48 hours"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Private photographer for your group, shoot at locations organised to your specifications, professionally edited photos in an online gallery within 5 working days."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Travel expenses, admission fees, food and drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Pre-arranged location; listed in Dubai Marina."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€263",
+    "sub": "from, per group (up to 6)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (up to 6)",
+      "price": "€263"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-personal-travel-photographer-t67694/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#6-personal-travel-photographer",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-7",
+   "cats": [
+    "family"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "⭐ #7 Best Dubai Marina Shoot",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai photo tour with a private photographer"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/07-foty-marina-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-08-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-09-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/07-foty-marina-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Foty, local photographers",
+    "⏱️ 1 hour",
+    {
+     "url": "https://maps.google.com/?q=Dubai+Marina",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai Marina"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-photo-tour-with-a-private-photographer-t830104/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai photo tour with a private photographer"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.78",
+     "score": "4.8",
+     "meta": "6 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.8",
+       "count": "(6)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-photo-tour-with-a-private-photographer-t830104/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "1 hour",
+     "pop_html": "<strong>Timing:</strong> A 1-hour private photo walk; check availability for start times."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "English",
+     "pop_html": "<strong>Language:</strong> Your photographer guides poses in English, keeping them simple and natural."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Private group",
+     "pop_html": "<strong>Access &amp; kids:</strong> Private with your own companions; pitched at solo travellers and families. No experience in front of the camera needed."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📦",
+     "label": "All photos in 48 h",
+     "pop_html": "<strong>Delivery:</strong> <strong>Every photo from the shoot</strong> via WeTransfer within 48 hours at the latest."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "✏️",
+     "label": "You pick 30 to edit",
+     "pop_html": "<strong>Editing:</strong> Choose your 30 favourites from the full set and they are professionally edited."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📍",
+     "label": "Meet in the Marina",
+     "pop_html": "<strong>Getting there:</strong> Meet at Stefano's in Dubai Marina. Transport costs and printed photos are not included."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌊",
+     "label": "Waterfront walk",
+     "pop_html": "<strong>Vibe:</strong> A short private walk to iconic spots with a photographer who coaches simple, natural poses."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for travellers staying in Dubai Marina who want to choose their own favourites, because you get every shot within 48 hours and pick the 30 to be edited",
+    "skip_html": "if you are a couple or family on a budget (it is priced per person) or want the Burj Khalifa in the frame"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "High-quality professional photos, professional editing of 30 photos you choose, full gallery via WeTransfer, delivery within 48 hours."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Transport costs, printed photos."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Stefano's, Dubai Marina."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€210",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€210"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-photo-tour-with-a-private-photographer-t830104/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>All photos within 48 hours</b>"
+    ],
+    "sublink": {
+     "url": "#7-marina-photo-tour",
+     "text": "Read Review ↓"
+    }
+   }
+  },
+  {
+   "id": "card-8",
+   "cats": [
+    "dress",
+    "pickup"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "💎 #8 Most Luxurious",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/08-floganza-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/08-floganza-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/08-floganza-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/08-floganza-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/08-floganza-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/08-floganza-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/08-floganza-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai: Flying Dress Photoshoot Experience"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/08-floganza-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/08-floganza-08-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Floganza Dubai",
+    "⏱️ 2.5 hours",
+    {
+     "url": "https://maps.google.com/?q=Dubai+desert",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Dubai desert"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-flying-dress-photoshoot-experience-t402998/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai: Flying Dress Photoshoot Experience"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "4.59",
+     "score": "4.6",
+     "meta": "7 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "4.6",
+       "count": "(7)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-flying-dress-photoshoot-experience-t402998/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "2.5 hours",
+     "pop_html": "<strong>Timing:</strong> About 30 minutes each way by car and a <strong>1.5-hour photo session</strong> at the operator's desert location."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "EN · FR · ES · AR",
+     "pop_html": "<strong>Languages:</strong> English, French, Spanish or Arabic."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Solo or couple",
+     "pop_html": "<strong>Access &amp; kids:</strong> A single or couples photoshoot; the listing caps groups at 10. Priced per person."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "👗",
+     "label": "2 flying dresses",
+     "pop_html": "<strong>The dresses:</strong> <strong>Two dresses</strong> from four models in twelve colours, made to fit all body shapes and sizes."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "14 edited + RAW",
+     "pop_html": "<strong>Photos:</strong> 14 professionally edited pictures, all original RAW files and a 10-second phone-shot Instagram story. Originals within 72 hours; retouched picks within 25 days."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🚗",
+     "label": "Hotel pickup",
+     "pop_html": "<strong>Getting there:</strong> Pickup and drop-off from your location in Dubai in an air-conditioned car."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "💄",
+     "label": "Beauty-led",
+     "pop_html": "<strong>Vibe:</strong> Pitched as a model-for-a-day experience with a beauty service (make-up, hair or henna) described; it is not in the includes list, so confirm it is in your price."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for a milestone birthday or a solo splurge, because it is the only shoot here with two flying dresses, a desert set and RAW files in one package",
+    "skip_html": "if value matters: at €799 per person it costs more than the #3 desert shoot does for two people"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "Hotel pickup and drop-off, air-conditioned car, professional photographer, single or couples shoot, 2 flying dresses, about 10-second Instagram story video, 14 professionally edited pictures, all RAW files."
+     },
+     {
+      "q": "What is not included?",
+      "a": "Food and drinks."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €799 per person. The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "English, French, Spanish, Arabic."
+     }
+    ]
+   },
+   "price": {
+    "main": "€799",
+    "sub": "from, per person",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per person",
+      "price": "€799"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-flying-dress-photoshoot-experience-t402998/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Hotel pickup</b> included"
+    ],
+    "sublink": {
+     "url": "#8-floganza-flying-dress",
+     "text": "Read Review ↓"
+    }
+   },
+   "_photo_topup": {
+    "skip": "listing has only 8 photos (all used)"
+   }
+  },
+  {
+   "id": "card-9",
+   "cats": [
+    "couple",
+    "family",
+    "budget"
+   ],
+   "gallery": {
+    "rank": {
+     "text": "💍 #9 Best for Proposals",
+     "medal": "bpa-accent"
+    },
+    "photos": [
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "/assets/best-photoshoot-dubai/09-proposal-01.avif"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-02.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-03.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-04.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-05.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-06.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-07.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-08.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-09.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ],
+     [
+      [
+       "alt",
+       "Dubai Private Photoshoot"
+      ],
+      [
+       "data-src",
+       "/assets/best-photoshoot-dubai/09-proposal-10.avif"
+      ],
+      [
+       "decoding",
+       "async"
+      ],
+      [
+       "height",
+       "500"
+      ],
+      [
+       "loading",
+       "lazy"
+      ],
+      [
+       "sizes",
+       "(max-width: 767px) 420px, (max-width: 991px) 55vw, (max-width: 1439px) 49vw, 50vw"
+      ],
+      [
+       "src",
+       "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'%3E%3C/svg%3E"
+      ],
+      [
+       "width",
+       "800"
+      ]
+     ]
+    ],
+    "thumbs": [
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-01-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-02-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-03-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-04-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-05-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-06-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-07-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-08-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-09-t.avif"
+     },
+     {
+      "src": "/assets/best-photoshoot-dubai/09-proposal-10-t.avif"
+     }
+    ]
+   },
+   "kicker": [
+    "Santorini Personal Photographer",
+    "⏱️ 1 hour",
+    {
+     "url": "https://maps.google.com/?q=Wings+of+Mexico+Dubai",
+     "rel": "noopener noreferrer",
+     "target": "_blank",
+     "onclick": "event.stopPropagation()",
+     "map": "📍 Downtown Dubai"
+    }
+   ],
+   "title": {
+    "url": "https://www.getyourguide.com/dubai-l173/dubai-proposal-photoshoot-t547471/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+    "rel": "noopener nofollow sponsored",
+    "target": "_blank",
+    "text": "Dubai Private Photoshoot"
+   },
+   "reviews": {
+    "ratings": {
+     "stars": "5.00",
+     "score": "5.0",
+     "meta": "1 reviews · 1 site",
+     "heading": "Rating on GetYourGuide",
+     "sites": [
+      {
+       "kind": "link",
+       "site": "GetYourGuide",
+       "score": "5.0",
+       "count": "(1)",
+       "url": "https://www.getyourguide.com/dubai-l173/dubai-proposal-photoshoot-t547471/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+       "rel": "noopener nofollow sponsored",
+       "target": "_blank"
+      }
+     ]
+    }
+   },
+   "pills": [
+    {
+     "cls": "bpa-lang",
+     "emoji": "🕒",
+     "label": "1 hour, flexible",
+     "pop_html": "<strong>Timing:</strong> A 1-hour session; the time is set together with you, which helps when you are planning a surprise."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🗣️",
+     "label": "Arabic, English",
+     "pop_html": "<strong>Languages:</strong> Arabic or English, with full posing support."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "♿",
+     "label": "Wheelchair-accessible",
+     "pop_html": "<strong>Access &amp; kids:</strong> Wheelchair-accessible and priced per group of up to 10."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🤫",
+     "label": "Hidden photographer",
+     "pop_html": "<strong>Proposals:</strong> The photographer arrives before the proposal, hides, and steps out to catch the moment and the after-yes portraits."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "📸",
+     "label": "50 edited photos",
+     "pop_html": "<strong>Photos:</strong> 50 professionally edited high-resolution photos."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "➕",
+     "label": "Videos extra",
+     "pop_html": "<strong>Add-ons:</strong> Two mini videos for social media and hair and make-up are available at extra charge."
+    },
+    {
+     "cls": "bpa-lang",
+     "emoji": "🌆",
+     "label": "Downtown glamour",
+     "pop_html": "<strong>Vibe:</strong> Burj Khalifa views and sleek urban backdrops around Wings of Mexico; the photographer also suggests hidden spots."
+    }
+   ],
+   "best_for": {
+    "pick_html": "for anyone planning a proposal by the Burj Khalifa, because the photographer hides until the moment and you get 50 edited photos for €130",
+    "skip_html": "if you want a long track record: this listing has only one review so far"
+   },
+   "faq": {
+    "items": [
+     {
+      "q": "What is included?",
+      "a": "50 professionally edited high-resolution photos, professional photographer, private shoot with full posing support, flexible scheduling."
+     },
+     {
+      "q": "What is the cancellation policy?",
+      "a": "Free cancellation up to 24 hours before."
+     },
+     {
+      "q": "Where does it start?",
+      "a": "Wings of Mexico Statue, Sheikh Mohammed bin Rashid Blvd, Downtown Dubai."
+     },
+     {
+      "q": "How much does it cost?",
+      "a": "From €130 per group (up to 10). The final price for your date is shown before you pay."
+     },
+     {
+      "q": "Which languages are offered?",
+      "a": "Arabic, English."
+     }
+    ]
+   },
+   "price": {
+    "main": "€130",
+    "sub": "from, per group (up to 10)",
+    "_heading": "Price",
+    "rows": [
+     {
+      "label": "Starting price",
+      "small": "per group (up to 10)",
+      "price": "€130"
+     }
+    ],
+    "note": "The price depends on the date and the option you pick. Final price shown before you pay."
+   },
+   "cta": {
+    "btn": {
+     "url": "https://www.getyourguide.com/dubai-l173/dubai-proposal-photoshoot-t547471/?partner_id=AJ9XADG&utm_medium=online_publisher&cmp=photoshoot_dubai&mkt_cmp=true",
+     "rel": "noopener nofollow sponsored",
+     "target": "_blank",
+     "text": "Check Availability →"
+    },
+    "via": "Booked securely via GetYourGuide",
+    "trust": [
+     "<b>Free cancellation</b> up to 24 hours before",
+     "<b>Reserve now, pay later</b>",
+     "<b>Wheelchair-accessible</b>"
+    ],
+    "sublink": {
+     "url": "#9-proposal-photoshoot",
+     "text": "Read Review ↓"
+    }
+   }
+  }
+ ]
+}
